@@ -4,7 +4,7 @@ An AI-powered pitch deck analysis system that parses startup pitch decks (PDF), 
 
 ---
 
-## 🌟 Architecture & Features
+## Architecture & Features
 
 The project is structured into two main stages:
 
@@ -21,7 +21,7 @@ The project is structured into two main stages:
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 
 ```text
 ├── .env.example                  # Environment variables template
@@ -44,7 +44,7 @@ The project is structured into two main stages:
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 ### 1. Prerequisites
 
@@ -86,7 +86,7 @@ GEMINI_API_KEY=your_actual_gemini_api_key
 
 ---
 
-## 💻 Usage
+## Usage
 
 ### Stage 1: Preprocess Pitch Decks
 Place your pitch deck PDF into `preprocessing/pitch_decks/`, then run:
@@ -108,6 +108,6 @@ Ask questions such as:
 
 ---
 
-## 🛡️ License
+## License
 
 This project is open source and available under the [MIT License](LICENSE).
