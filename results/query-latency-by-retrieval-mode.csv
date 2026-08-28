@@ -1,0 +1,6 @@
+retriever,p50_ms,p95_ms,queries
+dense,6.8,8.5,72
+bm25,0.3,0.6,72
+hybrid,7.7,10.6,72
+dense+rerank,291.9,735.3,72
+hybrid+rerank,321.4,736.9,72

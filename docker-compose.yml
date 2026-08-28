@@ -1,0 +1,40 @@
+# Both services run the same image; only the entrypoint differs. The UI holds no
+# pipeline code, so there is nothing for a second image to contain.
+
+services:
+  api:
+    build:
+      context: .
+      target: runtime
+    image: pitchlens:latest
+    environment:
+      GEMINI_API_KEY: ${GEMINI_API_KEY:?set GEMINI_API_KEY in .env}
+    ports:
+      - "8000:8000"
+    volumes:
+      # Decks, extracted documents and the FAISS index survive container
+      # replacement; re-ingesting a deck costs one vision call per slide.
+      - ./data:/app/data
+    restart: unless-stopped
+
+  ui:
+    image: pitchlens:latest
+    command:
+      - streamlit
+      - run
+      - app.py
+      - --server.port=8501
+      - --server.address=0.0.0.0
+      - --server.headless=true
+    environment:
+      API_URL: http://api:8000
+    ports:
+      - "8501:8501"
+    depends_on:
+      api:
+        condition: service_healthy
+    # The image's healthcheck probes the API port, which this container does not
+    # serve.
+    healthcheck:
+      disable: true
+    restart: unless-stopped

@@ -1,0 +1,2 @@
+calls,failures,fallbacks,wall_seconds,models_used
+45,12,45,67.7,"gemini-3.5-flash-litex13, gemini-3.1-flash-litex16, gemini-flash-lite-latestx16"

@@ -28,3 +28,11 @@ Thumbs.db
 
 # Logs and checkpoints
 *.log
+
+# PitchLens artifacts.
+# Decks are 67MB of third-party PDFs and the index is a rebuildable binary.
+# results/ and data/eval/ ARE tracked on purpose: they are the evidence for the
+# numbers in the README, and the eval set is hand-curated ground truth.
+data/decks/
+data/documents/
+data/indices/

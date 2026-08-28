@@ -1,0 +1,3 @@
+system,correct_pct,partially_correct_pct,hallucination_pct,faithfulness_pct,abstention_rate,mean_latency_s,queries,errors
+baseline[hybrid+rerank],90.9090909090909,0.0,0.0,100.0,0.0,2.8679977545451205,12,1
+corrective[hybrid+rerank],100.0,0.0,0.0,100.0,0.0,3.576772857145573,12,5

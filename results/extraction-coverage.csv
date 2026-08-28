@@ -1,0 +1,3 @@
+extractor,decks_usable,pct_decks,pages_readable
+text-only,4/19,21.1,153
+adaptive (text + vision),19/19,100.0,440
