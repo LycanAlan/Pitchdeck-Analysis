@@ -38,10 +38,16 @@ from pitchlens.retrieval.factory import RetrieverFactory
 INDEX_NAME = "corpus"
 
 # Read off the factory rather than restated, so the UI's ablation selector can
-# never drift from the strategies that actually exist.
-RETRIEVAL_MODES = RetrieverFactory.MODES
+# never drift from the strategies that actually exist. Cross-encoder modes are
+# withheld where the instance cannot afford the model (see
+# RetrievalConfig.rerank_enabled), so the service advertises only what it can
+# actually serve.
+RETRIEVAL_MODES = tuple(
+    m for m in RetrieverFactory.MODES
+    if settings.retrieval.rerank_enabled or not m.endswith("+rerank")
+)
 
-DEFAULT_MODE = "hybrid+rerank"
+DEFAULT_MODE = "hybrid+rerank" if settings.retrieval.rerank_enabled else "hybrid"
 
 
 def _discard(path: Path) -> None:
@@ -269,6 +275,15 @@ def get_service(request: Request) -> RagService:
     return request.app.state.service
 
 
+def _check_mode(mode: str) -> None:
+    if mode not in RETRIEVAL_MODES:
+        raise HTTPException(
+            400,
+            f"Unknown or unavailable retrieval mode {mode!r}. Available: {list(RETRIEVAL_MODES)}."
+            + ("" if settings.retrieval.rerank_enabled else " Cross-encoder modes are disabled on this instance."),
+        )
+
+
 Service = Annotated[RagService, Depends(get_service)]
 
 
@@ -299,6 +314,7 @@ def search(request: SearchRequest, service: Service) -> list[SearchHit]:
     """
     if not service.ready:
         raise HTTPException(409, "No decks ingested yet. POST a PDF to /ingest first.")
+    _check_mode(request.mode)
     return [SearchHit.from_scored(s) for s in service.search(request.query, request.mode, request.k)]
 
 
@@ -308,6 +324,7 @@ def query(request: QueryRequest, service: Service) -> QueryResponse:
     worker threadpool instead of stalling the event loop."""
     if not service.ready:
         raise HTTPException(409, "No decks ingested yet. POST a PDF to /ingest first.")
+    _check_mode(request.mode)
     if service.llm is None:
         raise HTTPException(
             503,

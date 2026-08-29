@@ -12,6 +12,14 @@ from .base import Retriever, RetrieverDecorator
 if TYPE_CHECKING:
     from fastembed.rerank.cross_encoder import TextCrossEncoder
 
+# ONNX Runtime sizes its allocation arena to the largest batch it is handed, and
+# a batch is padded to its longest member. Scoring twelve full slide transcripts
+# in one go peaked near 760 MB, which is fatal in a 512 MB container. Small
+# batches of truncated text cost nothing in quality -- this cross-encoder
+# truncates at 512 tokens regardless, so the tail was never being read.
+_BATCH = 4
+_MAX_CHARS = 2000
+
 
 @lru_cache(maxsize=None)
 def get_cross_encoder(model_name: str = settings.models.cross_encoder) -> TextCrossEncoder:
@@ -24,7 +32,10 @@ def get_cross_encoder(model_name: str = settings.models.cross_encoder) -> TextCr
     """
     from fastembed.rerank.cross_encoder import TextCrossEncoder
 
-    return TextCrossEncoder(model_name)
+    # One ONNX thread: extra threads each carry their own allocation arena, which
+    # buys nothing on a 0.1-CPU instance and costs memory the container does not
+    # have.
+    return TextCrossEncoder(model_name, threads=1)
 
 
 class RerankDecorator(RetrieverDecorator):
@@ -56,7 +67,9 @@ class RerankDecorator(RetrieverDecorator):
             return []
 
         scores = get_cross_encoder(self.model_name).rerank(
-            query, [scored.chunk.text for scored in pool]
+            query,
+            [scored.chunk.text[:_MAX_CHARS] for scored in pool],
+            batch_size=_BATCH,
         )
         ranked = sorted(zip(pool, scores), key=lambda pair: pair[1], reverse=True)[:k]
         return [ScoredChunk(scored.chunk, float(score)) for scored, score in ranked]

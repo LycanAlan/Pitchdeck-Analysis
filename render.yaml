@@ -24,6 +24,13 @@ services:
         value: "1"
       - key: TOKENIZERS_PARALLELISM
         value: "false"
+      # The cross-encoder needs ~250 MB on top of the ~290 MB baseline and does
+      # not fit here — an earlier deploy was OOM-killed proving it. The instance
+      # serves `hybrid` (recall@3 0.892 at 14 ms) and advertises only the modes
+      # it can actually run. Re-ranking stays available locally, which is where
+      # the ablation is measured.
+      - key: PITCHLENS_RERANK
+        value: "0"
 
   # - type: web
   #   name: pitchlens-ui

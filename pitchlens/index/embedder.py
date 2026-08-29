@@ -20,7 +20,11 @@ from ..config import settings
 class Embedder:
     """Encodes text to L2-normalised float32 vectors."""
 
-    def __init__(self, model_name: str = settings.models.embedding, batch_size: int = 64):
+    # Batch size trades throughput for peak memory. ONNX Runtime sizes its arena
+    # to the largest batch it sees, and 64 pushed a full-corpus build past a
+    # 512 MB container. 16 keeps the peak survivable at negligible cost, since
+    # serving embeds one query at a time anyway.
+    def __init__(self, model_name: str = settings.models.embedding, batch_size: int = 16):
         self.name = model_name
         self._batch_size = batch_size
         self._model = TextEmbedding(model_name)

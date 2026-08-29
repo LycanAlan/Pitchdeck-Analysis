@@ -62,6 +62,18 @@ class RetrievalConfig:
     rrf_k: int = 60  # reciprocal-rank-fusion damping constant
     eval_k_values: tuple[int, ...] = (1, 3, 5, 10)
 
+    @property
+    def rerank_enabled(self) -> bool:
+        """Whether the service may offer cross-encoder modes.
+
+        The cross-encoder needs roughly 250 MB on top of the ~290 MB the rest of
+        the service occupies, so it does not fit a 512 MB container -- measured,
+        after one was OOM-killed. Deployments set PITCHLENS_RERANK=0 and serve
+        `hybrid` (recall@3 0.892 at 14 ms); everywhere else it stays on, which is
+        why the ablation still reports all five strategies.
+        """
+        return os.environ.get("PITCHLENS_RERANK", "1") != "0"
+
 
 @dataclass(frozen=True)
 class IngestConfig:

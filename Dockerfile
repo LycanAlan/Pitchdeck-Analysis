@@ -51,10 +51,25 @@ COPY app.py ./
 
 # The ingested corpus ships with the image. Without it a deployed container has
 # nothing to answer from, and re-ingesting on boot would cost hundreds of vision
-# calls. The FAISS index is deliberately NOT copied — it rebuilds from these
-# documents in ~4s at startup, which avoids serving a stale index.
+# calls.
 COPY data/documents/ ./data/documents/
 COPY data/eval/ ./data/eval/
+
+# Build the index HERE rather than on first boot. Embedding the whole corpus at
+# once peaks around 660 MB, which a 512 MB instance cannot survive -- the
+# container was OOM-killed during startup before this step existed. Build memory
+# is not subject to the runtime limit, so the container only ever takes the load
+# path (~200 MB). Building from the documents copied directly above also means
+# the index can never ship stale, which is why it is built rather than copied.
+RUN python -c "from pathlib import Path; \
+from pitchlens.config import settings; \
+from pitchlens.domain import DeckDocument; \
+from pitchlens.index.embedder import get_embedder; \
+from pitchlens.index.store import VectorIndex; \
+docs=[DeckDocument.load(p) for p in sorted(settings.paths.documents.glob('*.json'))]; \
+chunks=[c for d in docs for c in d.chunks()]; \
+VectorIndex.build(chunks, get_embedder()).save(settings.paths.indices / 'corpus'); \
+print(f'prebuilt index: {len(chunks)} chunks from {len(docs)} decks')"
 
 RUN useradd --create-home --uid 1000 pitchlens \
  && mkdir -p /app/data/indices /app/data/decks /app/results \
