@@ -21,13 +21,32 @@ from .config import settings
 
 _JSON_FENCE = re.compile(r"```(?:json)?\s*(.*?)\s*```", re.S)
 
-# Free-tier quota is granted per model per day, so a 429 means this model is done
-# for the run, not that the request should be retried.
-_TERMINAL = ("RESOURCE_EXHAUSTED", "429", "NOT_FOUND", "404", "PERMISSION_DENIED")
+# A retired model never comes back; neither does a rejected key.
+_TERMINAL = ("NOT_FOUND", "404", "PERMISSION_DENIED", "API_KEY_INVALID")
+
+_RETRY_DELAY = re.compile(r"retry in ([\d.]+)s")
 
 
 def _is_terminal(exc: Exception) -> bool:
-    return any(marker in str(exc) for marker in _TERMINAL)
+    """Whether this model should be dropped from the chain for the rest of the run.
+
+    A 429 is not automatically terminal, and treating it as such was costing far
+    more throughput than the quota itself: the free tier limits requests *per
+    minute* as well as per day, and a burst of concurrent calls trips the minute
+    limit immediately. Reading every 429 as "this model is finished" burned
+    through the whole chain in seconds over a limit that clears in under one.
+    Only a per-day exhaustion is genuinely terminal for the run.
+    """
+    text = str(exc)
+    if any(marker in text for marker in _TERMINAL):
+        return True
+    return "RESOURCE_EXHAUSTED" in text and "PerDay" in text
+
+
+def _retry_after(exc: Exception) -> float | None:
+    """Seconds the API asked us to wait, when it said."""
+    match = _RETRY_DELAY.search(str(exc))
+    return float(match.group(1)) if match else None
 
 
 @dataclass
@@ -71,7 +90,7 @@ class GeminiClient(LLMClient):
     `complete` walks the supplied chain and only raises if every model fails.
     """
 
-    def __init__(self, api_key: str | None = None, attempts_per_model: int = 2):
+    def __init__(self, api_key: str | None = None, attempts_per_model: int = 3):
         self._client = genai.Client(api_key=api_key or settings.api_key)
         self._attempts = attempts_per_model
         self._exhausted: set[str] = set()
@@ -102,14 +121,15 @@ class GeminiClient(LLMClient):
                 except Exception as exc:  # noqa: BLE001 - any failure moves us along the chain
                     last = exc
                     self.stats.failures += 1
-                    # Quota is per-model-per-day and a retired model never returns,
-                    # so both are terminal for this model: burning the retry budget
-                    # on them just delays reaching a model that can still answer.
                     if _is_terminal(exc):
                         self._exhausted.add(model)
                         break
                     if attempt + 1 < self._attempts:
-                        time.sleep(2**attempt)
+                        # Honour the server's own backoff when it gives one: a
+                        # per-minute limit clears on a schedule the API knows and
+                        # we do not.
+                        wait = _retry_after(exc)
+                        time.sleep(min(wait, 30) if wait else 2**attempt)
         raise RuntimeError(f"all models failed: {chain}") from last
 
 

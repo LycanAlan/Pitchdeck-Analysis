@@ -12,20 +12,21 @@ load_dotenv(override=True)
 
 ROOT = Path(__file__).resolve().parent.parent
 
-# Free-tier quota is granted per model per day (20 requests), so a model chain is
-# not merely failover for 503s — it is how the pipeline gets a workable budget at
-# all. GeminiClient drops a model permanently once it 429s, so listing many
-# same-tier models multiplies the throughput available in a single run.
+# Ordered by free-tier daily quota, not by capability. Measured from the 429
+# payloads: every full flash model allows 20 requests/day, while the flash-lite
+# family allows far more. Transcribing a slide is close to OCR, so lite is nearly
+# as good at it, and a chain that opens with the 20/day models exhausts itself on
+# a single medium deck. The chain is failover *and* budget.
 FLASH_CHAIN: tuple[str, ...] = (
+    "gemini-flash-lite-latest",
+    "gemini-3.5-flash-lite",
+    "gemini-3.1-flash-lite",
+    "gemini-3.1-flash-lite-preview",
     "gemini-3.6-flash",
     "gemini-3.5-flash",
     "gemini-3-flash-preview",
     "gemini-flash-latest",
     "gemini-3.7-flash",
-    "gemini-3.5-flash-lite",
-    "gemini-3.1-flash-lite",
-    "gemini-3.1-flash-lite-preview",
-    "gemini-flash-lite-latest",
 )
 
 
@@ -68,7 +69,9 @@ class IngestConfig:
     # A page with fewer than this many characters in its PDF text layer is
     # treated as image-only and routed to the vision extractor.
     text_layer_min_chars: int = 60
-    max_workers: int = 8
+    # Tuned to the free tier's per-minute limit rather than to the CPU: more
+    # concurrency just converts throughput into 429s and backoff.
+    max_workers: int = 4
 
 
 @dataclass(frozen=True)
