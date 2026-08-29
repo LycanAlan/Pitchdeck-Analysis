@@ -9,12 +9,17 @@ services:
     name: pitchlens-api
     runtime: docker
     dockerfilePath: ./Dockerfile
-    plan: starter          # free tier lacks the RAM for torch + the encoders
+    # Measured at 298 MB resident with the index and both ONNX models loaded,
+    # against the free tier's 512 MB. It only fits because embedding and
+    # re-ranking run on ONNX Runtime instead of PyTorch; the torch build measured
+    # 523 MB and would have been OOM-killed here.
+    plan: free
     healthCheckPath: /health
     envVars:
       - key: GEMINI_API_KEY
         sync: false        # set this in the Render dashboard, never in git
-      # Torch spawns one thread per core and thrashes on a small instance.
+      # The free instance is 0.1 CPU. Letting ONNX spawn a thread per core makes
+      # it thrash rather than go faster.
       - key: OMP_NUM_THREADS
         value: "1"
       - key: TOKENIZERS_PARALLELISM
@@ -24,7 +29,7 @@ services:
   #   name: pitchlens-ui
   #   runtime: docker
   #   dockerfilePath: ./Dockerfile
-  #   plan: starter
+  #   plan: free
   #   dockerCommand: streamlit run app.py --server.port $PORT --server.address 0.0.0.0
   #   envVars:
   #     - key: API_URL

@@ -2,7 +2,13 @@
 google-genai>=1.0.0
 langgraph>=0.2.60
 langchain-core>=0.3.0          # required by langgraph's runtime; no langchain chains are used
-sentence-transformers>=3.0.0
+
+# Embeddings and re-ranking run on ONNX Runtime, not PyTorch. Same MiniLM
+# weights and identical outputs (verified cosine 1.000000 against
+# sentence-transformers), but ~298 MB resident instead of ~523 MB, which is what
+# keeps the service inside a 512 MB free-tier container. Dropping torch also
+# removes roughly 2 GB from the install.
+fastembed>=0.4.0
 
 # Retrieval
 faiss-cpu>=1.8.0

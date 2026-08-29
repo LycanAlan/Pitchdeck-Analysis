@@ -47,8 +47,11 @@ class ModelConfig:
     # pro models are exhausted, which is recorded in the run's LLM usage table.
     judge: tuple[str, ...] = ("gemini-3.1-pro-preview", "gemini-pro-latest") + FLASH_CHAIN
 
+    # Both run through ONNX Runtime rather than PyTorch. Same weights, same
+    # outputs (embeddings match torch to float32 precision), roughly a third of
+    # the memory -- which is what lets the service run on a 512 MB free tier.
     embedding: str = "sentence-transformers/all-MiniLM-L6-v2"
-    cross_encoder: str = "cross-encoder/ms-marco-MiniLM-L-6-v2"
+    cross_encoder: str = "Xenova/ms-marco-MiniLM-L-6-v2"
 
 
 @dataclass(frozen=True)

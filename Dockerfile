@@ -14,10 +14,6 @@ RUN apt-get update \
 RUN python -m venv /opt/venv
 ENV PATH="/opt/venv/bin:$PATH"
 
-# CPU-only torch first: sentence-transformers would otherwise pull the CUDA
-# build and add roughly 2 GB of unusable GPU libraries to the image.
-RUN pip install --index-url https://download.pytorch.org/whl/cpu torch
-
 COPY requirements.txt .
 RUN pip install -r requirements.txt
 
@@ -28,7 +24,9 @@ ENV PYTHONUNBUFFERED=1 \
     PYTHONDONTWRITEBYTECODE=1 \
     PATH="/opt/venv/bin:$PATH" \
     HF_HOME=/opt/models \
-    TOKENIZERS_PARALLELISM=false
+    FASTEMBED_CACHE_PATH=/opt/models/fastembed \
+    TOKENIZERS_PARALLELISM=false \
+    OMP_NUM_THREADS=1
 
 RUN apt-get update \
  && apt-get install -y --no-install-recommends libgomp1 \
@@ -42,9 +40,10 @@ WORKDIR /app
 # they are declared, and so editing application code does not re-download them.
 COPY pitchlens/ ./pitchlens/
 RUN python -c "from pitchlens.config import settings; \
-from sentence_transformers import SentenceTransformer, CrossEncoder; \
-SentenceTransformer(settings.models.embedding); \
-CrossEncoder(settings.models.cross_encoder)"
+from fastembed import TextEmbedding; \
+from fastembed.rerank.cross_encoder import TextCrossEncoder; \
+TextEmbedding(settings.models.embedding); \
+TextCrossEncoder(settings.models.cross_encoder)"
 
 COPY api/ ./api/
 COPY scripts/ ./scripts/

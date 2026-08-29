@@ -27,13 +27,16 @@ All numbers are reproducible with the scripts in [`scripts/`](scripts/). The ret
 
 72 human-curated questions with slide-level ground truth, over 8 ingested decks / 197 slides / 286 chunks. Unanswerable questions are excluded from ranking metrics and counted separately.
 
-| retriever | recall@3 | recall@5 | MRR | nDCG@5 | p50 latency |
+| retriever | recall@3 | recall@5 | MRR | nDCG@5 | median latency |
 | :--- | ---: | ---: | ---: | ---: | ---: |
-| dense (MiniLM + FAISS) | 0.777 | 0.846 | 0.731 | 0.750 | 22 ms |
-| bm25 | 0.869 | 0.923 | 0.814 | 0.829 | 0.9 ms |
-| hybrid (RRF fusion) | 0.892 | 0.931 | 0.882 | 0.879 | 24 ms |
-| dense + cross-encoder | 0.908 | 0.923 | 0.894 | 0.893 | 815 ms |
-| **hybrid + cross-encoder** | **0.954** | **0.969** | **0.917** | **0.924** | 901 ms |
+| dense (MiniLM + FAISS) | 0.777 | 0.846 | 0.731 | 0.750 | 14 ms |
+| bm25 | 0.869 | 0.923 | 0.814 | 0.829 | 0.5 ms |
+| hybrid (RRF fusion) | 0.892 | 0.931 | 0.882 | 0.879 | 14 ms |
+| dense + cross-encoder | 0.908 | 0.923 | 0.894 | 0.893 | 754 ms |
+| **hybrid + cross-encoder** | **0.954** | **0.969** | **0.917** | **0.924** | 2023 ms |
+
+Ranking metrics are identical on the PyTorch and ONNX backends (embeddings match
+to float32 precision); latency above is the shipped ONNX stack.
 
 **Recall@3 rises from 0.777 to 0.954 (+17.7 points, +22.8% relative) and MRR from 0.731 to 0.917 (+25.4%).**
 
@@ -41,7 +44,7 @@ Three findings worth stating plainly:
 
 - **BM25 alone beats dense embeddings on this corpus** (recall@3 0.869 vs 0.777). Pitch decks are dense with proper nouns and figures — `₹11.5 Cr`, `VizSort-M`, `$8.9B`, `Q4 2024` — precisely where lexical matching wins and a 384-dim sentence embedding blurs. Fusing the two beats either alone.
 - **The top result is stable as the corpus grows.** Measured first over 5 decks / 212 chunks and then over 8 decks / 286 chunks — a 35% larger haystack against the same 72 questions — `hybrid+rerank` held at recall@3 0.954 and MRR 0.917 while dense-only drifted down. Retrieval quality that survives a corpus change is worth more than a higher number on a fixed one.
-- **Re-ranking costs ~38× the latency for +6 points of recall@3** (24 ms → 901 ms), and that gap widens as the corpus grows because the cross-encoder scores a larger candidate pool. Whether the trade is worth it is a product decision; the table is what makes it a decision rather than a guess.
+- **Re-ranking costs ~145× the latency for +6 points of recall@3** (14 ms → 2023 ms on the ONNX stack; it was ~38× on torch). That gap also widens as the corpus grows, because the cross-encoder scores a larger candidate pool. Whether the trade is worth it is a product decision — `hybrid` alone is already 0.892 at 14 ms — and the table is what makes it a decision rather than a guess.
 
 `python scripts/measure_retrieval.py` — offline.
 
@@ -65,6 +68,18 @@ The original implementation rebuilt the FAISS index on every process start and n
 > **Not yet resume-grade.** n=12, and the free-tier quota exhausted mid-run: the baseline completed 11 of 12 questions and the corrective agent only 7 (\*hence its 100%). The judge also fell back from the `gemini-3.1-pro` tier into flash, so the "stronger, different judge family" property did not hold for this run. Re-run with quota available:
 > `python scripts/measure_answers.py`
 
+What the corrective loop actually buys, on a query the one-shot arm fails — bare acronyms are the weak spot, because neither BM25 nor a sentence embedding connects `TAM` to the words on the slide:
+
+| | baseline | corrective agent |
+| :--- | :--- | :--- |
+| question | *What is SensoVision TAM?* | *(same)* |
+| retrieved slides | 1, 17, 9, 4 | **3** |
+| rounds | 1 | 2 |
+| rewritten query | — | `SensoVision TAM Total Addressable Market market size market opportunity` |
+| answer | "I cannot find the answer in the provided context." | **"$8.7B for the Global AI Vision Market" (slide 3)** |
+
+The baseline abstains rather than inventing a number, which is the intended behaviour; the agent grades its own context as insufficient, expands the acronym, and retrieves again.
+
 ---
 
 ## Architecture
@@ -79,7 +94,7 @@ pitchlens/
     analyzer.py        Structured slide summarisation.
     pipeline.py        PDF -> DeckDocument, resumable.
   index/
-    embedder.py        Cached sentence-transformers singleton.
+    embedder.py        Cached ONNX MiniLM singleton.
     store.py           FAISS index with fingerprinted persistence.
   retrieval/
     base.py            Retriever ABC + decorator base.
@@ -103,6 +118,8 @@ Three design decisions carry most of the weight:
 **`Retriever` is one interface.** Dense, sparse, fused and re-ranked strategies all satisfy it, and `RerankDecorator` wraps *any* retriever rather than subclassing each combination. The evaluation harness holds a `Retriever` and never learns which one it has — which is why the ablation table is a single loop over `RetrieverFactory.MODES` and adding a strategy adds zero branches anywhere else.
 
 **`RAGPipeline` is one interface.** `Answerer` and `CorrectiveRAGAgent` share `answer(question) -> Answer` and a `name`, so the harness and the API swap arms without a conditional.
+
+**Embedding and re-ranking run on ONNX Runtime, not PyTorch.** Same weights, outputs identical to float32 precision, ~298 MB resident instead of ~523 MB. That is what lets the whole service run on a free 512 MB container.
 
 **Every model call goes through `GeminiClient`.** Free-tier quota is granted *per model per day*, and the endpoint returns 503 and 404 unpredictably, so the client walks a chain of models and permanently drops one that 429s or 404s. Chain-walking is not just failover here — it is how the pipeline gets a usable budget at all.
 
@@ -131,6 +148,31 @@ uvicorn api.main:app --reload      # http://localhost:8000/docs
 streamlit run app.py               # thin client over the API
 docker compose up                  # both
 ```
+
+### Deploying on a free tier
+
+Embedding and re-ranking run on **ONNX Runtime rather than PyTorch**. Same MiniLM
+weights, outputs identical to float32 precision (verified cosine `1.000000`
+against sentence-transformers, and every metric in the ablation above is
+unchanged) — but the resident set is a third the size:
+
+| stack | resident | fits Render free (512 MB)? |
+| :--- | ---: | :--- |
+| torch + sentence-transformers | 523 MB | no — OOM |
+| **ONNX Runtime** | **298 MB** | yes, 214 MB headroom |
+
+Torch alone cost 182 MB on import and another 272 MB once MiniLM loaded, for
+models that are ~90 MB each. Dropping it also removes roughly 2 GB from the
+install and shrinks the image.
+
+`render.yaml` is a Blueprint: point Render at the repo, set `GEMINI_API_KEY` in
+the dashboard, deploy. `plan: free` — no card required. Free instances sleep
+after 15 minutes idle and take ~1 minute to wake, which is fine for a demo.
+
+The trade: ONNX re-ranking is slower than torch on this hardware (p50 901 ms →
+2023 ms for `hybrid+rerank`). Memory was the binding constraint, not latency, so
+that is the right side of the trade here — and `hybrid` without re-ranking is
+14 ms at recall@3 0.892 if latency matters more than the last 6 points.
 
 `scripts/ingest_corpus.py --text-only` disables vision entirely — that is the baseline extractor from the coverage table, runnable as a real pipeline rather than a hypothetical.
 
