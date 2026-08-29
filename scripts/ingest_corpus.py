@@ -66,6 +66,11 @@ def collect_tables(
         step(f"[{position}/{len(pdfs)}] {pdf.stem}: ingesting")
         with failures.guard(pdf.stem), Stopwatch() as watch:
             document = pipeline.ingest(pdf, analyze=analyze, vision=vision)
+            # Never persist a deck that extracted nothing: `--skip-existing` and
+            # ingest_all both key off the file existing, so an empty save would
+            # make the deck permanently unretryable.
+            if not document.chunks():
+                raise RuntimeError("every page failed to extract; not saved so it can be retried")
             document.save(target)
             rows.append((document, watch.seconds, False))
             step(

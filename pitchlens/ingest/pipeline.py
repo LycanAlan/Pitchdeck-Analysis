@@ -65,6 +65,15 @@ class IngestionPipeline:
                 self.route_stats[deck.name] = RouteStats.from_slides(deck.slides)
             else:
                 deck = self.ingest(pdf_path, analyze=analyze, vision=vision)
+                # A deck that yielded no chunks read nothing at all — every page
+                # failed, almost always because the vision quota ran out. Saving
+                # it would be worse than failing: the existence check above would
+                # skip it on every future run, so the deck could never recover.
+                if not deck.chunks():
+                    raise RuntimeError(
+                        f"{pdf_path.stem}: every page failed to extract; not saved so a "
+                        f"later run can retry it"
+                    )
                 deck.save(out_path)
             decks.append(deck)
         return decks
