@@ -1,0 +1,294 @@
+{
+  "name": "Nium_replica",
+  "slides": [
+    {
+      "slide": 1,
+      "mode": "text_layer",
+      "transcript": "NIUM\nConnecting the World to a\nModern Payments\nInfrastructure with one API\nJuly 2021\nN\nN\nN\n3/21/25, 10:56 AM\nNium Presentation\nfile:///Users/annicai/Downloads/nium-presentation.html\n1/22",
+      "section": "Title",
+      "summary": "This title slide introduces NIUM and its core positioning of connecting the world to modern payments infrastructure through a single API. The presentation is dated July 2021.",
+      "key_points": [
+        "Company name: NIUM",
+        "Tagline: Connecting the World to a Modern Payments Infrastructure with one API",
+        "Presentation date: July 2021"
+      ]
+    },
+    {
+      "slide": 2,
+      "mode": "text_layer",
+      "transcript": "Nium Unlocks Access to the\nWorld's Payment Infrastructure in One API\n🏦\nPayouts in 100 countries\n🌐\nLicensed in 11 jurisdictions\n💳\nCard Issuance in 40 countries\nand 24 currencies\n📦\nModern suite of composable APIs\n🔒\n3/21/25, 10:56 AM\nNium Presentation\nfile:///Users/annicai/Downloads/nium-presentation.html\n2/22",
+      "section": "Solution",
+      "summary": "This slide presents the company's core product solution, highlighting global payment infrastructure capabilities accessible via a single API. It emphasizes worldwide reach through payouts, card issuance, licenses, and a suite of composable APIs.",
+      "key_points": [
+        "Payouts in 100 countries",
+        "Licensed in 11 jurisdictions",
+        "Card Issuance in 40 countries and 24 currencies",
+        "Modern suite of composable APIs"
+      ]
+    },
+    {
+      "slide": 3,
+      "mode": "text_layer",
+      "transcript": "3/21/25, 10:56 AM\nNium Presentation\nfile:///Users/annicai/Downloads/nium-presentation.html\n3/22",
+      "section": "Other",
+      "summary": "This slide contains browser metadata for the Nium Presentation including a date stamp, document title, file path, and page number. It contains no substantive business or pitch content.",
+      "key_points": [
+        "Timestamp: 3/21/25, 10:56 AM",
+        "Presentation Title: Nium Presentation",
+        "File URL: file:///Users/annicai/Downloads/nium-presentation.html",
+        "Slide number: 3/22"
+      ]
+    },
+    {
+      "slide": 4,
+      "mode": "text_layer",
+      "transcript": "We are at Scale\n$8bn+\nvolume processed\nannually\n$XX\nDec-21 run-rate net\nrevenue\n30m\ntotal virtual cards issue\n11\nJurisdiction licenses\n200+\nclients globally\n100+\ncountries & territories\n600+\nColleagues\n130m+\nEnd customers\n$XX\nCapital raised (1)\nNote: Pro-forma financials for the combination of Ixaris and NIUM shown from January 2021 onwards\n(1) Series D being closed by July 2021\n3/21/25, 10:56 AM\nNium Presentation\nfile:///Users/annicai/Downloads/nium-presentation.html\n4/22",
+      "section": "Traction",
+      "summary": "Nium demonstrates its operational scale and market reach following the pro-forma combination of Ixaris and NIUM from January 2021 onwards. The slide outlines key traction metrics including payment processing volume, customer reach, licensing, and capital raised ahead of its Series D closure.",
+      "key_points": [
+        "$8bn+ volume processed annually across 100+ countries & territories",
+        "Holds 11 jurisdiction licenses and serves 200+ clients globally",
+        "Reaches 130m+ end customers with 30m total virtual cards issued",
+        "Backed by 600+ colleagues, reporting $XX Dec-21 run-rate net revenue and $XX capital raised",
+        "Includes pro-forma financials for Ixaris and NIUM, with Series D closing by July 2021"
+      ]
+    },
+    {
+      "slide": 5,
+      "mode": "text_layer",
+      "transcript": "3/21/25, 10:56 AM\nNium Presentation\nfile:///Users/annicai/Downloads/nium-presentation.html\n5/22",
+      "section": "Other",
+      "summary": "This slide serves as a slide deck metadata and navigation page, displaying the presentation date, file source, and page number.",
+      "key_points": [
+        "Date: 3/21/25, 10:56 AM",
+        "Presentation Title: Nium Presentation",
+        "File Source: file:///Users/annicai/Downloads/nium-presentation.html",
+        "Page Number: 5/22"
+      ]
+    },
+    {
+      "slide": 6,
+      "mode": "text_layer",
+      "transcript": "NIUM is the market leader in embedded FinTech solutions\nNIUM\n🏦\nPay-out\nBank transfers, wallets, VISA direct, cash\n🌐\nIssuance\nCard issuing, card processing, Card less cash withdrawal\n💳\nPay-in\nBank transfers, cards, wallets, cash\n👥\nReporting / Compliance as a service\nGlobal account ledger system, KYC, KYB, FX and hedging\nFinTech companies & PSPs\nEstablished banks\nCorporates launching digital Financial Services offerings\nWe enable any company or bank to launch or optimize their international Fintech journey by\nleveraging our next-generation, all encompassing platform\nWe embed our global products...\n... into each of our client's systems\n3/21/25, 10:56 AM\nNium Presentation\nfile:///Users/annicai/Downloads/nium-presentation.html\n6/22",
+      "section": "Product",
+      "summary": "NIUM presents its all-encompassing embedded FinTech platform designed to enable banks, fintechs, and corporates to launch or optimize international financial services offerings. The slide details its global product suite spanning Pay-out, Issuance, Pay-in, and Reporting/Compliance as a service integrated directly into client systems.",
+      "key_points": [
+        "Positions NIUM as the market leader in embedded FinTech solutions",
+        "Offers product modules for Pay-out, Issuance, Pay-in, and Reporting / Compliance as a service",
+        "Provides capabilities including KYC, KYB, FX and hedging, global account ledger, and card issuing/processing",
+        "Targets FinTech companies & PSPs, established banks, and corporates launching digital financial services",
+        "Embeds its global products directly into each client's systems"
+      ]
+    },
+    {
+      "slide": 7,
+      "mode": "text_layer",
+      "transcript": "3/21/25, 10:56 AM\nNium Presentation\nfile:///Users/annicai/Downloads/nium-presentation.html\n7/22",
+      "section": "Other",
+      "summary": "This slide contains only presentation file metadata and page navigation details for slide 7 of 22, with no substantive pitch content provided.",
+      "key_points": [
+        "Slide number: 7/22",
+        "Presentation title: Nium Presentation",
+        "Timestamp: 3/21/25, 10:56 AM"
+      ]
+    },
+    {
+      "slide": 8,
+      "mode": "text_layer",
+      "transcript": "We don't aggregate networks – we built and own our own through\nextensive licensing\nUSA\nMoney Transmitter Licenses\nIndia\nFacilitation of Overseas Remittances\nCanada\nMoney Services Business (MSB)\nHong Kong\nLicense for Operating Money Services\nEU and UK\nElectronic Money Institution License\nVisa card issuing license\nJapan\nRemittance License (FTSP)\nMalaysia\nUpgrading to EMI from Class B Money Transfer Business\nLicense\nSingapore\nUpgraded to MPI from Remittance & SVF. Visa card\nissuing license\n3/21/25, 10:56 AM\nNium Presentation\nfile:///Users/annicai/Downloads/nium-presentation.html\n8/22",
+      "section": "Product",
+      "summary": "Nium presents its proprietary global network infrastructure, highlighting that it owns its network through direct licensing rather than aggregating third-party networks. The slide outlines its regulatory approvals and licenses across major global markets including North America, Europe, the UK, Asia-Pacific, and South Asia.",
+      "key_points": [
+        "Builds and owns its network through extensive global licensing rather than aggregating networks",
+        "Holds Money Transmitter Licenses in the USA, MSB in Canada, and FTSP Remittance License in Japan",
+        "Holds Electronic Money Institution License and Visa card issuing license in the EU and UK",
+        "Upgraded to MPI from Remittance & SVF in Singapore, alongside a Visa card issuing license",
+        "Upgrading to EMI from Class B Money Transfer Business License in Malaysia, alongside licenses in India and Hong Kong"
+      ]
+    },
+    {
+      "slide": 9,
+      "mode": "text_layer",
+      "transcript": "Indonesia\nRemittance License\n3/21/25, 10:56 AM\nNium Presentation\nfile:///Users/annicai/Downloads/nium-presentation.html\n9/22",
+      "section": "Traction",
+      "summary": "This slide outlines regulatory progress regarding an Indonesia Remittance License, presented as part of the company's operational milestones.",
+      "key_points": [
+        "Indonesia Remittance License"
+      ]
+    },
+    {
+      "slide": 10,
+      "mode": "text_layer",
+      "transcript": "(1) Unlock multiple markets across the globe using the same model\nAMERICAS\n✓Anguilla\n✓Antigua\n✓Argentina\n✓Aruba\n✓Bahamas\n✓Barbados\n✓Belize\n✓Bermuda\n✓Bolivia\n✓Brazil\nEUROPE\n✓Andorra\n✓Austria\n✓Belgium\n✓Bulgaria\n✓Croatia\n✓Cyprus\n✓Czech Rep.\n✓Denmark\n✓Estonia\n✓Finland\n✓France\n✓Germany\n✓Greece\n✓Hungary\n✓Iceland\nLegend\n✓Pay-Out\n↓Pay-In\n☐Card issuance\nReal-time send (bank payments)\n3/21/25, 10:56 AM\nNium Presentation\nfile:///Users/annicai/Downloads/nium-presentation.html\n10/22",
+      "section": "Market",
+      "summary": "This slide outlines the company's global market reach and geographic expansion across the Americas and Europe. It details active payout, pay-in, card issuance, and real-time bank payment capabilities across multiple specific countries.",
+      "key_points": [
+        "Aims to unlock multiple markets globally using the same model.",
+        "Lists operations in the Americas including Anguilla, Antigua, Argentina, Aruba, Bahamas, Barbados, Belize, Bermuda, Bolivia, and Brazil.",
+        "Lists operations in Europe including Andorra, Austria, Belgium, Bulgaria, Croatia, Cyprus, Czech Rep., Denmark, Estonia, Finland, France, Germany, Greece, Hungary, and Iceland.",
+        "Provides a legend indicating capabilities for Pay-Out, Pay-In, Card issuance, and Real-time send (bank payments)."
+      ]
+    },
+    {
+      "slide": 11,
+      "mode": "text_layer",
+      "transcript": "3/21/25, 10:56 AM\nNium Presentation\nfile:///Users/annicai/Downloads/nium-presentation.html\n11/22",
+      "section": "Other",
+      "summary": "This slide displays document metadata, including the date 3/21/25, a timestamp of 10:56 AM, the presentation file name Nium Presentation, a local file path, and a slide number indicating 11 out of 22.",
+      "key_points": [
+        "Date: 3/21/25",
+        "Time: 10:56 AM",
+        "File name: Nium Presentation",
+        "File path: file:///Users/annicai/Downloads/nium-presentation.html",
+        "Slide number: 11/22"
+      ]
+    },
+    {
+      "slide": 12,
+      "mode": "text_layer",
+      "transcript": "(2) Unlock multiple markets across the globe using the same model\nAFRICA\n✓Algeria\n✓Angola\n✓Benin\n✓Botswana\n✓Burkina Faso\n✓Burundi\n✓C. African Rep\n✓Cameroon\n✓Cape Verde\n✓Chad\n✓Comoros\n✓Congo\n✓DRC\n✓Djibouti\n✓Eq. Guinea\n✓Eritrea\n✓Ethiopia\n✓Gabon\n✓Gambia\n✓Ghana\n✓Guinea\n✓Guinea-Bissau\n✓Ivory Coast\n✓Kenya\n✓Lesotho\nLegend\n✓Pay-Out\n↓Pay-In\n☐Card issuance\nReal-time send (bank payments)\n3/21/25, 10:56 AM\nNium Presentation\nfile:///Users/annicai/Downloads/nium-presentation.html\n12/22",
+      "section": "Market",
+      "summary": "This slide outlines the company's global expansion strategy, specifically focusing on unlocking multiple markets across Africa using a scalable operational model.",
+      "key_points": [
+        "Unlocks multiple markets across the globe using the same model",
+        "Lists numerous African countries including Algeria, Angola, Benin, Botswana, Burkina Faso, Burundi, C. African Rep, Cameroon, Cape Verde, Chad, Comoros, Congo, DRC, Djibouti, Eq. Guinea, Eritrea, Ethiopia, Gabon, Gambia, Ghana, Guinea, Guinea-Bissau, Ivory Coast, Kenya, and Lesotho",
+        "Legend indicates Pay-Out (✓), Pay-In (↓), and Card issuance (☐)",
+        "Includes real-time send (bank payments) functionality",
+        "Features a date and time stamp of 3/21/25, 10:56 AM and slide numbering 12/22"
+      ]
+    },
+    {
+      "slide": 13,
+      "mode": "text_layer",
+      "transcript": "3/21/25, 10:56 AM\nNium Presentation\nfile:///Users/annicai/Downloads/nium-presentation.html\n13/22",
+      "section": "Other",
+      "summary": "This slide appears to be a navigational or transitional artifact from a presentation export, displaying date, file path, and page numbering information.",
+      "key_points": [
+        "Date: 3/21/25, 10:56 AM",
+        "File: Nium Presentation (file:///Users/annicai/Downloads/nium-presentation.html)",
+        "Page number: 13/22"
+      ]
+    },
+    {
+      "slide": 14,
+      "mode": "text_layer",
+      "transcript": "(3) Unlock multiple markets across the globe using the same model\nASIA\n✓Armenia\n✓Bahrain\n✓Bangladesh\n✓Bhutan\n✓Brunei\n✓Cambodia\n✓China\n✓East Timor\n✓Georgia\n✓Hong Kong\n✓India\n✓Indonesia\n✓Israel\n✓Japan\n✓Jordan\nOCEANIA\n✓Australia\n✓Fiji\n✓New Zealand\n✓Palau\n✓Papua New Guinea\n✓Samoa\n✓Tonga\n✓Tuvalu\nLegend\n✓Pay-Out\n↓Pay-In\n☐Card issuance\nReal-time send (bank payments)\n3/21/25, 10:56 AM\nNium Presentation\nfile:///Users/annicai/Downloads/nium-presentation.html\n14/22",
+      "section": "Market",
+      "summary": "This slide outlines the company's global expansion strategy, demonstrating geographic reach and multi-market penetration across Asia and Oceania using a single operational model.",
+      "key_points": [
+        "Unlocks multiple global markets using the same model",
+        "Covers Asian markets including Armenia, Bahrain, Bangladesh, Bhutan, Brunei, Cambodia, China, East Timor, Georgia, Hong Kong, India, Indonesia, Israel, Japan, and Jordan",
+        "Covers Oceania markets including Australia, Fiji, New Zealand, Palau, Papua New Guinea, Samoa, Tonga, and Tuvalu",
+        "Includes a legend detailing Pay-Out, Pay-In, Card issuance, and Real-time send (bank payments)"
+      ]
+    },
+    {
+      "slide": 15,
+      "mode": "text_layer",
+      "transcript": "3/21/25, 10:56 AM\nNium Presentation\nfile:///Users/annicai/Downloads/nium-presentation.html\n15/22",
+      "section": "Other",
+      "summary": "This is a metadata and file navigation slide from the Nium pitch presentation, displaying the date, time, file path, and slide number.",
+      "key_points": [
+        "Date and time: 3/21/25, 10:56 AM",
+        "Document title: Nium Presentation",
+        "File path: file:///Users/annicai/Downloads/nium-presentation.html",
+        "Slide number: 15/22"
+      ]
+    },
+    {
+      "slide": 16,
+      "mode": "text_layer",
+      "transcript": "Our platform connects the world to global payments with one API\nWe remove the complexity of creating financial services products and have built the rails our customers use every day\n100+\nCountries\n1M+\nAPI calls per day\n60%\nPayments made within less\nthan 15 mins\n24\nIssuing currencies\n99%\nUptime\n🖥️\nWe don't just aggregate\nnetworks – we built it and we\nown it – translating to exemplary\nclient experiences and better\neconomics\nProprietary track record in\nbuilding best-in-class AML/KYC\ncontrols\nRegulatory compliance across the globe\nTechnology and fraud monitoring\nKYC-as-a-Service to our clients and set it\nup for them\nWe have built a white-label app\nthat our customers leverage\nWe replace layers of providers\nwith a single API\nSwap in or swap out any component\nDeveloper friendly\n100% project success, 90%+ go live in\nunder 6 months\n3/21/25, 10:56 AM\nNium Presentation\nfile:///Users/annicai/Downloads/nium-presentation.html\n16/22",
+      "section": "Product",
+      "summary": "This slide details the company's proprietary global payments platform and API infrastructure, highlighting core technology capabilities, compliance controls, and key operational metrics.",
+      "key_points": [
+        "100+ Countries supported",
+        "1M+ API calls per day",
+        "60% Payments made within less than 15 mins",
+        "24 Issuing currencies",
+        "99% Uptime"
+      ]
+    },
+    {
+      "slide": 17,
+      "mode": "text_layer",
+      "transcript": "3/21/25, 10:56 AM\nNium Presentation\nfile:///Users/annicai/Downloads/nium-presentation.html\n17/22",
+      "section": "Other",
+      "summary": "This slide appears to be a navigational or administrative placeholder within a presentation file, containing only file path and page number metadata.",
+      "key_points": [
+        "Date and time: 3/21/25, 10:56 AM",
+        "File name: Nium Presentation",
+        "File path: file:///Users/annicai/Downloads/nium-presentation.html",
+        "Page number: 17/22"
+      ]
+    },
+    {
+      "slide": 18,
+      "mode": "text_layer",
+      "transcript": "Summary\nNI\n⏳\nTechnology\nReal time payment message interpretation for smart transaction routing to reduce\ncosts.\nGlobal license\nportfolio\nIdentity/ KYC\nAML/\nEnhanced due\ndiligence\nGlobal\nPayment\nprocessing\nRegulatory\nfiling and\nreporting\nCustomer\nsupport SLAs\nPayment data\nand tracking\nN\n3/21/25, 10:56 AM\nNium Presentation\nfile:///Users/annicai/Downloads/nium-presentation.html\n18/22",
+      "section": "Solution",
+      "summary": "This slide provides a summary of the technology, highlighting real-time payment message interpretation for smart transaction routing to reduce costs, alongside a global license portfolio and various core service pillars such as Identity/KYC, AML, global payment processing, and regulatory reporting.",
+      "key_points": [
+        "Technology utilizes real-time payment message interpretation for smart transaction routing to reduce costs",
+        "Global license portfolio",
+        "Identity/KYC and AML/Enhanced due diligence",
+        "Global payment processing and regulatory filing and reporting",
+        "Customer support SLAs and payment data and tracking"
+      ]
+    },
+    {
+      "slide": 19,
+      "mode": "text_layer",
+      "transcript": "CONFIDENTIAL\n© \n3/21/25, 10:56 AM\nNium Presentation\nfile:///Users/annicai/Downloads/nium-presentation.html\n19/22",
+      "section": "Other",
+      "summary": "This slide functions as a document footer or metadata page containing confidential notices, copyright information, a specific date and time of 3/21/25, 10:56 AM, presentation file paths, and page numbering indicating slide 19 of 22.",
+      "key_points": [
+        "Marked as confidential",
+        "Dated 3/21/25, 10:56 AM",
+        "References Nium Presentation file path",
+        "Indicates slide 19/22"
+      ]
+    },
+    {
+      "slide": 20,
+      "mode": "text_layer",
+      "transcript": "Proven management team with deep experience across technology\nand financial services\nPrajit Nanu\nCEO and Co-Founder\nTMT | WNS | CAPITA\nPratik Gandhi\nChief Operating Officer\nJPMorgan | Citi\nFrederick Crosby\nChief Revenue Officer\nWU | eBay | PayPal\nYogesh Sangle\nHead of Consumer\nMoneyGram | PayPal | Barclaycard\nNilesh Pathak\nChief Tech Officer\nJPMorgan | eBoodle | ICICI\nRajesh Venkatesh\nChief Product Officer\nGrab | eBay | PayPal\nJoaquin Ayuso de Paul\nHead of LABS\nBBVA | Accenture\nKatie Mitchell\nHead of Government Relations\nVISA\nDana Nino\nHead - Growth, Customer Success &\nMarketing\nPayPal | American Express\nLaurent Reichart\nChief Compliance Officer\nWorldRemit | MoneyGram | Travelex\nSpencer Hanlon\nHead of Travel\nBRITISH AIRWAYS | AirPlus\nNareg DerManuelian\nHead of Corporate Development\nBBVA | Citi VENTURES\n3/21/25, 10:56 AM\nNium Presentation\nfile:///Users/annicai/Downloads/nium-presentation.html\n20/22",
+      "section": "Team",
+      "summary": "This slide presents the founding and management team, highlighting their extensive background in technology and financial services across major global institutions. It lists key executives including the CEO, COO, CRO, CTO, and other department heads with past experience at prominent companies like PayPal, JPMorgan, Visa, and MoneyGram.",
+      "key_points": [
+        "Prajit Nanu serves as CEO and Co-Founder with background at TMT, WNS, and CAPITA.",
+        "Pratik Gandhi is Chief Operating Officer with experience at JPMorgan and Citi.",
+        "Frederick Crosby acts as Chief Revenue Officer with background at WU, eBay, and PayPal.",
+        "The team includes leaders overseeing Consumer, Tech, Product, LABS, Government Relations, Growth, Compliance, Travel, and Corporate Development.",
+        "Management features prior experience from major brands such as MoneyGram, Visa, American Express, British Airways, and BBVA."
+      ]
+    },
+    {
+      "slide": 21,
+      "mode": "text_layer",
+      "transcript": "3/21/25, 10:56 AM\nNium Presentation\nfile:///Users/annicai/Downloads/nium-presentation.html\n21/22",
+      "section": "Other",
+      "summary": "This slide appears to be a navigational or meta slide displaying presentation metadata such as the date, time, file path, and slide number within a Nium presentation deck.",
+      "key_points": [
+        "Date and time: 3/21/25, 10:56 AM",
+        "Document title: Nium Presentation",
+        "File path: file:///Users/annicai/Downloads/nium-presentation.html",
+        "Slide number: 21/22"
+      ]
+    },
+    {
+      "slide": 22,
+      "mode": "text_layer",
+      "transcript": "margin-bottom: 5px;\">Get to market faster\nAvoid the time-consuming process of acquiring licenses and developing your own remittance infrastructure\n🔌\nChoose your experience\nLaunch fast with our turnkey web solution or build a custom experience with our APIs\n🌐\nLeverage our network\nTap into our global payments network to provide a complete solution for your customers\n⚙️\nReduce complexity\nLet NIUM take on the operations, compliance and regulatory requirements to reduce your costs.\n💻\n(1) Unlock multiple markets across the globe using the same\nmodel\n3/21/25, 10:56 AM\nNium Presentation\nfile:///Users/annicai/Downloads/nium-presentation.html\n22/22",
+      "section": "Solution",
+      "summary": "This slide outlines the core value proposition of Nium's remittance infrastructure platform, emphasizing speed-to-market, flexible integration options, and global network access. It highlights how the company reduces operational complexity by handling regulatory and compliance burdens for its clients.",
+      "key_points": [
+        "Avoid time-consuming license acquisition and remittance infrastructure development to get to market faster.",
+        "Choose between a turnkey web solution or a custom experience built with APIs.",
+        "Tap into a global payments network to provide a complete customer solution.",
+        "Reduce costs and complexity as Nium manages operations, compliance, and regulatory requirements.",
+        "Unlock multiple global markets using the same model."
+      ]
+    }
+  ]
+}

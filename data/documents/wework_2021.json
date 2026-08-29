@@ -1,0 +1,405 @@
+{
+  "name": "wework_2021",
+  "slides": [
+    {
+      "slide": 1,
+      "mode": "vision",
+      "transcript": "",
+      "section": "",
+      "summary": "",
+      "key_points": []
+    },
+    {
+      "slide": 2,
+      "mode": "text_layer",
+      "transcript": "1\n© 2021 WeWork. Confidential.\n|\nDisclaimerConfidentiality and DisclosuresThis presentation has been prepared for use by \nWeWork\nInc. (\n\" WeWork\n\" or the \"Company\") and \nBowX\nAcquisition Corp. (\"\nBowX\n\") in connection with their proposed business combination. This presentation is for information purposes only and is being \nprovided to you solely in your capacity as a potential investor in considering an investment in \nBowX and may not be reproduced or redistributed, in whole or in part, without the prior written consent of \nWeWork\nand \nBowX\n. Neither \nWeWork\nnor \nBowX\nmakes any representation or warranty as to the accuracy or completeness of the information contained in this presentation. Th\ne information in this presentation and any oral statements made in connection with this presentation is subject to change \nand is not intended to be all\n-inclusive or to contain all the information that a person may desire in considering an investment \nin BowX and is not intended to form the basis of any investments decision in \nBowX . This presentation does not constitute \neither advice or a recommendation regarding any securities. You should consult your own legal, regulatory, tax, business, fin\nanc ial and accounting advisors to the extent you deem necessary, and must make your own decisions and perform your own \nindependent investment and analysis of an investment in \nBowX and the transactions contemplated in this presentation. \nNo OfferThis presentation and any oral statements made in connection with this presentation shall neither constitute an offer to sell\nnor the solicitation of an offer to buy any securities, or the solicitation of any proxy, vote, consent or approval in any \njurisdiction in connection with the proposed business combination, nor shall there be any sale of securities in any jurisdict\nion in which the offer, solicitation or sale would be unlawful prior to the registration or qualification under the securities la\nws\nof \nany such jurisdictions. Investment in any securities described herein has not been approved or disapproved by the SEC or any \noth er regulatory authority nor has any authority passed upon or endorsed the merits of the offering or the accuracy or \nadequacy of the information contained herein. This communication is restricted by law; it is not intended for distribution to\n, or use by any person in, any jurisdiction where such distribution or use would be contrary to local law or regulation.\nForward\n-Looking StatementsThis presentation supersedes and supplements any prior presentation and any oral or written communication with respect to \nWeWork and its business. This presentation contains \"forward\n-looking statements\", including statements about estimated \nand projected business, operational and financial metrics (including profitability, liquidity and cash flow), plans (includin\ng WeWork's\nfive\n-year strategic and financial plan), goals, targets, objectives and other information for future or recently completed \nperiods. These statements are often, but not always, made through the use of words or phrases such as \"may\", \"should\", \"could\n\", \"predict\", \"potential\", \"believe\", \"will likely result\", \"expect\", \"continue\", \"will\", \"anticipate\", \"become\", \"seek\", \"estim\nate\n\", \n\"intend\", \"aim,\" \"plan\", \"projection\", \"would,\" \"outlook\" and \"goal\", or the negative version of those words or phrases or ot\nher comparable words or phrases of a future or forward\n-looking nature. These forward\n-looking statements are not historical \nfacts, and are based on current expectations, estimates and projections about \nWeWork's\nindustry as well as certain assumptions\n, whether or not identified in this presentation,\nmade by management\nof WeWork\nand \nBowX , many of which, by their \nnature, are inherently uncertain and beyond our control\nand are not predictions of actual performance\n. These forward\n-looking statements are provided for illustrative purposes only and are not intended to serve as, and must not be r\nelied on by any \ninvestor as, a guarantee, an assurance, a prediction or a definitive statement of fact or probability. \nIt is not possible for \nWeWork\nand \nBowX to predict all risks, nor can \nWeWork\nand \nBowX assess the impact of all factors on \nthe business or the extent to \nwhich any factor, or combination of factors, \nincluding but not limited to the impact of the COVID pandemic, \nmay cause actual results to differ materially from those contained in any forward\n-looking statements \nmade\n. You should carefully consider the \nrisks and uncertainties described in the \"Risk Factors\" section of \nBowX's\nregistration statement on Form S\n-1, the proxy statement/prospectus on Form S\n-4 (the “Proxy Statement”) relating to the business\ncombination, which is expected to be filed by \nBowX with the Securities and Exchange Commission (the \"SEC\") and other documents filed by \nBowX from time to time with the SEC. These filings identify and address other important risks and uncertainties that could cause a\nct ual events and results to \ndiffer materially from those contained in the forward\n-looking statements. \nIn light of these risks, uncertainties and assumptions, the future events, estimates, projections, goals, targets, plans and \ntre nds discussed in this presentation, and our future \nlevels of activity and performance, may not occur and actual results could differ materially and adversely from those anticip\nate d or implied in the forward\n-looking statements. Any forward\n-looking statement speaks only as of the date on which it is \nmade, an\nd neither \nWeWork\nnor \nBowX undertake any obligation to publicly update or revise any forward\n-looking statement, whether as a result of new information, fu\nture developments or otherwise, except as required by law. \nNeither \nWeWork\nnor \nBowX\ngives any assurance that either \nWeWork\nor BowX will achieve its expectations.\nUse of DataThis presentation contains information concerning \nWeWork's\nsolutions and \nWeWork's industry, including market size and growth rates of the markets in which \nWeWork\nparticipate\ns, that are based on industry surveys and publications or other publicly \navailable information, other third\n-party survey data and research reports commissioned by \nWeWork\nand \nits internal sources. This information involves many assumptions and limitations, \nthere can be no guarantee as to the accuracy or reliability of such \nassumptions \nand you are cautioned not to give undue weight to this information. \nFurther, no representation is made as to the reasonableness of the assumptions made within or the accuracy or completeness of\nan y projections or modeling or any \nother information contained herein. Any data on past performance or modeling contained herein is not an indication as to futu\nre performance. \nNeither \nWeWork\nnor \nBowX\nhave independently verified this third\n-party information. Similarly, other third\n-\nparty survey data and research reports commissioned by \nWeWork\nor BowX , while believed by to be reliable, are based on limited sample sizes and have not been independently verified by \nWeWork\nor BowX . In addition, projections, assumptions, \nestimates, goals, targets, plans and trends of the future performance of the industry in which \nWeWork\noperate\ns , and \nits future performance, are necessarily subject to uncertainty and risk due to a variety of factors, including those described ab\nov e. \nThese and other factors could cause results to differ materially from those expressed in the estimates made by independent pa\nrti es and by \nWeWork\nand \nBowX\n.  WeWork\nand \nBowX assume no obligation to update the information in this presentation. \nInvestors and security holders of \nBowX\nand WeWork are urged to read the proxy statement/prospectus and other relevant documents that will be filed with the SEC carefully and i\nn their entirety when they become available because they will \ncontain important information about the proposed business combination.Investors and security holders will be able to obtain free copies of the Proxy Statement and other documents containing impor\ntan t information about \nBowX\nand \nWeWork through the website maintained by the SEC at www.sec.gov. Copies of the \ndocuments filed with the SEC by \nBowX can be obtained free of charge by directing a written request to \nBowX at Murray Rode (murray@bowcapital.com) 2400 Sand Hill Rd Suite 200, Menlo Park, CA 94025.",
+      "section": "",
+      "summary": "",
+      "key_points": []
+    },
+    {
+      "slide": 3,
+      "mode": "text_layer",
+      "transcript": "2\n© 2021 WeWork. Confidential.\n|\nDisclaimer (cont’d)Company ProjectionsAll projections, estimates, goals, targets, plans, trends or other statements with respect to future results or future events\nin this presentation are forward\n-looking statements that are based on \nWeWork's\nmanagement estimates and assumptions \n(including, without limitation regarding average occupancy, estimated expenses, estimated revenues and satisfaction of financ\ning condition), that are inherently subject to significant uncertainties and contingencies, some of which may not materialize \nor may change, and are subject to risks and uncertainties over which \nWeWork\nand \nBowX have no control or ability to predict. Unanticipated events may occur that could affect the outcome of such projections, esti\nma tes, goals, targets, plans, trends and \nother statements. You must make your own determinations as to the reasonableness of these projections, estimates, goals, targ\nets , plans, trends and other statements and should also note that if one or more estimates change, or one or more \nassumptions are not met, or one or more unexpected events occur, the performance and results set forth in such projections, e\nstimates, goals, targets, plans, trends and other statements may not be achieved. We can give no assurance as to future \noperations, performance, results or events. The inclusion of financial projections, estimates and targets in this presentatio\nn s hould not be regarded as an indication that \nWeWork\nand \nBowX , or their representatives, considered or consider the financial \nprojections, estimates and targets to be a reliable prediction of future events.\nUse of Non\n-GAAP Financial MetricsThis presentation includes certain financial measures not presented in accordance with generally accepted accounting principl\nes in the United States (\"GAAP\"), including Adjusted EBITDA\nand Adjusted EBITDA margin\n(including on a forward\n- looking \nbasis) . These financial measures are not measures of financial performance in accordance with GAAP and may exclude items that are s\nign ificant in understanding and assessing our financial results. Therefore, these measures should not be considered \nin isolation or as an alternative to net loss or other measures of profitability, liquidity or performance under GAAP. You sh\noul d be aware that our presentation of these measures may not be comparable to similarly titled measures used by other \ncompanies, which may be defined and calculated differently. \nWeWork\nbelieves that these non\n-GAAP measures of financial results (including on a forward\n-looking basis) provide useful supplemental i\nnformation to investors about \nWeWork\n. WeWork's\nmanagement uses forward\n- looking non\n-GAAP measures to evaluate \nWeWork's\nprojected financials and operating performance.\nReconciliations of historical non\n-GAAP measures to their most directly comparable GAAP counterparts are included in the Appendix\nto this presentation. Additionally, to the extent that forward\n- looking non\n-GAAP financial measures are provided, they \nare presented on a non\n-GAAP basis without reconciliations of such forward\n- looking non\n-GAAP measures due to the inherent difficul\nty in forecasting and quantifying certain amounts that are necessary for such reconciliations.\n2020 Preliminary Financial Information WeWork's consolidated financial statements for the twelve months ended December 31, 2020 are not yet available. This presentation incl\nud es certain preliminary unaudited consolidated financial information for the twelve months ended December 31, \n2020 that is based solely on \nWeWork's management's estimates reflecting currently available preliminary information, and remains subject to \nWeWork's\nconsideration of subsequent events. \nWeWork's\nindependent registered public accounting firm has \nnot audited or reviewed, and does not express an opinion with respect to, this financial information. \nWeWork's final consolidated financial results as of and for the twelve months ended December 31, 2020 may materially differ from the e\nst imates and \nthe interim balances set forth in this presentation. Such estimates constitute forward\n-looking statements and are subject to ris\nks and uncertainties, including those described under \"Forward\n-Looking Statements.\"\nIndia and ChinaThis presentation includes operating metrics (including number of locations or workstations) relating to \nWeWork's investments and operations in China and India. However, the results of \nWeWork's\noperations in China and India is not reflected in the \nWeWork financial statements and projections set forth in this presentation, as such operations are not conducted through consolidate\nd subsidiaries or controlling interests of \nWeWork . Unless otherwise explicitly specified in this presentation, India \nand China related metrics are excluded from all calculations. Participation in SolicitationWeWork\nand \nBowX and their respective directors and executive officers, under SEC rules, may be deemed to be participants in the solicitation \nof proxies of \nBowX's shareholders in connection with the proposed business combination. Investors and \nsecurity holders may obtain more detailed information regarding the names and interests in the proposed business combination \nof BowX's\ndirectors and officers in \nBowX's\nfilings with the SEC, including \nBowX's\nregistration statement on Form S\n- 1, which \nwas originally filed with the SEC on July 17, 2020. To the extent that holdings of \nBowX's securities have changed from the amounts reported in \nBowX's\nregistration statement on Form S\n-1, such changes have been or will be reflected on Statements of \nChange in Ownership on Form 4 filed with the SEC. Information regarding the persons who may, under SEC rules, be deemed parti\ncip ants in the solicitation of proxies to \nBowX's shareholders in connection with the proposed business combination is \nset forth in the Proxy Statement/prospectus on Form S\n-4 for the proposed business combination, which is expected to be filed by \nBowX\nwith the SEC. \nTrademarksThis presentation contains trademarks, service marks, trade names and copyrights of \nWeWork and other companies, which are the property of their respective owners.",
+      "section": "",
+      "summary": "",
+      "key_points": []
+    },
+    {
+      "slide": 4,
+      "mode": "text_layer",
+      "transcript": "3\n© 2021 WeWork. Confidential.\n|\nToday’s presenters\nBen DunhamChief Financial Officer\nSandeep Mathrani Chief Executive Officer\nVivek RanadivéChairman and Co\n- CEO\nMurray Rode Co\n- CEO and CFO\nWeWork\nBowX\nAcquisition Corp.",
+      "section": "",
+      "summary": "",
+      "key_points": []
+    },
+    {
+      "slide": 5,
+      "mode": "text_layer",
+      "transcript": "4\n© 2021 WeWork. Confidential.\n|\nContents\n01 Introduction\n02 WeWork\n& the Future of Work\n03 Financial & Transaction Overview\n04 Appendix",
+      "section": "",
+      "summary": "",
+      "key_points": []
+    },
+    {
+      "slide": 6,
+      "mode": "text_layer",
+      "transcript": "5\n© 2021 WeWork. Confidential.\n|\nVivek \nRanadivé\n: Platform Builder\nWith ~four decades of experience, Vivek has a long history of successfully building platforms and using technology to disrupt\nin dustries\nTeknekron\n• Semiconductor:\n• Banks:\n• Web:\n•Transportation & Logistics:\n•Made or directed investments into:Strong Investment Track Record\nUsing Technology to                                    Disrupt Industries\nVivek \nRanadivéMIT, BS, MS\nHarvard, MBA Baker Scholar\nInvented middleware Software busComplex event processing\n\"Mr. \nRealtime\n\"\nTech Visionary\nCompany Builder\nCEO of Kings Holdings with $1bn office, retail, residential, and entertainment assets\nSports, Media, and Real Estate \nOperator",
+      "section": "",
+      "summary": "",
+      "key_points": []
+    },
+    {
+      "slide": 7,
+      "mode": "text_layer",
+      "transcript": "6\n© 2021 WeWork. Confidential.\n|\nCompelling opportunity at the intersection of value, growth & aspiration \nValue\nGrowth\nAspiration\nWhy \nWeWork\n?\nNew leadership brings vision & transparency\nLarge addressable market\nSignificant\nc ompetitive moat \nProven business model through downturn\nMultiple\nvectors for growth\nClear path to profitability",
+      "section": "",
+      "summary": "",
+      "key_points": []
+    },
+    {
+      "slide": 8,
+      "mode": "text_layer",
+      "transcript": "7\n© 2021 WeWork. Confidential.\n|\n01 Introduction\n02 WeWork\n& the Future of Work\n03 Financial & Transaction Overview\n04 Appendix\nContents",
+      "section": "",
+      "summary": "",
+      "key_points": []
+    },
+    {
+      "slide": 9,
+      "mode": "text_layer",
+      "transcript": "8\n© 2021 WeWork. Confidential.\n|\n8\n|\n© 2021 WeWork. Confidential.\nExperienced, results\n-driven management team with turnaround expertise\nLeadership team with decades of public market experience and proven results within their first 12 months at WeWork\nBenjamin Dunham\nCFO\nAnthony YazbeckPresident and COO, Int’l.\nShyam GidumalPresident and COO, Americas\nSandeep MathraniCEO, Director\n• Joined WeWork in February 2020\n• Seasoned veteran\nwith \nsuccessful \nturnaround experienceLeadership Experience:\nMarcelo \nClaure\nExecutive Chairman, Director\n• Serves as CEO of \nSoftBank\nGroup Intl.\n• Founded the world’s largest wireless distribution and services companyLeadership Experience:",
+      "section": "",
+      "summary": "",
+      "key_points": []
+    },
+    {
+      "slide": 10,
+      "mode": "text_layer",
+      "transcript": "9\n© 2021 WeWork. Confidential.\n|\nOur core values\nOur Values\nHow We Live Them \nDo the right thing.\nWe know the “right thing” is a deliberate action we must always take, and that \nit is based on integrity and builds trust with those who we are about, including \nour people, members, and our community.\nStrive to be better, together.\nWe’ve always believed that we are better together. We must operate with a \nshared purpose to constantly improve and grow and to become better as \nindividuals, as teams, and as a company.\nBe entrepreneurial.\nTo reshape the way the world works, we must be bold, act with courage, and \ndemonstrate the resiliency to push ahead no matter the odds or the \ncircumstance.\nGive gratitude.\nWe will not take anyone or anything for granted.  We are grateful for our people, \nmembers, and our greater community as well as for the opportunities we have \nin front of us.\nBe human, be kind.\nCollaboration, kindness, and authenticity are essential to our humanity.  We \nmust cherish each other and build a community that celebrates each person’s \nunique talents, passions, and backgrounds.",
+      "section": "",
+      "summary": "",
+      "key_points": []
+    },
+    {
+      "slide": 11,
+      "mode": "text_layer",
+      "transcript": "10\n© 2021 WeWork. Confidential.\n|\nWeWork defines the flexible workspace marketGlobal network and scale provide compelling solutions to small, medium, large, and Enterprise companies\n850+ Locations\n(1)\n1M+Workstations\n(1)(3)\n50%+of total memberships are Enterprise\n(1)\n150+\nCities\n(1)\n$3B+2021E Revenue\n(2)\n450k+2020 Memberships\n(1)(4)\n…and an established member base\nA global network and brand…\n…with scale…\nNote: Please see Definitions page in the appendix for further detail. \n1.\nIncludes \nIndiaCo\nand ChinaCo\nas of December 31, 2020. Excludes \nWeMemberships\n.\n2. 2021E revenue projections include 4% \nIndiaCo\nmanagement fee, excludes \nChinaCo financials, and reflects management projections. \n3. 865k are consolidated and 166k are franchised workstations. \n4. 387k are consolidated memberships and 89k are franchise memberships. Excludes \nWeMemberships\n.",
+      "section": "",
+      "summary": "",
+      "key_points": []
+    },
+    {
+      "slide": 12,
+      "mode": "text_layer",
+      "transcript": "11\n© 2021 WeWork. Confidential.\n|\nWeWork platform todayLeading brand\n-name flexible workplace provider with global infrastructure in\n-place to scale as occupancy rebounds\nGlobal Customers\nGlobal Landlord Partnerships\nUS and Canada\n367\nLatAm 90\nEMEA 147\nIndia 34\nChina 103\nJapan 36\nPacific 74\n# Total Locations as of Year End 2020",
+      "section": "",
+      "summary": "",
+      "key_points": []
+    },
+    {
+      "slide": 13,
+      "mode": "text_layer",
+      "transcript": "12\n© 2021 WeWork. Confidential.\n|\nFuture Of Work OpportunityDigitization of real estate and asset light platform offering expected to further drive revenue growth and margin\nKey investment highlights\nLarge Addressable Market\nMulti\n-trillion dollar global office real estate market with COVID tailwinds for flexible workspace options\nFocused Core Business ModelStrong unit economics with clear path to profitability expected by Q4 2021\nSignificant Competitive AdvantageGlobal infrastructure with $15 billion+ moat    of invested capital has created a strong    brand and membership base\nCompelling Value PropositionOffering customers flexibility of space and time, portability of cost, and \nexpense savings\nResults\n-driven Leadership TeamTurnaround track record with proven public company experience",
+      "section": "",
+      "summary": "",
+      "key_points": []
+    },
+    {
+      "slide": 14,
+      "mode": "text_layer",
+      "transcript": "13\n© 2021 WeWork. Confidential.\n|\nRefocused and the path forwardAfter a significant turnaround in 2020, WeWork is now positioned for profitable growth as a leader in global flexible workpla\nce\nBusiness Model\nOffering that creates flexibility of space,\ntime, and \nportability of cost as companies move away from long\n- term leases\nEnhance asset light revenue growth through digitization of real estate and platform offerings\nLeadership\nProven results\n-driven executives with success \nacross real estate and subscription\n- based \nbusiness models\nAdditional leadership expertise in platform building through BowX\nCustomer Base\nMix of small and medium\n-sized businesses, with a \nshift towards Enterprise\nPrimarily Enterprise, with a\nmix of small\nand\nmedium\n-sized businesses\nFocus\nCore \nWeWork\n(1)\nExpand beyond core via All Access, Marketplace, and Platform offerings\nStrategy\nDisciplined focus on cost reduction, identifying thepath to \nprofitability, and exiting non\n- core business \nlines and underperforming assets\nFocus on profitable market share expansion, increasing ARPM and asset light buildouts\n2020\nGoing Forward\n1. Represents Core Leased as defined in the Definitions page in the \nappendix.",
+      "section": "",
+      "summary": "",
+      "key_points": []
+    },
+    {
+      "slide": 15,
+      "mode": "text_layer",
+      "transcript": "14\n© 2021 WeWork. Confidential.\n|\n855 \n1,030 \n954 \n2019A\n2020A\n2021E\n2021: Repositioned and on the path to recoveryRecent cost optimization efforts have set the Company up for profitable growth in 2021 and beyond\n• Strategic asset exits in 2020 and 2021 improved strength and composition of portfolio\n• Significant reduction in functional expenses (SG&A) in 2020\n• Additional $150\n-$200mm of savings \nexpected over 2021\nTotal Workstations(in thousands)\nSource: Management Projections. Note: KPIs include \nIndiaCo\nand ChinaCo\n. Financials include \nIndiaCo\nmanagement fee and excludes \nChinaCo\n.Please see the Definitions page in the appendix for further detail\n.\n1.\nExcludes \nWeMemberships\n.\n2. Represents the difference in annualized functional expenses from \nQ4’19 vs. Q4’20. \nExpenses reflect adjusted functional expense and includes \ngeneral and administrative, sales and marketing, sourcing and \ndevelopment, and \nother. Excludes stock based compensation and ventures expenses. \n$2.1\n$1.0\n$0.8\n- $0.85\nQ4 2019A\nQ4 2020A\nQ4 2021E\n72%\n46%\n70%\nEnding Physical Occupancy\n(1)\n:\nTotal Revenue($ in billions)\n• Stable revenues despite headwinds in 2020\nRun\n-Rate Functional Expense Savings\n(2)\n($ in billions)\n$3.2 \n$3.2 \n$3.2 \n2019A\n2020A\n2021E",
+      "section": "",
+      "summary": "",
+      "key_points": []
+    },
+    {
+      "slide": 16,
+      "mode": "text_layer",
+      "transcript": "15\n© 2021 WeWork. Confidential.\n|\n2020: Optimized cost structure and core business\nSource: Management Projections.\n1. Represents the difference in annualized functional expenses from Q4 2019 to Q4 2020. Expenses reflect adjusted functional exp\nens e and includes general and administrative, sales and marketing, sourcing and \ndevelopment, and other. Excludes stock based compensation and ventures expenses. \n2. Calculated based on full year location operating expenses (including rent, tenancy and building expenses) per USF reduction f\nrom Q4'19 to Q4'20 multiplied by Q4 2020 USF. Savings of ~$400M mainly due to reduced foot \ntraffic, restructuring of \nWeWork's community team and ongoing rent renegotiations in 2020. Location operating expense savings calculation excludes stock based c\nom pensation, community support and venture expenses.\n3. Lease restructurings and renegotiations as of January 2021. Savings include rent and tenancy.\nFunctional Expense Savings\n(1)\n~$1.1B\nOpEx\nSavings\n(2)\n~$400M\nSavings from 200+ Lease Exits and Amendments\n(3)\n$200M+\nExited Non\n- Core Businesses",
+      "section": "",
+      "summary": "",
+      "key_points": []
+    },
+    {
+      "slide": 17,
+      "mode": "text_layer",
+      "transcript": "16\n© 2021 WeWork. Confidential.\n|\nSolutions for companies of all sizes Small & Medium Businesses (SMBs)\n(1 - 99 employees)\nMedium & Large Businesses (MLBs)\n(100\n- 499 employees)\nEnterprise (500+ employees)\n+\n~50%of total memberships\n~50%of total memberships\nNote: All membership metrics include \nIndiaCo\nand ChinaCo\n.\n65%\nLong\n- term target\nHub and Spoke   |   Collaboration Hubs   |   All Access\n35%\nLong\n- term target",
+      "section": "",
+      "summary": "",
+      "key_points": []
+    },
+    {
+      "slide": 18,
+      "mode": "text_layer",
+      "transcript": "17\n© 2021 WeWork. Confidential.\n|\nWeWork model creates flywheel effectWeWork’s global community attracts both members and landlords, self\n-perpetuating growth\nGlobal customer growth increases occupancy rates for landlords…\n…driving demand from landlords, increasing utility for our customers, and further enhancing customer growth\n~$4.0B+Total sales pipeline\n(1)\nSource: Management Projections. Note : Sales pipeline and committed revenue excludes Platform markets. \n1. Total sales pipeline represents potential total contract value of sales opportunities created by our salesforce as of Februar\ny 2 021. Total sales pipeline is in negotiation and may never be realized, and if realized, the time frame \nwhen it may be realized may vary significantly. See Forward\n-Looking Statements.\n2. As of 12/31/2020 our committed revenue backlog is $3B with approximately 50% to be recognized in 2021. Committed revenue back\nlog represents total non\n-cancelable contractual commitments, net of discounts, remaining \nunder agreements entered into as of 12/31/2020, which we expect will be recognized as revenue in future periods. \n~$1.5B2021E committed revenue\n(2)",
+      "section": "",
+      "summary": "",
+      "key_points": []
+    },
+    {
+      "slide": 19,
+      "mode": "text_layer",
+      "transcript": "18\n© 2021 WeWork. Confidential.\n|\nMembership composition highlights the quality improvement of the business\nNote: All membership and occupancy metrics include \nIndiaCo\nand ChinaCo . Reflects ending figures as of 12/31 of each respective year.\n1. Physical Membership defined as the number of people able to access WeWork’s locations. Does not include All Access membership\ns.\n2. Enterprise Memberships are defined as organizations who have +500 full time employees globally. Enterprise membership percent\nage represents total enterprise memberships excluding \nWeMemberships\ndivided by total \nphysical memberships, which excludes \nWeMemberships\n.\n3. Commitment length represents base contract terms, excluding the impact of any extension and / or termination options. \nThe commitment lengths disclosed may include periods for which members have an option to \nterminate their commitments with a less than 10% penalty.\nFocused on developing long\n- term, high\n-value Enterprise customers, laying the foundation for predictable and prudent growth \n2015A\nMembership\nCommitment Length\n(3)\n35k+\nPhysical Memberships\n(1)\n450k+\n10%+\nEnterprise Mix\n(2) (% of Physical Memberships)\n50%+\n100%\nMonth\n- to - Month\n~10%\n0%\n12 Month+\n50%+\n~1 month\nTotal Weighted Full Commitment Length\n15+ months\n2020A",
+      "section": "",
+      "summary": "",
+      "key_points": []
+    },
+    {
+      "slide": 20,
+      "mode": "text_layer",
+      "transcript": "19\n© 2021 WeWork. Confidential.\n|\nValue proposition \nmakes more sense than ever\nCOVID has accelerated flexible workspace trends as businesses face uncertainty around return to work and seek greater flexibi\nlit y\nWhat Businesses Need Today\nStreamline real estate footprint \nto \noptimize cost structure and overhead\nFlexible solutions \nthat can enhance \nadaptability and sustainability\nMaintain productivity, connection, and  innovation \namidst remote work \nlandscape\nAward\n-winning measures \nthat prioritize \nhealth and safety of employees\nAbility to \n“work from anywhere” \nthrough new offerings like All Access",
+      "section": "",
+      "summary": "",
+      "key_points": []
+    },
+    {
+      "slide": 21,
+      "mode": "text_layer",
+      "transcript": "20\n© 2021 WeWork. Confidential.\n|\n13,000\nAll included\n2,090\n$15,090\n$11,475\nStandard lease\nDesignConstructionFF&E procurement\n6,534\nAll included\n4,100\n€ 10,634\n€ 7,726\nStandard lease\nComprehensive real estate solution for lessCase studies support capital savings at move in, reduced exposure to risk, and ultimate flexibility of term and location. Eve\nn w ith new \nprofessional distancing standards due to COVID, WeWork still offers significant cost savings on a per employee basis\nBuildout\n27%savings\nOperations\nAmsterdam Cost per Employee Case Study \n(2)\nBase rentMaintenanceCleaningUtilitiesInternetPrintingSecurityManagement feesProperty taxInsuranceF&BEvents\n(1)\n(1)\nSeattle Cost per Employee Case Study \n(1)\n24%savings\n(2)\n(2)\nNotes: “Standard lease” cost illustration includes \"buildout\" costs associated with construction, procurement, and design ser\nvic es, and \"operations\" costs including base rent, utilities, insurance, property taxes, and facilities \nmanagement among others shown on page. WeWork cost per employee reflects proposed WeWork membership fee per employee per year\n, illustrating the WeWork value proposition to select prospective enterprise members \nrelative to current lease costs and / or market norms. Both illustrative examples are representative of the \"WeWork pitch\" to\nselect prospective enterprise members in the markets or situations outlined. The percentage savings \nshown are examples of specific situations and / or market studies, and may not be representative of every individual member s\nituation. Results of the Amsterdam and Seattle case studies cited above may not be replicable with other \nclients or in other markets. \n2020E is based on Q4 2020E preliminary results and is subject to change.\n1. Comparison data represents annualized costs based on a 96\n-month scenario for Seattle market standard lease specifically formulat\ned for a potential enterprise member company. Based on publicly available lease cost \ninformation and third\n-party market research at time of interaction for proposed \nWeWork alternative. Buildout / standard lease cost calculated as of Q3 2020.\n2. Comparison data represents annualized costs based on a 60\n-month scenario for Amsterdam specifically formulated for a potential m\nember company. Based on existing / prior lease cost of potential member at time of \ninteraction for proposed WeWork alternative. Buildout / standard lease cost calculated as of Q4 2020.",
+      "section": "",
+      "summary": "",
+      "key_points": []
+    },
+    {
+      "slide": 22,
+      "mode": "text_layer",
+      "transcript": "21\n© 2021 WeWork. Confidential.\n|\nWeWork’s platform opportunityWeWork’s scale and innovation will continue to lead the flexible workspace market\nSpace\n- as\n- a - Service\n• Offering that creates flexibility of space, time, and portability of cost, \nas companies \nmove away from long\n- term leases\n• Proven membership base and occupancy projected to normalize \nto historical levels\n• Right\n-sized operations \nhave created \noperating leverage, a path to profitability and compelling unit economics\n• COVID has accelerated the \nshift to flexible \nworkspace\nDigitization of Real Estate\nPlatform\n• All Access offering digitizes WeWork spaces and provides end customers with ultimate flexibility\n• Single membership card allows employees to “ Work From Anywhere\n”\n• Marketplace\noffering \nstrengthens \nmembership through \nhigh\n- margin, value\n-\nadd services\n• Third party flexible workspace management services leveraging WeWork’s\nproperty and technology \nplatform\n• Flexible and capital light growth alternatives\n• High operating leverage \ncatalyzes \nattractive cash flow growth and margin expansion",
+      "section": "",
+      "summary": "",
+      "key_points": []
+    },
+    {
+      "slide": 23,
+      "mode": "text_layer",
+      "transcript": "22\n© 2021 WeWork. Confidential.\n|\nSpace Flexibility\n1 Desk\nCustom office\n• Option to occupy a select number of desks or entire floors\n• Ability to access any workspace via All Access\nTime Flexibility\n1 Hour\nMultiple years\n• Choice of occupying workspace on an on\n-demand basis, through a \nmonthly subscription, orlong\n- term contract\nPortabilityof Cost\n1 Contract\nOne city to another\n• Ability to move part or all existing commitment to a new market, region, or country\nCompelling flexibility across space, time, and cost",
+      "section": "",
+      "summary": "",
+      "key_points": []
+    },
+    {
+      "slide": 24,
+      "mode": "text_layer",
+      "transcript": "23\n© 2021 WeWork. Confidential.\n|\nMassive growth opportunity as flexible workspace market expandsWeWork has an opportunity to grow flexible workspace market share in the \nmulti\n-trillion dollar global office real estate market \nSource: CBRE Research, Q2 2019 (Pre\n-COVID), Green Street Advisors, Management Projections.\nNote: High case and implied WeWork high case penetration shown for illustrative purposes only. 2020E is based on Q4 2020E pre\nlim inary results and is subject to change.\n1. Illustrative TAM analysis based on pre\n-COVID flexible workspace projections for U.S. only. Potential for significant upside in E\nMEA and Japan markets.; Implied total flexible workspace square footage based on estimated \n2.5% 2020E flexible workspace penetration as percentage of total office space; Total office estimate based on Green Street es\ntim ate of 2019 total office square footage (3.5bn); WeWork USC usable square footage as of \n2020E was 22.0mm, which implies 25.2% share of total flexible workspace market.\n2. Assumes total office market square footage of 3.5bn and \nWeWork flexible workspace market share remains constant in the projection period. Based on projected base case flexible workspace pe\nne tration.\n13.3%\n2010\n2012\n2014\n2016\n2018\n2020\n2022\n2024\n2026\n2028\n2030\n~5x Increase in revenue by 2030\n(2)\nImplied                     : High: 5.6%Base: 3.3%\n22.2%High Case TAM:\nBase Case TAM:\n25%share of total flexible workspace market\n(1)\nU.S. Flexible Workspace Penetration of 3.5 billion Sq. Ft. Office Space\n(1)",
+      "section": "",
+      "summary": "",
+      "key_points": []
+    },
+    {
+      "slide": 25,
+      "mode": "text_layer",
+      "transcript": "24\n© 2021 WeWork. Confidential.\n|\n70% \n81% \n84% \n85% \n72% \n47%\n75% \n90% \n93% \n95% \n2019A\n2020A\n2021E\n2022E\n2023E\n2024E\nPhysical OccupancyTotal Occupancy\nAll AccessAll Access offers a proven value proposition that has already seen strong adoption from major Enterprise clients\nPre\n-COVID Total Occupancy: 85%\n(2)\n$481mm All Access Revenue\nSource: Management Projections.Note: KPIs include \nIndiaCo\nand ChinaCo\n. \n1.\nExcludes \nWeMemberships\n.\n2.\nQ2 2019.\n3. Includes ~1% of occupancy from All Access memberships, representing ~7.3k total memberships in 2020.\n(3)\nEndingOccupancy\n(1)\nDistributorsand Affinity Partnerships\nAll Access\nOn-Demand pay-as-you-go or monthly \nsubscription that provides access to global \nnetwork of locations\nGenerates Partnerships\nAffinity partnerships generate top of funnel \ndemand\nDrives Occupancy\nAllows WeWork to drive occupancy beyond \nphysical capacity levels across portfolio based \non utilization projections \nHigh Margins\nSignificant incremental margins given \nsubscription-based model on top of traditional \nleased business\n24\n© 2021 WeWork. Confidential.\n|",
+      "section": "",
+      "summary": "",
+      "key_points": []
+    },
+    {
+      "slide": 26,
+      "mode": "text_layer",
+      "transcript": "25\n© 2021 WeWork. Confidential.\n|\nMarketplaceFocus on products with sizable revenue potential that help drive member stickiness\nTech services\nEvents and productions\nHR services\nInsurance\nLaunched\nExpected Q1 2021E\nPremise Liability Insurance; offered in partnership with Insurance provider\nEstablished flexible, turnkey venues safe for corporate experiences and content productions\nProfessional Employee Services; offered in partnership with VensureHR\nEnhanced technology solutions offered to members such as dedicated bandwidth, rackspace, SSID and VLAN\nTarget Customer:\nSMBs and MLBs\nEnterprise and MLBs\nSMBs and MLBs\nEnterprise and MLBs",
+      "section": "",
+      "summary": "",
+      "key_points": []
+    },
+    {
+      "slide": 27,
+      "mode": "text_layer",
+      "transcript": "26\n© 2021 WeWork. Confidential.\n|\nPlatform  Asset light platform for managing & orchestrating flexible space while providing access to an expanded network for members Worldwide Property Technology Platform\n●Flexible space management platform connecting enterprises and landlords\n●Single platform\nthat provides design, build, \nlease, operate, manage, and community services\n●Open API\necosystem \nthat integrates \nworkspace, management systems, tenants, and landlordsCapital Light Model\n●Management and franchise agreementsprovide alternatives to existing leasing model \n●Limited upfront capital required\nto enter \nnew locations and scale efficiently\n●Generates \nsustainable cash flow and \nmargin expansion",
+      "section": "",
+      "summary": "",
+      "key_points": []
+    },
+    {
+      "slide": 28,
+      "mode": "text_layer",
+      "transcript": "27\n© 2021 WeWork. Confidential.\n|\nPlease refer to reconciliation for Adj. EBITDA margin on pg. \n46 in the appendix.\nSource: Management Projections.Note: KPIs include \nIndiaCo\nand ChinaCo\n. Financials include \nIndiaCo\nmanagement fee and excludes \nChinaCo . Please see the Definitions page in the appendix for detailed definitions\n.\n1.\nExcludes \nWeMemberships\n.\n2. Includes ~1% of occupancy from All Access memberships, representing ~7.3k total memberships in 2020.\nClear path to Adj. EBITDA breakevenEnding Occupancy\n(1) and Adj. EBITDA Margin Over Time\n~70%Physical occupancy to achieve Adj. EBITDA Breakeven\n(71%)\n(65%)\n(45%)\n(20%)\n1% \n4% \n8% \n12% \n17% \n23% \n29% \n46% \n47% \n53% \n61% \n70% \n73% \n76% \n78% \n81% \n84% \n85% \n47%\n49% \n56% \n64% \n75% \n79% \n83% \n86% \n90% \n93% \n95% \n2020A Q4\n2021E Q1\n2021E Q2\n2021E Q3\n2021E Q4\n2022E Q1\n2022E Q2\n2022E Q3\n2022E Q4\n2023E\n2024E\nAdj. EBITDA Margin\nEnding Physical Occupancy\nEnding Total Occupancy (incl. All Access)\n(2)",
+      "section": "",
+      "summary": "",
+      "key_points": []
+    },
+    {
+      "slide": 29,
+      "mode": "text_layer",
+      "transcript": "28\n© 2021 WeWork. Confidential.\n|\n01 Introduction\n02 WeWork \n& the Future of Work\n03 Financial \n& Transaction \nOverview\n04 Appendix\nContents",
+      "section": "",
+      "summary": "",
+      "key_points": []
+    },
+    {
+      "slide": 30,
+      "mode": "text_layer",
+      "transcript": "29\n© 2021 WeWork. Confidential.\n|\nFinancial highlightsThe Company has weathered the pandemic successfully and is poised to grow its platform in the future\n387k\n1M+\nEnding Consolidated Total Memberships\n(2)\n(55%)\n29%\nAdj. EBITDA Margin (%) \n(Excluding \nChinaCo\n)\nPlease refer to reconciliation for Adj. EBITDA and Adj. EBITDA margin on pg. \n46 in the appendix.\nSource: Management Projections.Note: KPIs include \nIndiaCo\nand ChinaCo\n. Financials include \nIndiaCo\nmanagement fee and excludes \nChinaCo\n. \n1.\nIncludes \nIndia\nCo\nand \nChina\nCo as well as platform memberships. Please see the Definitions page in the appendix for further detail.\n2.\nExcludes \nWeMemberships\n, IndiaCo\n, ChinaCo\n, and platform memberships.\n($1.8B)\n$2.0B\nAdj. EBITDA \n(Excluding \nChinaCo\n)\n$3.2B\n$7.0B\nRevenue \n(Excluding \nChinaCo\n)\n476k\n1.5M\nEnding Total Memberships\n(1)\n2020A\n2024E",
+      "section": "",
+      "summary": "",
+      "key_points": []
+    },
+    {
+      "slide": 31,
+      "mode": "text_layer",
+      "transcript": "30\n© 2021 WeWork. Confidential.\n|\nOverview of workstations and memberships\nTotal Workstations (‘000s)\nSource: Management Projections.Note: KPIs include \nIndiaCo\nand ChinaCo\n. Excludes \nWeMemberships\n. Please see the Definitions page in the appendix for further detail. \n1. Includes ~1% of occupancy from All Access memberships, representing ~7.3k total memberships in 2020.\n619 \n476 \n672 \n859 \n1,044 \n1,314 \n45 \n88 \n117 \n160 \n236\n554\n237\n111\n84\n77\n855 \n1,030 \n954 \n1,057 \n1,246 \n1,551 \n2019A\n2020A\n2021E\n2022E\n2023E\n2024E\nPhysical MembershipsAll Access Memberships\nPhysical Ending Occupancy\n72%\n46%\n70%\n81%\n84%\n85%\nTotal Ending Occupancy\n72%\n47%\n(1)\n75%\n90%\n93%\n95%\nAvailable Capacity",
+      "section": "",
+      "summary": "",
+      "key_points": []
+    },
+    {
+      "slide": 32,
+      "mode": "text_layer",
+      "transcript": "© 2021 WeWork. Confidential.\n31\n|\nSummary of historical and projected financialsRevenue (Excluding \nChinaCo\n)\n($ in billions)\nAdj\n. EBITDA (Excluding \nChinaCo\n)\n($ in billions)\nCore Leased as % of \nCompany Revenue (Excluding \nChinaCo\n) (1\n)\n86%\n90%\n90%\n91%\n89%\n86%\n% Margin\n(60%)\n( 55%)\n(28%)\n11%\n23%\n29%\n$3.2 \n$3.2 \n$3.2 \n$4.6 \n$5.8 \n$7.0 \n2019A\n2020A\n2021E\n2022E\n2023E\n2024E\n($1.9)\n($1.8)\n($0.9)\n$0.5 \n$1.4 \n$2.0 \n2019A\n2020A\n2021E\n2022E\n2023E\n2024E\nPlease refer to reconciliation for Adj. EBITDA and Adj. EBITDA margin on pg. \n46 in the appendix.\nSource: Management Projections.Note: Financials include \nIndiaCo\nmanagement fee and excludes \nChinaCo . Please see the Definitions page in the appendix for detailed definitions. \n1. Core Leased excludes All Access, Marketplace, Platform and Ventures revenues.",
+      "section": "",
+      "summary": "",
+      "key_points": []
+    },
+    {
+      "slide": 33,
+      "mode": "text_layer",
+      "transcript": "© 2021 WeWork. Confidential.\n32\n|\nRevenue composition\nRevenue By Geography (Excluding \nChinaCo\n)\n($ in billions)\nRevenue By Product (Excluding \nChinaCo\n)\n($ in billions)\nWeWork is a global flexible workspace leader, accessing major geographies with diverse product offerings\n$3.2 \n$3.2 \n$3.2 \n$4.6 \n$5.8 \n$7.0 \n2019A\n2020A\n2021E\n2022E\n2023E\n2024E\nLatAm\nPacific\nJapan\nOther\nEMEA\nUS and Canada\n$3.2 \n$3.2 \n$3.2 \n$4.6 \n$5.8 \n$7.0 \n2019A\n2020A\n2021E\n2022E\n2023E\n2024E\nVentures\nPlatform\nMarketplace\nAll Access\nCore Leased\nSource: Management Projections\n.\nNote: Regional revenues only include revenues associated with the core leasing business. \"Other\" within revenue by geography \ninc ludes All Access, Marketplace, Platform and Ventures; 2019 and 2020 other revenue \nwas primarily concentrated in US & Canada.",
+      "section": "",
+      "summary": "",
+      "key_points": []
+    },
+    {
+      "slide": 34,
+      "mode": "text_layer",
+      "transcript": "© 2021 WeWork. Confidential.\n33\n|\nNote: As of 12/31/2019. Consolidated Building margin only includes mature locations (locations open longer than 12 months); Excludes \nChinaCo\nand IndiaCo\nfinancials. \n1. Building margin as calculated above, excludes building related depreciation and amortization which would otherwise be include\nd in gross profit determined in accordance with US GAAP; In addition, Building Margin as \ncalculated above for our Mature Locations only includes the direct location operating expenses incurred in operating those lo\ncat ions as the Company does not allocate certain community support expenses that are \nnecessary to operate our buildings but not directly tied to an individual building. Building Margin also excludes broker fees\nan d marketing expenses, as well as stock\n-based compensation expense paid to community \nemployees as such costs are non\n-cash in nature and not allocated to individual buildings.\n2. Top 20 Markets calculated based on full\n-year 2019A revenue.\nStrong unit economics across core portfolioBuilding expenses have been optimized while All Access and Marketplace expected to drive incremental margin expansion\n2019 Mature Building Margin \n– Top 20 Markets\n(2)\n100% \n27% \n54% \n19% \nMembership &service revenue\nRent and tenancyexpenses\nOther building expenses\nBuilding margin\n25% \n30% \n41% \n35% \n38% \n21% \n27% \nNew York\nLondon\nTokyo\nSanFrancisco\nBoston\nTop 6-20 markets\nConsolidated MatureLocations\nSupplemental Metrics (2019)Mature Physical Occupancy Rate\n92% \n90% \n95% \n91% \n89% \n85% \n88% \nMature market revenue % of total\n14% \n9% \n2% \n4% \n2% \n16% \nN/A\nTotal market revenue % of total\n18% \n15% \n5% \n5% \n3% \n26% \nN/A\n(1)\n(1)\n2019 Consolidated Mature Building Margin\n($ in billions)",
+      "section": "",
+      "summary": "",
+      "key_points": []
+    },
+    {
+      "slide": 35,
+      "mode": "text_layer",
+      "transcript": "© 2021 WeWork. Confidential.\n34\n|\n$3.4 \n$2.9 \n$2.2 \n$1.8 \n$2.3 \n$2.3 \n$2.1 \n$2.5 \n$3.4 \n2019A\n2020A\nQ1 2021E\nQ2 2021E\nQ3 2021E\nQ4 2021E\n2022E\n2023E\n2024E\nIllustratively assumes $550mm of new \nSoftBank\nSenior Secured \nFacility (maturing Sept. 2022, 18 months from signing) is refinanced\nLiquidity and cash flow projections\nPlease refer to reconciliation for Adj. EBITDA on pg. \n46 in the appendix.\nSource: Management Projections. \n1. Defined as undrawn financing commitments and global cash.\nAssumes extension of existing $1.75bn LC facility. Includes $1.1bn Softbank facility until August 2021.\n2. Liquidity includes $2.2B Senior Unsecured Notes starting in FY19A as commitment was received in Q4\n-2019; facility was not availa\nble to draw until 4/1/2020.\n3. Assumes closing of transaction in Q3 \n2021E and Softbank facility expires in August 2021 undrawn. Assumes $1.1bn \nfacility to be replaced with $550mm new Softbank Senior Secured Facility at a 7.5% interest rate provided \nat SPAC signing, available at the earlier of closing of SPAC or August 12, 2021 (maturity date of existing $1.1B Senior Secur\ned) and available for draw no later than Feb 12, 2023 (or if earlier, 18 months from date of closing of \nSPAC). Assumes Senior Secured Facility is refinanced thereafter. \nTotal Liquidity\n(1)\n($ in billions)\n($ in millions)Total Adj. EBITDA (excl. \nChinaCo\n)\n($1,943)\n($1,754)\n($424)\n($321)\n($171)\n$8 \n$485 \n$1,359 \n$1,988 \nNegative impact of non\n- cash     \nGAAP straight\n- line lease cost \n($832)\n($554)\n($108)\n($71)\n($59)\n($47)\n($101)\n($80)\n($61)\nPositive\nimpact of amortization \non lease incentives \n$234\n$340\n$78 \n$73 \n$72 \n$72 \n$288 \n$296 \n$306 \nNet Capital Expenditures\n($2,183)\n($49)\n$16 \n$26 \n($1)\n($13)\n($301)\n($487)\n($577)\nExpected to achieve breakeven Adj. EBITDA by Q4’21E, and liquidity is not expected to drop below $\n1.8bn throughout projection period\n(2)\nAssumes issuance of \n$1,283mm \nof \nnew equity and liquidity from \n$550mm of new \nSoftBank\nSenior \nSecured Facility\n(3\n)",
+      "section": "",
+      "summary": "",
+      "key_points": []
+    },
+    {
+      "slide": 36,
+      "mode": "text_layer",
+      "transcript": "© 2021 WeWork. Confidential.\n35\n|\nWeWork capital structure overview\nSource: Bloomberg, Company Disclosure, Management Projections.Note: Estimated balance sheet includes Q2 2021E financials, which is preliminary and subject to change.\n1. Cash and Cash Equivalents excludes Restricted Japan Cash of $10mm and $2mm of Other Cash.\n2.\nSoftBank\nhas agreed to \nextend its guarantee of the LC facility to 2024 at \nWeWork’s\noption on \nterms consistent with the existing LC agreement, \nincluding the \nissuance of \nwarrants.\n3. Assumes $1.1bn Softbank Senior Secured Notes expire in August 2021 if undrawn. $1.1bn facility to be replaced with $550mm new\nSoftbank Senior Secured Facility at a 7.5% interest rate provided at SPAC signing, available at the \nearlier of closing of SPAC or August 12, 2021 (maturity date of existing $1.1B Senior Secured) and available for draw no late\nr than Feb 12, 2023 (or if earlier, 18 months from date of closing of SPAC). \n4. Total Funded Debt includes $669mm of Senior Notes, $2,200mm \nSoftBank Senior Unsecured Notes, and $43mm Subsidiary Debt. Total Net Funded Debt based on $665mm of Cash and Cash Equivalents.\n5.\nGlobal Cash includes $2mm of Other.\n(3)\n($ in millions as of 6/30/2021E)\nCoupon\nMaturity\nOutstanding\nCash and Cash Equivalents\n(1)\n$665 \n$1.75bn LC Balance (Wholly Owned\n) (2)\n5.600% \n2/10/2023\n1,274 \n$1.1bn Senior Secured \nSoftBank\nNotes\n(3)\n12.500% \n–\n–\n$46mm LC Balance (Japan)\n0.200% \nNA\n8\nSubsidiary Debt\n2.500% \n- 3.000%  \nVarious\n43 \nTotal Secured Debt\n$1,325\nNet Secured Debt\n$660 \nSenior Notes\n7.875% \n5/1/2025\n669 \nSoftBank Senior Unsecured Notes\n5.000% \n7/10/2025\n2,200 \nTotal Debt\n$4,194\nNet Debt\n$3,529\nTotal Funded \nDebt\n(4)\n$2,912 \nTotal Net Funded \nDebt\n(4)\n$2,247 \nMemo:Total Available Global \nCash\n(5)\n$667\nUndrawn Secured Financing \nCommitments\n(3)\n$1,100 \nUndrawn Unsecured Financing Commitments\n-\nTotal Undrawn Financing Commitments + Global \nCash\n(3)\n$1,767",
+      "section": "",
+      "summary": "",
+      "key_points": []
+    },
+    {
+      "slide": 37,
+      "mode": "text_layer",
+      "transcript": "© 2021 WeWork. Confidential.\n36\n|\nTransaction overview\n1. Ownership \nexcludes the impact of warrants. Excludes 3.0 million \nBowX Founder Shares subject to forfeiture\n.\n2. Assumes no redemptions by \nBowX existing public shareholders\n.\nBowX Public Shares\n, 6.1% \nPIPE Shares\n, 10.1% \nBowX Founder Shares\n, 1.1% \nExisting WeWork Rollover Equity\n, 82.7% \nPro forma ownership \n(1)\n●\n$1,283 \nmillion total cash \nproceeds\n(2) , \ninclusive of \n$800 million PIPE proceeds\n●$800 million \nPIPE raised at $\n10.00 \nper share\n●\n100 % primary use of \nproceeds\nProposed transaction terms\n36\n© 2021 WeWork. Confidential.\n|",
+      "section": "",
+      "summary": "",
+      "key_points": []
+    },
+    {
+      "slide": 38,
+      "mode": "text_layer",
+      "transcript": "© 2021 WeWork. Confidential.\n37\n|\nTransaction overview (cont’d)\nPlease refer to reconciliation for Adj. EBITDA on pg. \n46 in the appendix.\nSource: Management Projections.\n1. Reflects projected WeWork Total Funded Debt and Cash as of 6/30/2021.\n2. Assumes no redemptions by BowX existing public shareholders.\n3. Reflects projected \nWeWork\nWholly\n- owned \nParentCo\nCash and \nJapanCo Cash as of 6/30/2021. Excludes projected restricted \nJapanCo\nCash of $10mm.\nIllustrative WeWork Share Price\n$10.00 \nPro Forma Shares Outstanding\n792.7 \nPro Forma Equity Value\n$ 7,927 \n(+) Pro Forma Debt\n(1)\n2,912 \n( - ) Pro Forma Cash\n(1)\n( 1,873\n)\nWeWork Enterprise Value\n$ 8,966 \nSourcesExisting BowX Cash in Trust\n(2)\n$483 \nExpected PIPE Proceeds\n800 \nWeWork\nRollover\nEquity\n6,553\nExisting \nWeWork\nCash\n(3)\n665  \nTotal Sources\n$ 8,501\n($ in millions; except per share price)Pro forma valuation\nSources & Uses\n($ in millions)\nUsesCash to Pro Forma 6/30/2021 Balance Sheet\n$ 1,873 \nEquity Consideration to \nWeWork\nShareholders\n6,553 \nEstimated Fees & Expenses\n75\nTotal Uses\n$ 8,501\n●TEV / 2022E Revenue: 2.0x on $4.6bn revenue\n●TEV / 2023E Adj. EBITDA: 6.6x on $1.4bn Adj. EBITDA",
+      "section": "",
+      "summary": "",
+      "key_points": []
+    },
+    {
+      "slide": 39,
+      "mode": "text_layer",
+      "transcript": "© 2021 WeWork. Confidential.\n38\n|\n01 Introduction\n02 WeWork & t\nhe Future of Work\n03 Financial & Transaction Overview\n04 Appendix\nContents",
+      "section": "",
+      "summary": "",
+      "key_points": []
+    },
+    {
+      "slide": 40,
+      "mode": "text_layer",
+      "transcript": "© 2021 WeWork. Confidential.\n39\n|\nRevenue \ncomposition (Excluding \nChinaCo\n)\n($ in millions)\nSource: Management Projections.Note: As presented in this \nManagement Presentation, \ncertain amounts, percentages and other figures have been subject to rounding adjustments. Accordingly, figures shown as total\ns, dollars or percentage amounts of \nchanges may not represent the arithmetic summation or calculation of the figures that precede them\n. Please refer to the Definitions pages in the appendix\n. Regional revenues only include revenues associated with the core \nleasing business. \"Other\" within \nRevenue by Geography includes \nAll Access, Marketplace, Platform and \nVentures. \n1. 2019 and 2020 other revenue was primarily concentrated in US & Canada\n.\n2. FY20 and forward Marketplace revenues is inclusive of technology services that were previously recorded in Core Leasing.\n2019A\n2020A\n2021E\n2022E\n2023E\n2024E\nRevenue by GeographyUS and Canada\n$1,534 \n$ 1,463 \n$1,313 \n$1,949 \n$2,471 \n$2,954 \nEMEA\n705 \n771 \n862 \n1,173 \n1,477 \n1,779 \nLatAm\n185 \n168 \n175 \n279 \n321 \n335 \nPacific\n184 \n236 \n243 \n322 \n397 \n430 \nJapan\n172 \n247 \n325 \n463 \n552 \n640 \nOther\n(1)\n450 \n324 \n327 \n398 \n605 \n829 \nTotal Revenue (Excluding \nChinaCo\n)\n$3,230 \n$ 3,210\n$3,246 \n$4,584 \n$5,822 \n$6,967 \n% YoY Growth\n(1%)\n1% \n41% \n27% \n20% \nRevenue by Product\nCore \nLeased\n(2)\n$2,780 \n$ 2,886 \n$2,919 \n$4,181 \n$5,173 \n$5,992 \nAll Access\n-\n-\n90 \n215 \n345 \n481 \nMarketplace\n32 \n37 \n86 \n153 \n228 \n313 \nPlatform\n5 \n5 \n5 \n12 \n55 \n159 \nVentures\n412 \n282 \n147 \n22 \n22 \n22 \nTotal Revenue (Excluding \nChinaCo\n)\n$3,230 \n$ 3,210 \n$3,246 \n$4,584 \n$5,822 \n$6,967 \n% YoY Growth\n(1%)\n1% \n41% \n27% \n20%",
+      "section": "",
+      "summary": "",
+      "key_points": []
+    },
+    {
+      "slide": 41,
+      "mode": "text_layer",
+      "transcript": "© 2021 WeWork. Confidential.\n40\n|\n2019A\n2020A\n2021E\n2022E\n2023E\n2024E\nTotal Revenue (Excl. Ventures)\n$2,818 \n$2,928\n$3,099 \n$4,562 \n$5,801 \n$6,945 \n% YoY Growth\n4% \n6% \n47% \n27% \n20% \nVentures\n412 \n282 \n147 \n22 \n22 \n22 \nTotal Revenue\n$3,230 \n$3,210 \n$3,246 \n$4,584 \n$5,822 \n$6,967 \n% YoY Growth\n(1%)\n1% \n41% \n27% \n20% \nAdj. \nRent,\nTenancy\n, and Other Building\nExpenses\n(1)\n(2,243)\n(3,116)\n(3,055)\n(3,191)\n(3,484)\n(3,905)\nAdj. Pre\n- Opening \nExpenses\n(1)\n(495)\n(260)\n(115)\n(79)\n(112)\n(143)\nAdj. Functional \nExpenses\n(1)\n(1,796)\n(1,268)\n(850)\n(807)\n(846)\n(909)\nTotal Adj. EBITDA (Excl. Ventures)\n($1,716)\n($1,715)\n($922)\n$485 \n$1,359 \n$1,988 \n% Margin (Excl. Ventures)\n(61%)\n(59%)\n(30%)\n11% \n23% \n29% \nVentures EBITDA\n(1)\n(227)\n(39)\n13 \n–\n–\n–\nTotal Adj. \nEBITDA\n($1,943)\n($1,754)\n($909)\n$485 \n$1,359 \n$1,988 \n% YoY Growth\n10%\n50% \n153% \n180% \n46% \n% Margin\n(60%)\n(55%)\n(28%)\n11% \n23% \n29% \nNegative impact of non\n-cash GAAP straight\n- line \nlease cost on Total Adj. EBITDA\n($832)\n($554)\n($285)\n($101)\n($80)\n($61)\nPositive impact of amortization on lease incentives on Total Adj. EBITDA\n$234 \n$340\n$294 \n$288 \n$296 \n$306 \nGross Capex (incl. Maintenance Capex and Capitalized Payroll)\n($3,312)\n($1,378)\n($343)\n($765)\n($826)\n($1,105)\nTA Allowances\n$1,129 \n$1,329 \n$371 \n$464 \n$339 \n$528 \nNet Capex\n($2,183)\n($49)\n$28 \n($301)\n($487)\n($577)\n% of Revenue\n68%\n2%\nNA\n7%\n8%\n8%\nWeWork financial \noverview (Excluding \nChinaCo\n)\n($ in millions)\nPlease refer to reconciliation for Adj. EBITDA and Adj. EBITDA margin on pg. \n46 in the appendix.\nSource: Management Projections. Note: As presented in this \nManagement Presentation, \ncertain amounts, percentages and other figures have been subject to rounding adjustments. Accordingly, figures shown as total\ns, dollars or percentage amounts of \nchanges may not represent the arithmetic summation or calculation of the figures that precede them. Please refer to the Defin\niti ons pages in the appendix\n.\n1.\nAdj. Rent, Tenancy, and Other Building Expenses, Adj. Pre\n-Opening Expenses, and Adj. Functional Expenses exclude Venture expenses, wh\nich are all reflected in Ventures EBITDA. Excludes stock based \ncompensation.",
+      "section": "",
+      "summary": "",
+      "key_points": []
+    },
+    {
+      "slide": 42,
+      "mode": "text_layer",
+      "transcript": "© 2021 WeWork. Confidential.\n41\n|\nSource: \nManagement \nprojections. \nNote: As presented in this Supplemental information, certain amounts, percentages and other figures have been subject to roun\ndin g adjustments. Accordingly, figures shown as totals, dollars or percentage amounts of changes may \nnot represent the arithmetic summation or calculation of the figures that precede them. The \ncurrent analysis excludes Ventures. \nARPM (Average Revenue per Member) is calculated as revenue for the year divided by average members \ndivided by 12 months. Workstation and membership numbers may not tie to the summarized numbers in the Management Presentation\ndu e to rounding. \n1.\nChinaCo is excluded from Core Leased revenue (\nChinaCo\nwas consolidated until \nOctober 2\nnd , 2020).\n2. FY20 Marketplace Revenue is inclusive of technology services that were previously recorded in Core Leasing.\n3. 2020 Platform Partner Revenue and ARPM reflect preliminary estimates.\nFinancial projection assumptionsWorkstations, Memberships, and ARPM\n(2)\n(3)\n(3)",
+      "section": "",
+      "summary": "",
+      "key_points": []
+    },
+    {
+      "slide": 43,
+      "mode": "text_layer",
+      "transcript": "© 2021 WeWork. Confidential.\n42\n|\n$5,801 \n$1,359 \n$1,042 \n$307 \n($3,484)\n($112)\n($846)\n($400)\n($225)\n2023E Revenue(excl. Ventures)\n2023E Adj. Rent,Tenancy, and OtherBuilding Expenses\n2023EAdj. Pre-Opening Expenses\n2023EAdj. Functional Expenses\n2023E Total Adj.\nEBITDA\n2023E All Access &Platform Revenue\n2023ECore LeasedIncrementalGrowth Revenue\n2023ECore LeasedIncrementalGrowth Expenses\n2023E Adj. EBITDA on Existing CoreLeased Portfolio\nSource: M\nanagement \nprojections. \nNote: The existing Core Leased base plan includes additional growth from currently contracted leases. The above analysis \nexcludes \nVentures.\n1. Adj. Rent, Tenancy, and Other Building Expenses, Adj. Pre\n-Opening Expenses, and Adj. Functional Expenses exclude Ventures expens\nes, which are all reflected in Ventures EBITDA.\n2. Expenses reflect Adj. Rent, Tenancy and Other Building Expenses, Adj. Pre\n-Opening Expenses, and Adj. Functional Expenses associa\nted with Core Leased Incremental Growth Revenue.\n3. Assumes 857k existing Core Leased ending workstations and $573 Core Leased ARPM.\nWeWork Core at maturity achieves ~$5bn of Revenue and ~$1bn of Adj. EBITDA \n($ in millions)\n(1)\n(1)\n(1)\n(2)\n1 percentage point of 2023E core occupancy results in ~$59mm of revenue.\n(3)\n2023E Revenue (excl. Ventures) less All Access, Platform and incremental Core Leased: $5,176mm",
+      "section": "",
+      "summary": "",
+      "key_points": []
+    },
+    {
+      "slide": 44,
+      "mode": "text_layer",
+      "transcript": "© 2021 WeWork. Confidential.\n43\n|\nPro forma board compositionIn line with the Company’s focus on corporate governance, the post\n- transaction \n9 member board \nwill consist of a variety of new and \nexisting investors as well as management to ensure WeWork remains disciplined and aligned with shareholder interests\n1.\nSoftBank Group to have a total of three Board members. \nExecutive Chairman\nMarcelo \nClaure\n(1)\nCEO of the Company\nSandeep Mathrani\nBowX\nVivek \nRanadivé\nSoftBank\nGroup\n2 nominees\n(1)\nSoftBank\nVision Fund\n1 nominee\nBenchmark Capital\n1 nominee\nInsight Partners\n1 nominee\nIndependent\nDirector\nJeff Sine\nBoard Representation",
+      "section": "",
+      "summary": "",
+      "key_points": []
+    },
+    {
+      "slide": 45,
+      "mode": "text_layer",
+      "transcript": "© 2021 WeWork. Confidential.\n44\n|\nTerms & DefinitionsOverall Business Definitions:\n●Core Leased (Core \nWeWork\n) : WeWork’s existing flexible workspace business, including incremental growth for \nWeWork’s\nflexible workspace business.\n●\nMarketplace: \nprovides a holistic marketplace ecosystem in which members can access value\n-added services and flexible real estate products. En\nables members to create a custom \nworkplace experience that meets their business needs. Many of these digitized space and service offerings are offered as a wo\nrkp lace solution via the \nWeWork\nMember app.\n●\nAll Access: \nmonthly membership providing an individual with access to any \nWeWork\nlocation.\n●\nPlatform\n: represents \nWeWork buildings whereby the Company enters into asset\n-light management or franchise agreements with landlords and operates the space \nin exchange for a \nfee.\n●\nVentures: \nincludes \nWeWork\nCapital Advisors and expected to also include \nWeLive\nfrom 2022E.\n●Small and Medium Businesses (SMBs)\n: 1 -99 full time employees (FTEs).\n●Medium and Large Businesses (MLBs)\n: 100\n- 499 FTEs.\n●\nEnterprise\n: 500+ FTEs.\n●\nMature : refers to locations that are open for longer than 12 months. \n●\nNon\n- mature\n: refers to locations that are open for less than 12 months. \n●\nChinaCo\n: no ChinaCo management fee assumed over the projection period given terms of the agreement whereby the Company will be entitled to a mana\nge ment fee beginning on the \nlater of 2022 or the first fiscal year after October 2020 in which EBIT of \nChinaCo\nis positive. For reference, \nChinaCo\nwas deconsolidated in October 2020, and both \nChinaCo\nand \nIndiaCo are unconsolidated equity method investments.\n●WeMembership\n: Legacy product that was a virtual membership which provides user login access to the WeWork member network online or throug\nh t he mobile application as well as \naccess to service offerings and the right to reserve space on an à la carte basis, among other benefits. Each \nWeMembership\nis considered to be one Membership\n.\nOperating KPIs:\n●\nWorkstations\n: represents the estimated number of workstations available at open locations.\n●\nMemberships\n: are the cumulative number of \nWeWork\nphysical and All Access memberships.\n●Physical Occupancy\n: is the number of physical memberships divided by total workstations.\n●Total Occupancy\n: is the number of physical memberships plus All Access memberships\ndivided by of total workstations.\n●Total Enterprise Membership\n: represents memberships attributable to enterprise members, which are organizations with greater than 500 FTEs. Enterprise mem\nber ship percentage \nrepresents the percentage of our memberships attributable to these organizations.",
+      "section": "",
+      "summary": "",
+      "key_points": []
+    },
+    {
+      "slide": 46,
+      "mode": "text_layer",
+      "transcript": "© 2021 WeWork. Confidential.\n45\n|\nTerms & Definitions (Cont’d)Financial Metrics:\n●Building Margin\n: excludes building related depreciation and amortization which would otherwise be included in gross profit determined in accor\ndan ce with US GAAP; In addition, \nBuilding Margin as calculated above for our Mature Locations only includes the direct location operating expenses incurred in\nop erating those locations as the Company does not \nallocate certain community support expenses that are necessary to operate our buildings but not directly tied to an individua\nl b uilding. Building Margin also excludes broker fees and \nmarketing expenses, as well as stock\n-based compensation expense paid to community employees as such costs are non\n- cash in nature\nand not allocated to individual buildings.\n●\nAdj. EBITDA: \nis a non\n-GAAP measure that we define as net loss before income tax (benefit) provision, interest and other (income)expense, depr\neciation and amortization expense, \nstock\n-based compensation expense, expense related to stock\n-based payments for services rendered by consultants, income or expens\ne relating to the changes in fair value of assets \nand liabilities \nremeasured to fair value on a recurring basis, expense related to costs associated with mergers, acquisitions, divestitures and capital \nra ising activities, legal, tax and \nregulatory reserves or settlements, significant non\n-ordinary course asset impairment charges and, to the extent applicable, any \nimpact of discontinued operations, restructuring \ncharges, and other gains and losses on operating assets. Refer to page 45 for a reconciliation of Net Income to Adj. EBITDA.\n○Adj. EBITDA Margin\n: Adj. EBITDA divided by Total Revenue.\n●\nAdj. Rent, \nTenancy \nand Other Building Expenses: \nconsists of \nlocation operating expenses, \nsuch as rent contractually paid or payable, including the impact of non\n-cash GAAP straight\n-\nline lease cost and the amortization of lease incentives, real estate and related taxes and common area maintenance charges a\nnd other building \nopex , such as utilities, maintenance \nand cleaning, insurance, food, and other consumables. Excludes depreciation and amortization \nexpense, stock\n- based compensation expense, and certain community support \nexpenses that are necessary to operate our buildings but not directly tied to an individual \nbuilding.\n●\nAdj. Pre\n- Opening \nExpense\n: consist of expenses (including all lease costs, which also include non\n-cash GAAP straight\n-line lease cost) incurred before a loc\nation opens for member \noperations. Excludes depreciation and amortization expense and stock\n-based compensation expense.\n●Adj. Functional \nExpense: consist of sales and marketing, general and administrative and sourcing, development and other \nexpenses, and \ncertain community support expenses that are \nnecessary to operate our buildings but not directly tied to an individual \nbuilding. Excludes \ndepreciation and amortization expense, stock\n-based compensation expense, expense \nrelated to stock\n-based payments for services rendered by consultants, expense related to costs associated with mergers, acquisit\nions divestitures, and capital raising activities, legal, \ntax, and regulatory reserves or \nsettlements, and legal expenses related to regulatory investigations and litigations arising from the 2019 cancelled IPO.\n●\nNon\n-Cash GAAP Straight\n- Line Lease Costs\n: are required under GAAP to recognize the impact of “free rent” periods and lease cost escalation clauses on a straight\n- line basi\ns over the \nterms of our leases.\n●Amortization of Lease Incentives: \nthe amortization of cash received for tenant improvement allowances and broker commissions (collectively “lease incentives”),\nam ortized on a \nstraight\n-line basis over the terms of our leases as a reduction to the total operating lease cost.",
+      "section": "",
+      "summary": "",
+      "key_points": []
+    },
+    {
+      "slide": 47,
+      "mode": "text_layer",
+      "transcript": "© 2021 WeWork. Confidential.\n46\n|\nFY19 and FY20 Adj\n. EBITDA reconciliation (GAAP to Non\n- GAAP)\nNote: \nFor the year\n-ended 12/31/2019 and 12/31/2020. \nAll columns exclude amounts that eliminate in consolidation. \nAs presented in this \nManagement Presentation, \ncertain amounts, percentages and other figures have been \nsubject to rounding adjustments. Accordingly, figures shown as totals, dollars or percentage amounts of changes may not repre\nsen t the arithmetic summation or calculation of the figures that precede them. \n1.\nPlease see Definitions page in the appendix for detailed definitions.\nImpact of \nChinaCo\nto Total Company Financials \n($ in millions)",
+      "section": "",
+      "summary": "",
+      "key_points": []
+    },
+    {
+      "slide": 48,
+      "mode": "text_layer",
+      "transcript": "© 2021 WeWork. Confidential.\n47\n|\nNon\n-GAAP Reconciliation: FY19 location gross profit (loss) from membership and service revenue and location contribution margin for mature and non\n-mature buildings\n1.\nIncludes \nrent and tenancy expenses, non\n-cash GAAP straight\n-line lease cost, and amortization of lease incentives; excludes building relat\ned depreciation and amortization.\n2. Expenses that are necessary to operate our buildings but not directly tied to an individual building.\n3. Membership and service revenue less location operating expenses, adjusted to exclude non\n- cash stock\n-based compensation included \nin location operating expenses; excludes building related depreciation and amortization\n.\n4. Total (Excl. \nChinaCo\n) includes \nWeLive (Ventures) revenue and expenses, which is reflected in “Other“. \nFinancial Summary ($ in millions)",
+      "section": "",
+      "summary": "",
+      "key_points": []
+    },
+    {
+      "slide": 49,
+      "mode": "text_layer",
+      "transcript": "© 2021 WeWork. Confidential.\n48\n|\nNon\n-GAAP Reconciliation: \nFY20 location gross profit (loss) from membership and service revenue \nand location contribution margin \n1.\nIncludes \nrent and tenancy expenses, non\n-cash GAAP straight\n-line lease cost, and amortization of lease incentives; excludes building relat\ned depreciation and amortization.\n2. Expenses that are necessary to operate our buildings but not directly tied to an individual building.\n3. Membership and service revenue less location operating expenses, adjusted to exclude non\n- cash stock\n-based compensation included \nin location operating expenses; excludes building related depreciation and amortization\n.\n4. Total (Excl. \nChinaCo\n) includes \nWeLive (Ventures) revenue and expenses.\nFinancial Summary ($ in millions)",
+      "section": "",
+      "summary": "",
+      "key_points": []
+    },
+    {
+      "slide": 50,
+      "mode": "text_layer",
+      "transcript": "© 2021 WeWork. Confidential.\n49\n|\nFY19 and FY20 Free Cash Flow reconciliation (GAAP to Non\n- GAAP)\n1. As presented in the Company’s consolidated statements of cash flows.\nFree Cash Flow($ in millions)\nYear Ended December 31,\n2020\n2019\nNet cash provided by (used in) operating \nactivities\n(1)\n$(857)\n$(448)\nLess: Cash purchases of property and \nequipment\n(1)\n( 1,441)\n(3,488)\nFree Cash Flow\n$(2,298)\n$(3,936)\n• Free Cash Flow \nis defined as cash flow from operating activities less cash purchases of property and equipment, each as presented in the \nCompany's consolidated statements of cash flows calculated in accordance with GAAP\n.\n•A reconciliation of net cash provided by (used in) operating activities, the most comparable GAAP measure, to Free Cash Flow \nis set forth \nbelow:",
+      "section": "",
+      "summary": "",
+      "key_points": []
+    }
+  ]
+}

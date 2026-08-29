@@ -47,16 +47,27 @@ SentenceTransformer(settings.models.embedding); \
 CrossEncoder(settings.models.cross_encoder)"
 
 COPY api/ ./api/
+COPY scripts/ ./scripts/
 COPY app.py ./
 
+# The ingested corpus ships with the image. Without it a deployed container has
+# nothing to answer from, and re-ingesting on boot would cost hundreds of vision
+# calls. The FAISS index is deliberately NOT copied — it rebuilds from these
+# documents in ~4s at startup, which avoids serving a stale index.
+COPY data/documents/ ./data/documents/
+COPY data/eval/ ./data/eval/
+
 RUN useradd --create-home --uid 1000 pitchlens \
- && mkdir -p /app/data /app/results \
+ && mkdir -p /app/data/indices /app/data/decks /app/results \
  && chown -R pitchlens:pitchlens /app /opt/models
 USER pitchlens
 
+# Render, Fly and Cloud Run all inject the port to bind. Default to 8000 for
+# local runs and docker-compose.
+ENV PORT=8000
 EXPOSE 8000 8501
 
-HEALTHCHECK --interval=15s --timeout=5s --start-period=60s --retries=5 \
-  CMD python -c "import urllib.request; urllib.request.urlopen('http://localhost:8000/health')"
+HEALTHCHECK --interval=15s --timeout=5s --start-period=90s --retries=5 \
+  CMD python -c "import os,urllib.request; urllib.request.urlopen(f\"http://localhost:{os.environ['PORT']}/health\")"
 
-CMD ["uvicorn", "api.main:app", "--host", "0.0.0.0", "--port", "8000"]
+CMD ["sh", "-c", "uvicorn api.main:app --host 0.0.0.0 --port ${PORT:-8000}"]

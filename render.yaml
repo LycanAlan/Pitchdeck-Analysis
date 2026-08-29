@@ -1,0 +1,34 @@
+# Render blueprint. Deploy with: New > Blueprint > point at this repo.
+#
+# The API is the only public service. Streamlit is optional and costs a second
+# instance, so it is commented out by default -- the FastAPI docs page at /docs
+# is a perfectly good demo surface on its own.
+
+services:
+  - type: web
+    name: pitchlens-api
+    runtime: docker
+    dockerfilePath: ./Dockerfile
+    plan: starter          # free tier lacks the RAM for torch + the encoders
+    healthCheckPath: /health
+    envVars:
+      - key: GEMINI_API_KEY
+        sync: false        # set this in the Render dashboard, never in git
+      # Torch spawns one thread per core and thrashes on a small instance.
+      - key: OMP_NUM_THREADS
+        value: "1"
+      - key: TOKENIZERS_PARALLELISM
+        value: "false"
+
+  # - type: web
+  #   name: pitchlens-ui
+  #   runtime: docker
+  #   dockerfilePath: ./Dockerfile
+  #   plan: starter
+  #   dockerCommand: streamlit run app.py --server.port $PORT --server.address 0.0.0.0
+  #   envVars:
+  #     - key: API_URL
+  #       fromService:
+  #         type: web
+  #         name: pitchlens-api
+  #         property: hostport

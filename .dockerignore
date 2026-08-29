@@ -19,8 +19,11 @@ pyrefly.toml
 .env.*
 !.env.example
 
-# Decks, extracted documents and FAISS indices are bind-mounted at runtime.
-data/
+# Source PDFs are 67MB and the FAISS index is rebuilt inside the container.
+# data/documents (the ingested corpus) and data/eval are NOT excluded: the image
+# copies them so a deployed container has something to answer from.
+data/decks/
+data/indices/
 results/
 *.pdf
 

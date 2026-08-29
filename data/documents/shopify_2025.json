@@ -1,0 +1,429 @@
+{
+  "name": "shopify_2025",
+  "slides": [
+    {
+      "slide": 1,
+      "mode": "vision",
+      "transcript": "",
+      "section": "",
+      "summary": "",
+      "key_points": []
+    },
+    {
+      "slide": 2,
+      "mode": "text_layer",
+      "transcript": "2\nThis presentation contains forward-looking statements and forward looking information \n(collectively, “forward-looking statements”) that are based on our management’s current \nestimates, beliefs and assumptions and management’s perception of historic trends, current \nconditions and expected future developments, as well as other factors management believes are \nappropriate in the circumstances. These statements may be identiﬁed by words such as “expect” \nand “continue”. Although we believe that the plans, intentions, expectations, assumptions and \nstrategies reﬂected in these forward-looking statements are reasonable, these statements relate \nto future events or our future ﬁnancial performance, and involve known and unknown risks, \nuncertainties and other factors, which are, in some cases, beyond our control, and that may \ncause our actual results to be materially diﬀerent from any future results expressed or implied by \nthese forward-looking statements. Although the forward-looking statements contained in this \npresentation are based upon what we believe are reasonable assumptions, investors are \ncautioned against placing undue reliance on these statements since actual results may vary from \nthe forward-looking statements. These risks are described in further detail in our Annual Report \non Form 10-K, in 'Item 1A : Risk Factors' and 'Item 7A : Quantitative and Qualitative Disclosures \nAbout Market Risk’ and as further described in Shopify’s ﬁlings with the U.S. Securities and \nExchange Commission and the securities commissions or similar securities regulatory authorities \nin each of the provinces or territories of Canada, which are available on www.sec.gov and on \nwww.sedarplus.ca. If one or more of these risks or uncertainties occur, or if our underlying \nassumptions prove to be incorrect, actual results may vary signiﬁcantly from those expressed, \nimplied or projected by the forward-looking statements. References to long-term trends in our \nmodel are forward-looking and made as of the current date. Nothing in this presentation should \nbe regarded as a representation by any person that these long-term trends will be achieved and \nwe undertake no duty to update these long-term trends or any other forward-looking statements \ncontained in this presentation, except as required by law.\nWe believe that the case studies presented in this presentation provide a representative sample \nof how our merchants have been able to use various features of our platform to grow their \nrespective businesses. References in this presentation to growth and sales following \nimplementation of our platform do not necessarily mean that our platform was the only factor \ncontributing to such increases. \nTo supplement our consolidated ﬁnancial statements, which are prepared and presented in \naccordance with United States generally accepted accounting principles (\"GAAP\"), Shopify uses \ncertain non-GAAP and other ﬁnancial measures to assist investors in understanding our ﬁnancial \nand operating performance. These measures are not recognized measures for ﬁnancial \nstatement presentation under GAAP, do not have standardized meanings, and may not be \ncomparable to similar measures presented by other public companies. These measures should \nbe considered a supplement to, not a substitute for, or superior to, the corresponding measures \ncalculated in accordance with GAAP. Please refer to the Appendix titled “Non-GAAP and Other \nFinancial Measures” for further information.\nThis presentation contains information concerning our industry, including information relating to \nthe size of the markets in which we participate, that are based on industry surveys and \npublications or other publicly available information, other third-party survey data and research \nreports. This information involves many assumptions and limitations, there can be no guarantee \nas to the accuracy or reliability of such assumptions and you are cautioned not to give undue \nweight to this information. While we believe this information to be reliable, it has not been \nindependently veriﬁed.\n \nThis presentation contains trademarks, service marks, trade names and copyrights of Shopify \nand other companies, which are the property of their respective owners.\nFebruary 2025\nAdvisories",
+      "section": "",
+      "summary": "",
+      "key_points": []
+    },
+    {
+      "slide": 3,
+      "mode": "text_layer",
+      "transcript": "3\nRevenue in 2024\n(up 26% YoY)\n$8.9B\n1 Cumulative Shopify GMV since Shopify’s inception\n2 The US ecommerce market is based on a combination of US Census Bureau data (Quarterly Retail E-Commerce Sales, not adjusted) and internal estimates. Shopify market share represents sales by Shopify merchants based on \nShopify’s 2024 US GMV (excluding merchant sales made through POS).\nShopify  Snapshot\nGlobal commerce1  \nsince Shopify’s inception\n$1.1T\nUS ecommerce market \nshare2 and expect further \npenetration\n>12%\nof merchants in\nMillions\nUnique online shoppers \npurchasing from Shopify \nmerchants in 2024\n875M+\n175+ countries\nFeatured merchant",
+      "section": "",
+      "summary": "",
+      "key_points": []
+    },
+    {
+      "slide": 4,
+      "mode": "text_layer",
+      "transcript": "4\nWe help accelerate\nthe power of \nentrepreneurship and \nmerchant success\nInvestment thesis\nWe are a leading \nplatform for \nentrepreneurship…\nAs our \nmerchants do \nbetter, Shopify \ndoes better\n… and \nincreasingly \nall of \ncommerce",
+      "section": "",
+      "summary": "",
+      "key_points": []
+    },
+    {
+      "slide": 5,
+      "mode": "text_layer",
+      "transcript": "5\nWe started online and built a commerce platform\nthat helps merchants sell everywhere their customers are\nOver 90% of our merchants have installed two or more channels\n2006\nToday\nB2B\nOnline\nBrick & mortar\nPop-ups\nMarketplaces\nSocial",
+      "section": "",
+      "summary": "",
+      "key_points": []
+    },
+    {
+      "slide": 6,
+      "mode": "text_layer",
+      "transcript": "6\nWe continue to expand \nShopify’s breadth to \nmake it even easier for \nmerchants to start and \nscale their business\nOrder\nmanagement\nBack oﬃce\nShipping\nApps\nMarketing &\nanalytics\nCross-border",
+      "section": "",
+      "summary": "",
+      "key_points": []
+    },
+    {
+      "slide": 7,
+      "mode": "text_layer",
+      "transcript": "7\n  \nOnline\nOﬄine\nFront Oﬃce\nBack Oﬃce\nDomestic\nGlobal\nDesktop\nMobile\nDTC\nB2B\nMarketing\nAnalytics\n3P\n1P\nCore\nMerchant \nServices\nShopify has evolved into a uniﬁed operating system \nfor commerce anywhere, anytime",
+      "section": "",
+      "summary": "",
+      "key_points": []
+    },
+    {
+      "slide": 8,
+      "mode": "text_layer",
+      "transcript": "8\nQ4 Brands*\nConsumers’ favorite brands powered by Shopify\n* Includes both launched and signed merchants as of February 10, 2025\nCCS",
+      "section": "",
+      "summary": "",
+      "key_points": []
+    },
+    {
+      "slide": 9,
+      "mode": "text_layer",
+      "transcript": "9\nMerchant-ﬁrst focus through product innovation\nOFFLINE\nCROSS-BORDER\nLanguages\nFX & VAT\nBACK OFFICE\nShopify Protect\nShopify Tax\nShopify Flow\nShopify Functions\nShopify Bill Pay\nMARKETING\nShopify Email\nMULTI CHANNEL\nBUSINESS-TO-\nBUSINESS\nB2B on Shopify\nAGENCY & SYSTEM \nINTEGRATOR PARTNERS\nECOSYSTEM\nPLATFORM\nHydrogen\nOxygen\nCONSUMER FACING\nMONEY\nSHIPPING\nARTIFICIAL \nINTELLIGENCE (AI)\nShopify Magic\nSidekick\nPOS Terminal\nPRO\nShopify Subscriptions\nShop Campaigns\nCross-border sales tools\nManaged Markets\n*Markets Pro rebranded as Managed Markets at Summer ‘24 Edition in June 2024.",
+      "section": "",
+      "summary": "",
+      "key_points": []
+    },
+    {
+      "slide": 10,
+      "mode": "text_layer",
+      "transcript": "10\nLaunching 100 to 150+ features and updates every six months \nShopify Editions",
+      "section": "",
+      "summary": "",
+      "key_points": []
+    },
+    {
+      "slide": 11,
+      "mode": "text_layer",
+      "transcript": "11\nMore merchant\nGMV\nMore economies\nof scale\nMore products\nand solutions\nMore\nmerchants",
+      "section": "",
+      "summary": "",
+      "key_points": []
+    },
+    {
+      "slide": 12,
+      "mode": "text_layer",
+      "transcript": "12\nWith solutions that make it easier for merchants to… \n…thrive at \nany stage\nHydrogen\nOxygen\nStarter Plan\nBasic Plan\nShopify Plan\nAdvanced Plan\n \n… and discover \nnew customers\nTokengated Commerce\nShopify Email\n…run and manage\na business \n…sell wherever \nbuyers are\nB2B on Shopify\nPRO\nMarketplace Connect app\nAI solutions:\nMagic + Sidekick \nShop Pay Installments  •  Shopify Flow\nShopify Tax  •  Shopify Fraud Protection\nShopify Credit  • Shopify Subscriptions \nShopify Bill Pay\nRetail Plan\nCross-border sales tools\nManaged Markets\n* Markets Pro rebranded as Managed Markets and Markets rebranded as cross-border sales tools.at Summer ‘24 Edition in June 2024.",
+      "section": "",
+      "summary": "",
+      "key_points": []
+    },
+    {
+      "slide": 13,
+      "mode": "text_layer",
+      "transcript": "13\nBasic\n$39 per month\nStarter\n$5 per month\nShopify\n$105 per month\nRetail\n$89 per month\nAdvanced\n$399 per month\nCommerce Components\nVariable depending on merchant\nShopify Plus\n$2,300+ per month + variable platform fee*\nSTARTER\nCCS\nPLUS\nRETAIL\nSo that businesses\nnever need to leave\nthe Shopify platform\nEntrepreneur\nEnterprise\n* Price reﬂected here is the 3-year contract term. For the 1-year contract term the price is $2,500 per \nmonth + variable platform fee.",
+      "section": "",
+      "summary": "",
+      "key_points": []
+    },
+    {
+      "slide": 14,
+      "mode": "text_layer",
+      "transcript": "14\n“Having something where we can build a \nB2B pipeline with Shopify is great \nbecause it means we can trial something \nimpactful without investing in other \ntechnical systems.”\n“We are now able to not only provide a \nbetter experience to existing customers, \nbut also attract those who were not \nshopping with us before. To be able to do \nboth, that’s really what the objective is.”\n“Now I can go into Shopify POS and spin \nup a new store in half an hour. Then \nanytime something sells in store, it \nautomatically adjusts the inventory online \nas well. It's a game-changer when you're \ntrying to set up an omnichannel business.”\nB2B on Shopify\nYuJin Yong — VP of Digital\nMichael Nadboy — Chief Marketing Oﬃcer\nDavid Franks — Co-founder and CTO\nCCS",
+      "section": "",
+      "summary": "",
+      "key_points": []
+    },
+    {
+      "slide": 15,
+      "mode": "text_layer",
+      "transcript": "15\n$27B\nUnlocking opportunities \nthat are only possible \non Shopify\ncumulative GMV* \nsince launch in 2017\n$202B\nGMV in Q4 2024\n     +50% YoY\n$75B\nGMV in 2024\n     +50% YoY\nHundreds of Millions \nbuyers opted-in to Shop Pay\n* Gross Merchandise Volume (GMV) represents the total dollar value of orders facilitated through the \nShopify platform including certain apps and channels for which a revenue-sharing arrangement is in place \nin the period, net of refunds, and inclusive of shipping and handling, duty and value-added taxes.",
+      "section": "",
+      "summary": "",
+      "key_points": []
+    },
+    {
+      "slide": 16,
+      "mode": "text_layer",
+      "transcript": "16\nShopify excels at building a global ecosystem\nCultivating partnerships with industry leaders: When our partners succeed, our merchants succeed, and we succeed\n$1.0B\n16,000+\nService & technology partners:  \nProduct partners:\nApp & channel partners: \nPaid out in the last 12 months to \npartners by Shopify for apps beneﬁting \nour merchants (December 31, 2024)\nApps in our App Store \n(December 31, 2024)",
+      "section": "",
+      "summary": "",
+      "key_points": []
+    },
+    {
+      "slide": 17,
+      "mode": "text_layer",
+      "transcript": "17\n2021\n2017\n2016\n2.9x Growth\n12% CAGR\n2015\n2018\n2019\n2020\n2022\n2023\nOur revenue cohorts get stronger over time…\nHow our Q1 2015 cohort has grown\n*Example of quarterly revenue from a single cohort, the Q1 2015 merchant cohort, excluding Logistics (as of December 2024)\n**Growth calculation reﬂects last four quarters of revenue reported (ending in Q4 2024) divided by ﬁrst four full quarters of revenue (Q2 2015-Q1 2016 for the Q1 2015 merchant cohort)\n2024",
+      "section": "",
+      "summary": "",
+      "key_points": []
+    },
+    {
+      "slide": 18,
+      "mode": "text_layer",
+      "transcript": "18\nQ1 2015\nQ1 2016\nQ1 2017\nQ1 2018\nQ1 2019\nQ1 2020\nQ1 2021\nQ1 2022\nAge in quarters\nRevenue growth\n…and that pattern persists across all our cohorts\n*Examples of quarterly revenue retention from merchant cohorts, excluding Logistics\n**Revenue retention calculation reﬂects the quarterly revenue in a given period for each cohort divided by each cohort’s ﬁrst full ﬁscal quarter of revenue after joining the platform, respectively\nQ1 2023",
+      "section": "",
+      "summary": "",
+      "key_points": []
+    },
+    {
+      "slide": 19,
+      "mode": "text_layer",
+      "transcript": "19\nLarge and growing opportunity: \nMassive global market with \naccelerated ecommerce penetration",
+      "section": "",
+      "summary": "",
+      "key_points": []
+    },
+    {
+      "slide": 20,
+      "mode": "text_layer",
+      "transcript": "20\nEntrepreneurship is more accessible and more important than ever\nMonthly new business applications (US)\n0K\n200K\n400K\n600K\nSource: US Census Bureau, Seasonally Adjusted Business Applications (as of December 2024)\n2016\n2018\n2020\n2022\n2024\n~5M\nnew business formations in the US \nover each of the last 4 years – a step \nchange in entrepreneurship",
+      "section": "",
+      "summary": "",
+      "key_points": []
+    },
+    {
+      "slide": 21,
+      "mode": "text_layer",
+      "transcript": "21\nNorth America\nEurope, Middle East, Africa\nAsia-Paciﬁc (ex-China)\nLatin America\nOur core market of ecommerce still has so much runway\n2014\n2024\nEcommerce penetration of retail sales\n6%\n5%\n4%\n16%\n11%\n11%\nSource: eMarketer, “Retail and ecommerce Sales, by Country” (as of December 2024)\n2%\n11%",
+      "section": "",
+      "summary": "",
+      "key_points": []
+    },
+    {
+      "slide": 22,
+      "mode": "text_layer",
+      "transcript": "22\n2015\n2020\n2023\nFuture\n$46B\n$153B\n$849B\nSubscription \nSolutions\nB2B on Shopify\nInstallments\ntax\nand more…\nMore products\nMore geographies\nMore merchant sizes\nWe are creating and \nexpanding our total \naddressable market through…\nSource: Shopify internal estimates, third-party study, eMarketer, Evolve Business Intelligence, Grandview Research, US Bureau of Labor Statistics, Statista\n*Revenue opportunity shown. Products shown in accordance with time of product launch.  Shopify Logistics excluded. 2015 and 2020 TAM previously disclosed based on average revenue \nper merchant and estimated number of retail businesses globally per third party study. 2023 TAM based on a top-down and bottoms-up analysis by product\nManaged Markets",
+      "section": "",
+      "summary": "",
+      "key_points": []
+    },
+    {
+      "slide": 23,
+      "mode": "text_layer",
+      "transcript": "23\n$404B\nRevenue SAM\nCore geographies \n$849B\nGlobal revenue TAM\nSubscription Solutions\n$81B\nPayments - online\n$157B\nOther merchant services\n$152B\nPayments - oﬄine\n$459B\n1% penetrated\n2% penetrated\nWith only 2% penetration of our opportunity in the\ngeographies that we currently serve\nSource: Shopify internal estimates, third-party study, eMarketer, Evolve Business Intelligence, Grandview Research, US Bureau of Labor Statistics, Statista\n*Analysis predominantly includes countries with Shopify Payments presence, including North America and select regions in Europe and Asia-Paciﬁc (as of December 2023)",
+      "section": "",
+      "summary": "",
+      "key_points": []
+    },
+    {
+      "slide": 24,
+      "mode": "text_layer",
+      "transcript": "24\nAnnual ﬁnancials\nWhen our merchants become \nmore successful, Shopify \nbecomes more successful",
+      "section": "",
+      "summary": "",
+      "key_points": []
+    },
+    {
+      "slide": 25,
+      "mode": "text_layer",
+      "transcript": "25\nHelping our merchants grow their business drives our business\nGMV\nRevenue\n$8.9B\n$2.9B\n$4.6B\n$5.6B\n$7.1B\n$119B\n$175B\n$197B\n$236B\n$292B\n2021\n2022\n2023\n2024\n+47%\n+12%\n+20%\n+24%\nYoY \nGrowth\n2020\n+98%\n2021\n2022\n2023\n2024\n+57%\n+21%\n+26%\n+26%\n2020\n+86%\nMerchant Solutions\nSubscription Solutions\nTaking market share, while delivering 20% or greater GMV and revenue growth in the past two years\nPercentage of revenue in 2024\n74%\n26%",
+      "section": "",
+      "summary": "",
+      "key_points": []
+    },
+    {
+      "slide": 26,
+      "mode": "text_layer",
+      "transcript": "26\nShopify Payments penetration continues to increase over time\nGross Payments Volume (GPV)*\n*Gross Payments Volume, or GPV, is the amount of GMV processed through Shopify Payments\n62%\n2024\n45%\n49%\n54%\n58%\nGMV penetration %\n$181B\n2020\n$54B",
+      "section": "",
+      "summary": "",
+      "key_points": []
+    },
+    {
+      "slide": 27,
+      "mode": "text_layer",
+      "transcript": "27\n$54M\nMonthly Recurring Revenue* continues to grow\nQ4 2019\nQ4 2020\nQ4 2021\nQ4 2022\nQ4 2023\nQ4 2024\n* Monthly Recurring Revenue, or MRR, is calculated at the end of each period by multiplying the number of merchants who have subscription plans with us at the period end date by the \naverage monthly subscription plan fee in eﬀect on the last day of that period, assuming they maintain their subscription plans the following month. In Q1 2024, Shopify revised the \ninclusion of paid trials in the calculation of MRR. Revised MRR for Q1 2023, Q2 2023, Q3 2023, and Q4 2023 were $114 million, $135 million, $137 million, $144 million, respectively.\n$178M\n27% 5-Year CAGR",
+      "section": "",
+      "summary": "",
+      "key_points": []
+    },
+    {
+      "slide": 28,
+      "mode": "text_layer",
+      "transcript": "28\n*Free Cash Flow and Free Cash Flow Margin are non-GAAP ﬁnancial measures. See \"Non-GAAP and Other Financial Measures\" in the Appendix for more information.\nEnabling a compelling business model of growth and proﬁtability \nDelivering gross proﬁt dollar growth balanced with disciplined investment to fuel innovation and enable our ﬂywheel\nGross Proﬁt\n2020\n2024\n2021\n2022\n2023\n$485M\n($186M)\n$905M\n$1.6B\n$383M\n2020\n2024\n2021\n2022\n2023\n$2.5B\n$2.8B\n$3.5B\n$4.5B\n$1.5B\n53.8%\n49.2%\n49.8%\n50.4%\n52.6%\n13%\n-3%\n11%\n13%\n18%\nGross Margin\nGross Proﬁt\nFree cash ﬂow margin\nFree cash ﬂow\nFree Cash Flow*",
+      "section": "",
+      "summary": "",
+      "key_points": []
+    },
+    {
+      "slide": 29,
+      "mode": "text_layer",
+      "transcript": "29\nInternational remains a large and growing opportunity\nRevenue by region\nInternational revenue has grown nearly 3.5X since 2020\nNorth America\nEurope, Middle East, Africa\nAsia Paciﬁc\nLatin America\n10%\n$292M\n$2.9B\n16%\n$454M\n73%\n$2.1B\n1%\n$36M\n2020\n$1.7B\n1%\n$8.9B\n19%\n$97M\n70%\n$6.2B\n2024\n10%\n$885M",
+      "section": "",
+      "summary": "",
+      "key_points": []
+    },
+    {
+      "slide": 30,
+      "mode": "text_layer",
+      "transcript": "30\nQuarterly ﬁnancials\nWhen our merchants become \nmore successful, Shopify \nbecomes more successful",
+      "section": "",
+      "summary": "",
+      "key_points": []
+    },
+    {
+      "slide": 31,
+      "mode": "text_layer",
+      "transcript": "31\n$94.5B\nGMV\nQ1 2024\nQ2 2024\nQ3 2024\nQ4 2024\nRevenue\nConsistent >20% growth in GMV and revenue, with Q4 growth accelerating\n$69.7B\n$60.9B\n$67.2B\n+23%\n+22%\n+24%\n+26%\nYoY \nGrowth\n$75.1B\nQ4 2023\n+23%\n$2.8B\n$1.9B\n$2.0B\n$2.2B\n$2.1B\nMerchant Solutions\nSubscription Solutions\nQ1 2024\nQ2 2024\nQ3 2024\nQ4 2024\n+23%\n+21%\n+26%\n+31%\nQ4 2023\n+24%\nPercentage of revenue\n76%\n24%",
+      "section": "",
+      "summary": "",
+      "key_points": []
+    },
+    {
+      "slide": 32,
+      "mode": "text_layer",
+      "transcript": "32\nGMV growth \nabove 20%\n25% or greater revenue \ngrowth, excluding logistics\ndouble-digit free \ncash ﬂow margin\n32\npositive free \ncash ﬂow\nconsecutive \nquarters of \nconsecutive \nquarters of \nconsecutive \nquarters of \nconsecutive \nquarters of",
+      "section": "",
+      "summary": "",
+      "key_points": []
+    },
+    {
+      "slide": 33,
+      "mode": "text_layer",
+      "transcript": "33\n64%\nQ4 2024\n45%\n60%\n61%\n62%\nGMV penetration %\n$60.7B\nQ4 2023\n$45.1B\nShopify Payments penetration continues to increase over time\nGross Payments Volume (GPV)*\n*Gross Payments Volume, or GPV, is the amount of GMV processed through Shopify Payments",
+      "section": "",
+      "summary": "",
+      "key_points": []
+    },
+    {
+      "slide": 34,
+      "mode": "text_layer",
+      "transcript": "34\n$666M\nQ1 2023\nQ2 2023\nQ3 2023\nQ4 2023\nSubscription solutions revenue continues to increase year-over-year\nConsistent growth across our ecosystem and plans\nQ1 2024\nQ2 2024\nQ3 2024\nQ4 2024\nQ4 2022\n*Numbers may not foot due to rounding.\nRevenue - Standard\nRevenue - Shopify Plus\nRevenue - Apps, Themes, Domains, Shopify Plus Platform Fee\n19%\n27%\n54%\n11%\n30%\n59%\n14%\n27%\n59%\n14%\n26%\n60%\n18%\n25%\n56%\n13%\n27%\n60%\n14%\n26%\n60%\n15%\n27%\n59%\n20%\n26%\n55%\n$525M\n$400M\n27% YoY",
+      "section": "",
+      "summary": "",
+      "key_points": []
+    },
+    {
+      "slide": 35,
+      "mode": "text_layer",
+      "transcript": "35\n  \n \nDelivering sustained and growing proﬁtability, year over year\nQ1 2024\nQ2 2024\nQ3 2024\nQ4 2024\n$1.1B\n$957M\n$1.0B\nQ1 2024\nQ2 2024\nQ3 2024\nQ4 2024\nQ4 2023\nQ4 2023\n$1.1B\n51.4%\n51.1%\n51.7%\n48.1%\n49.5%\n  \n \n5%\n12%\n13%\n17%\n13%\nGross Proﬁt\nGross Margin\nGross Proﬁt\nOperating Margin\nOperating Income\nOperating Income\n$289M\n$86M\n$241M\n$283M\n$465M\n$1.4B",
+      "section": "",
+      "summary": "",
+      "key_points": []
+    },
+    {
+      "slide": 36,
+      "mode": "text_layer",
+      "transcript": "36\nIn Q4, we reached our lowest quarterly operating expenses as a percentage of \nrevenue since we went public a decade ago\n* Chart depicts Operating Leverage, which is measured using Operating Expenses (Opex) as a percentage of revenue. Numbers may not foot due to rounding. Operating Expenses, excluding one-time items, is non-GAAP measure that is reconciled in \nthe Appendix.\nExcludes one-time items including severance, loss on sale of businesses, real estate impairments, accelerated stock-based compensation and legal settlements.\n60%\n47%\n48%\n42%\n43%\n39%\n36%\n32%\nTotal operating expenses, excluding one-time items, as a percentage of revenue",
+      "section": "",
+      "summary": "",
+      "key_points": []
+    },
+    {
+      "slide": 37,
+      "mode": "text_layer",
+      "transcript": "37\n33%\nRemain committed to driving balanced levels of operating leverage with \ncontinued focus on key investments to support our long-term growth \nSales and marketing\n* Chart depicts Operating Leverage, which is measured using Adjusted Operating Expenses (Opex) as a percentage of revenue. Numbers may not foot due to rounding. Adjusted Operating Expenses is non-GAAP measure that is reconciled in the Appendix.\nExcludes stock-based compensation, related payroll taxes, acquired intangibles and one-time items (severance, loss on sale of businesses, real estate impairments, accelerated stock-based compensation and legal settlements)\nResearch and development\nGeneral and administrative\nTransaction and loan losses\n41%\n41%\n37%\n37%\n31%\n27%\nQ1 2024\nQ2 2023\nQ2 2024\nQ3 2023\nQ3 2024\nQ4 2023\nQ4 2024\nQ1 2023\n3%\n23%\n18%\n7%\n3%\n14%\n19%\n5%\n2%\n17%\n17%\n6%\n2%\n13%\n17%\n5%\n2%\n13%\n16%\n5%\n3%\n12%\n15%\n4%\n2%\n12%\n14%\n4%\n3%\n10%\n12%\n3%\nTotal adjusted operating expenses as percentage of revenue\n51%",
+      "section": "",
+      "summary": "",
+      "key_points": []
+    },
+    {
+      "slide": 38,
+      "mode": "text_layer",
+      "transcript": "38\nQ4 free cash ﬂow margin expanded QoQ and YoY, delivering sixth \nconsecutive quarter of double-digit free cash ﬂow margin\n* Free Cash Flow (FCF) margin is a non-GAAP ﬁnancial measure. See \"Non-GAAP and Other Financial Measures\" in the Appendix for more information.\n  Q2 2023 includes $1.7B in one-time items from the impairment and acceleration of stock-based compensation related to the sales of our logistics businesses, as well as severance.\nFCF margin %\n19%\nQ3 2024\n16%\nQ2 2024\n12%\nQ1 2024\n21%\nQ4 2023\n6%\nQ2 2023\n6%\nQ1 2023\n22%\nQ4 2024\n16%\nQ3 2023",
+      "section": "",
+      "summary": "",
+      "key_points": []
+    },
+    {
+      "slide": 39,
+      "mode": "text_layer",
+      "transcript": "39\nQ1 2025\nRevenue to grow at a mid-twenties percentage rate on a YoY basis\nRevenue\nOutlook\nGAAP operating expense as a percentage of revenue to be 41% to 42%\nOperating expenses\nGross proﬁt dollars to grow at a low-twenties rate on a YoY basis\nGross proﬁt dollars\nStock-based compensation to be approximately $120M\nStock-based compensation\nFree cash ﬂow margin to be in the mid-teens\nFree cash ﬂow margin\nWe expect the strong merchant momentum from Q4 to carry over into Q1, \nrecognizing that Q1 is consistently our lowest GMV quarter seasonally. \nWith that backdrop, for the ﬁrst-quarter of 2025 we expect:",
+      "section": "",
+      "summary": "",
+      "key_points": []
+    },
+    {
+      "slide": 40,
+      "mode": "vision",
+      "transcript": "",
+      "section": "",
+      "summary": "",
+      "key_points": []
+    },
+    {
+      "slide": 41,
+      "mode": "text_layer",
+      "transcript": "41\nGrow our core \nmerchant base\nSMB\nNorth America\nDTC\nOnline\nAdd\nExpand\nInnovate\nWe will continue to evolve our product portfolio to\nhelp merchants of all sizes address every corner of commerce\nExpand the types\nof merchants\nwe serve\nEnterprise\nInternational\nB2B\nOﬄine + uniﬁed\ncommerce\nHelp our\nmerchants grow\nMonetize\nCross-sell\nUpgrades\nInnovate\n600+ new features in\nlast 24 months*\nShopify Magic + \nCommerce-focused AI\nNew products\nBring more buyers to\nour merchants\nHelp merchants drive \nbetter conversion\n*  As of December 2024 Winter Edition",
+      "section": "",
+      "summary": "",
+      "key_points": []
+    },
+    {
+      "slide": 42,
+      "mode": "text_layer",
+      "transcript": "42\n$588M\nOﬄine revenue\nin 2024* \n1,000+\nPOS location\ncapacity \n33%\nOﬄine revenue \ngrowth YoY\n15 countries\nPOS hardware with integrated Payments\nOﬄine + uniﬁed commerce\n*Oﬄine revenue includes revenue from Shopify Payments for oﬄine, POS Pro, Retail Plan subscriptions, and POS hardware.\nOﬄine is gaining momentum and is \nexpected to be a key growth driver \nin 2025 and beyond\n+26%\nOﬄine GMV growth YoY\nQ4 2024\nAt a glance\n$100B+\nCumulative oﬄine GMV \nsince launch of Shopify \nPOS",
+      "section": "",
+      "summary": "",
+      "key_points": []
+    },
+    {
+      "slide": 43,
+      "mode": "text_layer",
+      "transcript": "43\nWe continue to localize our platform and \nfeature set to merchants across the globe, \nlowering the barriers to entrepreneurship\nGoing global\nMillions \nof merchants in \n175+ countries\n15%\n50%\n30%\n5%\nNorth America\nEurope, Middle East, Africa\nAsia Paciﬁc\nLatin America\n* Represents the distribution of our merchant base as of  December 31, 2024\n70%\nof revenue in 2024\nNorth America\n30%\nof revenue in 2024\nup 33% YoY\nInternational\nIntroduced Shopify Tax to the UK and EU\nExpanded POS Terminal to 8 additional countries\nAdded more local shipping carrier options \nfor merchants in Europe and the UK\nIntegrated Payments into Shopify POS in France\nup 23% YoY\nRolled out Klarna as a local payment method \nin Shopify Payments to 4 additional countries",
+      "section": "",
+      "summary": "",
+      "key_points": []
+    },
+    {
+      "slide": 44,
+      "mode": "text_layer",
+      "transcript": "44\nOur enterprise-level oﬀerings, whether full-stack, headless, or composable, \nare gaining widespread recognition built on a powerful go-to-market strategy\nEnterprise \nIndustry recognition\nHigh-volume brands who said \nyes to Shopify in 2024\nBuilding powerful\npartnerships\n*  Finding from an external study by a leading independent consulting ﬁrm from March 2024.\n2024\nIDC - Leader in mid-market\nForrester Wave Report\n- Leader in B2B \nIndependent study conﬁrmed\n- Best TCO in commerce* \nGartner Magic Quadrant for \nDigital Commerce - Leader in \nenterprise",
+      "section": "",
+      "summary": "",
+      "key_points": []
+    },
+    {
+      "slide": 45,
+      "mode": "text_layer",
+      "transcript": "45\nLarge and growing\nopportunity\nMassive global market with \naccelerated ecommerce \npenetration\nMission-critical \nsolutions\nMultichannel commerce platform \nthat enables merchants of all sizes \nto sell to anyone, anywhere\nMerchant\nsuccess-based \nbusiness model\nBusiness model that puts \nmerchants ﬁrst\nMultiple vectors \nfor growth\nGrowth opportunities across \nmerchant segments, geographies, \nchannels, and products\nInvestment highlights",
+      "section": "",
+      "summary": "",
+      "key_points": []
+    },
+    {
+      "slide": 46,
+      "mode": "text_layer",
+      "transcript": "46\nHowever commerce evolves, \nShopify will be the engine \nbehind it. The merchants\nwho are the backbone of the \neconomy demand it of us. \nWe’re just getting started.",
+      "section": "",
+      "summary": "",
+      "key_points": []
+    },
+    {
+      "slide": 47,
+      "mode": "vision",
+      "transcript": "",
+      "section": "",
+      "summary": "",
+      "key_points": []
+    },
+    {
+      "slide": 48,
+      "mode": "text_layer",
+      "transcript": "48\nTo supplement our consolidated ﬁnancial statements, which are prepared and presented in accordance with United States generally accepted accounting principles (\"GAAP\"), \nShopify uses certain non-GAAP and other ﬁnancial measures to provide additional information in order to assist investors in understanding our ﬁnancial and operating \nperformance. These measures are not recognized measures for ﬁnancial statement presentation under U.S. GAAP and do not have standardized meanings, and may not be \ncomparable to similar measures presented by other public companies.\nAdjusted operating expenses is a non-GAAP ﬁnancial measure that excludes the eﬀect of stock-based compensation expenses and related payroll taxes, amortization of \nacquired intangibles, accelerated stock-based compensation, severance, impairment of right-of-use assets and leasehold improvements, provisions associated with \nlitigation-related accruals and impairment on sales of Shopify’s logistics businesses. Operating leverage is a non-GAAP ratio that is calculated by dividing adjusted operating \nexpenses by revenue. Operating expenses, excluding one time items, is a non-GAAP ﬁnancial measure that excludes accelerated stock-based compensation, severance, \nimpairment of right-of-use assets and leasehold improvements, provisions associated with litigation-related accruals and impairment on sales of Shopify’s logistics businesses. \nOperating leverage is a non-GAAP ratio that is calculated by dividing operating expenses, excluding one-time items by revenue.  Free cash ﬂow is a non-GAAP ﬁnancial \nmeasure calculated as cash ﬂow from operations less capital expenditures. Free cash ﬂow margin is a non-GAAP ratio calculated as free cash ﬂow divided by revenue. \nManagement uses non-GAAP and other ﬁnancial measures internally for ﬁnancial and operational decision-making and as a means to evaluate period-to-period comparisons. \nShopify believes that these measures provide useful information about operating results, enhance the overall understanding of past ﬁnancial performance and future prospects, \nand allow for greater transparency with respect to key metrics used by management in its ﬁnancial and operational decision making. The non-GAAP and other ﬁnancial \nmeasures used herein should be considered a supplement to, and not a substitute for, or superior to, the corresponding measures calculated in accordance with GAAP.\nFebruary 2025\nNon-GAAP and other ﬁnancial measures",
+      "section": "",
+      "summary": "",
+      "key_points": []
+    },
+    {
+      "slide": 49,
+      "mode": "text_layer",
+      "transcript": "49\nReconciliation of GAAP operating expenses to adjusted \noperating expenses\nExpressed in US millions $, except percentages\nQ1’23\nQ2’23\nQ3’23\nQ4’23\nQ1’24\nQ2’24\nQ3’24\nQ4’24\nGAAP Sales and marketing\n287\n321\n295\n317\n361\n353\n331\n348\nless: Sales and marketing SBC and related payroll taxes\n15\n12\n13\n14\n12\n10\n15\n13\nless: Accelerated stock-based compensation\n-\n1\n4\n-\n-\n-\n-\n-\nless: Amortization of acquired intangibles\n2\n1\n-\n-\n-\n-\n-\n1\nless: Severance related costs\n-\n28\n-\n-\n-\n-\n-\n-\nAdjusted Sales and marketing\n270\n279\n278\n303\n349\n343\n316\n334\n% of Revenue\n18%\n16%\n16%\n14%\n19%\n17%\n15%\n12%\nGAAP Research and development\n458\n648\n313\n311\n335\n349\n332\n351\nless: Research and development SBC and related payroll taxes\n106\n88\n70\n69\n72\n73\n77\n81\nless: Accelerated stock-based compensation\n-\n164\n-\n-\n-\n-\n-\n-\nless: Severance related costs\n-\n102\n-\n-\n-\n-\n-\n-\nless: Amortization of acquired intangibles\n-\n-\n-\n-\n-\n-\n1\n-\nAdjusted Research and development\n352\n294\n243\n242\n263\n276\n254\n270\n% of Revenue\n23%\n17%\n14%\n11%\n14%\n13%\n12%\n10%",
+      "section": "",
+      "summary": "",
+      "key_points": []
+    },
+    {
+      "slide": 50,
+      "mode": "text_layer",
+      "transcript": "50\nExpressed in US millions $, except percentages \nQ1’23\nQ2’23\nQ3’23\nQ4’23\nQ1’24\nQ2’24\nQ3’24\nQ4’24\nGAAP General and administrative\n123\n131\n137\n100\n124\n60\n114\n112\nless: General and administrative SBC and related payroll taxes\n18\n19\n20\n19\n26\n23\n23\n24\nless: Impairment of right-of-use assets and leasehold improvements\n-\n-\n38\n-\n-\n-\n-\n-\nless: Severance related costs\n-\n18\n-\n-\n-\n-\n-\n-\nless: Litigation contingencies / beneﬁt related to legal contingencies\n-\n-\n-\n-\n-\n(55)\n-\n-\nAdjusted General and administrative\n105\n94\n79\n81\n98\n92\n91\n88\n% of Revenue\n7%\n6%\n5%\n4%\n5%\n4%\n4%\n3%\nGAAP Transaction and loan losses\n42\n31\n34\n45\n51\n42\n58\n76\n% of Revenue\n3%\n2%\n2%\n2%\n3%\n2%\n3%\n3%\nGAAP Operating expenses\n910\n2,471\n779\n773\n871\n804\n835\n887\nless: Operating SBC and related payroll taxes\n139\n119\n103\n102\n110\n106\n115\n118\nless: Accelerated stock-based compensation\n-\n165\n4\n-\n-\n-\n-\n-\nless: Amortization of acquired intangibles\n2\n1\n-\n-\n-\n-\n1\n1\nless: Impairment of right-of-use assets and leasehold improvements\n-\n-\n38\n-\n-\n-\n-\n-\nless: Severance related costs\n-\n148\n-\n-\n-\n-\n-\n-\nless: Litigation contingencies / beneﬁt related to legal contingencies\n-\n-\n-\n-\n-\n(55)\n-\n-\nless: Impairment on sale of Shopify’s logistics businesses\n-\n1,340\n-\n-\n-\n-\n-\n-\nAdjusted Operating expenses\n769\n698\n634\n671\n761\n753\n719\n768\n% of Revenue\n51%\n41%\n37%\n31%\n41%\n37%\n33%\n27%",
+      "section": "",
+      "summary": "",
+      "key_points": []
+    },
+    {
+      "slide": 51,
+      "mode": "text_layer",
+      "transcript": "51\nReconciliation of GAAP operating expenses to operating \nexpenses, excluding one-time items \nExpressed in US millions $, except percentages\nQ1’23\nQ2’23\nQ3’23\nQ4’23\nQ1’24\nQ2’24\nQ3’24\nQ4’24\nGAAP Operating expenses\n910\n2,471\n779\n773\n871\n804\n835\n887\nless: Accelerated stock-based compensation\n-\n165\n4\n-\n-\n-\n-\n-\nless: Impairment of right-of-use assets and leasehold improvements\n-\n-\n38\n-\n-\n-\n-\n-\nless: Severance related costs\n-\n148\n-\n-\n-\n-\n-\n-\nless: Litigation contingencies / beneﬁt related to legal contingencies\n-\n-\n-\n-\n-\n(55)\n-\n-\nless: Impairment on sale of Shopify’s logistics businesses\n-\n1,340\n-\n-\n-\n-\n-\n-\nOperating expenses, excluding one-time items\n910\n818\n737\n773\n871\n859\n835\n887\n% of Revenue\n60%\n48%\n43%\n36%\n47%\n42%\n39%\n32%",
+      "section": "",
+      "summary": "",
+      "key_points": []
+    },
+    {
+      "slide": 52,
+      "mode": "text_layer",
+      "transcript": "52\nReconciliation of free cash ﬂow\n *  Capital expenditures is equivalent to the amount included in \"capital purchases/Acquisitions of property and equipment\" on our Consolidated Statement of Cash Flows for the reported period. \nIn US $ millions, except percentages; Year end, except as otherwise \nnoted\n2020\n2021\n2022\n2023\n2024\nQ4’23\nQ4’24\nNet cash provided by (used in) operating activities\n425\n536\n(136)\n944\n1,616\n448\n615\nless: Capital expenditures*\n(42)\n(51)\n(50)\n(39)\n(19)\n(2)\n(4)\nFree cash ﬂow\n383\n485\n(186)\n905\n1,597\n446\n611\nRevenue\n2,929\n4,612\n5,600\n7,060\n8,880\n2,144\n2,812\nFree cash ﬂow margin\n13%\n11%\n(3)%\n13%\n18%\n21%\n22%",
+      "section": "",
+      "summary": "",
+      "key_points": []
+    },
+    {
+      "slide": 53,
+      "mode": "vision",
+      "transcript": "",
+      "section": "",
+      "summary": "",
+      "key_points": []
+    }
+  ]
+}

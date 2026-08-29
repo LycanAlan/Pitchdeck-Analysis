@@ -1,0 +1,364 @@
+{
+  "name": "sensovision",
+  "slides": [
+    {
+      "slide": 1,
+      "mode": "vision",
+      "transcript": "SensoVision\nRevolutionizing Quality Inspection in Manufacturing",
+      "section": "Title",
+      "summary": "Title slide introducing SensoVision, a company focused on revolutionizing quality inspection within the manufacturing sector.",
+      "key_points": [
+        "Company name: SensoVision",
+        "Focus: Revolutionizing quality inspection in manufacturing"
+      ]
+    },
+    {
+      "slide": 2,
+      "mode": "text_layer",
+      "transcript": "Why Vision\nSystems\nMatter\n01\n02\n03\nManufacturers and industries struggle with quality control,\nprocess automation, and efficiency due to the limitations\nof traditional vision systems\nInflexible vision systems \nLimited AI integration\nCost of poor quality\nExpensive & difficult to adapt to new products.\nMost systems lack deep learning capabilities.\nCustom solutions are costly & time-consuming.\nAI-powered vision technology can improve productivity, accuracy, and\nautomation across multiple industries.\nWhy This\nMatters",
+      "section": "Problem",
+      "summary": "This slide establishes the problem by highlighting the limitations of traditional vision systems, such as inflexibility, limited AI integration, and the high cost of poor quality. It emphasizes the need for AI-powered vision technology to improve productivity, accuracy, and automation.",
+      "key_points": [
+        "Manufacturers and industries struggle with quality control, process automation, and efficiency",
+        "Traditional vision systems are inflexible, expensive, and difficult to adapt to new products",
+        "Most systems lack deep learning capabilities and custom solutions are costly and time-consuming",
+        "AI-powered vision technology can improve productivity, accuracy, and automation across multiple industries"
+      ]
+    },
+    {
+      "slide": 3,
+      "mode": "text_layer",
+      "transcript": "How Big is This Problem?\nTotal Addressable\nMarket (TAM)\n$8.7B\n Global AI Vision Market\nServiceable Available\nMarket (SAM) \n$278M\nIndia’s Market\nServiceable Obtainable\nMarket (SOM)\n $2M\n FY25 Target\n  (~0.72%)\nFastest Growing\nMarket CAGR\n12% \nAsia-Pacific\nAI-powered quality inspection is an untapped goldmine!",
+      "section": "Market",
+      "summary": "This slide outlines the market sizing for AI-powered quality inspection, estimating a Total Addressable Market (TAM) of $8.7B globally. It highlights India as a Serviceable Available Market (SAM) of $278M and sets a Serviceable Obtainable Market (SOM) target of $2M for FY25. It also notes that the Asia-Pacific region is the fastest-growing market with a 12% CAGR.",
+      "key_points": [
+        "Total Addressable Market (TAM): $8.7B (Global AI Vision Market)",
+        "Serviceable Available Market (SAM): $278M (India’s Market)",
+        "Serviceable Obtainable Market (SOM): $2M (~0.72%) for FY25 Target",
+        "Asia-Pacific is the fastest growing market with a 12% CAGR",
+        "Claims AI-powered quality inspection is an untapped goldmine"
+      ]
+    },
+    {
+      "slide": 4,
+      "mode": "text_layer",
+      "transcript": "AI-powered real-time defect\ndetection\nWhat we offer\nModular automation for easy\nintegration across industries\nNo-code configuration for\nrapid deployment\nGoing beyond quality inspection, we focus on AI-based vision solutions for multiple industrial applications.\nSensoVision pioneers as an adaptive AI-powered vision system platform\nfor diverse industrial applications.\nOur Vision System Approach\nScaling to become an AI Vision Platform provider for System\nIntegrators, enabling rapid deployments across industries",
+      "section": "Solution",
+      "summary": "This slide presents SensoVision's AI-powered real-time defect detection and vision system platform. It highlights modular automation, no-code configuration, and scalability for system integrators across multiple industrial applications.",
+      "key_points": [
+        "AI-powered real-time defect detection",
+        "Modular automation for easy integration across industries",
+        "No-code configuration for rapid deployment",
+        "Scaling to become an AI Vision Platform provider for System Integrators"
+      ]
+    },
+    {
+      "slide": 5,
+      "mode": "text_layer",
+      "transcript": "What Makes It Unique?\n Products & Usecases\nDeveloped through extensive R&D, these technologies serve as a foundation for future expansion.\n✔ Real-time AI-powered defect detection\n✔ Adaptive deep learning models\n✔ Cloud-based analytics & reporting\n✔ Seamless integration with industrial automation\n💡 Key Innovations:",
+      "section": "Product",
+      "summary": "This slide outlines the company's product offerings and use cases developed through extensive R&D, highlighting core technological capabilities and key innovations designed as a foundation for future expansion.",
+      "key_points": [
+        "Real-time AI-powered defect detection",
+        "Adaptive deep learning models",
+        "Cloud-based analytics & reporting",
+        "Seamless integration with industrial automation"
+      ]
+    },
+    {
+      "slide": 6,
+      "mode": "text_layer",
+      "transcript": "SensoVision’s\nFoundation for Future\nGrowth\n✔ 500M+ parts inspected – Proven large-scale AI-driven\nvision inspection.\n✔ AI models trained on multi-industry datasets –\nEnabling adaptability.\n✔ \nBreakthroughs \nin \nreal-time \nanalytics \n& \ndeep\nlearning-based vision solutions.\n✔ \nSuccessful \ninstallations \nin \nSweden, \nSlovenia,\nRomania and South Korea.\nWith this foundation, we are now scaling\ninto diverse industries beyond\nmanufacturing.\nKey Milestones Achieved:\nProven R&D and\nestablished Market\nOpportunity, now\nmoving towards\ncommercial scalability.",
+      "section": "Traction",
+      "summary": "This slide highlights key company milestones and traction, including over 500M+ parts inspected and installations across Sweden, Slovenia, Romania, and South Korea. It emphasizes established market opportunity and proven R&D as a foundation for scaling into diverse industries beyond manufacturing.",
+      "key_points": [
+        "500M+ parts inspected with AI-driven vision inspection",
+        "AI models trained on multi-industry datasets",
+        "Installations in Sweden, Slovenia, Romania, and South Korea",
+        "Scaling into diverse industries beyond manufacturing",
+        "Proven R&D and established market opportunity moving toward commercial scalability"
+      ]
+    },
+    {
+      "slide": 7,
+      "mode": "text_layer",
+      "transcript": "Revenue Streams : Adding Scalable Revenue Streams\n✔ Licensing & Partnerships – \nOEM and automation firm collaborations.\n✔Vision System Hardware Sales –\n High-margin hardware sales.\n✔ Customised Solutions & Integration –\n Industry-specific adaptation.\nFuture Growth: AI-powered software becoming the\nlargest revenue driver.",
+      "section": "Business Model",
+      "summary": "This slide outlines the company's revenue streams, including licensing and partnerships, high-margin vision system hardware sales, and customized solutions and integration. It also highlights future growth driven by AI-powered software becoming the largest revenue driver.",
+      "key_points": [
+        "Licensing & Partnerships via OEM and automation firm collaborations",
+        "Vision System Hardware Sales featuring high-margin hardware",
+        "Customised Solutions & Integration for industry-specific adaptation",
+        "Future Growth focused on AI-powered software as the largest revenue driver"
+      ]
+    },
+    {
+      "slide": 8,
+      "mode": "text_layer",
+      "transcript": "Speed to Market\nEffectiveness \nfor buyer\nEase of \nCustomization\nAfter Sale \nSupport\nCost Value \nProposition\nSAAS Players\nwith third party Automation\nSensoVision,Lincode, Switch On, Landing AI,\nRoboFlow\nVery fast\nVery low\nHigh\nHigh\nVery High\nEnd to End Vision supplier \nLarge product range from sensor to camera\nto systems\nKeyence, Baumer, Cognex\nFast\nModerate\nHigh\nLow\nLow\nIndustry Specific Solutions\nSensoVision, Varad Automation, Jackson\nVision, Automation Artisan, CCM, AccuVision\nModerate\nVery High\nVery High\nVery High\nVery High\nSystem Integrator\nIntense tailoring\nQualitas, Renevous, soda vision\nVery Slow\nHigh\nModerate\nVery High\nModerate\nCompetitive Landscape\nSensoVision Stands Out with Unique Value and Adaptability",
+      "section": "Competition",
+      "summary": "This slide presents a competitive landscape matrix comparing SensoVision and other market players across five dimensions: Speed to Market, Effectiveness for buyer, Ease of Customization, After Sale Support, and Cost Value Proposition. It positions SensoVision among Industry Specific Solutions to demonstrate how it stands out with unique value and adaptability.",
+      "key_points": [
+        "Compares four competitor categories: SAAS Players with third party Automation, End to End Vision supplier, Industry Specific Solutions, and System Integrator.",
+        "Evaluates competitors on Speed to Market, Effectiveness for buyer, Ease of Customization, After Sale Support, and Cost Value Proposition.",
+        "SAAS Players metrics: Very fast Speed, Very low Effectiveness, High Ease of Customization, High After Sale Support, Very High Cost Value Proposition.",
+        "End to End Vision supplier metrics: Fast Speed, Moderate Effectiveness, High Ease of Customization, Low After Sale Support, Low Cost Value Proposition.",
+        "Industry Specific Solutions (includes SensoVision) metrics: Moderate Speed, Very High Effectiveness, Very High Ease of Customization, Very High After Sale Support, Very High Cost Value Proposition."
+      ]
+    },
+    {
+      "slide": 9,
+      "mode": "text_layer",
+      "transcript": "Feature\nSensoVision\nTraditional Vision Systems\nAI-Powered Adaptability\n✅\n❌ Rule-based, limited AI\nMulti-Industry Applications\nMulti-Industry Applications\n✅\n❌ Niche-specific solutions\nNo-Code Configuration\n✅\n❌ Requires expert programming\nReal-Time Analytics\n✅\n❌ Batch-based reports\nScalability & Customization\n✅\n❌ Fixed-function systems\nCompetitive Advantage\nSensoVision is creating the future of vision automation with AI-powered, modular, and\nindustry-agnostic solutions.",
+      "section": "Competition",
+      "summary": "This slide provides a competitive comparison matrix contrasting SensoVision against traditional vision systems across five core capabilities. It highlights advantages such as AI-powered adaptability, multi-industry applications, no-code configuration, real-time analytics, and scalability to establish the company's competitive edge.",
+      "key_points": [
+        "Features AI-powered adaptability compared to rule-based traditional systems",
+        "Offers multi-industry applications versus niche-specific solutions",
+        "Provides no-code configuration that eliminates the need for expert programming",
+        "Delivers real-time analytics instead of batch-based reports",
+        "Ensures scalability and customization unlike fixed-function systems"
+      ]
+    },
+    {
+      "slide": 10,
+      "mode": "text_layer",
+      "transcript": "Deals Closed in FY 24-25\n₹ 11.5 Cr till date\nDeals expected to\nbe closed by \nend of FY 24-25\n₹16 Cr\nTraction:\nProven Success with Repeat Customers and Expanding Markets\nFY23-24 Total Sale \n₹ 7.2 Cr\nSeed -\n90L\n5Yr, 20X\n5Yr, 9X\nClient  Cultivation fuelling  yearly growth\nAs of FY25 Made inroads in Sweden, Slovenia,\nRomania, South Korea, Japan and Germany\n10+\n5\nSales  to  international\nsubsidiaries in India\nDirect Overseas Sales\n97 Sales\nFrom 32 cities\n69 Sales\nFrom 69 cities",
+      "section": "Traction",
+      "summary": "This slide details the startup's revenue traction, historical sales growth, geographic expansion into international markets, and deal pipeline for FY 24-25. Investors can use this to evaluate historical performance, repeat customer success, and international market penetration.",
+      "key_points": [
+        "Deals closed in FY 24-25 stand at ₹ 11.5 Cr till date, with ₹ 16 Cr expected by the end of FY 24-25.",
+        "FY 23-24 Total Sale was ₹ 7.2 Cr.",
+        "Seed funding mentioned as 90L, with growth metrics indicated as 5Yr, 20X and 5Yr, 9X.",
+        "As of FY25, made inroads in Sweden, Slovenia, Romania, South Korea, Japan, and Germany.",
+        "Recorded 97 sales from 32 cities through direct overseas sales, and 69 sales from 69 cities via sales to international subsidiaries in India."
+      ]
+    },
+    {
+      "slide": 11,
+      "mode": "text_layer",
+      "transcript": "FY 25\n \n \n \nCurrent FY25 Roadmap \nOur Installation\ntill FY 24\n150 machines\nNew Orders till date\n31 machines\nClosure Stage\n25 deals\nPoC Stage\n102 deals \nInitial Stage\n98 deals\nFY 26",
+      "section": "Traction",
+      "summary": "This slide presents the current FY25 roadmap and pipeline metrics, detailing historical installations, new orders, and deals across various sales stages.",
+      "key_points": [
+        "Installation till FY 24: 150 machines",
+        "New Orders till date: 31 machines",
+        "Closure Stage: 25 deals",
+        "PoC Stage: 102 deals",
+        "Initial Stage: 98 deals"
+      ]
+    },
+    {
+      "slide": 12,
+      "mode": "text_layer",
+      "transcript": "Roadmap to 150 crores\nFY2024\nEntry into International\nMarkets\nFY2025\nOEM and SI partnerships\nFY2026\nFull Scale Vision System\nPartnership\nFY2027\nFull-scale international\nmarket expansion\nScalable growth with SaaS & AI-driven expansion.\n200+ Solutions\n300+ Solutions\n600+ Solutions\n1000+ Solutions",
+      "section": "Financials",
+      "summary": "This slide outlines a strategic roadmap to achieve 150 crores by FY2027 through international market entry, OEM and SI partnerships, full-scale vision system partnerships, and international expansion. It projects scalable growth driven by SaaS and AI, scaling solution counts from FY2024 to FY2027.",
+      "key_points": [
+        "Roadmap to 150 crores",
+        "FY2024: Entry into International Markets with 200+ Solutions",
+        "FY2025: OEM and SI partnerships with 300+ Solutions",
+        "FY2026: Full Scale Vision System Partnership with 600+ Solutions",
+        "FY2027: Full-scale international market expansion with 1000+ Solutions"
+      ]
+    },
+    {
+      "slide": 13,
+      "mode": "text_layer",
+      "transcript": "Funding Ask\nFund Allocation:\n✔ R&D & AI Development – ₹6.4 Cr\n✔ Market Expansion & Sales – ₹6.4 Cr\n✔ Operations & Scaling – ₹3.2 Cr\nwww.reallygreatsite.com\nJoin us in transforming AI vision automation!\nRaising ₹16 Cr at ₹60 Cr post-money valuation.\nExisting Share holding:\nFounders: 80.8% \nEmployee Pool: 9.3%\nInvestor: 9.9% \nExit Strategy\n✔ Option 1 - Series B funding (Target 2027)\n✔ Option 2 - SME IPO (Target 2028)\nR&D + AI Dev\n40%\nMarket Expansion Sales\n40%\nOperations & Scaling\n20%",
+      "section": "Funding Ask",
+      "summary": "This slide outlines the company's funding requirements, raising ₹16 Cr at a ₹60 Cr post-money valuation. It details the fund allocation across R&D and AI development, market expansion and sales, and operations and scaling, alongside current shareholding and exit strategy options.",
+      "key_points": [
+        "Raising ₹16 Cr at ₹60 Cr post-money valuation",
+        "Fund allocation: R&D & AI Development (₹6.4 Cr / 40%), Market Expansion & Sales (₹6.4 Cr / 40%), Operations & Scaling (₹3.2 Cr / 20%)",
+        "Existing shareholding: Founders (80.8%), Employee Pool (9.3%), Investor (9.9%)",
+        "Exit strategy options: Series B funding targeting 2027, SME IPO targeting 2028"
+      ]
+    },
+    {
+      "slide": 14,
+      "mode": "text_layer",
+      "transcript": "Core Team\nVikram Jain\nCEO & Founder\nCEO & Founder\nB.Tech Elec IIT Delhi\nExp: 14+ years\nEx DRDO Scientist\nEx Founder of Gravite Eduventure\nManu George\nCOO & Co-Founder\nIIM-B \nExp: 8+ yrs , \nSpecializes in Mechanical\nand Electrical systems\nRamchandra Rao\nManagement Advisor\nEx,Chairman & MD\nIndoschottle Auto Parts\nBE (Mechanical) VRCE\nNagpur,(1977)\nBrijMohan\nSingh\nSales and Marketing Head\nLeadership Team\nChandan\nKumar\nSr Software Lead\nRohit\nDhole\nSr R&D Lead\nPraveen\nKumar\nHead of Design\nExp: 10+ yrs\nEshwar M\nHead of Support\nExp: 6+ yrs\nShekhar\n Divet\nHead of Production\nExp: 6+ yrs\nExp: 5+ yrs\nExp: 3+ yrs\nExp: 5+ yrs",
+      "section": "Team",
+      "summary": "This slide details the startup's core leadership team, including founders with technical and institutional backgrounds, along with key operational and advisory personnel. It highlights relevant educational credentials from institutions like IIT Delhi and IIM-B, alongside years of industry and entrepreneurial experience.",
+      "key_points": [
+        "Vikram Jain serves as CEO & Founder, with a B.Tech Elec from IIT Delhi, 14+ years of experience, and background as an Ex DRDO Scientist and Ex Founder of Gravite Eduventure.",
+        "Manu George is COO & Co-Founder, an IIM-B graduate with 8+ years of experience specializing in Mechanical and Electrical systems.",
+        "Ramchandra Rao acts as Management Advisor, bringing experience as Ex Chairman & MD of Indoschottle Auto Parts and a BE (Mechanical) from VRCE Nagpur (1977).",
+        "The leadership team includes BrijMohan Singh (Sales and Marketing Head) and functional leads across Software, R&D, Design, Support, and Production with experience ranging from 3+ to 10+ years."
+      ]
+    },
+    {
+      "slide": 15,
+      "mode": "text_layer",
+      "transcript": "+91 98801 35487\n+91 88928 39247\nContact us at\ninfo@sensoviz.com",
+      "section": "Other",
+      "summary": "This slide provides contact information for the company, including phone numbers and an email address for inquiries.",
+      "key_points": [
+        "Phone number: +91 98801 35487",
+        "Phone number: +91 88928 39247",
+        "Email: info@sensoviz.com"
+      ]
+    },
+    {
+      "slide": 16,
+      "mode": "vision",
+      "transcript": "SensoVision\nTaking Research into Product\n\nFollow Up Slides",
+      "section": "Other",
+      "summary": "This slide serves as a transition to the appendix, indicating that the following content consists of follow-up slides for SensoVision's presentation.",
+      "key_points": [
+        "Company name: SensoVision",
+        "Tagline: Taking Research into Product",
+        "Indicates the start of follow-up slides"
+      ]
+    },
+    {
+      "slide": 17,
+      "mode": "vision",
+      "transcript": "SensoVision\nTaking Research into Product\n\nSensoVision",
+      "section": "Title",
+      "summary": "This is the title slide for SensoVision, featuring the company name and tagline 'Taking Research into Product'.",
+      "key_points": [
+        "Company name: SensoVision",
+        "Tagline: Taking Research into Product"
+      ]
+    },
+    {
+      "slide": 18,
+      "mode": "text_layer",
+      "transcript": "Market Penetration Strategy\nStrategic Partnerships and Presence Drive Success\nDirect Sales to Automotive OEM and Fasteners Manufacturing Industries.\n● Integration with Automation Companies to feature products in their catalogues.\n● Partnering with Integration Partners to broaden market reach.\n● Participation in Trade Fairs and Road Shows for enhanced visibility.\n● Collaboration with Manufacturing Plant Consultants and Advisors.\n● Engagement with Industry Forums such as ACMA and Digital Manufacturing Associations.\n● Digital Marketing and Campaigns to reach a broader audience.\n● Finding and Establishing International Partnerships for scaling up.\n● Establishment of Satellite Offices and Experience centers in metro cities.\n● Onboarding Industry Leaders and Veterans for advisory and mentorship roles.\nThese strategies collectively aim to maximize market presence, build strategic alliances, and\nfoster business growth within the target industries",
+      "section": "Market",
+      "summary": "This slide outlines the go-to-market and market penetration strategy, combining direct sales to automotive OEMs and fastener manufacturers with strategic partnerships, automation integrations, and global expansion efforts.",
+      "key_points": [
+        "Direct sales targeting Automotive OEM and Fasteners Manufacturing industries",
+        "Integrating with automation companies and partnering with integration partners",
+        "Participating in trade fairs, road shows, industry forums (ACMA, Digital Manufacturing Associations), and digital marketing",
+        "Establishing international partnerships, satellite offices, and experience centers in metro cities",
+        "Onboarding industry leaders and veterans for advisory and mentorship roles"
+      ]
+    },
+    {
+      "slide": 19,
+      "mode": "text_layer",
+      "transcript": "Unit Economy Costing\nProfitability Roadmap\nOptimizing Costs While Delivering Value",
+      "section": "Financials",
+      "summary": "This slide outlines the company's financial strategy by detailing unit economics and a profitability roadmap. It focuses on the balance between cost optimization and value delivery.",
+      "key_points": [
+        "Unit economy costing",
+        "Profitability roadmap",
+        "Optimizing costs",
+        "Delivering value"
+      ]
+    },
+    {
+      "slide": 20,
+      "mode": "text_layer",
+      "transcript": "Product and Sale Road Map\nInnovation at Every Stage of Our Journey\n2026 Q2\nLaunch 3D\nInspection\n2026 Q1\nLaunch PCB and\nTextile\nInspection\nTurnkey Solution\n2025 Q4\nLaunch Tablet\ninspection\nTurnkey Solution\n2024 Q4 \nIdeation of B2C\nsmall products\nusing Vision\n2024 \nEddy Current based\ninspection\nIntegration in OSM\n2025,  25 OSM\nSales in Europe and\nUS combined\nFY 2027\n10 sales in Pharma,\nPCB and Textile for\nTurnKey\nFY 2027\nOverseas Channel\nPartnership for Vizbot\nand PDIR\nFY28, Target Annual\n300 Sales of\nMachines \n2025 Q2 4\nDirect OEM\nPartnerships \n2025 Q1 Channel\nPartnership for\nVizbot and PDIR\n2025 \nFirst OSM Sale in US\nMarket via Channel\nPartnership\n2024 Q4\n10 Direct\nOverseas Sale\nProduct\nRoadmap\nSale\nRoadmap\nFY 2026 Vision\nPartnership with 20+\nIndustries\n2025 Q1 \nPackaging Machine\nIntegration with\nOSM\n2025 Q2 \nV Groove\nbased Sorting\nSolution\n2025 Q3 \nVizbot DL\nVersion Launch\n2025 Q4 \nVizbot AutoFocus\nAuto Light Selection\nfeature\n2025 Q3 \nB2C App for\nsize/shape and\ncolor based\nsorting via\nbluetooth",
+      "section": "Product",
+      "summary": "This slide outlines a multi-year product development and sales roadmap, detailing sequential hardware launches, technology integrations, and strategic channel expansion targets from 2024 through FY28.",
+      "key_points": [
+        "Product roadmap includes Eddy Current integration, tablet/PCB/textile/3D inspection, and B2C app development",
+        "Sales roadmap targets 25 OSM sales in Europe/US in 2025 and 300 machine sales by FY28",
+        "Strategy incorporates direct OEM partnerships and overseas channel partnerships",
+        "Operations target 20+ industry partnerships by FY 2026",
+        "FY 2027 goal of 10 sales in Pharma, PCB, and Textile segments for TurnKey solutions"
+      ]
+    },
+    {
+      "slide": 21,
+      "mode": "vision",
+      "transcript": "Cap Table\n\nSensoVision\nTaking Research into Product\n\nSeed Investor\n9.9%\n\nEmployee ESOPs\n9.3%\n\n9.9%\n9.3%\n80.8%\n\nFounders\n80.8%",
+      "section": "Financials",
+      "summary": "This slide outlines the current capital structure of SensoVision. It provides a breakdown of equity distribution between founders, seed investors, and the employee stock option pool.",
+      "key_points": [
+        "Founders hold 80.8% equity",
+        "Seed Investor holds 9.9% equity",
+        "Employee ESOPs account for 9.3% equity"
+      ]
+    },
+    {
+      "slide": 22,
+      "mode": "text_layer",
+      "transcript": "Customer Name \nRevenue Created so far\nExpansion Scope per  Year\nHindustan Fasteners \n2.4 Cr  , 11 Orders\n34L\nMCS Fasteners \n1.4 Cr , 8 Orders\n36L\nNifast \n1.1Cr , 4 Orders\n25L\nSupermax \n96L , 6 Orders\n16L\nSupreme\n78L , 6 Orders\n16L\nSKS Fasteners \n63L , 3 Orders\n32L\nFastenex \n63L, 3 Orders\n20L\n94+ Clients\nOne/Two Order so far\n15L\n \n \nFarming on existing clients",
+      "section": "Traction",
+      "summary": "This slide showcases customer revenue concentration and identifies a clear strategy for account expansion within an existing industrial client base. It highlights the potential for recurring revenue growth through farming strategies applied to current high-value accounts.",
+      "key_points": [
+        "Displays revenue and order volume for 7 major clients, ranging from 63L to 2.4 Cr",
+        "Identifies individual annual expansion scope per client, varying between 16L and 36L",
+        "Highlights a long-tail segment of 94+ clients with 15L annual expansion potential",
+        "Total client base includes 94+ clients with one/two orders so far",
+        "Explicitly identifies 'Farming on existing clients' as a key growth lever"
+      ]
+    },
+    {
+      "slide": 23,
+      "mode": "text_layer",
+      "transcript": "Features /Aspects\nBase Country \nSenso vision\nIndian\nCCM\nTaiwan\nAccuvision\nTaiwan\nVision Embesoft\nIndian\nVarad Automation \nIndian\nDevelopment approach In House design, and\nassembly\nIn House design, and\nassembly\nIn House design, and\nassembly\nIn House design, and\nassembly\nIn House design, and\nassembly\nSoftware \nown software \nown software \nown software \nThird Party\nThird Party\ncustomisation \nHigh degree\ncustomisation and\nflexibility\nLimited Customisation No customisation  \nNo customisation  \nHigh degree\ncustomisation and\nflexibility\ncost comparison \nAffordable \nExpensive \nExpensive \nLow price \nSlightly Low Price \nsupport \nStrong network online\nand offline (Affordable)\nOnline and Offline  \n(costly) \nonline and off line\n(costly)\noffline network\npresence is not good \nvery difficult to get\nsupport \nProduct range \nLarge \nLarge \nLarge \nLimited \nLarge \nmarket position Based\non product sale \nTop \nTop \nSecond \nin competition \nTop competitor  \nMajor product \nOptical sorting\nMachine \nOptical sorting\nMachine \nOptical sorting\nMachine \nOptical sorting\nMachine \n2d Profiler Mini Models \nCompetitors Landscape \nwithin Industry Focussed Quality Automation Providers",
+      "section": "Competition",
+      "summary": "This slide provides a comparative feature analysis of the startup against four industry competitors. It emphasizes the company's competitive advantage in high-degree customization, affordability, and superior support networks within the optical sorting machine market.",
+      "key_points": [
+        "Compares Senso vision against four competitors: CCM, Accuvision, Vision Embesoft, and Varad Automation.",
+        "Senso vision differentiates through in-house design, own software, and high customization/flexibility.",
+        "Competitors like Accuvision and Vision Embesoft utilize third-party software and offer limited or no customization.",
+        "Senso vision is positioned as an affordable option with a large product range and strong online/offline support.",
+        "The landscape is defined as focused quality automation providers for optical sorting machines."
+      ]
+    },
+    {
+      "slide": 24,
+      "mode": "text_layer",
+      "transcript": "Product Feature: VizSort-M\nMetal Disc Based Sorting Machine\nA sorting machine, designed for bulk inspection of all metal,\nrubber and plastic parts which can hang from neck, offers\nmultiple size compatibility ranging from M2 to M20. With\nprecise measurement, detects operationally incomplete or\nvisually defective parts, and customizable features, it\nefficiently supports quality inspection at high rate in\nautomated manner with minimal human intervention and\nchangeover effort \nProduct Features\nAI based Visual Defects Detection\n360 deg part inspection\nAccuracy of the order of 99.9 %\nCapacity of 100,000  pieces in one shift\nIntuitive User Interface for adding new features\nProvides detailed SPC Report\nUseful for variety of sizes with very easy  \nchangeover \nBolts - Flange, Socket, Flange Head, Benzo, Tee head  \nScrews-Machine Screw, Pan Head,Phillips, Pozi,CSK \nRivets - Button head, Truss, Pan, Flat head Etc.",
+      "section": "Product",
+      "summary": "This slide introduces VizSort-M, an automated, AI-powered sorting machine designed for the high-speed quality inspection of various metal, rubber, and plastic fasteners. The system offers 99.9 % accuracy and high throughput, positioning it as an efficient solution for manufacturing defect detection with minimal human intervention.",
+      "key_points": [
+        "AI-based visual inspection for parts ranging from M2 to M20",
+        "99.9 % accuracy rate with 360 deg inspection",
+        "Capacity of 100,000 pieces in one shift",
+        "Supports wide range of bolts, screws, and rivets",
+        "Includes intuitive interface and automated SPC reporting"
+      ]
+    },
+    {
+      "slide": 25,
+      "mode": "text_layer",
+      "transcript": "Product Feature: VizSort-G\nGlass Disc Based Sorting Machine\nA sorting machine, designed for bulk inspection of all metal,\nrubber and plastic parts which can sit stably, offers multiple\nsize compatibility ranging from M2 to M20. With precise\nmeasurement, detects operationally incomplete or visually\ndefective parts, and customizable features, it\nefficiently supports quality inspection at high rate in\nautomated manner with minimal human intervention and\nchangeover effort \nProduct Features\nAI based Visual Defects Detection\n360 deg part inspection\nAccuracy of the order of 99.9 %\nCapacity of 100,000  pieces in one shift\nIntuitive User Interface for adding new features\nProvides detailed SPC Report\nUseful for variety of sizes with very easy  \nchangeover \nNuts Bolts, Special components, Screws,  Rivets",
+      "section": "Product",
+      "summary": "This slide introduces VizSort-G, an AI-driven, glass disc-based automated inspection system designed for high-speed quality control of industrial parts. It highlights the machine's ability to perform 360-degree defect detection with 99.9 % accuracy and high-volume throughput for diverse hardware components.",
+      "key_points": [
+        "Processes 100,000 pieces per shift with 99.9 % accuracy",
+        "Supports component sizes ranging from M2 to M20",
+        "Performs 360 deg part inspection using AI-based visual defect detection",
+        "Generates detailed SPC reports with an intuitive user interface",
+        "Compatible with nuts, bolts, screws, rivets, and special components"
+      ]
+    },
+    {
+      "slide": 26,
+      "mode": "text_layer",
+      "transcript": "Product Feature: Vizbot\nSmart Camera for inline inspection\nA smart camera, designed to be mounted on assembly or\npackaging  lines, or on top of the manufacturing setup to\nperform quality inspection. This is miniaturized version of\nsetting machine in a way, having everything including light,\ncamera, panel, software and processor in one small form\nfactor. It can perform simple task like to find presence\nabsence, anomaly, shift, orientation, size and color.\nProduct Features\nComputer Vision and AI based anomaly detection\nCan be integrated on any line at any angle\nIntuitive Ui to configure for the requirement in DIY\nmanner\nIntegrable with all State of Art controllers in\nIndustry\nProvides detailed SPC Report\nVizbot\nController",
+      "section": "Product",
+      "summary": "Vizbot is an all-in-one smart camera solution designed for automated quality inspection on manufacturing and assembly lines. It integrates computer vision and AI for real-time defect and anomaly detection while offering simplified, user-configurable deployment.",
+      "key_points": [
+        "Miniaturized, all-in-one hardware including light, camera, panel, software, and processor",
+        "Performs presence/absence, anomaly, shift, orientation, size, and color checks",
+        "Features DIY-configurable intuitive UI and AI-based detection",
+        "Integrates with industry-standard controllers",
+        "Generates detailed Statistical Process Control (SPC) reports"
+      ]
+    },
+    {
+      "slide": 27,
+      "mode": "text_layer",
+      "transcript": "Product Feature: PDIR\nStatic AutoProfiler\nA table top solution for high accuracy measurement\napplicable for automotive, aerospace and defence parts\nmanufacturers. In a variety of manner parts can be placed on\nit and imaged from side in various rotations. \nProduct Features\nCan accommodate 30 mm in base version and 60 mm\nto 100 mm parts in upgrades\n± 5µ measurement accuracy\n± 3µ repeatability\nIntuitive User Interface for adding new measurment\nProvides detailed SPC Report\nUseful for variety of sizes with very easy  changeover",
+      "section": "Product",
+      "summary": "This slide introduces the PDIR Static AutoProfiler, a precision measurement solution designed for automotive, aerospace, and defense manufacturing. It highlights the hardware's technical accuracy, repeatability, and software capabilities for quality control reporting.",
+      "key_points": [
+        "High accuracy measurement for automotive, aerospace and defence sectors",
+        "Handles parts from 30 mm (base) to 60 mm - 100 mm (upgrades)",
+        "± 5µ measurement accuracy and ± 3µ repeatability",
+        "Intuitive user interface with support for custom measurements",
+        "Generates detailed SPC reports with easy part changeover"
+      ]
+    }
+  ]
+}

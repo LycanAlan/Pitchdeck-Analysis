@@ -30,9 +30,11 @@ Thumbs.db
 *.log
 
 # PitchLens artifacts.
-# Decks are 67MB of third-party PDFs and the index is a rebuildable binary.
-# results/ and data/eval/ ARE tracked on purpose: they are the evidence for the
-# numbers in the README, and the eval set is hand-curated ground truth.
+# Decks are 67MB of third-party PDFs; the FAISS index is a rebuildable binary.
+# Tracked on purpose: results/ (evidence for the README numbers), data/eval/
+# (hand-curated ground truth) and data/documents/ (the ingested corpus, 184KB).
+# Shipping the corpus is what lets anyone clone the repo and reproduce the whole
+# retrieval ablation offline with no API key -- and it is what the deployed
+# container serves.
 data/decks/
-data/documents/
 data/indices/
