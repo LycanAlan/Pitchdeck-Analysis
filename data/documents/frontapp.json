@@ -1,0 +1,270 @@
+{
+  "name": "frontapp",
+  "slides": [
+    {
+      "slide": 1,
+      "mode": "vision",
+      "transcript": "FRONT\nAll your company's external communications\nin one collaborative inbox.\nTop Pitch Deck",
+      "section": "Title",
+      "summary": "This slide serves as the title slide for the pitch deck, introducing the company's core value proposition of providing a collaborative inbox for all external company communications.",
+      "key_points": [
+        "Presents the company's front-facing product concept",
+        "Focuses on external communications",
+        "Features a collaborative inbox format",
+        "Identifies the document as a top pitch deck"
+      ]
+    },
+    {
+      "slide": 2,
+      "mode": "vision",
+      "transcript": "THE PROBLEM\n\nEmail is the most important business communication channel\n\n215 billion\nEMAILS SENT PER DAY\n\n54%\nARE BUSINESS EMAILS\n\n7%\nYEAR-ON-YEAR GROWTH\n\nBut email is a tool designed for personal use\n\nNOT COLLABORATIVE\n\nBAD PRODUCTIVITY\n\nERROR-PRONE\n\nTopPitchDeck",
+      "section": "Problem",
+      "summary": "This slide defines the core problem by highlighting email's dominance as a business communication channel alongside its systemic inefficiencies. It argues that personal-use email tools lead to poor collaboration, low productivity, and error-prone processes in a high-volume corporate environment.",
+      "key_points": [
+        "215 billion emails sent per day",
+        "54% are business emails",
+        "7% year-on-year growth",
+        "Email is not collaborative and offers bad productivity",
+        "Email is error-prone"
+      ]
+    },
+    {
+      "slide": 3,
+      "mode": "vision",
+      "transcript": "THE SOLUTION\n\nRebuilding email, for business this time\n\nCOLLABORATIVE\n\nCompany > Team > User\nShare, assign, mention\nAs transparent as can be\n\nINTEGRATED\n\nAnalytics\n3rd party integrations\nOpen API\n\nUNIFIED\n\nAll email providers\nAll channels 📞 💬 🐦 f\nAll teams\n\nA multichannel email client, where every conversation finds its way to the\nright people, and is accounted for in the right system.\nTopPitchDeck",
+      "section": "Solution",
+      "summary": "This slide presents the startup's core product solution: a rebuilt, business-focused multichannel email client. It highlights collaborative features, third-party integrations, and unified communication channels.",
+      "key_points": [
+        "Rebuilt business email featuring collaboration tools like sharing, assigning, and mentioning across Company, Team, and User hierarchies",
+        "Integrated platform offering analytics, 3rd party integrations, and an open API",
+        "Unified system supporting all email providers, all teams, and all channels including phone, chat, Twitter, and Facebook",
+        "Multichannel client designed to route conversations to the right people and systems"
+      ]
+    },
+    {
+      "slide": 4,
+      "mode": "vision",
+      "transcript": "COMPETITIVE LANDSCAPE\nbad messaging experience\nbusiness ready\nzendesk\nhootsuite\nsalesforce desk\nStreak\nCRM in your inbox.\nFRONT\nYesware\ntoutapp.\nemail management\nOutlook\nN1\nPOLYMAIL\nTopPitchDeck\nconsumer\ngood messaging experience",
+      "section": "Competition",
+      "summary": "This slide maps the competitive landscape using a two-axis matrix comparing consumer versus business-ready positioning and good versus bad messaging experiences. It positions Streak as 'CRM in your inbox' alongside competitors such as Zendesk, Hootsuite, Salesforce Desk, Front, Yesware, ToutApp, Outlook, N1, and Polymail.",
+      "key_points": [
+        "Maps competitors on a grid with axes for messaging experience and business readiness.",
+        "Lists competitors including Zendesk, Hootsuite, Salesforce Desk, Front, Yesware, ToutApp, Outlook, N1, and Polymail.",
+        "Positions Streak as 'CRM in your inbox'."
+      ]
+    },
+    {
+      "slide": 5,
+      "mode": "vision",
+      "transcript": "WE HAVE A HEAD START\n\nShared inboxes managed in Front\n\n900\n675\n450\n225\n0\n\n624\n521\n202\n125\n121\n106\n111\n94\n89\n87\n83\n79\n78\n77\n808\n\nhello@, contact@\nhelp@, support@\noperations@\nbilling@, finance@\nsales@\naccounts@\nbooking@, orders@\ncareers@\nbugs@, dev@\nfeedback@\npress@\nevents@\npartners@\nmarketing@\nothers\n\nShared inboxes were the perfect wedge:\nsmall commitment, big pain, willingness to pay, lower expectations for MVP.\nTopPitchDeck",
+      "section": "Product",
+      "summary": "This slide highlights the company's wedge product strategy centered around shared inboxes managed in Front. It details the distribution of use cases across various email aliases and explains why shared inboxes serve as an effective entry point with low commitment, high pain, and willingness to pay.",
+      "key_points": [
+        "Shared inboxes managed in Front serve as the wedge product strategy.",
+        "Specific inbox types and their respective counts are listed, including hello@, contact@ (808), help@, support@ (624), operations@ (521), billing@, finance@ (202), sales@ (125), accounts@ (121), booking@, orders@ (106), careers@ (111), bugs@, dev@ (94), feedback@ (89), press@ (87), events@ (83), partners@ (79), marketing@ (78), and others (77).",
+        "Shared inboxes provide a small commitment, big pain, willingness to pay, and lower expectations for an MVP."
+      ]
+    },
+    {
+      "slide": 6,
+      "mode": "vision",
+      "transcript": "SELECT CUSTOMERS\n\nMailChimp\n\nGENERAL ASSEMBLY\n\nverizon\n\nExpensify\n\nY Combinator\n\ndocker\n\nHubSpot\n\nonefinestay\n\nFront works for teams of all sizes, across many different industries.\nTopPitchDeck",
+      "section": "Traction",
+      "summary": "This slide provides social proof and demonstrates market validation by listing prominent select customers, including MailChimp, General Assembly, Verizon, Expensify, Y Combinator, Docker, HubSpot, and onefinestay.",
+      "key_points": [
+        "Lists select customers: MailChimp, General Assembly, Verizon, Expensify, Y Combinator, docker, HubSpot, onefinestay",
+        "States that Front works for teams of all sizes and across many different industries"
+      ]
+    },
+    {
+      "slide": 7,
+      "mode": "vision",
+      "transcript": "CUSTOMERS ARE VERY SATISFIED\n\n“Front has a great user experience! It is extremely\nefficient, reliable, and easy to navigate.”\n\nBellhops, 100 seats\n\n“Wouldn't go back to Gmail if you paid me.”\n\nBaroo, 20 seats\n\n“A wonderfully useful tool that has saved us time and energy. If an opportunity arises to\nrecommend Front to other teams, even outside of MailChimp, it’s always top of mind.”\n\nMailChimp, 4 different teams\n\n“I’m in love with Front!”\n\nGuillermo Rauch, this week-end\n\nTopPitchDeck",
+      "section": "Traction",
+      "summary": "This slide provides customer validation and high satisfaction metrics for Front, featuring positive quotes and use cases from accounts of varying sizes, including Bellhops, Baroo, MailChimp, and an individual user.",
+      "key_points": [
+        "Bellhops with 100 seats praises the user experience, efficiency, reliability, and ease of navigation.",
+        "Baroo with 20 seats states they wouldn't go back to Gmail.",
+        "MailChimp across 4 different teams describes it as a time-saving tool they actively recommend.",
+        "Guillermo Rauch expressed being in love with Front."
+      ]
+    },
+    {
+      "slide": 8,
+      "mode": "vision",
+      "transcript": "CONSISTENT ORGANIC GROWTH\n$120,000 | 1000\n$90,000 | 750\n$60,000 | 500\n$30,000 | 250\n$0 | 0\n6/1/2014 9/1/2014 12/1/2014 3/1/2015 6/1/2015 9/1/2015 12/1/2015 3/1/2016\nCOMPANIES\nMRR\nCHART: A combo chart showing monthly growth from June 2014 to March 2016, with blue vertical bars representing the number of companies (growing from near 0 to nearly 1000) and a red line with circular markers representing MRR (growing from near $0 to approximately $105,000).\nMRR grew 5.4 times in the past 12 months.\nTopPitchDeck",
+      "section": "Traction",
+      "summary": "This traction slide displays consistent organic growth from June 2014 to March 2016, highlighting an increase in both customer count and Monthly Recurring Revenue (MRR). Specifically, MRR grew 5.4 times in the past 12 months, accompanied by a growth in the number of companies approaching 1000.",
+      "key_points": [
+        "MRR grew 5.4 times in the past 12 months.",
+        "Combo chart shows monthly growth from June 2014 to March 2016.",
+        "Number of companies grew from near 0 to nearly 1000.",
+        "MRR grew from near $0 to approximately $105,000."
+      ]
+    },
+    {
+      "slide": 9,
+      "mode": "vision",
+      "transcript": "LOW CHURN\n\n5%\n0%\n-5%\n-10%\n-15%\n-20%\n6/30/2014 9/30/2014 12/31/2014 3/31/2015 6/30/2015 9/30/2015 12/31/2015 3/31/2016\n\nUSER CHURN\nMRR CHURN\nNET MRR CHURN\n\n~3% monthly user churn, negative net MRR churn.\nTopPitchDeck",
+      "section": "Traction",
+      "summary": "This slide demonstrates low customer churn and strong retention metrics over time, highlighting approximately 3% monthly user churn and negative net MRR churn from June 2014 to March 2016.",
+      "key_points": [
+        "Displays user churn, MRR churn, and net MRR churn from 6/30/2014 to 3/31/2016",
+        "Claims approximately 3% monthly user churn",
+        "Claims negative net MRR churn"
+      ]
+    },
+    {
+      "slide": 10,
+      "mode": "vision",
+      "transcript": "OUR FOCUS TO DATE\nTopPitch Deck",
+      "section": "Traction",
+      "summary": "This slide outlines the company's historical focus and milestones achieved to date under the TopPitch Deck initiative.",
+      "key_points": [
+        "Outlines focus to date",
+        "Presents TopPitch Deck activities"
+      ]
+    },
+    {
+      "slide": 11,
+      "mode": "vision",
+      "transcript": "THE PRODUCT COMES FIRST\n\nWe’re our first users\n60% of payroll = Engineering\nSupport agents = 0\n\nFast iteration: frontapp.com/roadmap\nNo complex product lines: we only sell licences to use our only product\n\nFront\nNotifications 55\nWORKSPACE\nAssigned to me 92\nFollowing 135\nSent\nDrafts 2\nTrash\nSearch...\nNEW\nOPEN\nALL\n@zeewil\nZach Wilson\n@ZeeWil can't wait until @FrontA...\n@rauchg\nGuillermo Rauch\nI'm in love with @FrontApp!\nAssign To Follow\nZach Wilson @zeewil\nZach Wilson to @FrontApp\nStarted using @frontapp for one of my company's client msging\nplatforms and wow, it's going to be a staple for our communication\nTopPitchDeck",
+      "section": "Product",
+      "summary": "This slide highlights the company's product-first strategy, emphasizing high engineering investment, rapid iteration, and a streamlined product line with zero support agents. It also includes product UI previews and customer endorsements.",
+      "key_points": [
+        "We're our first users",
+        "60% of payroll = Engineering",
+        "Support agents = 0",
+        "Fast iteration: frontapp.com/roadmap",
+        "No complex product lines: we only sell licences to use our only product"
+      ]
+    },
+    {
+      "slide": 12,
+      "mode": "vision",
+      "transcript": "ACQUISITION CHANNELS\n\n3 acquisition channels\n\nORGANIC GROWTH\n\n70% of 2015 leads\nCustomer word-of-mouth\nLeader on \"shared inbox\"\n\nSALES\n\n40 qualified demos / month / SDR\n28% post-demo conversion\n$36k ARR added / month / AE\n\nMARKETING\n\n✓ Content playbook\n✓ Co-marketing playbook\n✓ Paid acq. unit economics\n\nWe've identified repeatable strategies to acquire new customers.\nWe will iterate on those and double down on the winners.\nTopPitchDeck",
+      "section": "Business Model",
+      "summary": "This slide details the startup's customer acquisition strategy and go-to-market channels, outlining metrics and playbooks for organic growth, sales, and marketing. An investor would use this slide to evaluate the scalability, repeatability, and unit economics of the customer acquisition process.",
+      "key_points": [
+        "Organic growth accounts for 70% of 2015 leads via customer word-of-mouth and leadership on 'shared inbox'",
+        "Sales channel metrics include 40 qualified demos/month/SDR, 28% post-demo conversion, and $36k ARR added/month/AE",
+        "Marketing channels include a content playbook, co-marketing playbook, and paid acq. unit economics",
+        "The company has identified repeatable strategies to acquire new customers and plans to iterate and double down on winners"
+      ]
+    },
+    {
+      "slide": 13,
+      "mode": "vision",
+      "transcript": "WE LAND AND EXPAND\nPercentage of MRR retained relative to starting month\n | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 18 | 19 | 20 | 21 | 22\n6/1/2014 | 101% | 115% | 109% | 125% | 135% | 136% | 137% | 153% | 168% | 142% | 124% | 122% | 122% | 122% | 107% | 102% | 101% | 117% | 117% | 120% | 120% | 121%\n7/1/2014 | 120% | 124% | 128% | 132% | 131% | 145% | 131% | 143% | 149% | 157% | 160% | 162% | 159% | 185% | 196% | 198% | 198% | 165% | 175% | 174% | 175%\n8/1/2014 | 174% | 209% | 240% | 240% | 213% | 225% | 228% | 236% | 207% | 201% | 197% | 89% | 84% | 88% | 91% | 86% | 85% | 88% | 91% | 91%\n9/1/2014 | 115% | 116% | 120% | 114% | 123% | 124% | 125% | 126% | 126% | 138% | 133% | 134% | 151% | 161% | 162% | 195% | 182% | 187% | 194%\n10/1/2014 | 106% | 57% | 54% | 53% | 53% | 59% | 58% | 57% | 61% | 63% | 56% | 63% | 63% | 65% | 68% | 65% | 69% | 66%\n11/1/2014 | 106% | 117% | 114% | 119% | 119% | 126% | 133% | 149% | 164% | 166% | 164% | 165% | 190% | 196% | 200% | 199% | 206%\n12/1/2014 | 106% | 111% | 113% | 106% | 113% | 118% | 118% | 121% | 159% | 156% | 154% | 153% | 156% | 174% | 173% | 179%\n1/1/2015 | 112% | 116% | 116% | 114% | 132% | 146% | 148% | 146% | 160% | 174% | 185% | 200% | 203% | 193% | 201%\n2/1/2015 | 113% | 131% | 138% | 149% | 167% | 182% | 179% | 179% | 173% | 175% | 188% | 183% | 169% | 167%\n3/1/2015 | 111% | 106% | 110% | 108% | 109% | 113% | 118% | 124% | 109% | 108% | 112% | 122% | 134%\n4/1/2015 | 119% | 130% | 143% | 158% | 149% | 147% | 142% | 150% | 154% | 158% | 171% | 170%\n5/1/2015 | 111% | 114% | 121% | 127% | 131% | 137% | 158% | 165% | 177% | 173% | 190%\n6/1/2015 | 111% | 111% | 111% | 112% | 114% | 119% | 121% | 126% | 133% | 133%\n7/1/2015 | 116% | 125% | 128% | 132% | 137% | 134% | 134% | 164% | 167%\n8/1/2015 | 113% | 119% | 122% | 126% | 128% | 127% | 129% | 136%\n9/1/2015 | 127% | 132% | 132% | 133% | 142% | 144% | 145%\n10/1/2015 | 111% | 121% | 116% | 112% | 106% | 85%\n11/1/2015 | 115% | 108% | 101% | 103% | 111%\n12/1/2015 | 110% | 128% | 131% | 128%\n1/1/2016 | 112% | 186% | 207%\n2/1/2016 | 119% | 141%\n3/1/2016 | 109%\nBig customer shut down\nStripe error\n150% annual expansion: the \"land & expansion\" strategy works.\nTopPitchDeck",
+      "section": "Traction",
+      "summary": "This slide demonstrates strong 'land and expand' customer retention and revenue growth dynamics through a cohort analysis table showing monthly recurring revenue (MRR) retained relative to starting month from mid-2014 through early 2016. It highlights an annual expansion rate of 150%, alongside specific operational notes regarding customer shutdowns and technical errors.",
+      "key_points": [
+        "Displays a cohort analysis of MRR retained relative to starting month spanning cohorts from 6/1/2014 to 3/1/2016.",
+        "Highlights a 150% annual expansion metric, proving the 'land & expansion' strategy works.",
+        "Includes annotations for a 'Big customer shut down' and a 'Stripe error'."
+      ]
+    },
+    {
+      "slide": 14,
+      "mode": "vision",
+      "transcript": "WE’VE BEEN CAPITAL EFFICIENT\n\n$1.3m\nSpent in 18 months to reach $1.4m in ARR\n\n$1.8m\nLeft from last seed round\n\n$90k\nMonthly burn\n\n5 months\nTo be profitable\n\nTopPitchDeck",
+      "section": "Financials",
+      "summary": "This slide outlines the startup's capital efficiency and financial runway, demonstrating a strong return on capital with $1.3m spent over 18 months to achieve $1.4m in ARR. It also highlights current financial health with $1.8m remaining from the last seed round, a $90k monthly burn rate, and a projected timeline of 5 months to reach profitability.",
+      "key_points": [
+        "$1.3m spent in 18 months to reach $1.4m in ARR",
+        "$1.8m left from last seed round",
+        "$90k monthly burn",
+        "5 months to be profitable"
+      ]
+    },
+    {
+      "slide": 15,
+      "mode": "vision",
+      "transcript": "RAISING $10M SERIES A\nTO ACCELERATE GROWTH\nTopPitchDeck",
+      "section": "Funding Ask",
+      "summary": "This slide outlines the company's Series A funding ask of $10M aimed at accelerating growth.",
+      "key_points": [
+        "Raising $10M",
+        "Series A round",
+        "Purpose is to accelerate growth"
+      ]
+    },
+    {
+      "slide": 16,
+      "mode": "vision",
+      "transcript": "THE RIGHT MIX OF PASSION AND EXPERIENCE\n\nMathilde Collin\nCEO, co-founder\n\nHEC PARIS\nY\n\nLaurent Perrin\nCTO, co-founder\n\nÉCOLE POLYTECHNIQUE ParisTech\nY\n\nCailen D'Sa\nHead of Sales\n1st sales @ box nd\nDropbox\n\nGreg Walder\nHead of Customer Success\nFormer head of upsells @ Dropbox\n\nUnfair access to pool of excellent French engineers\n\nTopPitchDeck",
+      "section": "Team",
+      "summary": "This slide introduces the founding and core team, highlighting their educational backgrounds from HEC Paris and École Polytechnique ParisTech, as well as relevant scaling experience from Dropbox. It also claims unfair access to a pool of excellent French engineers.",
+      "key_points": [
+        "Mathilde Collin: CEO, co-founder, HEC Paris",
+        "Laurent Perrin: CTO, co-founder, École Polytechnique ParisTech",
+        "Cailen D'Sa: Head of Sales, 1st sales @ box nd Dropbox",
+        "Greg Walder: Head of Customer Success, Former head of upsells @ Dropbox",
+        "Claims unfair access to pool of excellent French engineers"
+      ]
+    },
+    {
+      "slide": 17,
+      "mode": "vision",
+      "transcript": "THE PRODUCT ROADMAP IS CLEAR\nToday | Q2 | Q3 | Q4 | Q1 | Q2 | Q3\nNew Platforms | Android | iPad New iOS | | Native Mac App | | \nNew Integrations | HubSpot Base Zoho | Dropbox Google Drive Box | BOTS | Mailchimp Magento Constant Contact | Kissmetrics Mixpanel Segment | NetSuite Marketo Etc.\nNew Channels | Messenger | WeChat Whatsapp | | Exchange | Other email providers | \nEntreprise Ready | SSO | Teams | SLAs | Custom Rights | Light Users | Advanced Reporting\nTopPitchDeck",
+      "section": "Product",
+      "summary": "This slide outlines the startup's product roadmap spanning from today across seven quarters (Q2 through Q3), detailing planned expansions in new platforms, integrations, channels, and enterprise-ready features.",
+      "key_points": [
+        "New Platforms roadmap includes Android, iPad New iOS, and Native Mac App.",
+        "New Integrations roadmap includes HubSpot Base Zoho, Dropbox Google Drive Box, BOTS, Mailchimp Magento Constant Contact, Kissmetrics Mixpanel Segment, and NetSuite Marketo Etc.",
+        "New Channels roadmap includes Messenger, WeChat Whatsapp, Exchange, and Other email providers.",
+        "Enterprise Ready roadmap includes SSO, Teams, SLAs, Custom Rights, Light Users, and Advanced Reporting."
+      ]
+    },
+    {
+      "slide": 18,
+      "mode": "vision",
+      "transcript": "PROJECTIONS\n\nExpenses\nPayroll (eng.) | Payroll (non-eng.) | Selling & Marketing | Other\n\nRevenues\nMRR\n\n$1000k\n$750k\n$500k\n$250k\n$0k\n5/1/2016 | 8/1/2016 | 11/1/2016 | 2/1/2017 | 5/1/2017 | 8/1/2017 | 11/1/2017\n\nCHART: Area chart showing expenses increasing over time stacked by category, intersected by an exponentially growing red line representing MRR revenues.\n\n2016 | 2017\nARR | $3m | $10m\nHeadcount | 39 | 53\n\nTopPitchDeck",
+      "section": "Financials",
+      "summary": "This financial projections slide presents forecasted expenses broken down by payroll, selling and marketing, and other categories, alongside exponentially growing MRR revenues. It includes ARR and headcount projections for 2016 and 2017.",
+      "key_points": [
+        "Expenses stacked by category include Payroll (eng.), Payroll (non-eng.), Selling & Marketing, and Other.",
+        "MRR revenues are represented by an exponentially growing red line intersecting the area chart of expenses.",
+        "Timeline spans from 5/1/2016 to 11/1/2017.",
+        "ARR projections are $3m for 2016 and $10m for 2017.",
+        "Headcount projections are 39 for 2016 and 53 for 2017."
+      ]
+    },
+    {
+      "slide": 19,
+      "mode": "vision",
+      "transcript": "FUNDING\n\nSeries Seed\nSept. 2014\n\n$3.1M\n\nLed by Softtech VC\nAngel investments from:\nPaul Buchheit\nElad Gil\n& 32 more\n\nSeries A\nnow\n\n$10M\n\nCommitted:\nStewart Butterfield\nEoghan McCabe\n\nTopPitchDeck",
+      "section": "Funding Ask",
+      "summary": "This slide outlines the company's funding history, detailing a previous $3.1M Series Seed round from September 2014 led by Softtech VC with angel investors, alongside a current $10M Series A round with committed investments from Stewart Butterfield and Eoghan McCabe.",
+      "key_points": [
+        "Series Seed in Sept. 2014 for $3.1M led by Softtech VC with angel investments from Paul Buchheit, Elad Gil, & 32 more",
+        "Series A is now for $10M",
+        "Series A committed investors include Stewart Butterfield and Eoghan McCabe"
+      ]
+    },
+    {
+      "slide": 20,
+      "mode": "vision",
+      "transcript": "THE OPPORTUNITY\n\nSlack proved that businesses are ready to buy good communication tools.\nThey're going after the internal communications market.\n\nWe're going after the bigger opportunity.\nFront will own the external communications space.\n\nTopPitchDeck",
+      "section": "Market",
+      "summary": "This slide defines the market opportunity by contrasting the internal communications space targeted by Slack with the larger external communications space that the company intends to own.",
+      "key_points": [
+        "Slack proved businesses are ready to buy good communication tools",
+        "Slack targets the internal communications market",
+        "The company is going after a bigger opportunity",
+        "Front aims to own the external communications space"
+      ]
+    },
+    {
+      "slide": 21,
+      "mode": "vision",
+      "transcript": "THANKS\nTopPitchDeck",
+      "section": "Other",
+      "summary": "This slide serves as a closing or thank you page for the presentation, displaying the company name TopPitchDeck.",
+      "key_points": [
+        "Says thanks",
+        "Displays TopPitchDeck"
+      ]
+    }
+  ]
+}

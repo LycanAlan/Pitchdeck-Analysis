@@ -4,23 +4,23 @@
     {
       "slide": 1,
       "mode": "vision",
-      "transcript": "coinbase\nPITCH DECK TEMPLATE\nPortfolio balance\n$1,176.11\n$1,180.33\n$805.45\n1H | 1D | 1W | 1M | 1Y | All\nCash (USD) | $59.08\nUSD Coin 1.25% APY | $439.42\nBitcoin | $677.50\nHome | Portfolio | Prices | Settings",
+      "transcript": "coinbase\nPITCH DECK TEMPLATE\nPortfolio balance\n$1,176.11\n$805.45\n$1,180.33\n1H\n1D\n1W\n1M\n1Y\nAll\nCHART: Line graph showing overall upward trend with fluctuations.\nCash (USD)\n$59.08\nUSD Coin\n1.25% APY\n$439.42\nBitcoin\n$677.50\nHome\nPortfolio\nPrices\nSettings",
       "section": "Product",
-      "summary": "This slide showcases the product's user interface, displaying a mockup of a cryptocurrency portfolio dashboard. It demonstrates how users can track their balances over time and view individual asset allocations like USD cash, USD Coin, and Bitcoin.",
+      "summary": "This slide showcases the product interface and user experience of the Coinbase platform, displaying features such as portfolio balance tracking, asset allocation including Cash (USD), USD Coin, and Bitcoin, and interactive timeframe views.",
       "key_points": [
-        "Displays a portfolio balance interface with values of $1,176.11, $1,180.33, and $805.45.",
-        "Features a timeline navigation bar with intervals including 1H, 1D, 1W, 1M, 1Y, and All.",
-        "Lists asset holdings including Cash (USD) of $59.08 and Bitcoin of $677.50.",
-        "Shows USD Coin holding of $439.42 with an indicated 1.25% APY.",
-        "Includes bottom navigation menu options for Home, Portfolio, Prices, and Settings."
+        "Displays a portfolio balance with values including $1,176.11, $805.45, and $1,180.33 alongside 1H, 1D, 1W, 1M, 1Y, and All timeframe options",
+        "Includes a line graph showing an overall upward trend with fluctuations",
+        "Shows Cash (USD) holding of $59.08",
+        "Shows USD Coin holding yielding 1.25% APY valued at $439.42",
+        "Shows Bitcoin holding of $677.50 with navigation options for Home, Portfolio, Prices, and Settings"
       ]
     },
     {
       "slide": 2,
       "mode": "vision",
-      "transcript": "Bitcoin: A New Digital Currency\nInstant International No Transaction Fees\ncoinbase",
+      "transcript": "Bitcoin: A New Digital Currency\n\nInstant\n\nInternational\n\nNo Transaction Fees\n\ncoinbase",
       "section": "Solution",
-      "summary": "The slide introduces Bitcoin as a new digital currency solution for global finance. It emphasizes core value propositions such as instant international transfers and the removal of transaction fees.",
+      "summary": "This slide presents Coinbase's core value proposition as a solution built around Bitcoin, highlighting instant and international transactions with no transaction fees.",
       "key_points": [
         "Bitcoin: A New Digital Currency",
         "Instant",
@@ -32,80 +32,77 @@
     {
       "slide": 3,
       "mode": "vision",
-      "transcript": "3:05\n\n@kevin_s\n$328.41\n\nSend | Receive | Trade\n\nCoins | Collectibles\n\nACTIONS\nBuy or transfer\nFrom Coinbase or elsewhere\n\nEarn interest on your crypto\nUp to 14.2% APR\n\nBALANCE\nBitcoin\nBTC\n$166.90\n0.00329487\n\nEthereum\nETH\n$69.76\n0.04408457\n\n@kevinshay\nWallet connected\nYou can now connect to crypto apps\n\nDisconnect\n\n$2M\nPer day in transaction volume\n\ncoinbase",
-      "section": "Product",
-      "summary": "This slide showcases the Coinbase Wallet user interface, highlighting core features such as asset management, interest-earning capabilities, and dApp connectivity. It emphasizes product utility and reports a daily transaction volume of $2M.",
+      "transcript": "@kevin_s\n$328.41\nSend\nReceive\nTrade\nCoins\nCollectibles\nACTIONS\n$\nBuy or transfer\nFrom Coinbase or elsewhere\nEarn interest on your crypto\nUp to 14.2% APR\nBALANCE\nBitcoin\nBTC\n$166.90\n0.00329487\nEthereum\nETH\n$69.76\n0.04408457\n@kevinshay\nWallet connected\nYou can now connect to crypto apps\nDisconnect\n$2M\nPer day in\ntransaction volume\ncoinbase",
+      "section": "Traction",
+      "summary": "This slide showcases product usage and traction metrics for a crypto wallet application. It highlights user account details, transaction volume, and integration capabilities with Coinbase.",
       "key_points": [
-        "Supports buying, transferring, and trading for both coins and collectibles.",
-        "Enables users to earn up to 14.2% APR interest on crypto assets.",
-        "Features wallet connectivity to interact with various crypto applications.",
-        "Reports a current transaction volume of $2M per day.",
-        "Displays real-time asset tracking for Bitcoin ($166.90) and Ethereum ($69.76)."
+        "User balance and asset holdings include Bitcoin (BTC) and Ethereum (ETH).",
+        "Features include buying, transferring, earning up to 14.2% APR interest, trading coins, and collectibles.",
+        "Transaction volume reaches $2M per day.",
+        "The wallet is connected to Coinbase."
       ]
     },
     {
       "slide": 4,
       "mode": "vision",
-      "transcript": "peer-to-peer\nAdopters\nmicro-transactions world virtual\ndeveloping Early e-commerce\ngames goods\nremittance\ninternational\npayments\ncoinbase",
-      "section": "Market",
-      "summary": "The slide identifies key market segments and use cases for peer-to-peer payment technology, targeting early adopters in high-growth sectors. It focuses on international remittances, virtual world micro-transactions, and the development of early e-commerce.",
+      "transcript": "peer-to-peer\nAdopters\nEarly\nmicro-transactions\ndeveloping\ngames\nworld virtual\ne-commerce\ngoods\nremittance\ninternational\npayments\n\ncoinbase",
+      "section": "Product",
+      "summary": "This slide outlines product features and target demographics, highlighting peer-to-peer micro-transactions, international payments, and virtual world goods alongside Coinbase.",
       "key_points": [
-        "Focus on peer-to-peer international payments and remittance",
-        "Targeting early adopters in the micro-transactions space",
-        "Opportunities in virtual worlds and games goods",
-        "Application in developing early e-commerce markets",
-        "Identifies Coinbase as the platform for these transactions"
+        "Mentions peer-to-peer early adopters",
+        "Includes micro-transactions for developing games and virtual world goods",
+        "Covers e-commerce and international remittance payments",
+        "References coinbase"
       ]
     },
     {
       "slide": 5,
       "mode": "vision",
-      "transcript": "1:24\nPortfolio balance | 7\n$89,942.55\nAlgorand rewards | x\nEarn 6.00% APY on\nAlgorand (ALGO)\nCoinbase: A Hosted | Watchlist\nBitcoin Wallet | Bitcoin BTC | $48,243.86 | -11.52%\nEthereum ETH | $1,542.64 | -14.40%\nThe Graph GRT | $1.6425 | -21.66%\nTezos XTZ | $3.45 | -20.65%\nCompound COMP | $370.40 | -15.56%\nHome | Portfolio | Prices | Settings\ncoinbase",
+      "transcript": "Coinbase: A Hosted\nBitcoin Wallet\n1:24\nPortfolio balance\n$89,942.55\nAlgorand rewards\nEarn 6.00% APY on\nAlgorand (ALGO)\nWatchlist\nBitcoin\nBTC\n$48,243.86\n-11.52%\nEthereum\nETH\n$1,542.64\n-14.40%\nThe Graph\nGRT\n$1.6425\n-21.66%\nTezos\nXTZ\n$3.45\n-20.65%\nCompound\nCOMP\n$370.40\n-15.56%\nHome\nPortfolio\nPrices\nSettings\ncoinbase",
       "section": "Product",
-      "summary": "This slide showcases the Coinbase user interface, demonstrating a hosted digital wallet with active portfolio features. It displays a portfolio balance of $89,942.55 alongside promotional APY earnings and a cryptocurrency watchlist.",
+      "summary": "This slide showcases the Coinbase hosted Bitcoin wallet product interface, demonstrating core features including portfolio balance tracking, crypto rewards earning, watchlist pricing, and navigation.",
       "key_points": [
-        "Displays a total portfolio balance of $89,942.55.",
-        "Promotes earning 6.00% APY on Algorand (ALGO).",
-        "Shows a watchlist with Bitcoin (BTC) at $48,243.86 (-11.52%) and Ethereum (ETH) at $1,542.64 (-14.40%).",
-        "Lists watchlist prices for The Graph (GRT) at $1.6425, Tezos (XTZ) at $3.45, and Compound (COMP) at $370.40.",
-        "Features navigation options for Home, Portfolio, Prices, and Settings."
+        "Displays a portfolio balance of $89,942.55",
+        "Highlights Algorand (ALGO) rewards earning at 6.00% APY",
+        "Shows watchlist assets including Bitcoin, Ethereum, The Graph, Tezos, and Compound with corresponding prices and negative percentage changes",
+        "Lists navigation options including Home, Portfolio, Prices, and Settings"
       ]
     },
     {
       "slide": 6,
       "mode": "vision",
-      "transcript": "Coinbase: Bitcoin\niTunes: MP3\ncoinbase",
-      "section": "Solution",
-      "summary": "Coinbase positions itself as the primary interface and platform for Bitcoin, drawing a direct analogy to the role iTunes played for the MP3 format. The slide defines the company's value proposition as the essential gateway for the cryptocurrency ecosystem.",
+      "transcript": "Coinbase: Bitcoin\niTunes: MP3\n\ncoinbase",
+      "section": "Other",
+      "summary": "This slide uses analogical positioning to compare the company's core offering to established market precedents, specifically equating Coinbase to Bitcoin and iTunes to MP3.",
       "key_points": [
-        "Analogy: iTunes is to MP3 as Coinbase is to Bitcoin",
-        "Positions the company as the primary platform for the asset class"
+        "Compares Coinbase to Bitcoin",
+        "Compares iTunes to MP3",
+        "Displays the Coinbase logo/name"
       ]
     },
     {
       "slide": 7,
       "mode": "vision",
-      "transcript": "User growth: Daily signups\n\n20%\nDaily Coinbase signups\n4k new user signups in 2 weeks\n\n4k\n3k\nGrowth starts accelerating\n2k\n1k\n0\nAug 4th Aug 6th Aug 8th Aug 10th Aug 12th Aug 14th Aug 16th Aug 18th\n4k\n\nCHART: Area chart showing daily signups growing slowly from August 4th until August 10th, then accelerating sharply to reach 4,000 signups on August 18th.",
+      "transcript": "User growth: Daily signups\n20%\nDaily Coinbase signups\n4k new user signups in 2 weeks\n4k\n3k\nGrowth starts accelerating\n2k\n1k\n0\nAug 4th\nAug 6th\nAug 8th\nAug 10th\nAug 12th\nAug 14th\nAug 16th\nAug 18th",
       "section": "Traction",
-      "summary": "The slide demonstrates accelerating user traction, highlighting a sharp increase in daily signups that reached 4,000 on August 18th. It claims 4k new user signups within a two-week period, representing 20% of daily Coinbase signups.",
+      "summary": "This slide demonstrates user growth with a 20% increase in daily Coinbase signups, showing that growth starts accelerating over a two-week period from August 4th to August 18th.",
       "key_points": [
-        "4k new user signups achieved in 2 weeks",
-        "Daily signups represent 20% of daily Coinbase signups",
-        "Daily signups grew slowly from August 4th until August 10th",
-        "Growth accelerated sharply after August 10th, reaching 4,000 daily signups on August 18th"
+        "20% daily Coinbase signups",
+        "4k new user signups in 2 weeks",
+        "Growth starts accelerating",
+        "Timeline spans from Aug 4th to Aug 18th"
       ]
     },
     {
       "slide": 8,
       "mode": "vision",
-      "transcript": "Coinbase Transactions\n$65,000 in the first 5 weeks\nTransaction Volume (BTC)\n1,200\n800\n400\n0\nJul 15, 2021\nJul 23, 2021\nJul 30, 2021\nAug 6, 2021\nAug 10, 2021\nAug 23, 2021\nAug 30, 2021\nCHART: A line graph showing a significant upward trend in transaction volume from mid-July to the end of August 2021.\ncoinbase",
+      "transcript": "Coinbase Transactions\n\n$65,000 in the first 5 weeks\n\nTransaction Volume (BTC)\n\n1,200\n\n800\n\n400\n\n0\n\nJul 15, 2021 | Jul 23, 2021 | Jul 30, 2021 | Aug 6, 2021 | Aug 10, 2021 | Aug 23, 2021 | Aug 30, 2021\n\nCHART: A line chart showing a generally upward trend in Bitcoin transaction volume from July 15, 2021 to August 30, 2021, starting near zero and rising to approximately 1,170 BTC.\n\ncoinbase",
       "section": "Traction",
-      "summary": "The slide highlights early transaction growth, showcasing $65,000 in Coinbase transactions within the first 5 weeks. A line graph depicts a significant upward trend in BTC transaction volume from mid-July to the end of August 2021.",
+      "summary": "This slide highlights early transaction traction for Coinbase, demonstrating rapid growth in Bitcoin transaction volume and revenue over a multi-week period in the summer of 2021.",
       "key_points": [
-        "$65,000 in Coinbase transactions generated in the first 5 weeks.",
-        "Transaction volume (BTC) tracked from July 15, 2021, to August 30, 2021.",
-        "Transaction volume graph scale ranges from 0 to 1,200 BTC.",
-        "The chart displays a significant upward trend in transaction volume over the 1.5-month period."
+        "Generated $65,000 in the first 5 weeks",
+        "Tracked Bitcoin transaction volume from July 15, 2021, to August 30, 2021",
+        "Showed a generally upward trend starting near zero and rising to approximately 1,170 BTC"
       ]
     }
   ]

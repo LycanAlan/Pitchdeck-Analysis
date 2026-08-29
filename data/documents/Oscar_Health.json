@@ -1,0 +1,438 @@
+{
+  "name": "Oscar_Health",
+  "slides": [
+    {
+      "slide": 1,
+      "mode": "vision",
+      "transcript": "oscar\nsimple\nfriendly\nsmart",
+      "section": "Other",
+      "summary": "This slide serves as a brand identity or mission statement, highlighting the core value proposition and personality of the company. It positions the brand as prioritizing user experience through simplicity, friendliness, and intelligence.",
+      "key_points": [
+        "Brand name: oscar",
+        "Value proposition: simple",
+        "Brand attribute: friendly",
+        "Brand attribute: smart"
+      ]
+    },
+    {
+      "slide": 2,
+      "mode": "vision",
+      "transcript": "Health Insurance is\nwas the worst",
+      "section": "Problem",
+      "summary": "This slide introduces the core consumer pain point by identifying health insurance as a broken or negative industry experience.",
+      "key_points": [
+        "Health insurance is identified as the worst",
+        "Establishes a negative market sentiment"
+      ]
+    },
+    {
+      "slide": 3,
+      "mode": "text_layer",
+      "transcript": "health insurance is changing (fast)\n40 million individuals getting insurance \nShop for insurance like everything else \nInsurers can’t say no!",
+      "section": "Market",
+      "summary": "This slide outlines a shift in the health insurance landscape characterized by a growing customer base and a transition toward a consumer-centric shopping experience. It highlights a regulatory environment where insurers are mandated to provide coverage to individuals.",
+      "key_points": [
+        "Health insurance sector is evolving rapidly",
+        "40 million individuals are obtaining insurance",
+        "Insurance is being shopped for like other consumer goods",
+        "Insurers are prohibited from denying coverage"
+      ]
+    },
+    {
+      "slide": 4,
+      "mode": "text_layer",
+      "transcript": "customer is the consumer\nFocus on branding, technology, customer service \nTech tools that guide members to care \nMake it simple",
+      "section": "Product",
+      "summary": "This slide outlines the company's product strategy, emphasizing a consumer-centric approach driven by branding, technology, and customer service. It highlights the use of integrated tech tools designed to simplify the user journey and guide members toward appropriate care.",
+      "key_points": [
+        "Targeting the consumer directly",
+        "Core focus on branding, technology, and customer service",
+        "Utilization of tech tools to guide members to care",
+        "Priority on user experience simplification"
+      ]
+    },
+    {
+      "slide": 5,
+      "mode": "vision",
+      "transcript": "what makes us simple?\n4 key ingredients",
+      "section": "Solution",
+      "summary": "This slide introduces the product's value proposition by highlighting four core components that simplify the user experience or operational model.",
+      "key_points": [
+        "Focuses on product simplicity",
+        "Identifies 4 key ingredients"
+      ]
+    },
+    {
+      "slide": 6,
+      "mode": "text_layer",
+      "transcript": "1. simple because our visual design\nFriendly and approachable \nClear and limited calls to action \nHide details until needed",
+      "section": "Product",
+      "summary": "This slide outlines the core principles of the product's user experience and visual design strategy. It focuses on usability and intuitive interface navigation to ensure an approachable user journey.",
+      "key_points": [
+        "Visual design prioritizes a friendly and approachable aesthetic",
+        "Interface employs clear and limited calls to action",
+        "Information architecture utilizes progressive disclosure to hide details until needed"
+      ]
+    },
+    {
+      "slide": 7,
+      "mode": "vision",
+      "transcript": "oscar\n¿Hablas Español? Nosotros también.\nAre you a provider?\nSign in\n\nHello New York, We're Oscar,\nA new kind of health insurance company that is using technology to make insurance simple, intuitive, and human. In other words, the kind of healthcare we want for ourselves.\n\nGET STARTED\nv",
+      "section": "Product",
+      "summary": "This slide introduces Oscar as a tech-enabled health insurance provider designed to simplify the user experience. It highlights the company's value proposition of delivering human-centric, intuitive healthcare insurance.",
+      "key_points": [
+        "Company name: Oscar",
+        "Target market: New York",
+        "Value proposition: Tech-driven, simple, and human health insurance",
+        "Functionality: Provides a platform for members and providers"
+      ]
+    },
+    {
+      "slide": 8,
+      "mode": "vision",
+      "transcript": "There is no text to transcribe.",
+      "section": "Other",
+      "summary": "This slide contains no content and provides no information relevant to the business pitch.",
+      "key_points": [
+        "No text provided",
+        "No figures provided"
+      ]
+    },
+    {
+      "slide": 9,
+      "mode": "vision",
+      "transcript": "Health insurance\nthat works like\nthe rest of\nthe Internet.\nIf you're not feeling great,\njust come to our site and\ntype in your symptoms.\nWe'll help you find doctors,\nspecialists, and pharmacies\nquickly and easily.\nWe're Oscar, a new kind\nof health insurance company.\n\nsore throat\n\ncat allergy\n\nrabies\n\noscar\nSign up at 1-855-OSCAR-NY\nOr learn more at HiOscar.com",
+      "section": "Product",
+      "summary": "This slide introduces Oscar as a technology-enabled health insurance provider that utilizes a user-friendly digital interface to streamline patient navigation and healthcare access.",
+      "key_points": [
+        "Digital-first health insurance platform",
+        "Symptom-based search functionality for finding providers and pharmacies",
+        "Direct-to-consumer brand positioning",
+        "Customer contact via 1-855-OSCAR-NY",
+        "Web presence at HiOscar.com"
+      ]
+    },
+    {
+      "slide": 10,
+      "mode": "vision",
+      "transcript": "oscar\n\nKristina\n\nHi Kristina!\nNice to meet you. Let's get to know each other.\n\n1 Insurance can be complicated but we make it simple. Get a tour of your plan ›\n\n2 We can give you personalized care (and a $10 reward). Tell us about your health ›\n\n3 Our doctors can call when you need care. Set up your Teladoc profile ›\n\nSKIP TO SITE ›",
+      "section": "Product",
+      "summary": "This slide showcases the user onboarding and engagement flow for the Oscar health insurance platform. It highlights key features including plan navigation, personalized health assessments, and integrated telehealth services.",
+      "key_points": [
+        "Simple insurance plan navigation",
+        "Personalized care via health data collection",
+        "$10 reward incentive for health info sharing",
+        "Teladoc profile integration for remote doctor consultations"
+      ]
+    },
+    {
+      "slide": 11,
+      "mode": "vision",
+      "transcript": "O Show all events regarding all episodes for Kristina GET CARE BENEFITS ⚙️\n\nFind your level of care\n\nThank you.\nA Teladoc doctor will call you\nbefore 7.43 PM (EDT)\nCANCEL\n\nMinor\nImmediate care for serious injuries and illness\ncare for serious injuries and illness.\n\nGeneral\nImmediate care for serious injuries and illness\ncare for serious injuries and illness.\n\nSpecialist\nImmediate care for serious injuries and illness\ncare for serious injuries and illness.\n\nUrgent\nImmediate care for serious injuries and illness\ncare for serious injuries and illness.\n\nEmergency? Always call 911\nLife Threatening or Permanent Impairment",
+      "section": "Product",
+      "summary": "This slide showcases the user interface for a telehealth platform's care navigation tool, allowing users to select appropriate service levels such as Minor, General, Specialist, or Urgent care. It demonstrates the patient-facing workflow for requesting a consultation and displays a confirmation status for a Teladoc doctor callback.",
+      "key_points": [
+        "Care selection interface for categories: Minor, General, Specialist, and Urgent",
+        "User-facing confirmation of a scheduled Teladoc doctor callback",
+        "Callback time explicitly set to before 7.43 PM (EDT)",
+        "Includes an integrated emergency advisory to call 911 for life-threatening situations",
+        "Provides a cancelation option within the patient workflow"
+      ]
+    },
+    {
+      "slide": 12,
+      "mode": "vision",
+      "transcript": "oscar\nSearch for care, people, places, or drugs\nEdward\nAsthma\n\nAsthma is a chronic disease that affects your airways. Your airways are tubes that carry air in and out of your lungs. If you have asthma, the inside walls of your airways become sore and swollen. That makes them very sensitive, and they may react strongly to things that you are allergic to or find irritating. When your airways react, they get narrower and your lungs get less air.\nRead more\n\nChoose how to get care\n\nPrimary Care Doctor > $80 - $250 v\nPulmonologist > $80 - $350 v\nUrgent Care Clinic > $80 - $350 v\nEmergency Room > $1000 - $1400 v",
+      "section": "Product",
+      "summary": "This slide showcases the platform's user interface, demonstrating how patients can search for specific health conditions and navigate a transparent care-selection menu. It highlights a patient-facing tool that presents comparative pricing across different provider types to facilitate informed healthcare decision-making.",
+      "key_points": [
+        "Search functionality for care, people, places, or drugs",
+        "Provides educational information on chronic conditions like asthma",
+        "Displays comparative pricing for Primary Care Doctor: $80 - $250",
+        "Displays comparative pricing for Pulmonologist and Urgent Care Clinic: $80 - $350",
+        "Displays comparative pricing for Emergency Room: $1000 - $1400"
+      ]
+    },
+    {
+      "slide": 13,
+      "mode": "vision",
+      "transcript": "oscar | Pulmonologist | Edward\n\n24 results in this area | PERSONALIZE | Go to location\n\nDoctor on call\nHave a doctor call you within 1 hour\nFree\n\nCLOSE MATCH\nDavid Valentine\nInternal Medicine, Pulmonologist\n\nCLOSE MATCH\nAthanasios Mallios\nInternal Medicine, Pulmonologist\n\nCLOSE MATCH\nIraj Akhavan\nAllergist, Internal Medicine,\nPulmonologist, Critical Care Doctor\n\nHamid Behzadi\nInternal Medicine, Pulmonologist,\nCritical Care Doctor\n\nLarry Difabrizio\nPulmonologist, Critical Care Doctor\n\nGoogle | Map data ©2014 Google, Sanborn | Terms of Use | Report a map error\n+\n-",
+      "section": "Product",
+      "summary": "This slide showcases the user interface of the Oscar health platform, demonstrating the provider search and on-demand physician consultation functionality. It highlights the ability to filter search results by location and specialty, and offers an integrated 'Doctor on call' feature.",
+      "key_points": [
+        "Displays search results for Pulmonologists",
+        "Includes a 'Doctor on call' feature with a 1 hour response time",
+        "Lists 24 results available in the searched area",
+        "Provides integrated Google map functionality",
+        "Categorizes providers with 'CLOSE MATCH' status and specific medical specialties"
+      ]
+    },
+    {
+      "slide": 14,
+      "mode": "vision",
+      "transcript": "oscar\nSearch for care, people, places, or drugs\nEdward\n\nEdward Eden\nPulmonologist, Critical Care Doctor\n\n1780 BROADWAY, 7TH FLOOR, New York, NY 10019\nPhone (212) 315-0144\nFax (212) 315-0196\n\nSHOW OTHER LOCATION\n\nProvider details\nGender\nMale\nHospitals\nSt Luke's/Roosevelt Hospital Center Saint Luke's Division",
+      "section": "Product",
+      "summary": "This slide showcases the platform's provider directory feature, demonstrating a functional user interface for searching and viewing detailed physician profiles.",
+      "key_points": [
+        "Displays search functionality for care, people, places, or drugs",
+        "Profiles individual providers including name, specialty, and contact information",
+        "Provides physical office address: 1780 BROADWAY, 7TH FLOOR, New York, NY 10019",
+        "Lists professional details including gender and hospital affiliations",
+        "Features navigation options such as showing other office locations"
+      ]
+    },
+    {
+      "slide": 15,
+      "mode": "text_layer",
+      "transcript": "2. simple because we get complexity\nBackgrounds as analysts and data scientists \nIn-house insurance experts \nFocus on primary use cases",
+      "section": "Team",
+      "summary": "This slide highlights the founders' professional background and domain expertise as a competitive advantage. It emphasizes their ability to simplify complex insurance problems through a combination of analytical skills and industry-specific knowledge.",
+      "key_points": [
+        "Backgrounds as analysts and data scientists",
+        "In-house insurance experts",
+        "Focus on primary use cases",
+        "Approach centers on simplifying complexity"
+      ]
+    },
+    {
+      "slide": 16,
+      "mode": "vision",
+      "transcript": "Get your quote in just seconds\nWe need a little info to see if you qualify for financial discounts.\n\nI am single with no kids.\nI make $50,000 per year.\nMy ZIP code is 10012.\n\nGET QUOTE",
+      "section": "Product",
+      "summary": "This slide demonstrates the user interface for the company's financial discount qualification tool. It highlights a streamlined, rapid customer acquisition flow that requires minimal personal data input to generate a quote.",
+      "key_points": [
+        "User flow requires three data points: marital/family status, annual income, and ZIP code",
+        "Company promises a quote in just seconds",
+        "Income input shown as $50,000",
+        "ZIP code input shown as 10012",
+        "Interface features a direct 'GET QUOTE' call-to-action"
+      ]
+    },
+    {
+      "slide": 17,
+      "mode": "vision",
+      "transcript": "oscar\n\nTheodore Roosevelt\n[REDACTED]\n2nd Floor\nNew York City, NY 10003\n\nMember ID | ABC12345678\nBill reflects your payments through | 2/15/2014\nBill Number | 456456456\nBill Period | 3/1/2014 - 3/31/2014\nPlease pay this amount | $300.00\nPlease pay by | 3/1/2014\n\nTYPE OF PLAN\nOscar Silver Edge Plus\n\nINDIVIDUALS COVERED BY THIS BILL\nTheodor Roosevelt\nFanny Roosevelt\nPatricia Roosevelt\nPatty Trick Roosevelt\nRosey Roosevelt\n\nYou have a grace period of 90 days\nfrom the last day premiums were\npaid. Unfortunately, if you do not\npay by the end of this period, your\ncoverage will be terminated\nretroactively to 30 days after the\nlast premiums were paid.\n\nPreviously due | $200.00\nPreviously, you paid | ($150.00)\nRemaining amount due | $50.00\n\nCost of your coverage | $384.72\nGovernment pays | ($184.72)\nAdditional cost to cover Fanny | $50.00\nAdjustment Line 3 | $0.00\nAdjustment Line 4 | $0.00\nAdjustment Line 5 | $0.00\nAdjustment Line 6 | $0.00\nAdjustment Line 7 | $0.00\nAdjustment Line 8 | $0.00\nCost of this month's coverage | $250.00\n\nPlease pay this amount | $300.00\nPlease pay by | 3/1/2014\n\noscar\n\nPlease see reverse for all ways to pay\n\nIf you'd like to pay by\ncheck or money order:\n1 Make payable to\n\"Oscar Insurance Corporation\"\n2 Write your Member ID on the check\n3 Detach this coupon and send\nyour envelope to:\nOscar Insurance Corporation\nPO Box 415841\nBoston, MA 02241-5841\n\nMemberID | Bill Number | Total Due | Pay By\nABC1234567 | 456456456 | $300.00 | 4/1/2014\nPlease enter payment amount | $\n\n2691000035012341000000000000000000000000000000000000000000000000000000",
+      "section": "Product",
+      "summary": "This slide displays a mock-up of an Oscar Insurance Corporation monthly billing statement, highlighting the user interface design for premium payment management. It serves as a visual representation of the member experience regarding plan details, cost breakdowns, and payment instructions.",
+      "key_points": [
+        "Displays a sample billing statement for the Oscar Silver Edge Plus plan.",
+        "Shows a total monthly payment due of $300.00.",
+        "Outlines a 90-day grace period policy for premium payments.",
+        "Details a cost breakdown including a $184.72 government contribution and an additional $50.00 for a covered individual.",
+        "Provides instructions for payment via check or money order to the Oscar Insurance Corporation."
+      ]
+    },
+    {
+      "slide": 18,
+      "mode": "vision",
+      "transcript": "000143-0000003-0000003000429 2407135 3680ST01 3 3\n\noscar\n295 Lafayette Street, 6th Floor\nNew York, NY 10011\n\nEdward Segel\nNew York, NY 10011\n\nYou owe $242.95 by January 1\nSee back for more details.\n\nPay online\nVisit hioscar.com to set up one-time\nor recurring payments.\n\nPay by check\nSee the back of this bill for instructions\non how to pay by check or money order.\n\nPay with cash\nGo online to find over 1,000 locations in the\nNew York metro area. Unlike our other\nmethods, paying with cash incurs a $1.50 fee.\n\nQuestions? Give us a call\n1-855-OSCAR-55",
+      "section": "Product",
+      "summary": "This slide displays a customer billing statement from Oscar, illustrating the user experience for invoice management and payment processing.",
+      "key_points": [
+        "Customer billing statement for Edward Segel",
+        "Amount due: $242.95 by January 1",
+        "Payment channels include online, check, or cash",
+        "Cash payments incur a $1.50 fee",
+        "Customer support contact provided via 1-855-OSCAR-55"
+      ]
+    },
+    {
+      "slide": 19,
+      "mode": "text_layer",
+      "transcript": "3. simple because we’re data smart\nSearch instead of menus \nNatural language instead of medical terminology \nTurn oﬄine experiences into online ones",
+      "section": "Product",
+      "summary": "This slide highlights the product's UX strategy, focusing on simplifying user interaction through natural language search and the digitization of offline processes. It positions the platform's data-driven approach as a key differentiator for improving accessibility and ease of use.",
+      "key_points": [
+        "Utilizes search functionality to replace traditional menus",
+        "Employs natural language instead of medical terminology",
+        "Digitizes offline experiences for online use",
+        "Leverages a data-smart strategy to ensure simplicity"
+      ]
+    },
+    {
+      "slide": 20,
+      "mode": "vision",
+      "transcript": "O\nSearch for symptoms and care\nOR BROWSE...\nHEALTH HISTORY\n\nDoctor\nPharmacy\nLab\nImaging center\nYour past care\nSpecialties\nConditions\nProcedures\nMinor wound\nDepression\nInfluenza\nArhritis\nDiabetes\nMigraines\nAll conditions\n\nInfluenza\nInflenze is typically\ncharacterized by fevers, chills,\nsed do eiusmod tempor\nincididunt ut labore et dolore\nmagna aliqua.\n\nCall us at (518) 512-1234\nChange phone number\n\nYour hospital\n\n49th St\n50th St\n41-16\n51st St\nSkillman Ave\n50-2\n52nd St\n39th Dr\n52-0\n53rd St\n54-2\n4120\n41-4\nQueens Library\n- Woodside\n55th St\n56th St\n39th Ave\n5610\n57th St\n57th St\n58th St\n39-2\nVaux Rd\n59-2\n59th St\n40-11\n40-24\n60th St\n61-2\n60th St\n39-39\n38th Ave\n59-2\n39th Ave\n42\n60th St\n602\nWoodside\nWoodside Ave\nM",
+      "section": "Product",
+      "summary": "This slide demonstrates the user interface for a patient-facing health navigation platform, featuring symptom searching, health history aggregation, and local provider location services. The interface highlights integrated access to doctors, labs, and imaging centers alongside educational content for specific medical conditions.",
+      "key_points": [
+        "Integrated symptom search and medical condition educational library",
+        "Centralized dashboard for health history including labs, pharmacy, and imaging",
+        "Geographic provider locator feature focused on the Woodside/Queens area",
+        "Direct contact functionality via phone number (518) 512-1234",
+        "UI includes placeholder 'lorem ipsum' text within the Influenza condition details"
+      ]
+    },
+    {
+      "slide": 21,
+      "mode": "vision",
+      "transcript": "oscar\nmead\n≡ Edward\nPEOPLE\nRobert Mead Psychologist\nRon Meadow Physical Therapist\nHerbert Meadow Psychiatrist\nPLACES See all 4 results\nMeadowbrook Care Center Freeport, NY\nMeadow Park Rehabilitation and Health Care Center Flus...\nIsland Sports Pt of East Meadow East Meadow, NY\nDRUGS See all 40 results\nEmadine Emedastine\nMetadate CD Methylphenidate\nMetadate ER Methylphenidate\nTalk to a doctor | Get care | Explore your plan\nYour Health Events\nMar 15 You requested a doctor call at 5:48 p.m.\nMar 11 We received your payment of $1.00.\nMar 05 You requested a doctor call at 7:36 p.m.\nMar 04 You requested a doctor call at 2:33 p.m.\nFeb 27 We received your payment of $217.95.",
+      "section": "Product",
+      "summary": "This slide showcases the user interface of the Oscar health platform, highlighting its search functionality for people, facilities, and drugs, alongside a chronological history of user health events and financial transactions.",
+      "key_points": [
+        "Search functionality categorizes results for People, Places, and Drugs.",
+        "Integrated tele-health request tracking showing specific timestamps.",
+        "Transactional payment history including figures of $1.00 and $217.95.",
+        "Platform features include options to talk to a doctor, get care, and explore plans."
+      ]
+    },
+    {
+      "slide": 22,
+      "mode": "vision",
+      "transcript": "oscar\ni can't stop wheezing\nFIND CARE FOR\nSleep Apnea\nAsthma\nRespiratory Failure\nEdward\nTalk with a doctor\nFind care\nExplore your plan\nYour Health Events\nMar 15 You requested a doctor call at 5:48 p.m.\nMar 11 We received your payment of $1.00.\nMar 05 You requested a doctor call at 7:36 p.m.\nMar 04 You requested a doctor call at 2:33 p.m.\nFeb 27 We received your payment of $217.95.",
+      "section": "Product",
+      "summary": "This slide showcases the user interface of the Oscar health platform, highlighting features for managing respiratory conditions and tracking health-related interactions. It demonstrates the product's capability to facilitate patient-doctor communication, plan management, and payment processing.",
+      "key_points": [
+        "Platform features include resources for Sleep Apnea, Asthma, and Respiratory Failure.",
+        "User interface facilitates doctor consultations and health plan exploration.",
+        "Activity log tracks recent doctor call requests on Mar 15, Mar 05, and Mar 04.",
+        "Payment history shows transactions of $1.00 on Mar 11 and $217.95 on Feb 27."
+      ]
+    },
+    {
+      "slide": 23,
+      "mode": "vision",
+      "transcript": "my tummy hurts\nFIND CARE FOR\nIndigestion\nAbdominal Pain\nHeartburn\n\ni can't get pregnant\nFIND CARE FOR\nInfertility\nEndocrine Diseases\nFemale Infertility\n\ni'm really sad\nFIND CARE FOR\nDepression\nSeasonal Affective Disorder\nChild Mental Health",
+      "section": "Product",
+      "summary": "This slide demonstrates the platform's symptom-to-specialty triage functionality, which directs users to specific care pathways based on self-reported health concerns. It highlights the user interface's ability to map diverse physical and mental health symptoms to relevant medical services.",
+      "key_points": [
+        "Categorizes symptoms into digestive, reproductive, and mental health areas",
+        "Provides direct routing to care for conditions like Indigestion and Abdominal Pain",
+        "Maps infertility and endocrine concerns to specialized care paths",
+        "Includes triage support for mental health conditions including Depression and Seasonal Affective Disorder",
+        "Features a user-centric input format focused on common patient complaints"
+      ]
+    },
+    {
+      "slide": 24,
+      "mode": "vision",
+      "transcript": "oscar Search for care, people, places, or drugs Edward\n\nTalk with a doctor for $0 on your plan\n\nYour activity\nJan 28 We received your payment of $217.95.\n\n(x)\n[Illustration of a doctor]\nWhat's your number?\n(555) 867-5309\n\nWHERE ARE YOU CALLING FROM?\nNew York\n\nWHERE SHOULD PRESCRIPTIONS BE SENT?\nDuane Reade, 29 7TH AVE # 33, New York, 10011\nChange\n\nReminder\nYou shouldn't use Teladoc if you're experiencing a serious medical emergency.\nCALL ME",
+      "section": "Product",
+      "summary": "The slide demonstrates the Oscar health insurance user interface, focusing on core functionality including provider search, virtual care access, and account management. It highlights the platform's ability to facilitate $0 doctor consultations, process payments, and manage prescriptions.",
+      "key_points": [
+        "Integrated search functionality for care, people, places, or drugs",
+        "On-demand doctor consultation at $0 cost",
+        "Confirmation of payment of $217.95 on Jan 28",
+        "Location-based user interface for New York",
+        "Pharmacy integration with Duane Reade, 29 7TH AVE # 33, New York, 10011"
+      ]
+    },
+    {
+      "slide": 25,
+      "mode": "vision",
+      "transcript": "oscar\nSearch for care, people, places, or drugs\n≡ Edward\nTalk with a doctor\nExplore your plan\nYour activity\nJan 28\nWe received your payment of $217.95.\n\nA doctor will call you soon at\n(555) 867-5309\nOK",
+      "section": "Product",
+      "summary": "This slide showcases the user interface of the Oscar platform, highlighting its integrated functionality for healthcare navigation and communication. It demonstrates a seamless user experience that includes plan management, payment confirmation, and on-demand doctor consultations.",
+      "key_points": [
+        "Integrated search for care, people, places, and drugs",
+        "Direct communication channel for doctor consultations",
+        "Personalized activity feed for plan management",
+        "Automated payment confirmation of $217.95",
+        "Click-to-call or scheduled doctor callback feature at (555) 867-5309"
+      ]
+    },
+    {
+      "slide": 26,
+      "mode": "vision",
+      "transcript": "oscar Search for care, people, places, or drugs ≡ Dawn\n\nFeb 18 We received your payment of $329.69.\n\nJan 07 You requested a doctor call at 5:46 p.m.\n\nJan 03 You had a call with Ankush K Bansal at 1:51 p.m. Hide call details ∧\n\nReason for Call | Cough\nDiagnosis | Bronchitis : acute\nPrescription | Azithromycin 5 Day Dose Pack 250 Mg Oral Tablet\nTake as directed\nPick up at Duane Reade (609 COLUMBUS AVE)\nCall Details | Requested: 1:39 p.m.\nWait time: 11 minutes, 44 seconds\nCall length: 1 minutes, 38 seconds\n\nJan 03 You completed your health questionnaire.\n\nJan 02 You set up your Doctor On Call profile.\n\nJan 02 You completed a tour of your plan.",
+      "section": "Product",
+      "summary": "This slide provides a user interface walkthrough of the Oscar health platform, demonstrating the end-to-end patient experience from plan onboarding to telehealth consultation. It highlights key features including digital health history tracking, streamlined appointment requests, and integrated prescription fulfillment.",
+      "key_points": [
+        "User interface displays historical activity including payments and medical encounters",
+        "Telehealth workflow includes a 11 minutes, 44 seconds wait time and 1 minutes, 38 seconds call length",
+        "Integrated prescription management with local pharmacy coordination",
+        "Automated tracking of health questionnaire and profile setup milestones",
+        "Confirmation of premium payment receipt of $329.69"
+      ]
+    },
+    {
+      "slide": 27,
+      "mode": "text_layer",
+      "transcript": "4. simple because we are focused\nLearn to say no \nCut functionality along the way \nDesign for what you have",
+      "section": "Other",
+      "summary": "This slide outlines the company's strategic philosophy regarding product development, emphasizing prioritization and lean execution through focus.",
+      "key_points": [
+        "Prioritize focus as a core strategy",
+        "Practice saying no to non-essential initiatives",
+        "Reduce functionality during development",
+        "Design specifically for current resources"
+      ]
+    },
+    {
+      "slide": 28,
+      "mode": "vision",
+      "transcript": "Kristina\nShow all items related to all care\nGET CARE\n\nHi there, Kristina\n1 Active doctors 2 Unpaid Appointments\n$123\nspent by you 2013\n\nT You picked up your prescription for Timolol Malatae\nApr 4 MIGRAINES\nUNSURE OF ANYTHING? Read up on everything regarding Timolol Malatae\nLEARN MORE\n\nB You switched Blocadren for Timolol Malatae and saved $36\nApr 4 MIGRAINES\n\nYou paid your bill to Dr. Elena Frid\nApr 4 MIGRAINES\n$45\n\nL You picked up your prescription for Lipitor\nApr 4 HIGH CHOLESTEROL\n\nYou just visited Dr. Darryl McClendon for a free physical checkup.\nApr 4\nRECOMMEND DOCTOR Would you recommend Dr Darryl McClendon to a friend\nYES NO",
+      "section": "Product",
+      "summary": "This slide showcases a patient-facing dashboard interface that centralizes health management, including prescription tracking, cost-saving notifications, and billing. It highlights features for active doctor management, medication monitoring, and appointment feedback loops to improve patient engagement and health outcomes.",
+      "key_points": [
+        "Dashboard displays 1 active doctor and 2 unpaid appointments",
+        "Tracks $123 spent by the user in 2013",
+        "Provides automated prescription pickup alerts and savings notifications ($36 saved switching to Timolol Malatae)",
+        "Integrates billing records, such as $45 paid to Dr. Elena Frid",
+        "Includes social proof mechanisms like doctor recommendation prompts following visits"
+      ]
+    },
+    {
+      "slide": 29,
+      "mode": "vision",
+      "transcript": "oscar\nSearch for care, people, places, or drugs\n≡ Edward\n\nNext Steps\n○ It's time to pay your bill. Your account balance of $216.95 is due by April 1, 2014   Pay now >\n\nYour Health Events\n\n● Mar 15 You requested a doctor call at 5:48 p.m.\n\n● Mar 07 You turned on recurring payments.\n\n● Jan 28 We received your payment of $217.95.\n\n● Jan 02 You completed a tour of your plan.\n\n● Jan 02 You set up your Doctor On Call profile.\n\n● Jan 01 Your coverage with Oscar started today! Your online ID card is now ready to print.\n\n● Dec 14 You completed your health questionnaire.\n\n● Dec 13 You registered for a HiOscar.com account.",
+      "section": "Product",
+      "summary": "This slide showcases the Oscar member dashboard, highlighting a centralized user interface for managing healthcare accounts, viewing coverage status, and tracking health events. It demonstrates the platform's utility in simplifying administrative tasks like billing, doctor consultations, and profile management for the end-user.",
+      "key_points": [
+        "User dashboard displays a pending account balance of $216.95 due by April 1, 2014",
+        "Provides a chronological activity feed of health events including payments and profile setups",
+        "Integrates functional features such as 'Search for care' and 'Doctor On Call' scheduling",
+        "Tracks user engagement milestones from initial registration to plan activation",
+        "Displays historical transaction data, including a payment of $217.95 received on Jan 28"
+      ]
+    },
+    {
+      "slide": 30,
+      "mode": "text_layer",
+      "transcript": "anatomy of simple\n1. Limit actions and details until needed \n2. Reduce complexity by understanding it \n3. Put data to work instead of users \n4. Stay focused",
+      "section": "Product",
+      "summary": "This slide outlines the core design philosophy and user experience strategy driving the company's product development. It emphasizes simplicity, automation, and user-centric focus to reduce complexity.",
+      "key_points": [
+        "Limit actions and details until needed",
+        "Reduce complexity by understanding it",
+        "Put data to work instead of users",
+        "Stay focused"
+      ]
+    },
+    {
+      "slide": 31,
+      "mode": "text_layer",
+      "transcript": "importance of design\nHelped build the company \nCrucial to customer growth and engagement \nKeeps pace with our thinking rather than our doing",
+      "section": "Other",
+      "summary": "This slide asserts the strategic value of design in the company's development, highlighting its role as a core driver for user acquisition, retention, and maintaining operational agility.",
+      "key_points": [
+        "Design was fundamental to company formation",
+        "Design acts as a driver for customer growth and engagement",
+        "Design enables the company to align output with strategic thinking"
+      ]
+    },
+    {
+      "slide": 32,
+      "mode": "text_layer",
+      "transcript": "what’s next?\nSimpler than your cell phone plan \nSmarter member engagement \nIntegration into doctor oﬃces",
+      "section": "Other",
+      "summary": "This slide outlines the startup's future strategic roadmap, focusing on product simplification, improved member engagement, and clinical integration.",
+      "key_points": [
+        "Simplify user experience similar to a cell phone plan",
+        "Enhance member engagement strategies",
+        "Integrate services directly into doctor offices"
+      ]
+    },
+    {
+      "slide": 33,
+      "mode": "text_layer",
+      "transcript": "thanks\nalbert isaksson \nandrew borovsky \nbryan young \ndawn williamson \nfredrik nylander \nherman carlsson \njohn loser \nmario schlosser \nrobert lindgren \nrobin davey \nsara wajnberg \n!\neddie@hioscar.com",
+      "section": "Other",
+      "summary": "This slide serves as the closing or contact page of the pitch deck, providing a list of names and a direct email address for inquiries.",
+      "key_points": [
+        "Lists 12 individual names",
+        "Contains contact email eddie@hioscar.com"
+      ]
+    }
+  ]
+}

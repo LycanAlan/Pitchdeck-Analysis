@@ -1,0 +1,289 @@
+{
+  "name": "dropbox",
+  "slides": [
+    {
+      "slide": 1,
+      "mode": "vision",
+      "transcript": "Dropbox\nMoving the world's files\nhttp://www.getdropbox.com",
+      "section": "Title",
+      "summary": "This is the title slide of the pitch deck, introducing the company name, its high-level value proposition, and the official website URL.",
+      "key_points": [
+        "Company name: Dropbox",
+        "Tagline: Moving the world's files",
+        "Website: http://www.getdropbox.com"
+      ]
+    },
+    {
+      "slide": 2,
+      "mode": "vision",
+      "transcript": "Storage is a mess\nDropbox\nwww.getdropbox.com",
+      "section": "Problem",
+      "summary": "This slide introduces the core pain point that storage is a mess, establishing the problem space that the startup addresses.",
+      "key_points": [
+        "Storage is a mess",
+        "Company name: Dropbox",
+        "Website: www.getdropbox.com"
+      ]
+    },
+    {
+      "slide": 3,
+      "mode": "vision",
+      "transcript": "It’s 2007, and it’s still a pain to...\n\n• Work on multiple computers\n• Share files across a team\n• Put photos, video onto the web\n• Protect files from loss\n\nDropbox\nwww.getdropbox.com",
+      "section": "Problem",
+      "summary": "This slide defines the pain points and friction in 2007 related to multi-computer work, team file sharing, publishing photos and videos to the web, and file loss protection. It introduces Dropbox as the service addressing these issues.",
+      "key_points": [
+        "It is 2007 and working on multiple computers is a pain",
+        "Sharing files across a team is a pain",
+        "Putting photos and video onto the web is a pain",
+        "Protecting files from loss is a pain",
+        "Presents Dropbox and the URL www.getdropbox.com"
+      ]
+    },
+    {
+      "slide": 4,
+      "mode": "vision",
+      "transcript": "What are people doing now?\n\n• Email attachments\n• USB drives\n• Browser uploads\n• Piecemeal solutions\n\nDropbox\nwww.getdropbox.com",
+      "section": "Competition",
+      "summary": "This slide highlights the status quo and existing alternatives that target users currently rely on for file management, contrasting them with Dropbox's offering.",
+      "key_points": [
+        "Identifies email attachments as a current method",
+        "Identifies USB drives as a current method",
+        "Identifies browser uploads as a current method",
+        "Identifies piecemeal solutions as a current method",
+        "Displays Dropbox and www.getdropbox.com"
+      ]
+    },
+    {
+      "slide": 5,
+      "mode": "vision",
+      "transcript": "In a perfect world...\n\n• Your files available wherever you are, on any device\n\n• Never worry about losing data, can always undo\n\n• Sharing, putting media onto the web is drag-and-drop\n\nDropbox\nwww.getdropbox.com",
+      "section": "Problem",
+      "summary": "This slide outlines the ideal user experience for file management, emphasizing ubiquitous access across devices, foolproof data protection with undo capabilities, and frictionless drag-and-drop sharing and web publishing.",
+      "key_points": [
+        "Files available wherever you are, on any device",
+        "Never worry about losing data, can always undo",
+        "Sharing, putting media onto the web is drag-and-drop",
+        "Dropbox www.getdropbox.com"
+      ]
+    },
+    {
+      "slide": 6,
+      "mode": "vision",
+      "transcript": "Dropbox\n\n- Keeps files:\n  - In sync across computers\n  - Backed up\n  - Accessible from anywhere\n  - Easy to share\n- It just works\nDropbox\nwww.getdropbox.com",
+      "section": "Solution",
+      "summary": "This slide presents the core value proposition and product capabilities of Dropbox as a solution, highlighting its ability to keep files synchronized, backed up, accessible, and shareable.",
+      "key_points": [
+        "Keeps files in sync across computers",
+        "Backed up",
+        "Accessible from anywhere",
+        "Easy to share",
+        "It just works"
+      ]
+    },
+    {
+      "slide": 7,
+      "mode": "vision",
+      "transcript": "Dropbox Demo\nDropbox www.getdropbox.com",
+      "section": "Product",
+      "summary": "This slide features a product demonstration of Dropbox, providing the company name and official website URL for investors evaluating the software offering.",
+      "key_points": [
+        "Dropbox Demo title",
+        "Dropbox company name",
+        "Website: www.getdropbox.com"
+      ]
+    },
+    {
+      "slide": 8,
+      "mode": "vision",
+      "transcript": "Why now?\n\n• Lots of devices, bigger files, more\ncontent\n• Increasingly distributed/remote teams\n• Falling bandwidth, storage prices\n• Online storage is unclaimed,\nunmonetized territory, much like\nsearch pre-Google\nDropbox\nwww.getdropbox.com",
+      "section": "Market",
+      "summary": "This slide outlines the market timing and tailwinds supporting the product, highlighting device proliferation, remote work trends, and declining infrastructure costs. It positions online storage as an early-stage, unclaimed market opportunity analogous to pre-Google search.",
+      "key_points": [
+        "Lots of devices, bigger files, more content",
+        "Increasingly distributed/remote teams",
+        "Falling bandwidth, storage prices",
+        "Online storage is unclaimed, unmonetized territory, much like search pre-Google"
+      ]
+    },
+    {
+      "slide": 9,
+      "mode": "vision",
+      "transcript": "Why better?\n\n• Solves the *entire* genre of storage-\nrelated problems with one app\n• Deep OS integration, visual feedback\n• Doesn't make you change the way you\nwork\n• Open APIs to link desktop & web\napplications\nDropbox\nwww.getdropbox.com",
+      "section": "Solution",
+      "summary": "This slide details the core product value proposition and differentiation, highlighting comprehensive storage problem-solving, deep OS integration, and seamless workflow compatibility.",
+      "key_points": [
+        "Solves the entire genre of storage-related problems with one app",
+        "Features deep OS integration and visual feedback",
+        "Requires no change to existing user workflows",
+        "Includes open APIs to link desktop and web applications"
+      ]
+    },
+    {
+      "slide": 10,
+      "mode": "vision",
+      "transcript": "Competitors\nDropbox | Carbonite, Mozy | Foldershare | box.net\nSync | green checkmark | red cross | green checkmark | red cross\nBackup | green checkmark | green checkmark | red cross | red cross\nSharing | green checkmark | red cross | green checkmark | green checkmark\nOS integration | green checkmark | green checkmark | green checkmark | red cross\nWeb access | green checkmark | red cross | grey dot | green checkmark\nVersioning | green checkmark | red cross | red cross | red cross\nDropbox\nwww.getdropbox.com",
+      "section": "Competition",
+      "summary": "This slide presents a competitive matrix comparing Dropbox against Carbonite, Mozy, Foldershare, and box.net across features including sync, backup, sharing, OS integration, web access, and versioning. It highlights Dropbox's comprehensive feature set relative to its competitors.",
+      "key_points": [
+        "Compares Dropbox to Carbonite, Mozy, Foldershare, and box.net.",
+        "Evaluates features: Sync, Backup, Sharing, OS integration, Web access, and Versioning.",
+        "Dropbox is marked with a green checkmark across all listed features.",
+        "Includes the URL www.getdropbox.com."
+      ]
+    },
+    {
+      "slide": 11,
+      "mode": "vision",
+      "transcript": "What did they screw up?\n\n• Only tackle small pieces of the\nproblem\n• Poor technical execution\n• Clumsy, verbose & technical Uls;\nrequire configuration\n• Lack of distribution, partners\n\nDropbox\nwww.getdropbox.com",
+      "section": "Competition",
+      "summary": "This slide analyzes competitors' failures, highlighting weaknesses such as tackling only small pieces of the problem, poor technical execution, clumsy or verbose technical UIs requiring configuration, and a lack of distribution and partners.",
+      "key_points": [
+        "Competitors only tackle small pieces of the problem",
+        "Poor technical execution by competitors",
+        "Clumsy, verbose, and technical UIs that require configuration",
+        "Lack of distribution and partners"
+      ]
+    },
+    {
+      "slide": 12,
+      "mode": "vision",
+      "transcript": "Technical advantages\n\n• Client & server written in Python: 5-10x faster development time\n• Leverage Amazon S3, EC2 to achieve scale & reliability\n• Obsession with performance\n• Seamless compression, encryption, binary diffing, failure recovery\nDropbox\nwww.getdropbox.com",
+      "section": "Product",
+      "summary": "This slide details the technical advantages of the product architecture, highlighting Python implementation for rapid development, reliance on Amazon infrastructure for scalability, and performance features including compression, encryption, binary diffing, and failure recovery.",
+      "key_points": [
+        "Client and server written in Python resulting in 5-10x faster development time",
+        "Leverages Amazon S3 and EC2 for scale and reliability",
+        "Obsession with performance",
+        "Seamless compression, encryption, binary diffing, and failure recovery"
+      ]
+    },
+    {
+      "slide": 13,
+      "mode": "vision",
+      "transcript": "Team\n\n• Drew Houston – CEO\nS.B. MIT EECS; first line of\ncode at age 6; first startup\ngig at 14; founded online\nSAT prep co after multiple\nperfect scores\n\n• Arash Ferdowsi – CTO\nS.B. MIT EECS (on leave);\ndirector of MIT\nprogramming competition;\nprior exp at Google\n\nMoving into our first office, 5/14/07\n\nDropbox\nwww.getdropbox.com",
+      "section": "Team",
+      "summary": "This slide introduces the founding team, highlighting their technical backgrounds from MIT EECS, early programming experience, and prior startup or industry experience.",
+      "key_points": [
+        "Drew Houston is CEO, with an S.B. from MIT EECS, early startup experience, and founded an online SAT prep company.",
+        "Arash Ferdowsi is CTO, with an S.B. from MIT EECS (on leave), directed the MIT programming competition, and has prior experience at Google.",
+        "The slide notes moving into their first office on 5/14/07."
+      ]
+    },
+    {
+      "slide": 14,
+      "mode": "vision",
+      "transcript": "Business model\n\n• Individuals: freemium\n• SMB: shared folder per-seat license (replaces backup, Windows file share, collaboration tools, reduces IT headcount)\n• Platform: broker all UGC from the desktop to the web\nDropbox\nwww.getdropbox.com",
+      "section": "Business Model",
+      "summary": "This slide outlines Dropbox's multi-tiered monetization strategy targeting individuals through a freemium model, SMBs via per-seat shared folder licenses, and platform monetization by brokering user-generated content from desktop to web.",
+      "key_points": [
+        "Individuals: freemium",
+        "SMB: shared folder per-seat license (replaces backup, Windows file share, collaboration tools, reduces IT headcount)",
+        "Platform: broker all UGC from the desktop to the web"
+      ]
+    },
+    {
+      "slide": 15,
+      "mode": "vision",
+      "transcript": "Platform\n\n• Onramp for all UGC from desktop→web\n• Convenient for users: drag and drop instead of sign-in and browser upload\n• Beneficial for web apps: more content uploaded, less friction & fewer failures\n• Bigger picture: all files in Dropbox, delegate access to web apps\n\nDropbox\nwww.getdropbox.com",
+      "section": "Product",
+      "summary": "This slide outlines Dropbox's platform product strategy, detailing an onramp for UGC from desktop to web. It highlights the user convenience of drag-and-drop functionality over sign-in and browser uploads, the benefits of increased content and reduced friction for web apps, and the broader vision of delegating access to all files stored in Dropbox.",
+      "key_points": [
+        "Onramp for all UGC from desktop to web",
+        "Drag-and-drop convenience replacing sign-in and browser upload",
+        "More content uploaded, less friction, and fewer failures for web apps",
+        "All files in Dropbox with delegated access to web apps"
+      ]
+    },
+    {
+      "slide": 16,
+      "mode": "vision",
+      "transcript": "Customer acquisition\n\n• Loved by early adopters/beta users\n(natural influencers)\n• Free accounts for individuals\n• Viral elements: file sharing, shared\nfolders, photo/media galleries\n• Platform, partnerships -> free\ncustomer acquisition\nDropbox\nwww.getdropbox.com",
+      "section": "Traction",
+      "summary": "This slide outlines the customer acquisition strategy, highlighting early adopter love, a freemium model for individuals, and built-in viral growth loops like file sharing. It also notes platform integrations and partnerships as channels for free customer acquisition.",
+      "key_points": [
+        "Loved by early adopters and beta users acting as natural influencers",
+        "Offers free accounts for individuals",
+        "Utilizes viral elements including file sharing, shared folders, and photo/media galleries",
+        "Leverages platforms and partnerships for free customer acquisition"
+      ]
+    },
+    {
+      "slide": 17,
+      "mode": "vision",
+      "transcript": "- Ranked #1 among summer YC startups:\n“...the simplicity and elegance of its interface, which blends seamlessly into both Windows and OS X, sets it apart.”\nhttp://venturebeat.com/2007/08/16/the-y-combinator-list/\nDropbox\nwww.getdropbox.com",
+      "section": "Traction",
+      "summary": "This slide highlights early traction and validation by showcasing a #1 ranking among summer YC startups, supported by a positive press quote from VentureBeat praising its interface and seamless integration.",
+      "key_points": [
+        "Ranked #1 among summer YC startups",
+        "Highlighted by a VentureBeat quote praising interface simplicity and elegance",
+        "Note of seamless integration into both Windows and OS X"
+      ]
+    },
+    {
+      "slide": 18,
+      "mode": "vision",
+      "transcript": "Max\n25 slides\nIf you have big\ntext and images\n\nMap the bullets to slide headers.\nEach bullet is a slide.\nTap down and read it.\nDo you get the story with no\nother content?\n\nRestart!\nWrite your\nstory\n\nOpen up Word and write the\nstory you want to tell in\nbullet points.\nOne point per slide.\nThat’s your deck condensed\nto what matters\n\nSteps to creating\nan engaging\ndeck\n\nShare YOUR story, not others\n\nYou’ve been approaching\nwriting your deck wrong.\nYou read templates and think they\nwill help. But you feel lost and your\ndeck doesn’t feel right.\nYou need to make your deck your\nown. But how? Here’s a quick guide.",
+      "section": "Other",
+      "summary": "This slide provides a step-by-step guide on how founders should write and structure their pitch deck by focusing on their own core story through bullet points rather than relying on standard templates.",
+      "key_points": [
+        "You have been approaching writing your deck wrong by relying on templates that leave you feeling lost.",
+        "Open up Word and write your story in bullet points, with one point per slide.",
+        "Condense your 25 slides if you have big text and images.",
+        "Map the bullets to slide headers, tap down and read it to check the story flow.",
+        "Restart and write your story to share your own narrative instead of others'."
+      ]
+    },
+    {
+      "slide": 19,
+      "mode": "vision",
+      "transcript": "Compelling\ncontent\n\nImagery supports your content (1k words).\nInfographic like,\nillustrative content is\nbest (but takes time). A\nsimple, powerful image\nis a great start\n\nEngage\nSupport your story\n\nYou can use a sub header to support\nthe header with data.\nAdd body content with 3-6 supporting\npoints which you link to images. These\nonly pertain to the header\n\nAdd\nEmotive\nimagery\n\nAudit and\nReduce\ntext\n\nLess is MORE here. It's also faster to\nwrite! You need to know how to talk\n(sell) to the slides. Spend time\npracticing instead of writing an essay\n\nNow you have a story\nmapped in your header,\nyou need to make it\ncredible. The purpose of\neverything other than the\nheader is to back up your\nclaim. This is sales material.\nIf something doesn't sell,\ndelete it.\n\nTake the\nFlick Test\n\nA concept we invented to tell if\nyour deck works\nPress down every 5 seconds. Can\nyou understand each slide and the\n'story' you are telling (from step 1)?",
+      "section": "Other",
+      "summary": "This slide provides guidelines on how to design and structure pitch deck slides for maximum impact. It emphasizes reducing text, using compelling imagery, supporting the core story with credible data, and applying the \"Flick Test\" to ensure clarity.",
+      "key_points": [
+        "Imagery supports content and simple, powerful images are a great start.",
+        "Add body content with 3-6 supporting points linked to images that pertain to the header.",
+        "Audit and reduce text because less is more and it forces practice instead of writing essays.",
+        "Everything other than the header must back up the claim; delete anything that does not sell.",
+        "The Flick Test involves pressing down every 5 seconds to check if each slide and story can be understood."
+      ]
+    },
+    {
+      "slide": 20,
+      "mode": "vision",
+      "transcript": "We Love Our Job\nLet us help\n\nWhy waste 6 months with an ineffective deck?\n\nInvest in time. They aren't making any more of it.\nWe've supported founders for years with free\ncontent. The impact wasn't enough\n\nFundraising is a bitch. We've been through it.\nWe founded Perfect Pitch Deck not just to make money.\nWe founded it because it solves a problem for millions\nof founders dealing with the same crazy, pointless crap.\nPitch decks are hard as you need specialty knowledge,\nONLY to get the cash you need to grow.\nIt doesn't make your startup. It should be easier.\nNow it is.\n\nAudit your\nFormat\n\nDesign matters\nCheck your font sizes and\ntype. Review your colours. Is\nthere contrast? Check the\nimagery..\n\nGet\nPro Help\n\nPerfect Pitch Deck does one thing\nPitch decks. As ex-VCs we know how to raise and\nwhat VCs want. As founders we care about you\n(because we know how much raising sucks)",
+      "section": "Solution",
+      "summary": "This slide presents Perfect Pitch Deck as a specialized solution for founders struggling with fundraising and deck creation. It highlights the founders' background as ex-VCs and entrepreneurs, offering audit services and professional deck creation to save time and secure funding.",
+      "key_points": [
+        "Perfect Pitch Deck specializes exclusively in pitch decks, leveraging ex-VC and founder experience.",
+        "Addresses the difficulty and time-consuming nature of fundraising for startups.",
+        "Offers format auditing (checking fonts, colors, contrast, and imagery) and professional help."
+      ]
+    },
+    {
+      "slide": 21,
+      "mode": "vision",
+      "transcript": "Are you\nINTERESTED?\nLet's fix your deck. Head over for a free pitch deck audit:\n\nwww.perfectpitchdeck.com\n\nhelp@perfectpitchdeck.com\n\nPerfect\nPitch Deck",
+      "section": "Other",
+      "summary": "Call to action slide providing contact information and a website for a free pitch deck audit.",
+      "key_points": [
+        "Promotes a free pitch deck audit",
+        "Provides website www.perfectpitchdeck.com",
+        "Provides email help@perfectpitchdeck.com",
+        "Company name is Perfect Pitch Deck"
+      ]
+    },
+    {
+      "slide": 22,
+      "mode": "vision",
+      "transcript": "Want more VC/investment startup pitch decks?\nWe’ve centralised ALL successful investor pitch decks at:\nwww.chagency.co.uk/getstartupfunding\n\nThis has been made by\nchagency\n\nA design agency that helps SaaS CEOs reduce user churn.\nWe write daily on this topic here: www.chagency.co.uk/blog\n\ntwitter.com/chddaniel\nlinkedin.com/in/chddaniel\nchdaniel.com/youtube\nMore: Chdaniel.com",
+      "section": "Other",
+      "summary": "This slide serves as an appendix, call-to-action, and promotional page providing resources for successful investor pitch decks, links to a design agency specializing in reducing SaaS user churn, and the creator's personal and professional content channels.",
+      "key_points": [
+        "Provides a centralized resource for successful investor pitch decks at www.chagency.co.uk/getstartupfunding",
+        "Identifies the creator as chagency, a design agency helping SaaS CEOs reduce user churn",
+        "Promotes a daily blog at www.chagency.co.uk/blog",
+        "Lists social media and content links including Twitter (twitter.com/chddaniel), LinkedIn (linkedin.com/in/chddaniel), YouTube (chdaniel.com/youtube), and a personal website (Chdaniel.com)"
+      ]
+    }
+  ]
+}

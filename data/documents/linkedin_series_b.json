@@ -1,0 +1,504 @@
+{
+  "name": "linkedin_series_b",
+  "slides": [
+    {
+      "slide": 1,
+      "mode": "vision",
+      "transcript": "LinkedIn\nYour network is bigger than you think\n\nSeries B\nAugust 2004\n\nAugust 2004\nCONFIDENTIAL",
+      "section": "Title",
+      "summary": "This is the title slide of LinkedIn's August 2004 Series B pitch deck, introducing the company with the tagline 'Your network is bigger than you think'. It establishes the presentation as confidential.",
+      "key_points": [
+        "Company name: LinkedIn",
+        "Tagline: Your network is bigger than you think",
+        "Round: Series B",
+        "Date: August 2004",
+        "Marked as confidential"
+      ]
+    },
+    {
+      "slide": 2,
+      "mode": "vision",
+      "transcript": "LinkedIn Is Professional People Search 2.0\nLinkedIn\nYour network is bigger than you think\n\nProfessional people search includes 3 key components\n\nLinkedIn premium services\n1. Targeted ads:\nService providers\nContextual text ads targeted on search terms and profiles\n$\n\n2. Listings:\nJobs\nJob listings filtered through each professional's network\n$\n\n3. Subscriptions:\nDeals and networking\nService extending reach of each professional's network\n$\n\nAugust 2004\nCONFIDENTIAL\n\n2",
+      "section": "Business Model",
+      "summary": "This slide outlines LinkedIn's business model as professional people search 2.0, detailing three key monetization streams: targeted ads, job listings, and premium subscriptions.",
+      "key_points": [
+        "Defined as Professional People Search 2.0 with the tagline 'Your network is bigger than you think'.",
+        "Stream 1: Targeted ads via contextual text ads targeted on search terms and profiles for service providers.",
+        "Stream 2: Listings for jobs filtered through each professional's network.",
+        "Stream 3: Subscriptions for deals and networking as a service extending the reach of each professional's network.",
+        "Dated August 2004 and marked CONFIDENTIAL."
+      ]
+    },
+    {
+      "slide": 3,
+      "mode": "vision",
+      "transcript": "Professional People Search 1.0 Uses Flat Directories\nLinked in\nYour network is bigger than you think\n\nThe problem: There is no effective, trusted way for\nprofessionals to find and transact with\neach other online\n\n• Selecting service providers from yellow pages fails\n• Selecting employees from resume databases fails\n• Reaching professionals through directories fails\n\nAugust 2004\nCONFIDENTIAL\n\n3",
+      "section": "Problem",
+      "summary": "This slide outlines the core problem that current professional directories and resume databases fail to provide an effective, trusted way for professionals to find and transact with each other online.",
+      "key_points": [
+        "Professional People Search 1.0 uses flat directories like LinkedIn.",
+        "There is no effective, trusted way for professionals to find and transact with each other online.",
+        "Selecting service providers from yellow pages fails.",
+        "Selecting employees from resume databases fails.",
+        "Reaching professionals through directories fails."
+      ]
+    },
+    {
+      "slide": 4,
+      "mode": "vision",
+      "transcript": "Professional People Search 2.0 Leverages Networks\nLinkedin\nYour network is bigger than you think\n\nInternet 1.0 = Search and transact via flat directories\n\nInternet 2.0 = Search and transact via networks\n\nAugust 2004\nCONFIDENTIAL\n4",
+      "section": "Solution",
+      "summary": "This slide outlines the company's product approach, framing Professional People Search 2.0 as leveraging networks similarly to LinkedIn under the premise that a user's network is larger than thought. It contrasts Internet 1.0 flat directory search and transactions with Internet 2.0 network-based search and transactions.",
+      "key_points": [
+        "Professional People Search 2.0 leverages networks like LinkedIn",
+        "Claims your network is bigger than you think",
+        "Contrasts Internet 1.0 search and transact via flat directories with Internet 2.0 via networks",
+        "Dated August 2004"
+      ]
+    },
+    {
+      "slide": 5,
+      "mode": "vision",
+      "transcript": "eBay: Online Goods Listings 2.0\nLinkedIn\nYour network is bigger than you think\n\nGoods Listings 1.0:\nOnline Classifieds\n\nThe Philadelphia Inquirer\n\nAssess seller's reputation by looking at\neach individual seller's claims\n\nGoods Listings 2.0:\neBay\n\nebY\n\nAssess seller's reputation by looking at\nnetwork of transactions between users\n\nAugust 2004\nCONFIDENTIAL\n\n5",
+      "section": "Solution",
+      "summary": "This slide introduces 'Goods Listings 2.0' via eBay as an evolution from online classifieds, comparing reputation assessment methods. It contrasts the traditional approach of relying on individual seller claims in The Philadelphia Inquirer with evaluating seller reputation through a network of user transactions on eBay.",
+      "key_points": [
+        "Compares Goods Listings 1.0 (Online Classifieds in The Philadelphia Inquirer) with Goods Listings 2.0 (eBay).",
+        "Goods Listings 1.0 assesses seller reputation by looking at each individual seller's claims.",
+        "Goods Listings 2.0 assesses seller reputation by looking at the network of transactions between users.",
+        "References LinkedIn and the concept that 'Your network is bigger than you think'.",
+        "Dated August 2004, marked confidential, and numbered slide 5."
+      ]
+    },
+    {
+      "slide": 6,
+      "mode": "vision",
+      "transcript": "PayPal: Online Payments 2.0\nLinked in\nYour network is bigger than you think\n\nOnline Payments 1.0:\nCitibank et al\n\nciti\n\nDetect fraud by looking at\neach individual's behavior in isolation\n\nOnline Payments 2.0:\nPayPal\n\nPayPal\n\nDetect fraud by looking at\nnetwork of transactions between users\n\nAugust 2004\nCONFIDENTIAL\n6",
+      "section": "Competition",
+      "summary": "This slide contrasts Online Payments 1.0 (Citibank) with Online Payments 2.0 (PayPal), arguing that PayPal achieves superior fraud detection by analyzing networks of user transactions rather than individual behavior in isolation.",
+      "key_points": [
+        "Contrasts Online Payments 1.0 (Citibank) with Online Payments 2.0 (PayPal)",
+        "Citibank detects fraud by looking at each individual's behavior in isolation",
+        "PayPal detects fraud by looking at a network of transactions between users",
+        "Dated August 2004 and marked confidential"
+      ]
+    },
+    {
+      "slide": 7,
+      "mode": "vision",
+      "transcript": "Google: Search for Things 2.0\nLinked in\nYour network is bigger than you think\n\nSearch for Things 1.0:\nAltavista\naltavista:\nRank search results by looking at each individual page in isolation\n\nSearch for Things 2.0:\nGoogle\nGoogle\nRank search results by looking at network of links between pages\n\nAugust 2004\nCONFIDENTIAL\n7",
+      "section": "Solution",
+      "summary": "This slide frames the company's product as 'Google: Search for Things 2.0,' drawing an analogy between the evolution of web search and network-based professional searching. It asserts that Search 1.0 (such as Altavista) ranked results by examining pages in isolation, whereas Search 2.0 (such as Google) ranks results by analyzing the network of links between pages.",
+      "key_points": [
+        "Compares the startup to Google: Search for Things 2.0",
+        "References LinkedIn with the statement 'Your network is bigger than you think'",
+        "Describes Search for Things 1.0 (Altavista) as ranking results by looking at each individual page in isolation",
+        "Describes Search for Things 2.0 (Google) as ranking results by looking at the network of links between pages",
+        "Dated August 2004, marked confidential, and numbered slide 7"
+      ]
+    },
+    {
+      "slide": 8,
+      "mode": "vision",
+      "transcript": "LinkedIn: Professional People Search 2.0\nLinkedIn\nYour network is bigger than you think\n\nProfessional People Search 1.0:\nMonster, Lexis Nexis, et al\n\nmonster\nLexisNexis\n\nAssess professionals by looking at\neach individual's claims\n\nProfessional People Search 2.0:\nLinkedIn\n\nLinked in\n\nAssess professionals by looking at\nnetwork of relationships between users\n\nAugust 2004\nCONFIDENTIAL\n\n8",
+      "section": "Competition",
+      "summary": "This slide frames LinkedIn as Professional People Search 2.0, contrasting its network-of-relationships approach against Version 1.0 legacy players like Monster and LexisNexis that evaluate professionals solely by individual claims.",
+      "key_points": [
+        "Positions LinkedIn as Professional People Search 2.0",
+        "Categorizes Monster and Lexis Nexis as Professional People Search 1.0",
+        "Version 1.0 assesses professionals by looking at each individual's claims",
+        "Version 2.0 assesses professionals by looking at the network of relationships between users",
+        "Dated August 2004 and marked confidential"
+      ]
+    },
+    {
+      "slide": 9,
+      "mode": "vision",
+      "transcript": "Establishing the Network: Our First Priority\nLinkedin\nYour network is bigger than you think\n\nFor eBay, PayPal, Google, and LinkedIn, the key is the network\n\nWhere the network is the key, the first mover is critical to revenue\n\nPayPal waited until 4 million registered users before turning on revenue – today, revenue is $400MM+\n\nAugust 2004\nCONFIDENTIAL\n\n9",
+      "section": "Market",
+      "summary": "This slide outlines the startup's market strategy, emphasizing the critical importance of being the first mover to establish a network effect. It cites historical benchmarks like PayPal, eBay, Google, and LinkedIn to demonstrate the value of building a large user base before monetizing.",
+      "key_points": [
+        "Establishing the network is the first priority.",
+        "The network is key for eBay, PayPal, Google, and LinkedIn.",
+        "First mover is critical to revenue where the network is key.",
+        "PayPal waited until 4 million registered users before turning on revenue, resulting in today's revenue of $400MM+."
+      ]
+    },
+    {
+      "slide": 10,
+      "mode": "vision",
+      "transcript": "Network Growth: Commitment from Series A\nLinkedIn\nYour network is bigger than you think\n1,000,000\n900,000\n800,000\n700,000\n600,000\n500,000\n400,000\n300,000\n200,000\n100,000\n5/5/2003\n5/19/2003\n6/2/2003\n6/16/2003\n6/30/2003\n7/14/2003\n7/28/2003\n8/11/2003\n8/25/2003\n9/8/2003\n9/22/2003\n10/6/2003\n10/20/2003\n11/3/2003\n11/17/2003\n12/1/2003\n12/15/2003\n12/29/2003\n1/12/2004\n1/26/2004\n2/9/2004\n2/23/2004\n3/8/2004\n3/22/2004\n4/5/2004\n4/19/2004\n5/3/2004\n5/17/2004\n5/31/2004\n6/14/2004\n6/28/2004\n7/12/2004\n7/26/2004\nGrowth projection (8/03)\nAugust 2004\nCONFIDENTIAL\n10\nCHART: An upward curving line graph showing network growth increasing exponentially from May 2003 to July 2004.",
+      "section": "Traction",
+      "summary": "This slide presents LinkedIn's network growth trajectory from May 2003 to July 2004, showcasing exponential user acquisition. It features a historical growth chart alongside a growth projection from August 2003.",
+      "key_points": [
+        "Shows network growth increasing exponentially from May 2003 to July 2004",
+        "Includes a growth projection from August 2003",
+        "Displays a y-axis scale ranging from 100,000 to 1,000,000",
+        "Features dates spanning bi-weekly intervals from 5/5/2003 to 7/26/2004",
+        "Notes a commitment from Series A"
+      ]
+    },
+    {
+      "slide": 11,
+      "mode": "vision",
+      "transcript": "Network Growth: Success\nLinkedIn\nYour network is bigger than you think\n1,000,000\n900,000\n800,000\n700,000\n600,000\n500,000\n400,000\n300,000\n200,000\n100,000\n5/5/2003\n5/19/2003\n6/2/2003\n6/16/2003\n6/30/2003\n7/14/2003\n7/28/2003\n8/11/2003\n8/25/2003\n9/8/2003\n9/22/2003\n10/6/2003\n10/20/2003\n11/3/2003\n11/17/2003\n12/1/2003\n12/15/2003\n12/29/2003\n1/12/2004\n1/26/2004\n2/9/2004\n2/23/2004\n3/8/2004\n3/22/2004\n4/5/2004\n4/19/2004\n5/3/2004\n5/17/2004\n5/31/2004\n6/14/2004\n6/28/2004\n7/12/2004\n7/26/2004\nActual data, 5/03-present\nGrowth projection (8/03)\nCHART: Actual network growth significantly outperforms the growth projection, accelerating sharply from early 2004 to reach over 900,000 users by July 2004 compared to a projected ~400,000.\n\"LinkedIn has quickly become the Internet's largest online business network.\"\n\"LinkedIn is the most strict about keeping its site solely for professional, business purposes.\"\nForbes\nMarch 2004\n11",
+      "section": "Traction",
+      "summary": "This slide presents LinkedIn's user network growth metrics from May 2003 to July 2004, demonstrating that actual user acquisition significantly outperformed initial projections. It includes validation from a March 2004 Forbes quote highlighting LinkedIn's position as the largest and strictest online business network.",
+      "key_points": [
+        "Actual network growth significantly outperforms the growth projection made in August 2003.",
+        "User numbers accelerate sharply from early 2004 to reach over 900,000 users by July 2004 compared to a projected ~400,000.",
+        "Forbes quoted in March 2004 that LinkedIn has quickly become the Internet's largest online business network.",
+        "Forbes noted LinkedIn is the most strict about keeping its site solely for professional, business purposes."
+      ]
+    },
+    {
+      "slide": 12,
+      "mode": "vision",
+      "transcript": "LinkedIn Leads this Market\nLinkedIn\nYour network is bigger than you think\nRegistered users of online professional network tools\nFebruary 2004\n(Total = 0.3 Million)\nOpenBC\n(6%)\nRyze\n(32%)\nSpoke\n(5%)\nZeroDegrees\n(1%)\nAll others\n(3%)\nLinkedIn\n(54%)\nin\nNon-LinkedIn numbers are estimates based on best available intelligence\nAugust 2004\nCONFIDENTIAL\n12",
+      "section": "Competition",
+      "summary": "This slide details the competitive landscape and market share of online professional network tools in 2004. It claims LinkedIn leads the market with 54% of registered users compared to competitors such as Ryze, OpenBC, Spoke, and ZeroDegrees.",
+      "key_points": [
+        "Compares registered users of online professional network tools in February 2004 with a total of 0.3 Million.",
+        "LinkedIn holds 54% market share.",
+        "Ryze holds 32% market share.",
+        "OpenBC holds 6% market share.",
+        "Spoke holds 5% market share, ZeroDegrees holds 1%, and All others hold 3%."
+      ]
+    },
+    {
+      "slide": 13,
+      "mode": "vision",
+      "transcript": "LinkedIn\nYour network is bigger than you think\n\nLinkedIn Has Grown Its Lead\n\nRegistered users of online professional network tools\nAugust 2004\n(Total = 1.2 Million)\n\nZeroDegrees (1%) | Spoke (2%) | OpenBC (5%) | Ryze (16%) | LinkedIn (73%) | All others (2%)\n\nLinkedIn has highest rate of adoption\n\nLinkedIn's share has increased from 54% 6 months ago to 73% today\n\nTipping point effects mean LinkedIn's share will continue to increase\n\nPC MAGAZINE TOP 100 YOU CAN'T LIVE WITHOUT SITES\nApril 2004\n\nRED HERRING 100 TOP PRIVATE COMPANIES WINNER\nMay 2004\n\nNon-LinkedIn numbers are estimates based on best available intelligence\n\nAugust 2004\nCONFIDENTIAL\n\n13",
+      "section": "Competition",
+      "summary": "This slide presents competitive market share data from August 2004, showing LinkedIn leading with 73% of registered users among online professional network tools. It highlights rapid growth from 54% six months prior, driven by tipping point effects, alongside validation from industry awards such as PC Magazine and Red Herring.",
+      "key_points": [
+        "LinkedIn holds a 73% market share of registered users among online professional network tools as of August 2004.",
+        "Competitor shares include Ryze at 16%, OpenBC at 5%, Spoke at 2%, ZeroDegrees at 1%, and All others at 2%.",
+        "LinkedIn's market share increased from 54% to 73% over a 6-month period.",
+        "Recognized in PC Magazine's Top 100 You Can't Live Without Sites (April 2004) and as a Red Herring 100 Top Private Companies Winner (May 2004).",
+        "Total registered users across tools equaled 1.2 Million in August 2004, with non-LinkedIn numbers based on estimates."
+      ]
+    },
+    {
+      "slide": 14,
+      "mode": "vision",
+      "transcript": "LinkedIn is the Market Leader\nNumbers as of 8/04. Non-LinkedIn numbers are estimates based on best available intelligence.\nInternet Service model\nEnterprise Software model\nAugust 2004\nCONFIDENTIAL\nSocial focus\nProfessional focus\nfriendster beta\n• ~10,500,000 users\n• 23 months old\nmyspace\na place for friends\n• ~2,500,000 users\nPlus 10+ \"Friendster clones\"\nryze\nBusiness Networking\n• ~200,000 users\n• 34 months old\norkut\nbeta\n• ~1,300,000 users\n• 7 months old\ntribe.net\n• ~180,000 users\n• 13 months old\nopenBC\n• ~60,000 users\n• 12 months old\nZeroDegrees TM\nThe People Network Company\n• ~10,000 users\n• ~600,000 unique email\naddresses\n• 12 months old\nLinkedIn\nYour network is bigger than you think\n• 900,000+ users\n(29,000+ growth/wk)\n• 23,000,000+ unique email\naddresses (700,000+ unique\ngrowth/wk)\n• 15 months old\nspoke\n• ~25,000 users\n• ~15,000,000 unique\nemail addresses\n• 22 months old\nContact Network visiblepath\ninterface\nSOFTWARE\nBRANCHiT\nPlus other traditional CRM/SFA vendors\n\"Users\":\nregistered users\ncurrently active\nin the system\n\"Email addresses\":\nregistered users\n+\nother individuals\nwho are not\nusers, but whose\nemail addresses\nhave been\nentered into the\nsystem by users\n14",
+      "section": "Competition",
+      "summary": "This slide maps out the competitive landscape in August 2004, categorizing players along social versus professional focuses and internet service versus enterprise software models. It positions LinkedIn as the market leader with 900,000+ users and 23,000,000+ unique email addresses at 15 months old, comparing it against competitors like friendster, myspace, ryze, orkut, tribe.net, openBC, ZeroDegrees, spoke, and visiblepath.",
+      "key_points": [
+        "LinkedIn has 900,000+ users with 29,000+ growth/wk and is 15 months old.",
+        "LinkedIn has 23,000,000+ unique email addresses with 700,000+ unique growth/wk.",
+        "Competitors include friendster (~10,500,000 users), myspace (~2,500,000 users), and ryze (~200,000 users).",
+        "Other listed competitors include orkut, tribe.net, openBC, ZeroDegrees, spoke, and visiblepath.",
+        "Definitions distinguish 'Users' (registered/active) from 'Email addresses' (users plus non-users entered into the system)."
+      ]
+    },
+    {
+      "slide": 15,
+      "mode": "vision",
+      "transcript": "Growth Includes Major Groups\nProviding Strong Brand Endorsement\n\nLinkedIn\nYour network is bigger than you think\n\nLeading MBA programs and MBA alumni\nDUKE\nTHE FUQUA SCHOOL OF BUSINESS\nYale SOM Alumni\nIMD\n\nMajor conferences\nREAL ESTATE CONNECT\npcforum 2004\nRED HERRING insider\n\nTop-tier professional organizations\nSDForum\nSVASE\nVLAB MIT-Stanford Venture Lab\n\n\"Red Herring chose LinkedIn for Groups as the professional network tool for our conference to allow attendees to create lasting relationships and to promote Red Herring to LinkedIn's hundreds of thousands of high-quality professional users.\"\n\nFlorian Brody, Director of Business Development, Red Herring\n\nAugust 2004\nCONFIDENTIAL\n\nAdditional Groups live since launch in April 2004\n\nAdditional Conferences\n• Supernova\n• BlogOn\n\nAdditional Alumni Groups (mostly class-level)\n• Haas School of Business\n• MIT TechLink\n• Mayfield Fellows\n• Carnegie Mellon\n• University of Washington\n\nAdditional Professional Groups\n• Chinese Software Professionals Association\n• InterFrench\n• Industry Standard Internet Executive Group\n• Press Club of California\n• PDMA NorCal\n• Association of International Product Marketing and Management\n\nAdditional Corporate Alumni Groups\n• Sun Microsystems Alumni Association\n• HP Alumni Association\n\nPlus more than 50 other similar Groups\n15-20 new Groups added per month\n\n15",
+      "section": "Traction",
+      "summary": "This slide showcases user traction and social proof through major group partnerships, including LinkedIn, leading MBA alumni networks, major conferences, and professional organizations. It highlights high-profile endorsements such as Red Herring and details dozens of active and additional groups added since the April 2004 launch.",
+      "key_points": [
+        "Major groups providing brand endorsement include LinkedIn, leading MBA programs and alumni, major conferences, and top-tier professional organizations.",
+        "Features a testimonial quote from Florian Brody, Director of Business Development at Red Herring, dated August 2004.",
+        "Lists numerous additional live groups across conferences, alumni networks, professional associations, and corporate alumni since the April 2004 launch.",
+        "Includes more than 50 other similar groups with 15-20 new groups added per month."
+      ]
+    },
+    {
+      "slide": 16,
+      "mode": "vision",
+      "transcript": "Strong Results With Less Than $4 Million Spent\nLinkedIn\nYour network is bigger than you think\n\nLarge user base\n930K+ white-collar registered users\n29K+ weekly user growth rate\n23M+ unique email addresses uploaded\n\nGroups\n50+ Groups live\n20+ new Groups launch per month\n300+ Groups in pipeline\n\nHigh-quality users\n22% of users are CxOs/senior execs\n100+ countries\n130+ industries\n\nDesktop (not promoted)\n6K+ IE toolbar installs\n18K+ Outlook toolbar installs\n2.5M email addresses uploaded via toolbar\n\nIncreasing usage levels\n20% of old users log in per month\n1M+ user searches per month\n20M+ total member page views per month\n\nBusiness development\nDirectEmployers Association\nAmerican Express OPEN (at contract)\n10+ new inbound opportunities per week\n\nAugust 2004\nCONFIDENTIAL\n\n16",
+      "section": "Traction",
+      "summary": "This slide details LinkedIn's early traction metrics achieved with less than $4 million in capital spent as of August 2004. It highlights user acquisition numbers, engagement levels, product adoption across groups and toolbars, and business development partnerships.",
+      "key_points": [
+        "Spent less than $4 million to achieve strong results.",
+        "Reached 930K+ white-collar registered users with a 29K+ weekly user growth rate and 23M+ unique email addresses uploaded.",
+        "Achieved high-quality user demographics with 22% CxOs/senior execs across 100+ countries and 130+ industries.",
+        "Recorded 20% monthly retention for old users, 1M+ user searches per month, and 20M+ total member page views per month.",
+        "Secured business development partnerships with DirectEmployers Association and American Express OPEN (at contract) with 10+ new inbound opportunities per week."
+      ]
+    },
+    {
+      "slide": 17,
+      "mode": "vision",
+      "transcript": "Great Inbound Business Development\nLinkedIn\nYour network is bigger than you think\nSearch 240,000+ Jobs...\nLocations: -All States- in United States\nKeywords:\nJob Posted: -Time Filter Options- Search\nAnd use your network to land one.\nDirect Employers\nEmployment Search Engine\nSearch for jobs at Global 1000 firms.\nLinked in\nYour network to help you get your job.\nOPEN @ LinkedIn\nWelcome, Allen Sign Out\nHome\nSearch\nProfile\nAddress Book\nNetwork\nRequests\nHome\nAccount\nOPENTM at LinkedIn\nAs an OPEN Small Business Network member, you have access to the financial tools you need to make your business flourish. Now OPEN has partnered with LinkedIn to give you access to the full power of your professional network.\nLinkedIn lets you, the small business owner, find the people you need for:\n• Finding clients\n• Hiring new employees\n• Getting information about new customers\n• Selling your products\nOPEN\nSMALL BUSINESS NETWORK\nSign in to your OPEN account\nto check account balances and other information\n• Dominant non-profit consortium of Fortune 500 HR departments and university career centers\n• Fourth-largest job database online\n• Two-year exclusive agreement launched\n• Exposure of LinkedIn to 2 million American Express small business cardholders\n• Strong brand endorsement of LinkedIn\n• Currently at contract\nAugust 2004\nCONFIDENTIAL\n17",
+      "section": "Traction",
+      "summary": "This slide highlights key business partnerships and distribution milestones achieved by LinkedIn as of August 2004, including an exclusive two-year agreement with American Express OPEN and positioning as the fourth-largest online job database.",
+      "key_points": [
+        "Dominant non-profit consortium of Fortune 500 HR departments and university career centers",
+        "Fourth-largest job database online",
+        "Two-year exclusive agreement launched",
+        "Exposure of LinkedIn to 2 million American Express small business cardholders",
+        "Strong brand endorsement of LinkedIn currently at contract as of August 2004"
+      ]
+    },
+    {
+      "slide": 18,
+      "mode": "vision",
+      "transcript": "LinkedIn’s Market-Leading Position Creates\nStrong Barriers to Entry\n\nLinkedIn\nYour network is bigger than you think\n\n• Inherently viral product design with tipping point effects\nPromotes ongoing market leadership\n\n• Reputation system and network of relationships between users\nEnables very strong network effects and user trust\n\n• 2 key patents in viral marketing and “social networking”\n1 granted, 1 pending with 1999 priority date\n\nAugust 2004\nCONFIDENTIAL\n\n18",
+      "section": "Competition",
+      "summary": "This slide outlines LinkedIn's competitive moat in August 2004, highlighting its market-leading position, viral product design with tipping point effects, and strong network effects driven by user trust and a reputation system. It also notes two key patents in viral marketing and social networking, with 1 granted and 1 pending with a 1999 priority date.",
+      "key_points": [
+        "Inherently viral product design with tipping point effects promotes ongoing market leadership.",
+        "Reputation system and network of relationships enable strong network effects and user trust.",
+        "Holds 2 key patents in viral marketing and social networking (1 granted, 1 pending with 1999 priority date)."
+      ]
+    },
+    {
+      "slide": 19,
+      "mode": "vision",
+      "transcript": "The Network Enables Revenue\n\nValue of the network | Revenue model (high-level)\nebY | • Network-based reputation system creates trust: key to high transaction volume | • eBay takes % of transaction\n• Reputation system is not directly monetized\nPayPal | • Network-based fraud detection system makes the business economically viable | • PayPal takes % of transaction\n• Fraud detection is not directly monetized\nGoogle | • Network-based page rank system produces best search results | • AdWords are shown in search results\n• Page rank system is not directly monetized\n\n...and of course, user-based network effects are key to making the business valuable\n\nAugust 2004\nCONFIDENTIAL\n\nLinked in\nYour network is bigger than you think\n\n19",
+      "section": "Business Model",
+      "summary": "This slide outlines the business model by demonstrating how network-based systems create core value for established platforms like eBay, PayPal, and Google, while monetization occurs through transaction percentages or advertising. It links network value directly to revenue generation, culminating in a reference to LinkedIn's network effect.",
+      "key_points": [
+        "eBay uses a network-based reputation system for trust and takes a percentage of transactions.",
+        "PayPal uses a network-based fraud detection system and takes a percentage of transactions.",
+        "Google uses a network-based page rank system and monetizes via AdWords in search results.",
+        "User-based network effects are described as key to making the business valuable.",
+        "Dated August 2004 and marked confidential."
+      ]
+    },
+    {
+      "slide": 20,
+      "mode": "vision",
+      "transcript": "The Network Enables Revenue\nLinked in\nYour network is bigger than you think\nValue of the network\nLinked in\nYour network is bigger than you think\nNetwork-based reputation system creates trust: key to high transaction volume and utility\nRevenue model (in detail)\n1. InLeads: contextual search text ads\n2. Opportunities: network-filtered job listings\n3. Network Plus: network-extending subscription\nReputation system is not directly monetized (Universal service stays free for all users)\nBuilding the network is the challenge, and LinkedIn has the foundation\n\"Executives should try LinkedIn. At best, it could be incredibly useful. At worst, the site guards your privacy and doesn't waste your time.\"\n\"LinkedIn could change the way executive recruiting is conducted.\"\nPC\nMAGAZINE\nJanuary 2004\nAugust 2004\nCONFIDENTIAL\n20",
+      "section": "Business Model",
+      "summary": "This slide outlines LinkedIn's revenue model, detailing monetization through contextual search text ads (InLeads), network-filtered job listings (Opportunities), and network-extending subscriptions (Network Plus). It emphasizes that the reputation system drives trust and high transaction volume while keeping the universal service free.",
+      "key_points": [
+        "Revenue model includes InLeads, Opportunities, and Network Plus.",
+        "The network-based reputation system creates trust for high transaction volume and utility.",
+        "The reputation system is not directly monetized, and universal service stays free for all users.",
+        "Building the network is noted as the challenge, with LinkedIn possessing the foundation.",
+        "Includes favorable press quotes from PC Magazine in January 2004 and August 2004."
+      ]
+    },
+    {
+      "slide": 21,
+      "mode": "vision",
+      "transcript": "The Network Enables Revenue\n\nLinked in\nYour network is bigger than you think\n\nRevenue\n\nInLeads, Opportunities, and Network Plus\n\nNetwork\n\nLinkedIn Universal Free Service\n\nAugust 2004\nCONFIDENTIAL\n\n21",
+      "section": "Business Model",
+      "summary": "This slide outlines the monetization strategy, illustrating how the LinkedIn network drives revenue through specific paid offerings such as InLeads, Opportunities, and Network Plus, building upon the universal free service.",
+      "key_points": [
+        "The network enables revenue.",
+        "LinkedIn Universal Free Service launched in August 2004.",
+        "Revenue streams include InLeads, Opportunities, and Network Plus.",
+        "The network is positioned as bigger than expected."
+      ]
+    },
+    {
+      "slide": 22,
+      "mode": "vision",
+      "transcript": "LinkedIn's Market Opportunity Is Large\nLinkedIn\nYour network is bigger than you think\n\nComparables | Comparable market sizes (2004)\n1. InLeads (Targeted ads) | • Google AdWords for people | • Search ads: $2.8B\n• Lexis-Nexis for services | • Lexis-Nexis: $2.3B\n• Yellow pages/directories | • Offline yellow pages, directories, and local ads $10B+\n2. Opportunities (Listings) | • Monster et al | • Job sites: $0.8B (excluding classifieds)\n• Classifieds | \n3. Network Plus (Subscriptions) | • Match.com et al | • Personals sites: $0.6B\n\nSources: SEC filings, Searchenginewatch.com, Kelsey Group, iMediaconnection, Goldman Sachs, Marketdata Enterprises, CBS Marketwatch\nAugust 2004\nCONFIDENTIAL\n22",
+      "section": "Market",
+      "summary": "This slide outlines LinkedIn's large market opportunity in 2004 by comparing its product pillars—InLeads, Opportunities, and Network Plus—to established market segments such as Google AdWords, Lexis-Nexis, yellow pages, job sites, and personals sites.",
+      "key_points": [
+        "Compares LinkedIn's InLeads to search ads ($2.8B), Lexis-Nexis ($2.3B), and offline yellow pages, directories, and local ads ($10B+).",
+        "Compares Opportunities to job sites ($0.8B excluding classifieds).",
+        "Compares Network Plus subscriptions to personals sites ($0.6B).",
+        "Cites sources including SEC filings, Searchenginewatch.com, Kelsey Group, iMediaconnection, Goldman Sachs, Marketdata Enterprises, and CBS Marketwatch.",
+        "Dated August 2004 and marked confidential."
+      ]
+    },
+    {
+      "slide": 23,
+      "mode": "vision",
+      "transcript": "1. LinkedIn InLeads Does for Professionals What\nGoogle AdWords Does for Products\n\nLinked in\nYour network is bigger than you think\n\nLinked in\nWelcome, Allen | Sign Out\nHome\nSearch\nProfile\nAddress Book\nNetwork\nRequests\n\nSearch Results\n\nSVASE\nAndy Brandt\na fellow SVASE member\nCreative consultant & entrepreneur\nIn the Information Technology and Services industry; Poland\nCurrently: Owner at ITTC\nCompanies: ITTC; Polska Telefonia Cyfrowa; Unisys; 4pi Analyst; Software;\nEdusoft; Warsaw University, Dept. of Maths and CS; IPPT PAN\n... IT consultant/project manager with experience in e-business, mobile\nsolutions ... Consultant at Unisys ... Consultant/analyst at 4pi Analyst ... as a\nconsultant-advisor to the General ...\n\nRobert Dy\n2 degrees away\nOwner, Dyco consulting and Computer Software Consultant\nIn the Computer Software industry; San Francisco Bay Area\nCurrently: Owner at Dyco consulting\nCompanies: Dyco consulting\nOwner at Dyco consulting\n\nAndrea Orr\n2 degrees away\nWriting and Editing Consultant and Professional\nIn the Writing and Editing industry; San Francisco Bay Area\n... Coordinated coverage of hardware, software and Internet\nindustries, while covering breaking news and writing a weekly column that\nchronicled the dot-com boom and subsequent bust. ...\n\nKevin Babcock\n2 degrees away\n\nAugust 2004\nCONFIDENTIAL\n\nconnections: 20\nendorsers: 1\n\nconnections: 2\n\nconnections: 1\n\nSponsored profiles\nGeoffrey Leonard\nDatabases Designed &\nDeveloped On Time &\nUnder Budget\nConnections: 128\nEndorsers: 16\nConnected to: Reid\nHoffman, Konstantin\nGuericke and 2 more\n\nSarah Powell\nNeed more than just\nprogramming? I will\ndeliver on all of your\nNET requirements...\nConnections: 119\nEndorsers: 15\n3 degrees away\n\n35K+ daily professional searches\n\n450K+ daily member page views\n\n\"I've closed over $100K worth of\nbusiness so far, and currently\nhave $400K of deals in the\npipeline, thanks to LinkedIn.\"\n-- Todd Defren, SHIFT\nCommunications\n\n23",
+      "section": "Traction",
+      "summary": "This slide demonstrates early platform traction and monetization through sponsored profiles, highlighting daily usage metrics and a customer testimonial reporting significant closed and pipeline business.",
+      "key_points": [
+        "Positioned as Google AdWords for professionals via LinkedIn InLeads.",
+        "Generated 35K+ daily professional searches.",
+        "Generated 450K+ daily member page views.",
+        "Featured a customer testimonial from Todd Defren reporting over $100K in closed business and $400K in the pipeline."
+      ]
+    },
+    {
+      "slide": 24,
+      "mode": "vision",
+      "transcript": "1. Market for InLeads:\nSearch Advertising Is Large and Growing Fast\nLinkedIn\nYour network is bigger than you think\n\nOnline advertising markets ($ Millions)\n$10,000\n$9,000\n$8,000 | $8,087\n$7,000 | $7,134\n$6,000 | $6,009\n$5,000\n$4,000\n$3,000\n$2,000\n$1,000 | $111 | $362 | $1,100 | $2,000 | $2,800\n$0 | $7,267 | $9,082\n2000 | 2001 | 2002 | 2003E | 2004E\nSearch | Core online advertising | Classifieds/listings | e-mail\n\nLinkedIn InLeads improves on Google AdWords model\n- Info on searcher\n- Focused white-collar demographic ($2-$50 CPC vs. $0.35 CPC for unfocused demographic)\n- Ability to monetize CPM, CPC, and leads\n\nSources: PriceWaterhouseCoopers, Goldman Sachs\nAugust 2004\nCONFIDENTIAL\n\n24",
+      "section": "Market",
+      "summary": "This slide outlines the large and growing online advertising market with specific breakdowns for 2000 to 2004E. It positions the InLeads product as an improvement over the Google AdWords model by targeting a focused white-collar demographic with higher CPC potential and multiple monetization methods.",
+      "key_points": [
+        "Online advertising market data is provided across categories (Search, Core online advertising, Classifieds/listings, e-mail) for the years 2000 through 2004E.",
+        "Search advertising figures cited include $7,134 million (2000), $6,009 million (2001), $8,087 million (2002), $7,267 million (2003E), and $9,082 million (2004E).",
+        "Other online advertising segments for 2003E and 2004E include $111M/$362M (e-mail), $1,100M/$2,000M (Classifieds/listings), and $2,800M for core online advertising in 2004E.",
+        "InLeads improves on Google AdWords by offering searcher info, a focused white-collar demographic ($2-$50 CPC vs. $0.35 CPC for unfocused), and monetization via CPM, CPC, and leads.",
+        "Sources cited are PriceWaterhouseCoopers and Goldman Sachs, dated August 2004."
+      ]
+    },
+    {
+      "slide": 25,
+      "mode": "vision",
+      "transcript": "2. LinkedIn Opportunities Lets Users\nLeverage Their Network to Hire\n\nLinkedIn\nYour network is bigger than you think\n\nNetwork-filtered job postings\n\nLinkedIn\n\nWelcome, Allen | Sign Out\n\nHome\n\nSearch\n\nProfile\n\nAddress Book\n\nNetwork\n\nRequests\n\nHome\n\nAccount\n\n1 of 61 Jobs\nView List | Search Jobs\n\nSenior Java Engineer\nRobert Half International\n\nLocation: Eugene, Oregon\nType: Contract to Hire\nHR Contact: June Higgins\n\nOur client seeking a Sr. Java Software Engineer to\njoin a team of talented, innovative professionals in\nEugene, OR. This high-level position reports\ndirectly to the VP of Engineering. This Web\nservices company is small, but established and\nrapidly expanding. Work hard/ play hard creative\nattitude is necessary in this stimulating\nenvironment. This position demands leadership\nand strategic thinking and the willingness to speak\nup! Build the next generation of Web search\ninfrastructure. This is not a UI position, but rather a\nback-end, heavy-lifting engineering position.\n\nPosted: June 29, 2004 (12 days ago)\n\nCompany data:\nRobert Half International\n29 in your network View them\nBest connections to this company:\nReid Hoffman, Konstantin Guericke\n\nApplying for this job\nHR manager: June Higgins\nRoute: direct or through Reid Hoffman\n\nExperience requirements:\n3 years Java Engineering\nDegree in Computer Science\nYou meet these requirements\n\n3 endorsements required\n\nApply Now\n\nNetwork-filtered backdoor reference checking\n\nLinkedIn\n\nWelcome, Allen | Sign Out\nAdd connections\n\nHome\n\nSearch\n\nProfile\n\nAddress Book\n\nNetwork\n\nRequests\n\nSearch Results\n\nWorks with candidate at BMI:\nJeannine Athas General Manager at BMI\nJeff August VP Acquisitions at BMI\nPeter Fagen Senior Marketing Director at BMI\nWyatt Leung General Counsel at BMI\n\nConnected to you\n2 degrees from you\n2 degrees from you\n3 degrees from you\n\nView all 36\n\nWorked with candidate at Disney, 2001-2003:\nJoseph N. Fourier Producer at Disney\nAlan Fry Director of Promotions at Disney\nLena Phillips Marketing VP at Disney\nJack Levant Animations Manager at Disney\n\n2 degrees from you\n2 degrees from you\n2 degrees from you\n2 degrees from you\n\nView all 29\n\nAdd more past positions | Search for candidate by Name\n\nAugust 2004\nCONFIDENTIAL\n\n25",
+      "section": "Product",
+      "summary": "This slide showcases LinkedIn's core product features that allow users to leverage their network for hiring. It highlights network-filtered job postings and network-filtered backdoor reference checking.",
+      "key_points": [
+        "Features network-filtered job postings showing connections at the hiring company, such as Reid Hoffman and Konstantin Guericke.",
+        "Demonstrates network-filtered backdoor reference checking by displaying past coworkers at companies like BMI and Disney.",
+        "Shows user interface elements including job details for a Senior Java Engineer position posted on June 29, 2004.",
+        "Dated August 2004 and marked CONFIDENTIAL as slide 25."
+      ]
+    },
+    {
+      "slide": 26,
+      "mode": "vision",
+      "transcript": "2. Reputation-Based Prioritization of Candidates\nSaves Time and Money\n\nLinked in\nYour network is bigger than you think\n\n\"I used LinkedIn to search for a\nMarketing VP and saved $30,000\nI would have otherwise paid a\nheadhunter.\"\n-- Anonymous CEO\n(quoted in Forrester report,\nJuly 2004)\n\n\"LinkedIn helped me to easily\nfind and contact 10 product\nmanagers, one of whom I ended\nup hiring. LinkedIn saved me a\nsignificant amount of time and\neffort.\"\n-- Jeremy Liew, GM, Netscape\n(hire placed in Columbus, OH)\n\n\"Through LinkedIn I was able to\nfind the perfect match for a\nsales manager opening, and it\nsaved us over $20,000 in search\ncosts.\"\n-- Adam Honig, CEO, Akiba\n(New York, NY)\n\nAugust 2004\nCONFIDENTIAL\n\n26",
+      "section": "Traction",
+      "summary": "This slide presents early social proof and testimonials from customers and industry figures regarding time and cost savings achieved through the platform. It highlights case studies detailing recruitment savings ranging from $20,000 to $30,000 by replacing traditional headhunters.",
+      "key_points": [
+        "An anonymous CEO saved $30,000 on a Marketing VP search, cited in a July 2004 Forrester report.",
+        "Jeremy Liew, GM at Netscape, used the platform to find and hire a product manager in Columbus, OH.",
+        "Adam Honig, CEO of Akiba in New York, NY, saved over $20,000 in search costs for a sales manager opening.",
+        "The slide emphasizes reputation-based prioritization of candidates as a way to save time and money."
+      ]
+    },
+    {
+      "slide": 27,
+      "mode": "vision",
+      "transcript": "2. Market for Opportunities: | LinkedIn\nExisting Online Job Markets Are Large But Inefficient | Your network is bigger than you think\n\nRevenue (2004E, $M) | Average Unique Monthly Visitors (M)\nMonster | 515 | 18.2\nCareerbuilder | 175 | 14.5 (across Careerbuilder network)\nYahoo! HotJobs | 94 | 12.6\nLinkedIn | n/a | 0.3 (up from 0.1 6 months ago)\nTotal Market | 827 | >20\n\n• Online job market is already large\n• LinkedIn is not only about jobs: enables lifetime user relationship and better results for users\n\n20K+ contact requests per month\n\n\"Employers will increasingly tap LinkedIn's rich profiles to find passive job candidates rather than pay Monster to access its resume database.\" | FORRESTER\nJuly 2004\n\nSources: Goldman Sachs, Forrester\nAugust 2004\nCONFIDENTIAL\n\n27",
+      "section": "Competition",
+      "summary": "This slide compares LinkedIn's early traction and market position against major incumbent online job boards like Monster, Careerbuilder, and Yahoo! HotJobs in 2004. It highlights the inefficiency of existing markets, frames LinkedIn as a broader lifetime relationship platform rather than just a job site, and uses third-party validation from Forrester to support the displacement of traditional resume databases.",
+      "key_points": [
+        "2004E Revenue and Average Unique Monthly Visitors are listed for Monster ($515M, 18.2M), Careerbuilder ($175M, 14.5M), Yahoo! HotJobs ($94M, 12.6M), and LinkedIn (n/a, 0.3M).",
+        "Total online job market stands at $827M revenue with over 20M average unique monthly visitors.",
+        "LinkedIn monthly unique visitors grew from 0.1M to 0.3M over a 6-month period, generating over 20K contact requests per month.",
+        "A July 2004 Forrester quote predicts employers will tap LinkedIn's rich profiles for passive candidates instead of paying Monster."
+      ]
+    },
+    {
+      "slide": 28,
+      "mode": "vision",
+      "transcript": "3. LinkedIn Network Plus Gives Power Users Extended Reach\n\nLinkedIn\nYour network is bigger than you think\n\nUser without Network Plus: Visibility limited to 3 degrees\nLinkedIn\nHome\nSearch\nProfile\nAddress Book\nNetwork\nRequests\nAdd connections\nSearch Results\nLast Search:\nWe found 25 users matching these criteria:\n• users with keywords: \"mobile telephone\"\nSorted by number of endorsers\nRefine this search\nNew search\nAbout Search Results\nYour Search Results\nshow all the users in\nyour network who match\nyour search criteria.\nEach newly invited user\ngrows and diversifies\nyour network, and gives\nyou more users to\nchoose from.\nTony Sumpster  3 degrees away\nManaging Director EMEA at Tower Software\nIn the Computer Software industry; United Kingdom\nCurrently: Managing Director EMEA at Tower Software\nCOO & co-founder at CabinCell Limited\nCompanies: Tower Software; CabinCell Limited; Datawatch International Limited;\nMoai Technologies Limited\n... A start-up project to enable mobile telephone use onboard cruise ships\nand airplanes...\nconnections: 25\nendorsers: 5\nJames Page  3 degrees away\nCEO at On2go and Owner, Entrepreneur and Visionary\nIn the Telecommunications industry; United Kingdom\nCurrently: CEO at On2go\nCompanies: Soft Ghana; PervasiveEdge; Deckchair.com; On2go\n... CEO of On2go. On2go is developing software systems to provide live\ncontent to mobile telephone users. on2go aims to help people in...\nconnections: 41\nendorsers: 2\nFourth-degree contact\nNetwork Plus™ members can reach twice as many professionals.\nTry LinkedIn Network Plus™ today.\nGuy Blakeney  3 degrees away\nAssociate, Greenhill & Co.\nIn the Investment Banking industry; United Kingdom\nCurrently: Associate at Greenhill & Co\nCompanies: Greenhill & Co; Rutland Group Ltd; Initiators: Cambrina | University\nconnections: 25\n\nUser with Network Plus: Visibility out to 4 degrees\nLinkedIn\nHome\nSearch\nProfile\nAddress Book\nNetwork\nRequests\nAdd connections\nSearch Results\nLast Search:\nWe found 25 users\nmatching these\ncriteria:\n• users with\nkeywords: \"mobile\ntelephone\"\nSorted by number of\nendorsers\nRefine this search\nNew search\nAbout Search Results\nYour Search Results\nshow all the users in\nyour network who match\nyour search criteria.\nEach newly invited user\ngrows and diversifies\nyour network, and gives\nyou more users to\nchoose from.\nTony Sumpster  3 degrees away\nManaging Director EMEA at Tower Software\nIn the Computer Software industry; United Kingdom\nCurrently: Managing Director EMEA at Tower Software\nCOO & co-founder at CabinCell Limited\nCompanies: Tower Software; CabinCell Limited; Datawatch International Limited;\nMoai Technologies Limited\n... A start-up project to enable mobile telephone use onboard cruise ships\nand airplanes...\nconnections: 25\nendorsers: 5\nJames Page  3 degrees away\nCEO at On2go and Owner, Entrepreneur and Visionary\nIn the Telecommunications industry; United Kingdom\nCurrently: CEO at On2go\nCompanies: Soft Ghana; PervasiveEdge; Deckchair.com; On2go\n... CEO of On2go. On2go is developing software systems to provide live\ncontent to mobile telephone users. on2go aims to help people in...\nconnections: 41\nendorsers: 2\nJoseph Amorin  4 degrees away\nLogistics and Supply Chain Professional\nIn the Logistics and Supply Chain industry; Germany\nCompanies: Tower Automotive GmbH; Sendo Ltd; Joe Amorin\n... Purchasing and Supply Chain for a leading mobile telephone\nmanufacturer in the Netherlands. Involvement in sourcing...\nconnections: 6\nendorsers: 1\nGuy Blakeney  3 degrees away\nAssociate, Greenhill & Co.\n\"I was contacted by a CNET executive who referred me to a hiring manager in his group. I was offered a position. LinkedIn has been an invaluable career tool.\"\n-- Don Marzetta, Director of Vendor Integration, CNET\n\"I closed business with the CEO of a major software company.\"\n-- Raj Sardesh, Principal, ProductMilestones\n\"We used LinkedIn contact requests to engage and secure two great conference speakers.\"\n-- Jeff Clavier, Managing Partner, SoftTech VC\n28",
+      "section": "Product",
+      "summary": "This slide introduces a feature called LinkedIn Network Plus, which extends power users' search visibility from 3 degrees to 4 degrees and allows them to reach twice as many professionals. It compares search results between standard users and Network Plus members and includes testimonials from users highlighting its career and business value.",
+      "key_points": [
+        "Standard users without Network Plus have visibility limited to 3 degrees.",
+        "Users with Network Plus have visibility out to 4 degrees, reaching twice as many professionals.",
+        "Includes testimonials from Don Marzetta (Director of Vendor Integration at CNET), Raj Sardesh (Principal at ProductMilestones), and Jeff Clavier (Managing Partner at SoftTech VC)."
+      ]
+    },
+    {
+      "slide": 29,
+      "mode": "vision",
+      "transcript": "3. Market for Network Plus:\nLarge Online Personals Market Provides Comp\nLinkedIn\nYour network is bigger than you think\n\n2002 | 2003 | 2004E | 2005E | 2006E | 2007E\nTotal Personals Industry Revenue | 917 | 1,080 | 1,166 | 1,260 | 1,348 | 1,442\nYear-over-year-growth | 13% | 18% | 8% | 8% | 7% | 7%\nOnline Personals | 304 | 480 | 550 | 645 | 732 | 810\nYear-over-year-growth | - | 58% | 15% | 17% | 14% | 11%\n% of total personals industry | 33% | 44% | 47% | 51% | 54% | 56%\nSingles 18+ US | 87 | 87 | 87 | 87 | 87 | 87\nYear-over-year-growth | - | 0% | 0% | 0% | 0% | 0%\nPersonals Spend per 18+ US Single | 10.5 | 12.4 | 13.4 | 14.5 | 15.5 | 16.6\nYear-over-year-growth | - | 18% | 8% | 8% | 7% | 7%\nOnline Personals Spend per 18+ US Single | 3.5 | 5.5 | 6.3 | 7.4 | 8.4 | 9.3\n\n33K+ Beta Subscribers\n\n\"LinkedIn has taken referral-based job hunting to the next level.\"\nU.S.News\nMarch 2004\n\nSources: Goldman Sachs, Marketdata Enterprises\nAugust 2004\nCONFIDENTIAL\n\n29",
+      "section": "Market",
+      "summary": "This slide presents the market size and revenue projections for the online personals industry from 2002 to 2007E, using data sources such as Goldman Sachs and Marketdata Enterprises. It also features LinkedIn as a comparable and highlights traction with 33K+ Beta Subscribers.",
+      "key_points": [
+        "Total Personals Industry Revenue projected from 917 in 2002 to 1,442 in 2007E.",
+        "Online Personals revenue projected from 304 in 2002 to 810 in 2007E.",
+        "Singles 18+ US constant at 87 from 2002 to 2007E.",
+        "Highlights 33K+ Beta Subscribers.",
+        "Includes a quote about LinkedIn from U.S. News, March 2004."
+      ]
+    },
+    {
+      "slide": 30,
+      "mode": "vision",
+      "transcript": "Revenue Is Near-Term\n\nLinkedIn\nYour network is bigger than you think\n\nPricing plan (preliminary) | Launch timing\nLinkedIn Universal Service | Remains free (large user base is key revenue-generating asset) | Already live\n1. InLeads (Search ads) | CPC pricing set by free market auction | CPM pricing $3-$10 depending on category | EOI (lead generation) pricing $25+ | 1/05\n2. Opportunities (Listings) | $79 per listing (remains open for 30 days) | Price levels increase post-2005 | 11/04\n3. Network Plus (Subscriptions) | $5.95 per month or $59.95 per year | Price levels increase post-2005 | 1/05\n\nAugust 2004\nCONFIDENTIAL\n\n30",
+      "section": "Business Model",
+      "summary": "This slide outlines LinkedIn's preliminary pricing plan and launch timing for monetization streams, categorizing revenue into search ads, listings, and subscriptions. It details specific price points such as $79 per listing and $5.95 per month for subscriptions, alongside a free core service acting as a key revenue-generating asset.",
+      "key_points": [
+        "LinkedIn Universal Service remains free to maintain a large user base as a revenue-generating asset, already live.",
+        "InLeads (Search ads) uses CPC auction pricing, CPM pricing of $3-$10 by category, and EOI lead generation pricing of $25+, launching 1/05.",
+        "Opportunities (Listings) priced at $79 per listing for 30 days, launching 11/04 with price increases post-2005.",
+        "Network Plus (Subscriptions) priced at $5.95 per month or $59.95 per year, launching 1/05 with price increases post-2005.",
+        "Dated August 2004 and marked confidential as slide 30."
+      ]
+    },
+    {
+      "slide": 31,
+      "mode": "vision",
+      "transcript": "Internet 2.0 Business Model:\nHigh Revenue and High Margins\n\nLinked in\nYour network is bigger than you think\n\n• Great revenue potential for InLeads, Opportunities, and Network Plus\n  Law of large numbers ensures high revenue\n\n• Very high operating margins\n  Free customer acquisition, digital goods transactions with zero incremental cost\n  Operating margins virtually breakeven even for universal free service\n\n• Execution difficulty decreases as LinkedIn grows the network\n  Hardest part is building large, high-quality user base\n\nAugust 2004\nCONFIDENTIAL\n\n31",
+      "section": "Business Model",
+      "summary": "This slide outlines LinkedIn's business model as of August 2004, projecting high revenue and operating margins. It highlights monetization through InLeads, Opportunities, and Network Plus, alongside zero incremental cost for digital goods and free customer acquisition.",
+      "key_points": [
+        "Great revenue potential driven by InLeads, Opportunities, and Network Plus, with the law of large numbers ensuring high revenue.",
+        "Very high operating margins driven by free customer acquisition and digital goods transactions with zero incremental cost.",
+        "Operating margins virtually breakeven even for universal free service.",
+        "Execution difficulty decreases as LinkedIn grows the network, with building a large, high-quality user base noted as the hardest part."
+      ]
+    },
+    {
+      "slide": 32,
+      "mode": "vision",
+      "transcript": "Series B Brings LinkedIn to Operating Profitability in 2005\n\nLinkedIn\nYour network is bigger than you think\n\nKey assumptions in LinkedIn model\n\nMacro assumptions\n• Monthly user growth of 3%-13% (below current levels)\n• Monthly usage growth rate of 5%-10% (below current levels)\n\n1. InLeads (search ads) assumptions\n• CPMs priced at $3-$5, CPCs priced at $1 (both well below comps)\n• Clickthrough and conversion rates of 0.5%-2.75%\n\n2. Opportunities (listings) assumptions\n• Listings pricing at $79\n\n3. Network Plus (subscription) assumptions\n• Subscription rate of 0.5%-3.0% (high end of range not until 2007)\n\nAugust 2004\nCONFIDENTIAL\n\n32",
+      "section": "Financials",
+      "summary": "This slide outlines the financial model and key assumptions for LinkedIn's Series B, aimed at achieving operating profitability in 2005. It details specific macro growth rates as well as pricing and conversion metrics for InLeads, Opportunities, and Network Plus revenue streams.",
+      "key_points": [
+        "Series B brings LinkedIn to operating profitability in 2005",
+        "Macro assumptions include monthly user growth of 3%-13% and usage growth of 5%-10%",
+        "InLeads assumptions feature CPMs of $3-$5, CPCs of $1, and clickthrough/conversion rates of 0.5%-2.75%",
+        "Opportunities listings pricing set at $79",
+        "Network Plus subscription rate of 0.5%-3.0% with high end of range not until 2007"
+      ]
+    },
+    {
+      "slide": 33,
+      "mode": "vision",
+      "transcript": "Series B Brings LinkedIn to\nOperating Profitability in 2005\nLinkedIn\nYour network is bigger than you think\n\n5-Year Financials\n$ Thousands\n\nHistorical | Conservative projections\n5-YEAR FINANCIALS | 2003 | 2004 | 2005 | 2006 | 2007\nTotal active users (EOY) | 81,801 | 1,594,188 | 3,889,445 | 6,195,065 | 9,317,487\nRevenues | $ - | $ 261 | $ 7,292 | $ 22,697 | $ 54,088\nExpenses | $ (1,271) | $ (3,997) | $ (6,973) | $ (10,644) | $ (14,119)\nCashflow from Operations | $ (1,271) | $ (3,736) | $ 319 | $ 12,053 | $ 39,969\nCashflow from Financing | $ 4,679 | $ 9,750 | $ - | $ - | $ -\nNet Cash Position (EOY) | $ 3,408 | $ 9,422 | $ 9,741 | $ 21,794 | $ 61,763\nHeadcount | 11 | 36 | 69 | 93 | 112\nOperating Margin | N/A | N/A | 4.4% | 53.1% | 73.9%\n\nAugust 2004\nCONFIDENTIAL\n\n33",
+      "section": "Financials",
+      "summary": "This slide presents LinkedIn's 5-year financials from 2003 to 2007, combining historical data with conservative projections. It outlines the path to operating profitability by 2005 through user growth, increasing revenues, and expanding cash flow.",
+      "key_points": [
+        "Series B aims to bring LinkedIn to operating profitability in 2005.",
+        "Total active users (EOY) are projected to grow from 81,801 in 2003 to 9,317,487 in 2007.",
+        "Revenues are projected to increase from $0 in 2003 to $54,088 thousand in 2007.",
+        "Cash flow from operations turns positive in 2005 at $319 thousand and reaches $39,969 thousand by 2007.",
+        "Operating margin reaches 4.4% in 2005, scaling to 73.9% by 2007."
+      ]
+    },
+    {
+      "slide": 34,
+      "mode": "vision",
+      "transcript": "Business and Tech Team Has Strong Track-Record\n\nLinkedIn\nYour network is bigger than you think\n\nReid Hoffman, CEO\n- Former EVP and Founding Board Member, PayPal\n- Investor in Friendster, Ironport, Six Apart, Vendio et al\n\nSarah Imbach, Chief of Staff and VP\n- Former SVP Operations, PayPal\n\nAllen Blue, VP of Product\n- Former Director of Product Design, SocialNet.com\n\nJean-Luc Vaillant, VP of Engineering\n- Former Director of Engineering and Software Development, Logitech, Spotlife\n\nKonstantin Guericke, VP of Marketing\n- Former VP of Marketing, Presenter, Blaxxun\n\nEric Ly, CTO\n- Founder and former CTO, Netmosphere (sold to Critical Path)\n\nMatt Cohler, Director of Corporate Development\n- Former top-ranked analyst at McKinsey, marketing at AsiaInfo, published in HBR\n\nTechnical team with experience at Apple, Cisco, Hotwire, Citigroup, Sprint, TIBCO, VERITAS, et al\n\nAugust 2004\nCONFIDENTIAL\n\n34",
+      "section": "Team",
+      "summary": "This slide highlights the strong track record of LinkedIn's business and tech team, detailing the executive leadership and their impressive past experience at notable companies.",
+      "key_points": [
+        "Reid Hoffman, CEO: Former EVP and Founding Board Member, PayPal",
+        "Sarah Imbach, Chief of Staff and VP: Former SVP Operations, PayPal",
+        "Allen Blue, VP of Product: Former Director of Product Design, SocialNet.com",
+        "Jean-Luc Vaillant, VP of Engineering: Former Director of Engineering and Software Development, Logitech, Spotlife",
+        "Konstantin Guericke, VP of Marketing: Former VP of Marketing, Presenter, Blaxxun"
+      ]
+    },
+    {
+      "slide": 35,
+      "mode": "vision",
+      "transcript": "Board and Other Investors Are\nSequoia and Top-Tier Angels\n\nLinkedIn\nYour network is bigger than you think\n\nReid Hoffman\n- CEO of LinkedIn\n- Former EVP and Founding Board Member, PayPal; leading angel investor\n\nMark Kvamme\n- Partner, Sequoia Capital\n- Former CEO and Chairman, CKS Group\n\nRob DeSantis\n- Former CMO and Co-Founder, Ariba\n\nAdditional angel investors (not on Board of Directors)\n- Peter Thiel, Co-Founder and Former CEO, PayPal\n- Marc Andreessen, Co-Founder and Former CTO, Netscape\n- Joe Kraus, Co-Founder and Former SVP Marketing, Excite\n- Andrew Anker, Former CTO, Wired and Former Partner, August Capital\n- Gil Penchina, VP International, eBay\n\nSEQUOIA CAPITAL\nThe Entrepreneurs Behind the Entrepreneurs\n\nLinkedIn Series A\n$4.7 Million\nNovember 2003\n\nAugust 2004\nCONFIDENTIAL\n\n35",
+      "section": "Team",
+      "summary": "This slide details the company's board of directors and prominent investors, specifically highlighting Sequoia Capital and high-profile angel investors like Reid Hoffman and Mark Kvamme. It provides background details on these key individuals and lists additional angel investors.",
+      "key_points": [
+        "Board and investors include Sequoia and top-tier angels such as Reid Hoffman and Mark Kvamme.",
+        "Additional angel investors include Peter Thiel, Marc Andreessen, Joe Kraus, Andrew Anker, and Gil Penchina.",
+        "Details LinkedIn Series A funding of $4.7 Million in November 2003."
+      ]
+    },
+    {
+      "slide": 36,
+      "mode": "vision",
+      "transcript": "LinkedIn is Well-Positioned in\nan Essential Market\n\nLinkedIn\nYour network is bigger than you think\n\n• High-margin billion-dollar opportunity\n\n• Clear market leader in a defensible space\n\n• Strong team and strong execution on less than $4M spent\n\nAugust 2004\nCONFIDENTIAL\n\n36",
+      "section": "Financials",
+      "summary": "This slide outlines the financial and market positioning of LinkedIn in August 2004. It highlights a high-margin billion-dollar opportunity, market leadership in a defensible space, and strong team execution on less than $4M spent.",
+      "key_points": [
+        "High-margin billion-dollar opportunity",
+        "Clear market leader in a defensible space",
+        "Strong team and strong execution on less than $4M spent"
+      ]
+    },
+    {
+      "slide": 37,
+      "mode": "vision",
+      "transcript": "LinkedIn\nYour network is bigger than you think\n\nFind and Contact the People You Need\nThrough\nthe People You Already Trust\n\nAugust 2004\nCONFIDENTIAL\n\n37",
+      "section": "Title",
+      "summary": "This is the title slide of LinkedIn's August 2004 pitch deck, featuring the company name, a confidential marker, and the tagline about leveraging trusted networks to find and contact needed connections.",
+      "key_points": [
+        "Company name: LinkedIn",
+        "Tagline: Your network is bigger than you think",
+        "Value proposition: Find and Contact the People You Need Through the People You Already Trust",
+        "Date: August 2004",
+        "Marked as confidential with slide number 37"
+      ]
+    }
+  ]
+}

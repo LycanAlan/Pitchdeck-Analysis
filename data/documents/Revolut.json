@@ -4,93 +4,93 @@
     {
       "slide": 1,
       "mode": "vision",
-      "transcript": "Revolut\npersonal money cloud\nTopPitchDeck",
+      "transcript": "Revolut\npersonal money cloud\n\nTopPitchDeck",
       "section": "Title",
-      "summary": "This is the title slide for Revolut, introducing the company as a personal money cloud.",
+      "summary": "This is the title slide for the Revolut pitch deck, introducing the company as a personal money cloud.",
       "key_points": [
         "Company name: Revolut",
-        "Tagline: personal money cloud",
-        "Source: TopPitchDeck"
+        "Value proposition: personal money cloud"
       ]
     },
     {
       "slide": 2,
       "mode": "vision",
-      "transcript": "Problem\n\nSpending and sending money abroad sucks\n\nExpensive\nTravelex\nCurrency Exchange\n\nInconvenient\nWESTERN UNION\nMONEY TRANSFER\n\nSneaky\nCREDIT CARD\n0123 4567 8901\nCARDHOLDER NAME\n\nThis industry is not disrupted yet.\n\nTopPitchDeck",
+      "transcript": "Problem\n\nSpending and sending money abroad sucks\n\nExpensive\nTravelex worldwide money\nCurrency Exchange\n\nInconvenient\nWESTERN UNION MONEY TRANSFER\n\nSneaky\nCREDIT CARD\n0123 4567 8901\nCARDHOLDER NAME\n\nThis industry is not disrupted yet.\n\nTopPitchDeck",
       "section": "Problem",
-      "summary": "This slide identifies the pain points of sending and spending money abroad, categorizing current industry offerings as expensive, inconvenient, and sneaky. It asserts that this market sector remains undisrupted.",
+      "summary": "This slide identifies friction points in the international money transfer market, characterizing existing solutions as expensive, inconvenient, and lacking transparency. It positions the industry as an incumbent-dominated space ripe for disruption.",
       "key_points": [
-        "Identifies spending and sending money abroad as a problem",
-        "Labels Travelex and Currency Exchange as expensive",
-        "Labels Western Union and Money Transfer as inconvenient",
-        "Labels Credit Card as sneaky",
-        "Claims the industry is not disrupted yet"
+        "International money transfers are identified as expensive, inconvenient, and sneaky",
+        "Current market players include Travelex, Western Union, and credit card issuers",
+        "The industry is currently viewed as not yet disrupted"
       ]
     },
     {
       "slide": 3,
       "mode": "vision",
-      "transcript": "Market Size\n\nCross-currency transactions\n$1,4 Trillion\n\nLost due to fees & spreads\n$60 Bln\n\nTravellers & Expats\n1.5 Bln+\n\nUK is initial target market:\n$3bln market size & 60mln travelers\n\nTop Pitch Deck",
+      "transcript": "Market Size\n\nCross-currency\ntransactions\n\n$1,4 Trillion\n\nLost due to fees\n& spreads\n\n$60 Bln\n\nTravellers\n& Expats\n\n1.5 Bln+\n\nUK is initial target market:\n$3bln market size & 60mln travelers\n\nTopPitchDeck",
       "section": "Market",
-      "summary": "This slide presents the market size for cross-currency transactions, highlighting the total addressable market, losses due to fees and spreads, and the target demographic of travellers and expats. It also specifies the UK as the initial target market with its corresponding market size and traveler count.",
+      "summary": "This slide outlines the total addressable market for cross-currency transactions, highlighting the significant economic inefficiency caused by fees and spreads. It further segments the potential user base of travellers and expats while identifying the UK as the initial beachhead market.",
       "key_points": [
-        "Cross-currency transactions: $1,4 Trillion",
-        "Lost due to fees & spreads: $60 Bln",
-        "Travellers & Expats: 1.5 Bln+",
-        "UK is initial target market: $3bln market size & 60mln travelers"
+        "Cross-currency transactions market size: $1,4 Trillion",
+        "Lost value due to fees & spreads: $60 Bln",
+        "Total addressable travellers & expats: 1.5 Bln+",
+        "UK target market size: $3bln",
+        "UK traveller market: 60mln"
       ]
     },
     {
       "slide": 4,
       "mode": "vision",
-      "transcript": "Solution\n\nExchange\n\nSend\n\nSpend\n\n1-minute explanatory video https://revolut.com\n\nTopPitchDeck",
-      "section": "Solution",
-      "summary": "This slide presents the startup's core solution featuring exchange, send, and spend functionalities. It includes a link to a 1-minute explanatory video.",
+      "transcript": "Solution\n\nExchange\n\nCancel £1=€1.22 Exchange\nGBP -200\nEUR +236.72\n1 2 3\n4 5 6\n7 8 9\n. 0 ⌫\n\nSend\n\nEdit Send +\nIrene Natalie\nZac Marilyn\nnikolay@gmail.com\nAlice Dorothy\nGlen Madonna\nPatrick Ass\nLionel Hendriks\nIsabella Malys\n07455 389838\n\nSpend\n\nROGERS 9:23 AM 88%\n€200 $30.02\n£2,849.48\nTop up from Salary [...] 2 min ago +£200\n-£2.45 Starbucks USA 17 Jan, 12:37, Booked\n-£40 To Glen Madonna 12 Jan, 12:37, Pending\n\n1-minute explanatory video https://revolut.com\n\nTopPitchDeck",
+      "section": "Product",
+      "summary": "This slide showcases the user interface and core functionality of the platform, specifically highlighting multi-currency exchange, peer-to-peer transfers, and transaction history. It demonstrates the product's capability to manage international spending and real-time account updates.",
       "key_points": [
-        "Presents the core solution features: Exchange, Send, and Spend",
-        "Includes a link to a 1-minute explanatory video at https://revolut.com"
+        "Displays currency exchange interface with a rate of £1=€1.22",
+        "Shows peer-to-peer payment features with a contacts list",
+        "Illustrates transaction history and account balance details",
+        "Features a GBP balance of £2,849.48",
+        "Includes a link to a 1-minute explanatory video at revolut.com"
       ]
     },
     {
       "slide": 5,
       "mode": "vision",
-      "transcript": "Business model\n\nFreemium\nUse Revolut for Free\nNo fees until you top up £1000.\n\nViral\nCancel\nCurrent Plan\nChange\n\nFREE\nNo fees until you top up more than £1000.\nInvite Friends to Increase Free Limit\n\nBASIC\n1% for exchange\n£1 for transfer\n£1 for ATM\n£1\n\nPRO\neverything is free\n£10\n\nfree currency exchange & money transfers up to £500\nif you need more, invite friends or choose one of the pricing plans\ndownload the app, receive money instantly & get rewarded\n\nTopPitchDeck",
+      "transcript": "Business model\n\n🎁 Freemium\n\nROGERS 9:23 AM 66%\n£0 £0\n£0\nUse Revolut for Free >\nNo fees until you top up £1000.\n\nMy wallet Send Exchange More\n\n© Viral\n\nROGERS 9:23 AM 66%\nCancel Current Plan Change\nFREE\nNo fees until you top up\nmore than £1000.\n🎁 Invite Friends to Increase Free Limit\nBASIC\n1% for exchange\n£1 for transfer\n£1 for ATM\n£1\na month\nPRO\neverything is free\n£10\na month\n\nMy wallet Send Exchange More\n\n➜ free currency exchange & money transfers up to £500\n➜ if you need more, invite friends or choose one of the pricing plans\n➜ download the app, receive money instantly & get rewarded\n\nTopPitchDeck",
       "section": "Business Model",
-      "summary": "This slide outlines the company's freemium business model, combining a free tier with viral growth mechanics through friend invitations alongside paid tiers. It details fee structures and usage limits for currency exchange, transfers, and ATM withdrawals.",
+      "summary": "This slide outlines a freemium pricing strategy for a financial services application, utilizing tiered subscription levels and social-based user acquisition incentives. It details fee structures for currency exchange, transfers, and ATM withdrawals to monetize the user base.",
       "key_points": [
-        "Freemium model offering free usage until topping up £1000.",
-        "Viral growth mechanism allowing users to invite friends to increase their free limit.",
-        "Free tier includes free currency exchange and money transfers up to £500.",
-        "Basic plan includes 1% for exchange, £1 for transfer, £1 for ATM, and £1.",
-        "Pro plan offers everything for free at a cost of £10."
+        "Freemium model with Free, Basic (£1 a month), and Pro (£10 a month) tiers",
+        "Free tier includes no fees until a user tops up more than £1000",
+        "Viral growth incentive allows users to invite friends to increase free limits",
+        "Basic plan charges 1% for exchange, £1 for transfer, and £1 for ATM usage",
+        "Pro plan offers unlimited usage for a £10 monthly subscription"
       ]
     },
     {
       "slide": 6,
       "mode": "vision",
-      "transcript": "Marketing\n\nEarly Adopters\n(80k+)\n\nTECH\nCITY\n\n3 BEARDS\n\nEvents\n(1m+)\n\nARAB\nWORLD\nFEST\n\nGerman Fest\n\nPartnerships\n(10m+)\n\nBooking.com\n\nExpedia\n\nKAYAK\n\nHacks\n(?)\n\nTOP SECRET\n\nInitially, we target London Tech City with 80k members\nthrough start-up communities.\n\nTopPitchDeck",
+      "transcript": "Marketing\n\nEarly Adopters\n(80k+)\n\nTECH\nCITY\n\n3BEARDS\n\nEvents\n(1m+)\n\nARAB\nWORLD\nFEST\nمهرجان العالم العربي\n\nGERMAN FEST MILWAUKEE INC.\nGemütlichkeit\nGerman Fest\n\nPartnerships\n(10m+)\n\nBooking.com\n\nExpedia\n\nKAYAK\n\nHacks\n(?)\n\nTOP SECRET\n\nInitially, we target London Tech City with 80k members\nthrough start-up communities.\n\nTopPitchDeck",
       "section": "Market",
-      "summary": "This slide outlines the go-to-market strategy and user acquisition channels, categorizing them into early adopters, events, partnerships, and growth hacks. It details initial targeting of London Tech City with 80k+ members via start-up communities.",
+      "summary": "This slide outlines the company's multi-tiered customer acquisition strategy, categorizing target segments by scale and channel type. It leverages partnerships, event attendance, and niche community outreach to establish a market presence starting in London Tech City.",
       "key_points": [
-        "Early Adopters target of 80k+ through London Tech City and start-up communities",
-        "Events channel targeting 1m+ via Arab World Fest and German Fest",
-        "Partnerships channel targeting 10m+ through Booking.com, Expedia, and KAYAK",
-        "Hacks channel listed as ? and TOP SECRET",
-        "Initially targets London Tech City with 80k members through start-up communities"
+        "Targets 80k+ early adopters via London Tech City startup communities",
+        "Engages 1m+ potential users through events like Arab World Fest and German Fest Milwaukee Inc.",
+        "Leverages partnerships with Booking.com, Expedia, and KAYAK for 10m+ reach",
+        "Lists 'Hacks' as a TOP SECRET channel for growth",
+        "Initially targets London Tech City with 80k members"
       ]
     },
     {
       "slide": 7,
       "mode": "vision",
-      "transcript": "Competition\n\nOld Players\nBANK\nUse cases\nStart-ups\nworldremit. WeSwap Revolut\nDifficult & expensive\nEasy & cost-effective\n\nExample of use cases:\nI go to US. Cash is inconvenient, cards are costly.\nI want to send $ instantly without complicated IBANs.\nI want to have Euros without Euro bank account.\nI want to exchange money instantly, not in 1-3 days.\nI want to transfer at the exchange rate that is now.\n\nRevolut | WeSwap | worldremit. | FairFX\n✓ | ✓\n✓\n✓\n✓\n✓ | ✓ | ✓\n\nCHART: A horizontal axis maps competitors from difficult & expensive (left) to easy & cost-effective (right), with old players on the left and start-ups on the right.\n\nThe only product that solves the full cycle of a customer pain.\n\nTop Pitch Deck",
+      "transcript": "Competition\n\nOld Players\nUse cases\nStart-ups\n\nBANK\nTravelex Currency Exchange\nFairFX\nworldremit\nWeSwap\nRevolut\n\nDifficult & expensive\nEasy & cost-effective\n\nCHART: A horizontal axis positioning companies from difficult/expensive to easy/cost-effective, with Revolut, WeSwap, and Worldremit on the right, and Banks, Travelex, and FairFX on the left.\n\nExample of use cases:\nRevolut | WeSwap | worldremit | FairFX\n\nI go to US. Cash is inconvenient, cards are costly.\n✓ | ✓\n\nI want to send $ instantly without complicated IBANs.\n✓\n\nI want to have Euros without Euro bank account.\n✓\n\nI want to exchange money instantly, not in 1-3 days.\n✓\n\nI want to transfer at the exchange rate that is now.\n✓ | | ✓ | ✓\n\nThe only product that solves the full cycle of a customer pain.\n\nTopPitchDeck",
       "section": "Competition",
-      "summary": "This slide maps the competitive landscape, contrasting difficult and expensive old bank players against easy and cost-effective start-ups like WorldRemit, WeSwap, Revolut, and FairFX. It highlights specific customer use cases and positions the startup as the only product that solves the full cycle of customer pain.",
+      "summary": "This slide performs a competitive landscape analysis, positioning the startup's product as a superior, cost-effective alternative to traditional banks and legacy currency exchange services. It utilizes a feature-comparison matrix to demonstrate how the platform uniquely solves the full cycle of customer pain points compared to incumbents like Revolut, WeSwap, Worldremit, and FairFX.",
       "key_points": [
-        "Old bank players are categorized as difficult and expensive.",
-        "Start-ups like WorldRemit, WeSwap, and Revolut are categorized as easy and cost-effective.",
-        "Lists customer use cases regarding US travel cash, instant transfers without IBANs, holding Euros without an account, instant exchanges, and current exchange rate transfers.",
-        "Compares competitors (Revolut, WeSwap, worldremit., FairFX) across feature checkmarks.",
-        "Claims to be the only product that solves the full cycle of a customer pain."
+        "Competitive positioning maps Banks, Travelex, and FairFX as difficult and expensive against Revolut, WeSwap, and Worldremit as easy and cost-effective.",
+        "Feature comparison highlights user needs such as convenient cash/card use, instant transfers without IBANs, and real-time exchange rates.",
+        "The slide claims the company's product is the only solution that addresses the full cycle of identified customer pain points.",
+        "Competitors listed: BANK, Travelex Currency Exchange, FairFX, worldremit, WeSwap, Revolut."
       ]
     },
     {
@@ -98,22 +98,21 @@
       "mode": "vision",
       "transcript": "Why we are better\n\nInterbank Rates\nFreemium Model\nViral Features\n\nEasy-To-Use\nOwn Infrastructure\nPatent Pending\n\nTopPitchDeck",
       "section": "Competition",
-      "summary": "This slide outlines the startup's competitive advantages, highlighting proprietary technology, business model features, and infrastructure. Investors would use this to evaluate the company's value proposition and defensibility against competitors.",
+      "summary": "This slide highlights the company's competitive advantages by positioning its infrastructure, business model, and product features as superior to industry incumbents.",
       "key_points": [
-        "Interbank Rates",
-        "Freemium Model",
-        "Viral Features",
-        "Easy-To-Use",
-        "Own Infrastructure",
-        "Patent Pending"
+        "Utilizes interbank rates",
+        "Employs a freemium model",
+        "Features viral growth mechanisms",
+        "Prioritizes user experience and proprietary infrastructure",
+        "Holds patent pending status"
       ]
     },
     {
       "slide": 9,
       "mode": "vision",
-      "transcript": "Traction\n\n4.8k pre-product subscribers within one month\n\n9 deals including MasterCard for implementation\n\nFinalist at Finovate Europe",
+      "transcript": "Traction\n\n4.8k pre-product subscribers within one month\n\n9 deals including MasterCard for implementation\n\nFinalist at Finovate Europe\n\nTopPitchDeck",
       "section": "Traction",
-      "summary": "This traction slide highlights early customer interest and validation, demonstrating strong pre-product demand, enterprise pipeline engagement, and industry recognition.",
+      "summary": "This slide highlights early market validation through user acquisition, enterprise partnerships, and industry recognition. It demonstrates significant pre-product demand and external validation from institutional partners.",
       "key_points": [
         "4.8k pre-product subscribers within one month",
         "9 deals including MasterCard for implementation",
@@ -123,38 +122,39 @@
     {
       "slide": 10,
       "mode": "vision",
-      "transcript": "Team\n\nCEO - Nikolay Storonsky, former trading @\nCredit-Suisse & Lehman Brothers\n\nCTO - Vlad Yatsenko, former development @\nCredit-Suisse & Deutsche Bank\n\nVP Development - Tom Reay, development @\nExpedia & Ocado\n\nShort movie about us: http://vimeo.com/114599259\nTop Pitch Deck",
+      "transcript": "Team\n\nCEO - Nikolay Storonsky, former trading @\nCredit-Suisse & Lehman Brothers\n\nCTO - Vlad Yatsenko, former development @\nCredit-Suisse & Deutsche Bank\n\nVP Development - Tom Reay, development @\nExpedia & Ocado\n\nShort movie about us: http://vimeo.com/114599259\n\nTopPitchDeck",
       "section": "Team",
-      "summary": "This slide presents the founding and executive team, highlighting their prior professional experience at major financial institutions and technology companies.",
+      "summary": "This slide highlights the founding and leadership team, emphasizing their professional backgrounds in global finance and software development at major established institutions.",
       "key_points": [
         "CEO: Nikolay Storonsky, former trading at Credit-Suisse & Lehman Brothers",
         "CTO: Vlad Yatsenko, former development at Credit-Suisse & Deutsche Bank",
         "VP Development: Tom Reay, development at Expedia & Ocado",
-        "Includes a link to a short movie about the team: http://vimeo.com/114599259"
+        "Link provided to a short movie about the team: http://vimeo.com/114599259"
       ]
     },
     {
       "slide": 11,
       "mode": "vision",
-      "transcript": "Projections & Our Ask\n\nKEY SUMMARY DATA | Year 1 | Year 2 | Year 3 | Year 4 | Year 5\nNewly Acquired Customers | 20,000 | 40,000 | 80,000 | 120,000 | 160,000\nTotal Number of Customers | 20,000 | 60,000 | 140,000 | 260,000 | 420,000\nPaying Customers | 5,000 | 18,000 | 42,000 | 78,000 | 126,000\nAverage Annual Top-Up | £5,000 | £5,000 | £5,000 | £5,000 | £5,000\n\nGROSS REVENUES:\nUse/Non-Use of Card | Year 1 | Year 2 | Year 3 | Year 4 | Year 4\n1. Interchange Revenue | £90,000 | £270,000 | £630,000 | £1,170,000 | £1,890,000\n2. Subscription Revenue | £600,000 | £2,160,000 | £5,040,000 | £9,360,000 | £15,120,000\n\nTotal Revenues | £690,000 | £2,430,000 | £5,670,000 | £10,530,000 | £17,010,000\n\nTransaction Costs:\n1. Transaction Costs | £60,000 | £180,000 | £420,000 | £420,000 | £420,000\n2. ATM Costs | £60,000 | £180,000 | £420,000 | £780,000 | £1,260,000\n3. Load Costs | £84,000 | £252,000 | £588,000 | £1,092,000 | £1,764,000\n4. Foreign Exchange Costs | £10,000 | £30,000 | £70,000 | £130,000 | £210,000\n5. Bank out Costs | £240,000 | £720,000 | £720,000 | £720,000 | £720,000\n6. Settlement Costs | £7,650 | £7,650 | £7,650 | £7,650 | £7,650\n\nTotal Direct Costs | £461,650 | £1,369,650 | £2,225,650 | £3,149,650 | £4,381,650\n\nGross Profit | £228,350 | £1,060,350 | £3,444,350 | £7,380,350 | £12,628,350\n\nTotal Operating Expenses | £250,000 | £500,000 | £1,000,000 | £2,000,000 | £2,000,000\n£550,000 | £1,100,000 | £2,200,000 | £3,800,000 | £4,400,000\nUser Acquisition Expenses | £300,000 | £600,000 | £1,200,000 | £1,800,000 | £2,400,000\n\nNet Profit (Loss) | -£321,650 | -£39,650 | £1,244,350 | £3,580,350 | £8,228,350\n\nWe need £1.5m to make it happen.\n\nTop Pitch Deck",
+      "transcript": "Projections & Our Ask\n\nKEY SUMMARY DATA | Year 1 | Year 2 | Year 3 | Year 4 | Year 5\nNewly Acquired Customers | 20,000 | 40,000 | 80,000 | 120,000 | 160,000\nTotal Number of Customers | 20,000 | 60,000 | 140,000 | 260,000 | 420,000\nPaying Customers | 5,000 | 18,000 | 42,000 | 78,000 | 126,000\nAverage Annual Top-Up | £5,000 | £5,000 | £5,000 | £5,000 | £5,000\n\nGROSS REVENUES: | Year 1 | Year 2 | Year 3 | Year 4 | Year 4\nUse/Non-Use of Card | Year 1 | Year 2 | Year 3 | Year 4 | Year 4\n1. Interchange Revenue | £90,000 | £270,000 | £630,000 | £1,170,000 | £1,890,000\n2. Subscription Revenue | £600,000 | £2,160,000 | £5,040,000 | £9,360,000 | £15,120,000\n\nTotal Revenues | £690,000 | £2,430,000 | £5,670,000 | £10,530,000 | £17,010,000\n\nTransaction Costs: | | | | | \n1. Transaction Costs | £60,000 | £180,000 | £420,000 | £420,000 | £420,000\n2. ATM Costs | £60,000 | £180,000 | £420,000 | £780,000 | £1,260,000\n3. Load Costs | £84,000 | £252,000 | £588,000 | £1,092,000 | £1,764,000\n4. Foreign Exchange Costs | £10,000 | £30,000 | £70,000 | £130,000 | £210,000\n5. Bank out Costs | £240,000 | £720,000 | £720,000 | £720,000 | £720,000\n6. Settlement Costs | £7,650 | £7,650 | £7,650 | £7,650 | £7,650\n\nTotal Direct Costs | £461,650 | £1,369,650 | £2,225,650 | £3,149,650 | £4,381,650\n\nGross Profit | £228,350 | £1,060,350 | £3,444,350 | £7,380,350 | £12,628,350\nTotal Operating Expenses | £250,000 | £500,000 | £1,000,000 | £2,000,000 | £2,000,000\nUser Acquisition Expenses | £550,000 | £1,100,000 | £2,200,000 | £3,800,000 | £4,400,000\nNet Profit (Loss) | -£321,650 | -£39,650 | £1,244,350 | £3,580,350 | £8,228,350\n\n➔ We need £1.5m to make it happen.\n\nTopPitchDeck",
       "section": "Financials",
-      "summary": "This slide presents 5-year financial projections including key customer metrics, gross revenues, direct transaction costs, operating expenses, and net profit or loss. It concludes with a funding ask of £1.5m to execute the plan.",
+      "summary": "This slide presents a five-year financial projection model for a fintech card product, detailing customer acquisition, revenue streams, direct and operating expenses, and net profitability. It outlines a path to profitability by year 3 and includes an explicit capital requirement to support these growth targets.",
       "key_points": [
-        "Total Customers grow from 20,000 in Year 1 to 420,000 in Year 5.",
-        "Total Revenues are projected to increase from £690,000 in Year 1 to £17,010,000 in Year 5.",
-        "Net Profit moves from a loss of -£321,650 in Year 1 to a profit of £8,228,350 in Year 5.",
-        "The company is seeking a funding ask of £1.5m."
+        "Projected growth from 20,000 to 420,000 total customers over five years.",
+        "Forecasts reaching net profitability of £1,244,350 by Year 3.",
+        "Total revenue is expected to scale from £690,000 in Year 1 to £17,010,000 in Year 5.",
+        "Gross profit margins show significant expansion from £228,350 to £12,628,350.",
+        "The company is seeking £1.5m in funding to execute the projected plan."
       ]
     },
     {
       "slide": 12,
       "mode": "vision",
-      "transcript": "Use of funds\n\nBuild a Team (3 developers, designer & marketer)\n\nFund Freemium model to 60,000 MAU's\n\nPrepare model for a big £££ series A round\n\nTopPitchDeck",
+      "transcript": "Use of funds\n\nBuild a Team (3 developers, designer & marketer)\n\nFund Freemium model to 60,000 MAU’s\n\nPrepare model for a big £££ series A round\n\nTopPitchDeck",
       "section": "Funding Ask",
-      "summary": "This slide outlines the startup's use of funds, focusing on team expansion, scaling the freemium model to a specific user milestone, and preparing for a Series A funding round.",
+      "summary": "This slide outlines the strategic allocation of capital to scale the team, grow the user base, and position the startup for a subsequent Series A fundraising event.",
       "key_points": [
-        "Build a team consisting of 3 developers, a designer, and a marketer",
-        "Fund freemium model to 60,000 MAU's",
+        "Hire 3 developers, 1 designer, and 1 marketer",
+        "Fund Freemium model to 60,000 MAU’s",
         "Prepare model for a big £££ series A round"
       ]
     }

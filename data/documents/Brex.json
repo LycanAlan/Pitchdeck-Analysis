@@ -1,0 +1,253 @@
+{
+  "name": "Brex",
+  "slides": [
+    {
+      "slide": 1,
+      "mode": "vision",
+      "transcript": "BREX",
+      "section": "Title",
+      "summary": "This slide serves as the title slide for the company Brex, introducing the brand and setting the context for the pitch presentation.",
+      "key_points": [
+        "Introduces the company name Brex"
+      ]
+    },
+    {
+      "slide": 2,
+      "mode": "vision",
+      "transcript": "BREX\n\nTeam and\nInvestors\n\nTechnology Leadership\n\nHenrique\nDubugras\nCo-founder, CEO\npagar.me\n\nPedro\nFranceschi\nCo-founder, CTO\npagar.me\n\nPeterson\nConway\nHead of Recruiting\nPalantir\nxoom\n\nFinance and Regulatory Leadership\n\nMichael\nTannenbaum\nCFO\nSoFi\nHELLMAN &\nFRIEDMAN\nJPMorgan\n\nVince\nCogan\nGeneral Counsel\nstripe\nSILICON VALLEY BANK\n\nTop Technology and Payments Investors\n\nRibbit Capital | Y Combinator\nPeter Thiel | PayPal Palantir\nMax Levchin | PayPal affirm\nCarl Pascarella | VISA\nJohn Elkann | Ferrari PartnerRe\nMarcel Telles, Beto | ABInBev | Burger King | Kraft Heinz\nSicupira, Lemann\nFoundation",
+      "section": "Team",
+      "summary": "This slide details the founding, executive leadership, and prominent investors backing the company, highlighting backgrounds from notable tech and financial institutions like pagar.me, Palantir, SoFi, Stripe, and PayPal.",
+      "key_points": [
+        "Henrique Dubugras is Co-founder and CEO (previously pagar.me).",
+        "Pedro Franceschi is Co-founder and CTO (previously pagar.me).",
+        "Peterson Conway is Head of Recruiting (previously Palantir, xoom).",
+        "Michael Tannenbaum is CFO (previously SoFi, Hellman & Friedman, JPMorgan).",
+        "Vince Cogan is General Counsel (previously Stripe, Silicon Valley Bank)."
+      ]
+    },
+    {
+      "slide": 3,
+      "mode": "vision",
+      "transcript": "BREX\n\nEntrepreneurs Can’t Get Credit Cards\n\nThank you. We have received your information.\nPending Review\nVeyond Inc\nPlease call us at 1-(800)-221-4950 to be connected directly to a Customer Care Professional who will provide you with a decision.\n\nChase Ink Business Preferred\nThank you for your request.\nWe need to review your request a little longer. We will let you know of our decision by U.S. mail. This could take up to 30 days.\nThank you for choosing Chase Ink Business Preferred.\n\nCapital One\nP.O. Box 30280\nSalt Lake City, UT 84130-0280\nOctober 27, 2017\nFelix Steinmeyer\n28446 Christopher Ln\nLos Altos Hills, CA 94022\nApplication ID: 1000017929783\nCreditor: Capital One Bank (USA), N.A.\nDear Felix Steinmeyer,\nThank you for applying for a credit card issued by Capital One®. Unfortunately, after reviewing your application, we cannot approve your request at this time. Please know that in the process of making this decision, your credit score was not impacted.\nThe reason(s) for our decision are:\n- Business type/activity or owner/affiliate activity does not fit Capital One's current strategic priorities",
+      "section": "Problem",
+      "summary": "This slide highlights the pain point that entrepreneurs struggle to obtain business credit cards. It uses rejection and pending review notices from traditional banks like Chase and Capital One to illustrate the friction founders face.",
+      "key_points": [
+        "Entrepreneurs cannot easily get credit cards.",
+        "Veyond Inc application is pending review requiring a phone call to 1-(800)-221-4950.",
+        "Chase Ink Business Preferred application requires up to 30 days for review by U.S. mail.",
+        "Capital One application for Felix Steinmeyer dated October 27, 2017 (Application ID: 1000017929783) was denied.",
+        "Capital One rejection reason stated the business type/activity or owner/affiliate activity did not fit current strategic priorities."
+      ]
+    },
+    {
+      "slide": 4,
+      "mode": "vision",
+      "transcript": "BREX\n\nCorporate Cards Have No Controls\n\nCredit Card:\nQuick, Efficient, but\nApproval Post Spend\n\nFinance Department Maturity\n\nAccounts Payable:\nLaborious but\nControlled;\nUse Multiple Systems",
+      "section": "Problem",
+      "summary": "This slide establishes the core problem in corporate spending, contrasting the speed and inefficiency of post-spend credit card approvals with the labor-controlled, multi-system burden of accounts payable.",
+      "key_points": [
+        "Corporate cards lack controls and use post-spend approvals despite being quick and efficient",
+        "Accounts payable is laborious but controlled, though it requires multiple systems",
+        "Finance department maturity spans between un-controlled credit cards and controlled accounts payable"
+      ]
+    },
+    {
+      "slide": 5,
+      "mode": "vision",
+      "transcript": "BREX\n\nBanks Use Outdated Technology.\n\nCredit Processor Share Among Surveyed Community Banks\n\nElan 14%\nFIS 29%\nFiserv 14%\nJack Henry 14%\nTSYS 6%\nOther 20%\nVantiv 3%\n\nSource: Nilson Report",
+      "section": "Problem",
+      "summary": "This slide highlights the problem that banks use outdated technology by presenting the credit processor market share among surveyed community banks from the Nilson Report.",
+      "key_points": [
+        "Banks use outdated technology",
+        "Elan holds 14% credit processor share among surveyed community banks",
+        "FIS holds 29% credit processor share",
+        "Fiserv holds 14% credit processor share",
+        "Jack Henry holds 14% credit processor share",
+        "TSYS holds 6% credit processor share",
+        "Other holds 20% credit processor share",
+        "Vantiv holds 3% credit processor share"
+      ]
+    },
+    {
+      "slide": 6,
+      "mode": "vision",
+      "transcript": "BREX\nStarting with a\nCorporate\nCredit Card...\nAddressable Annual\nCard Revenue\nOpportunity\nGlobal B2B Payments\n$101B\nU.S. Fortune 500\n$25.6B\nU.S. Venture-Backed,\nProfessional Services and\nFunds\n$5.2B",
+      "section": "Market",
+      "summary": "This slide outlines the addressable annual card revenue opportunity for Brex, starting with a corporate credit card. It breaks down the potential market size hierarchically from global B2B payments down to targeted U.S. segments.",
+      "key_points": [
+        "Starting with a Corporate Credit Card",
+        "Global B2B Payments market opportunity of $101B",
+        "U.S. Fortune 500 market opportunity of $25.6B",
+        "U.S. Venture-Backed, Professional Services and Funds market opportunity of $5.2B"
+      ]
+    },
+    {
+      "slide": 7,
+      "mode": "vision",
+      "transcript": "BREX\n\nInitial Focus on Technology Companies\n\n1 Underwriting Arbitrage\nCash-rich companies early in their lifecycle, legacy companies won't extend credit\n\n2 Big Spenders\nRelatively high proportion of expenses on card (SaaS, Servers, Ads)\n\n3 Early Adopters\nFocused on high quality technology, integration as well as T&E pain points\n\n4 High growth / LTV\nNegative churn\n\n5 Concentrated\nLarge cities within networked ecosystems",
+      "section": "Market",
+      "summary": "This slide details Brex's initial target market and customer segmentation strategy, focusing specifically on technology companies characterized by high spending on SaaS, servers, and ads, as well as high growth and concentration in networked urban ecosystems.",
+      "key_points": [
+        "Initial focus on technology companies",
+        "Underwriting arbitrage targeting cash-rich early-stage companies denied credit by legacy institutions",
+        "Big spenders with a relatively high proportion of expenses on card (SaaS, Servers, Ads)",
+        "Early adopters focused on high quality technology, integration, and T&E pain points",
+        "High growth and LTV with negative churn in concentrated large cities within networked ecosystems"
+      ]
+    },
+    {
+      "slide": 8,
+      "mode": "vision",
+      "transcript": "BREX\n\nWith Compelling Value Proposition at\nAcquisition\n\nHigher Limits\n\nNo Personal Guarantee or\nSecurity Deposit Required\n\nInstant Signup",
+      "section": "Solution",
+      "summary": "This slide details the compelling value proposition at acquisition offered by Brex, highlighting specific customer benefits designed to attract new users.",
+      "key_points": [
+        "Higher limits",
+        "No personal guarantee required",
+        "No security deposit required",
+        "Instant signup"
+      ]
+    },
+    {
+      "slide": 9,
+      "mode": "vision",
+      "transcript": "BREX\n\nIts Easy to Switch To, and Hard to Switch\nFrom\n\nWe Have Features That Are Retaining Existing\nCustomers As They Scale and Converting\nLarge, Complex Enterprise Organizations\n\nBREX",
+      "section": "Competition",
+      "summary": "This slide highlights the company's competitive advantage in customer retention and enterprise conversion by emphasizing low switching costs to adopt the product and high switching costs to leave it.",
+      "key_points": [
+        "Easy to switch to and hard to switch from",
+        "Features retain existing customers as they scale",
+        "Features convert large, complex enterprise organizations"
+      ]
+    },
+    {
+      "slide": 10,
+      "mode": "vision",
+      "transcript": "BREX\n(1) Better Data\nHUMAN\nLONGEVITY,\nINC.\nMerchant descriptor\nUBER *TRIP AE6A4\nDubugras Rideshare / Taxi\n$8.44\nFEB\n7\nUber\n$7.84\n12:38pm\nH. Dubugras\nRideshare / Taxi\nTRANSACTION DETAILS\nRECEIPTS\nTransaction Type\nOnline\nYou haven't uploaded any receipts.\nMerchant Name\nUber\nUpload Receipt\nWebsite\nhttps://www.uber.com/\nQuickbooks Category\nGround Transportation\nMEMO\nEnter a description...\nSave\nFEB\n6\nHeadway\n$9.00\n7:58pm\nP. Franceschi\nRecurring Software / SaaS",
+      "section": "Product",
+      "summary": "This slide showcases the Brex product interface, highlighting features such as better data, merchant descriptors, transaction details, receipt uploads, website links, QuickBooks categorization, and memo entries.",
+      "key_points": [
+        "Displays merchant descriptor and transaction details for Uber ($8.44 and $7.84 amounts shown)",
+        "Includes receipt upload functionality and website link (https://www.uber.com/)",
+        "Shows QuickBooks category integration for Ground Transportation",
+        "Features memo entry and save options",
+        "Lists additional transaction entries for Headway ($9.00)"
+      ]
+    },
+    {
+      "slide": 11,
+      "mode": "vision",
+      "transcript": "BREX\n\n(2) Better Controls\n\nLendingHome\n\nReject recurring subscriptions without logging in\n\nApproval flow for larger transactions\n\nCard limits by user / merchant / team / category\n\nVirtual cards to manage online transactions and employee turnover",
+      "section": "Product",
+      "summary": "This slide details the product features focused on better financial controls, specifically highlighting capabilities for managing recurring subscriptions, transaction approvals, custom card limits, and virtual cards.",
+      "key_points": [
+        "Reject recurring subscriptions without logging in",
+        "Approval flow for larger transactions",
+        "Card limits by user / merchant / team / category",
+        "Virtual cards to manage online transactions and employee turnover"
+      ]
+    },
+    {
+      "slide": 12,
+      "mode": "vision",
+      "transcript": "BREX\n(3) Receipt Capture\nSoFi\nCapture Receipt\nInstant Match Using OCR / AI visual search\nUploads directly to statement and accounting system\nAutomatic email fetching for online transactions",
+      "section": "Product",
+      "summary": "This slide details the Receipt Capture feature for Brex and SoFi, utilizing OCR and AI visual search to instantly match receipts, upload them to statements and accounting systems, and automatically fetch emails for online transactions.",
+      "key_points": [
+        "Receipt Capture feature for Brex and SoFi",
+        "Instant Match Using OCR / AI visual search",
+        "Uploads directly to statement and accounting system",
+        "Automatic email fetching for online transactions"
+      ]
+    },
+    {
+      "slide": 13,
+      "mode": "vision",
+      "transcript": "BREX\n\n(4) ERP Integrations\n\nBrex, Inc.\nEXPENSES BY VENDOR SUMMARY\nJanuary 2018\n\nTOTAL\nAdobe | 14.99\nAirbnb | 889.89\nAmazon | 1,403.37\nAmazon Web Services | 222.47\nAquitaine | 249.98\nBarcha | 135.63\nBART | 4.00\nBasecamp | 99.00\n\nAffirm\n\nxero\nIntuit quickbooks\nNETSUITE\nExpensify",
+      "section": "Product",
+      "summary": "This slide highlights the product's ERP integration capabilities. It displays a January 2018 expenses by vendor summary alongside logos and names of integration partners such as Affirm, Xero, Intuit QuickBooks, Netsuite, and Expensify.",
+      "key_points": [
+        "Displays an Expenses by Vendor Summary for January 2018 with specific vendor amounts including Adobe at 14.99, Airbnb at 889.89, Amazon at 1,403.37, Amazon Web Services at 222.47, Aquitaine at 249.98, Barcha at 135.63, BART at 4.00, and Basecamp at 99.00",
+        "Lists integration partners and software including Affirm, Xero, Intuit quickbooks, NETSUITE, and Expensify",
+        "Focuses on ERP Integrations"
+      ]
+    },
+    {
+      "slide": 14,
+      "mode": "vision",
+      "transcript": "BREX\n\nEnhancing Retention via\nRewards\n\nOur young customers the money\nthey save with our types of rewards:\nhigh spend areas and tech-specific\n\nSaaS\ndistribution\nand group\npurchasing\n\naws = $500K\nAMEX\npoints",
+      "section": "Solution",
+      "summary": "This slide outlines Brex's strategy for enhancing customer retention through targeted rewards. It highlights high-spend and tech-specific reward categories, including SaaS distribution and group purchasing, along with specific partner value propositions.",
+      "key_points": [
+        "Focuses on enhancing customer retention via rewards",
+        "Targets young customers with savings in high spend areas and tech-specific categories",
+        "Includes SaaS distribution and group purchasing",
+        "Mentions AWS valued at $500K",
+        "References AMEX points"
+      ]
+    },
+    {
+      "slide": 15,
+      "mode": "vision",
+      "transcript": "BREX\n\nGrowing Volume In Referral Only, Private Beta\n\nJun-17 | Jul-17 | Aug-17 | Sep-17 | Oct-17 | Nov-17 | Dec-17 | Jan-18\nCHART: Bar chart showing exponential growth in volume from June 2017 to January 2018, with a dramatic surge in January 2018.",
+      "section": "Traction",
+      "summary": "This slide demonstrates strong early traction through growing transaction volume during a referral-only, private beta phase from June 2017 to January 2018. It highlights an exponential increase in volume, culminating in a dramatic surge in January 2018.",
+      "key_points": [
+        "Growing volume in referral-only, private beta",
+        "Timeline spans from Jun-17 to Jan-18",
+        "Bar chart shows exponential growth in volume",
+        "Dramatic surge in volume occurred in January 2018"
+      ]
+    },
+    {
+      "slide": 16,
+      "mode": "vision",
+      "transcript": "BREX\n\nCustomers Exhibit “Negative Churn”\n\n10% Graduation\n46% Graduation\n61% Graduation\n50% Graduation\n43% Graduation\n\nPre-Seed\n$1.5K Avg Monthly Spend\n\nSeed\n$6.5K Avg Monthly Spend\n\nSeries A\n$50K Avg Monthly Spend\n\nSeries B\n$250K Avg Monthly Spend\n\nSeries C\n$750K Avg Monthly Spend\n\nSeries D\n$1.5M Avg Monthly Spend\n\n100x\nSpend\nMultiplier\n\nSource: CB Insights",
+      "section": "Traction",
+      "summary": "This slide demonstrates strong customer expansion and negative churn by tracking how average monthly spend scales as customers graduate through funding stages from Pre-Seed to Series D, resulting in a 100x spend multiplier overall.",
+      "key_points": [
+        "Customers exhibit 'Negative Churn' with graduation rates of 10%, 46%, 61%, 50%, and 43%.",
+        "Pre-Seed average monthly spend is $1.5K.",
+        "Seed average monthly spend is $6.5K, Series A is $50K, Series B is $250K, Series C is $750K, and Series D is $1.5M.",
+        "Overall spend multiplier is 100x.",
+        "Source is CB Insights."
+      ]
+    },
+    {
+      "slide": 17,
+      "mode": "vision",
+      "transcript": "BREX\n\nHighly Attractive Unit Economics\n\nSeed | Series A | Series B | Series C | Series D\nMonthly Card Spend | $6,500 | $50,000 | $250,000 | $750,000 | $1,500,000\nAnnual Revenue | $1,800 | $14,000 | $70,000 | $210,000 | $425,000\nAnnual Gross Profit | $1,400 | $11,000 | $60,000 | $145,000 | $290,000\nExpected LTV with Churn | $270,000 | $580,000 | $900,000 | $1,300,000 | $1,400,000\nReference Customer | Blockscore | Threads | Human Longevity | Lending Home | SoFi",
+      "section": "Financials",
+      "summary": "This slide outlines Brex's highly attractive unit economics across different funding stages from Seed to Series D. It details metrics including monthly card spend, annual revenue, annual gross profit, and expected LTV with churn alongside reference customers.",
+      "key_points": [
+        "At Seed stage, monthly card spend is $6,500, annual revenue is $1,800, annual gross profit is $1,400, expected LTV with churn is $270,000, and the reference customer is Blockscore.",
+        "At Series A, monthly card spend is $50,000, annual revenue is $14,000, annual gross profit is $11,000, expected LTV with churn is $580,000, and the reference customer is Threads.",
+        "At Series B, monthly card spend is $250,000, annual revenue is $70,000, annual gross profit is $60,000, expected LTV with churn is $900,000, and the reference customer is Human Longevity.",
+        "At Series C, monthly card spend is $750,000, annual revenue is $210,000, annual gross profit is $145,000, expected LTV with churn is $1,300,000, and the reference customer is Lending Home.",
+        "At Series D, monthly card spend is $1,500,000, annual revenue is $425,000, annual gross profit is $290,000, expected LTV with churn is $1,400,000, and the reference customer is SoFi."
+      ]
+    },
+    {
+      "slide": 18,
+      "mode": "vision",
+      "transcript": "BREX\n\nBrex Investment Value Proposition\n\nWe understand payments and are building\na company with the financial and technical\ninfrastructure to build a large enterprise.\n\nBREX",
+      "section": "Other",
+      "summary": "This slide outlines the investment value proposition of the company, emphasizing its expertise in payments and its construction of financial and technical infrastructure aimed at building a large enterprise.",
+      "key_points": [
+        "Understands payments",
+        "Building a company with financial and technical infrastructure",
+        "Aiming to build a large enterprise"
+      ]
+    },
+    {
+      "slide": 19,
+      "mode": "vision",
+      "transcript": "BREX",
+      "section": "Title",
+      "summary": "This is the title slide for Brex, displaying only the company name to introduce the pitch deck.",
+      "key_points": [
+        "Displays the company name BREX"
+      ]
+    }
+  ]
+}

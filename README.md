@@ -25,26 +25,27 @@ All numbers are reproducible with the scripts in [`scripts/`](scripts/). The ret
 
 ### 2. Retrieval ablation
 
-72 human-curated questions with slide-level ground truth, over 8 ingested decks / 197 slides / 286 chunks. Unanswerable questions are excluded from ranking metrics and counted separately.
+72 human-curated questions with slide-level ground truth, over the full corpus: 18 ingested decks / 730 chunks. Unanswerable questions carry no gold slides, so they are excluded from ranking metrics and counted separately (65 scored, 7 skipped).
 
-| retriever | recall@3 | recall@5 | MRR | nDCG@5 | median latency |
-| :--- | ---: | ---: | ---: | ---: | ---: |
-| dense (MiniLM + FAISS) | 0.777 | 0.846 | 0.731 | 0.750 | 14 ms |
-| bm25 | 0.869 | 0.923 | 0.814 | 0.829 | 0.5 ms |
-| hybrid (RRF fusion) | 0.892 | 0.931 | 0.882 | 0.879 | 14 ms |
-| dense + cross-encoder | 0.908 | 0.923 | 0.894 | 0.893 | 754 ms |
-| **hybrid + cross-encoder** | **0.954** | **0.969** | **0.917** | **0.924** | 2023 ms |
+| retriever | recall@3 | recall@5 | MRR | nDCG@5 |
+| :--- | ---: | ---: | ---: | ---: |
+| dense (MiniLM + FAISS) | 0.762 | 0.846 | 0.713 | 0.733 |
+| bm25 | 0.800 | 0.892 | 0.772 | 0.791 |
+| hybrid (RRF fusion) | 0.854 | 0.885 | 0.806 | 0.811 |
+| dense + cross-encoder | 0.923 | 0.946 | 0.901 | 0.906 |
+| **hybrid + cross-encoder** | **0.938** | 0.938 | **0.905** | 0.904 |
 
-Ranking metrics are identical on the PyTorch and ONNX backends (embeddings match
-to float32 precision); latency above is the shipped ONNX stack.
+**Recall@3 rises from 0.762 to 0.938 (+17.6 points, +23.2% relative) and MRR from 0.713 to 0.905 (+26.9%).**
 
-**Recall@3 rises from 0.777 to 0.954 (+17.7 points, +22.8% relative) and MRR from 0.731 to 0.917 (+25.4%).**
+Ranking metrics are identical on the PyTorch and ONNX backends (embeddings match to float32 precision), and identical with and without the re-ranker's input truncation — both verified at a fixed corpus rather than assumed.
 
 Three findings worth stating plainly:
 
-- **BM25 alone beats dense embeddings on this corpus** (recall@3 0.869 vs 0.777). Pitch decks are dense with proper nouns and figures — `₹11.5 Cr`, `VizSort-M`, `$8.9B`, `Q4 2024` — precisely where lexical matching wins and a 384-dim sentence embedding blurs. Fusing the two beats either alone.
-- **The top result is stable as the corpus grows.** Measured first over 5 decks / 212 chunks and then over 8 decks / 286 chunks — a 35% larger haystack against the same 72 questions — `hybrid+rerank` held at recall@3 0.954 and MRR 0.917 while dense-only drifted down. Retrieval quality that survives a corpus change is worth more than a higher number on a fixed one.
-- **Re-ranking costs ~145× the latency for +6 points of recall@3** (14 ms → 2023 ms on the ONNX stack; it was ~38× on torch). That gap also widens as the corpus grows, because the cross-encoder scores a larger candidate pool. Whether the trade is worth it is a product decision — `hybrid` alone is already 0.892 at 14 ms — and the table is what makes it a decision rather than a guess.
+- **BM25 alone beats dense embeddings on this corpus** (recall@3 0.800 vs 0.762). Pitch decks are dense with proper nouns and figures — `₹11.5 Cr`, `VizSort-M`, `$8.9B`, `Q4 2024` — precisely where lexical matching wins and a 384-dim sentence embedding blurs. Fusing the two beats either alone.
+- **The ranking holds as the corpus grows.** The same 72 questions were scored at 5 decks / 212 chunks, then 8 / 286, then 18 / 730 — a 3.4× larger haystack. Absolute recall drifts down as it must, but the ordering of the five strategies never changes and the gap between the best and the dense baseline widens (+22.8% → +23.2%). A ranking that survives a tripling of the corpus is worth more than a higher number on a small one.
+- **Re-ranking is the dominant cost.** It buys +8 points of recall@3 over `hybrid` and roughly +0.10 MRR, for well over an order of magnitude more latency, and it needs ~250 MB of RAM the free-tier deployment does not have. So the deployed service runs `hybrid` and the re-ranked modes are measured but not served — a real decision the table made possible rather than a guess.
+
+Latency is reported separately in section 3; it is machine-dependent and the two harnesses disagree on the cheap modes, so it should not be read as precisely as the ranking metrics.
 
 `python scripts/measure_retrieval.py` — offline.
 
@@ -52,7 +53,11 @@ Three findings worth stating plainly:
 
 | chunks | cold build | warm load | speedup |
 | ---: | ---: | ---: | :--- |
-| 286 | 13.67 s | 0.032 s | **426×** |
+| 730 | 14.09 s | 0.029 s | **494×** |
+
+Query latency, p50 / p95 over the 72 questions: `bm25` 7 / 16 ms, `dense`
+13 / 49 ms, `hybrid` 199 / 271 ms, `hybrid+rerank` 3611 / 7634 ms. The
+re-ranked figures are why the deployed instance serves `hybrid`.
 
 The original implementation rebuilt the FAISS index on every process start and never persisted it. The index is now fingerprinted over the embedding-model id plus every chunk, so it rebuilds when the corpus or the model actually changes and loads from disk otherwise.
 
@@ -183,9 +188,10 @@ that is the right side of the trade here — and `hybrid` without re-ranking is
 - **Ground truth is human-curated.** The 72 questions in `data/eval/eval_set.json` were written by reading the ingested transcripts, with gold slide numbers verified against the corpus. `scripts/build_eval_set.py` generates candidates with an LLM and drops any whose gold slides do not exist, but the shipped set is hand-checked.
 - **The judge is a different, stronger model family than the generator** (`gemini-3.1-pro` vs `gemini-3-flash`) so the system does not grade its own output. When the pro tier is quota-exhausted the client falls back into flash and the run's LLM-usage table records it.
 - **Deduping before scoring.** A slide is indexed as both a transcript chunk and a summary chunk, so a retriever legitimately returns it twice; identifiers are deduped preserving rank order before any metric reads a position, or precision and nDCG would both be inflated.
-- **Corpus caveat.** Sections 2–4 are measured over the 8 decks ingested so far (197 slides, 286 chunks), not all 19. Section 1 covers all 19 because it is a pure property of the PDFs, needing no ingestion. Ingesting the remaining 11 decks needs ~240 further vision calls, which exceeds the free tier's 20-requests-per-model-per-day; `scripts/ingest_corpus.py` is resumable and skips decks already present, so it can be run across several days.
+- **Corpus.** 18 of 19 decks are ingested (730 chunks); section 1 covers all 19 because it is a pure property of the PDFs and needs no ingestion. `scripts/ingest_corpus.py` is resumable and skips decks already present.
+- **Free-tier quota was mostly a self-inflicted wound.** The API returns the same 429 for a per-day limit and a per-minute one. Reading every 429 as terminal made the client discard each model in turn and fail a whole deck in seconds, over a limit that clears in under one. Only per-day exhaustion is terminal now; everything else honours the API's own retryDelay. Decks that had failed four times ingest in ~45 s. The chain also leads with the flash-lite family, which carries a far larger daily allowance than the 20/day full flash models.
 - **A deck that extracts nothing is never saved.** Per-page degradation means one unreadable page does not cost the other fifty, but a deck where *every* page failed is a different event — it raises rather than persisting an empty document, because both `ingest_all` and `--skip-existing` decide what to re-ingest by checking whether the output file exists, and an empty save would make that deck permanently unretryable.
 
 ## Corpus
 
-8 of 19 decks are ingested so far (`data/documents/`, committed so the ablation reproduces offline). 18 public decks from the [`skyforclouds/pitch-deckz`](https://huggingface.co/datasets/skyforclouds/pitch-deckz) dataset (Airbnb, Uber, Dropbox, Facebook, LinkedIn, Coinbase, Square, Shopify, WeWork, Monzo, Revolut, Brex, Front, Mixpanel, Transferwise, Oscar Health, Dwolla, Nium) plus one private deck.
+18 of 19 decks are ingested (`data/documents/`, committed so the ablation reproduces offline). 18 public decks from the [`skyforclouds/pitch-deckz`](https://huggingface.co/datasets/skyforclouds/pitch-deckz) dataset (Airbnb, Uber, Dropbox, Facebook, LinkedIn, Coinbase, Square, Shopify, WeWork, Monzo, Revolut, Brex, Front, Mixpanel, Transferwise, Oscar Health, Dwolla, Nium) plus one private deck.

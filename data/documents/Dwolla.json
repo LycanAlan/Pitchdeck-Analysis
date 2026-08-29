@@ -1,0 +1,238 @@
+{
+  "name": "Dwolla",
+  "slides": [
+    {
+      "slide": 1,
+      "mode": "vision",
+      "transcript": "DWOLLA\nthe best way to move money",
+      "section": "Title",
+      "summary": "This is the title slide for Dwolla, introducing the company with the tagline 'the best way to move money'. It serves as the opening slide of the pitch deck.",
+      "key_points": [
+        "Company name: Dwolla",
+        "Tagline: the best way to move money"
+      ]
+    },
+    {
+      "slide": 2,
+      "mode": "vision",
+      "transcript": "HOW WE SOLVE THE PROBLEM\n\nDwolla allows anything connected to the internet to move money quickly, safely, and at low cost.",
+      "section": "Solution",
+      "summary": "This slide presents the company's core solution, describing a platform that enables any internet-connected device to transfer funds quickly, safely, and at a low cost.",
+      "key_points": [
+        "Allows anything connected to the internet to move money",
+        "Moves money quickly, safely, and at low cost"
+      ]
+    },
+    {
+      "slide": 3,
+      "mode": "vision",
+      "transcript": "GROWING RAPIDLY BECAUSE OF MANY USE\nCASES\n\nIndividuals »\nI use Dwolla to pay my friends\nback for lunch\n\nGovernment »\nOur State uses Dwolla to accept\ntax stamp payments.\n\nSchools »\nOur school district uses Dwolla to\ncollect lunch money from parents.\n\nBusinesses »\nMy business uses Dwolla to\npayout service providers\n\nFinancial Institutions »\nOur Bank uses Dwolla to offer its\n'pay anyone' technology to our\ncustomers.\n\nDevelopers »\nI built Dwolla into my web application.\n\nNon-profits »\nMy church uses Dwolla for tithing.",
+      "section": "Traction",
+      "summary": "This slide demonstrates strong product-market fit and high utilization across diverse customer segments, highlighting multiple use cases from individuals to enterprises and government entities.",
+      "key_points": [
+        "Individuals use Dwolla to pay friends back for lunch",
+        "Government uses Dwolla to accept tax stamp payments",
+        "Schools use Dwolla to collect lunch money from parents",
+        "Businesses use Dwolla to payout service providers",
+        "Financial institutions use Dwolla to offer 'pay anyone' technology to customers"
+      ]
+    },
+    {
+      "slide": 4,
+      "mode": "vision",
+      "transcript": "HOW DID WE GET HERE?\n\nDwolla was started as a direct result of a problem encountered by its founder: the pain of paying $50,000+ a year in credit card fees. In 2008 Ben Milne set out to fix the problem and Dwolla was born.\n\nBen Milne, Founder & CEO\n- Started his first manufacturing company at 18, bootstrapped the company to 1M + in revenue with operations in the US and Asia.\n- Sold the company to concentrate on building the Dwolla network.\n- Leads overall company vision, technology, product strategy and marketing.\n\nCharise Flynn, COO\n- Graduated magna cum laude from Simpson College with degrees in Philosophy and Religion.\n- Started career in real estate development by building and managing over $100MM in real estate assets in less than five years.\n- Built consulting company, c.Results, which focused on working with early stage companies/founders.\n- Joined Dwolla in 2010 and leads operations including legal, finance, business development, human resources, and customer support.",
+      "section": "Team",
+      "summary": "This slide introduces the founding origin story of Dwolla and highlights the executive leadership team, detailing the background and operational experience of Founder & CEO Ben Milne and COO Charise Flynn.",
+      "key_points": [
+        "Founded in 2008 by Ben Milne to solve the problem of high credit card fees.",
+        "Ben Milne started his first manufacturing company at 18, bootstrapped it to $1M+ in revenue, and sold it.",
+        "Charise Flynn built and managed over $100MM in real estate assets and founded consulting company c.Results.",
+        "Charise Flynn joined Dwolla in 2010 to lead operations, legal, finance, business development, HR, and customer support."
+      ]
+    },
+    {
+      "slide": 5,
+      "mode": "vision",
+      "transcript": "How Cards Work\n\nCONSUMER\nCARD IS MAILED\nCHECKOUT\nUNDERWRITING BANK\n\nCONSUMER BANK\nFEE\nCARD NETWORK\nFEE\nPAYMENT GATEWAY\nFEE\nSOFTWARE\n\nMERCHANT PROVIDER\nFEE\nMERCHANT ACQUIRING BANK\nPROMISE MADE TO MERCHANT\nACH BATCH SETTLEMENT\n\n1-7 DAYS\n\n3% LOST\n\nMERCHANT CAN ACCESS FUNDS\nMERCHANT RECEIVES DEPOSIT\nFUNDS AGGREGATED BY MERCHANT PROVIDER\nACH BATCH TO MERCHANT\n\nUnderwriting banks: Citi, Wells Fargo, Bank of America\nCard networks: Visa, MasterCard\nMerchant acquiring banks: Citi, Wells Fargo, Bank of America\nPayment gateways: Stripe, Braintree, PayPal\nMerchant providers: Visa, MasterCard\nACH processors: Federal Reserve Bank, The Clearing House, Wells Fargo, Deutsche Bank",
+      "section": "Solution",
+      "summary": "This slide outlines the mechanics of how cards work, detailing the transaction flow from checkout through various financial intermediaries like underwriting banks, card networks, and payment gateways. It highlights a 3% loss and a 1-7 day timeline for merchants to access funds.",
+      "key_points": [
+        "Involves consumer banks, card networks, payment gateways, software, merchant providers, and merchant acquiring banks.",
+        "Lists underwriting banks as Citi, Wells Fargo, and Bank of America.",
+        "Lists card networks as Visa and MasterCard.",
+        "Mentions that ACH batch settlement takes 1-7 days with 3% lost.",
+        "ACH processors include Federal Reserve Bank, The Clearing House, Wells Fargo, and Deutsche Bank."
+      ]
+    },
+    {
+      "slide": 6,
+      "mode": "vision",
+      "transcript": "THE PROBLEM WITH PAYMENTS\n\nEXPENSIVE (“ASSET-HEAVY”)\n• Merchants shell out ~$40-$50 billion a year to process credit/debit card payments. Does not include hardware, hidden fees, etc.\n• Innovation can only happen on top of the network, which increases cost rather than reducing cost.\n• Legacy payment options such as ACH and check are layered with administrative and operational costs that businesses, individuals, financial institutions and governments have to bear the cost of.\n• Micro-transactions are cost-prohibitive.\nSLOW/ACCESSIBILITY\n• Check and ACH can take 3-15 days to get from senders’ to receivers’ bank account.\n• Dependent on bank holidays, ATM availability",
+      "section": "Problem",
+      "summary": "This slide highlights the pain points of current payment systems, focusing on high costs, asset-heavy structures, and slow transaction speeds. It details how traditional payment methods burden merchants, businesses, and individuals with excessive fees and lengthy settlement times.",
+      "key_points": [
+        "Merchants pay ~$40-$50 billion annually to process credit and debit card payments, excluding hardware and hidden fees.",
+        "Innovation is restricted to the top of the network, increasing rather than reducing costs.",
+        "Legacy options like ACH and check involve heavy administrative, operational, and time costs (taking 3-15 days).",
+        "Micro-transactions are cost-prohibitive under current payment systems.",
+        "Traditional payment methods remain dependent on bank holidays and ATM availability."
+      ]
+    },
+    {
+      "slide": 7,
+      "mode": "vision",
+      "transcript": "THE PROBLEM WITH PAYMENTS\n\nFRAUD HEAVY\n\n• Credit and debit expose 16-digit card numbers, can be copied, photographed, or written down (i.e. “data exhaust”)\n\n• Check and ACH expose info needed to make unauthorized debits to account, no inherent verification or validation protocols embedded in ACH\n\nCLOSED & RIGID\n\n• No inherently open payment network for third-party development, not Web 2.0-compatible\n\n• Fragmented interests across spectrum, no true end-to-end solution in market\n\n• Silo’d transaction combinations (e.g. cards are not p2p friendly, can’t use bank-to-bank networks to buy coffee)\n\nBANK-CENTRIC\n\n• Perpetuates increasingly regulated, endangered revenue streams for banks (see: Durbin Amendment, Bank of America checking fee backlash",
+      "section": "Problem",
+      "summary": "This slide outlines the critical issues with existing payment infrastructures, categorizing them as fraud-heavy, closed and rigid, and bank-centric. It highlights vulnerabilities such as exposed 16-digit card numbers, lack of inherent verification in ACH, and fragmented, siloed networks that lack Web 2.0 compatibility and end-to-end solutions.",
+      "key_points": [
+        "Credit and debit cards expose 16-digit numbers that can be copied or photographed.",
+        "Checks and ACH lack inherent verification protocols, enabling unauthorized debits.",
+        "Existing payment networks are closed, rigid, fragmented, and not Web 2.0-compatible.",
+        "Current transaction combinations are siloed and not friendly to peer-to-peer or everyday use cases like buying coffee.",
+        "The current system is bank-centric, perpetuating regulated and endangered revenue streams."
+      ]
+    },
+    {
+      "slide": 8,
+      "mode": "vision",
+      "transcript": "And more...",
+      "section": "Other",
+      "summary": "This slide serves as an open-ended concluding placeholder for additional miscellaneous points not covered in the primary pitch sections.",
+      "key_points": [
+        "Contains additional unspecified information"
+      ]
+    },
+    {
+      "slide": 9,
+      "mode": "vision",
+      "transcript": "How Dwolla Works\n\nCONSUMER OR MERCHANT\n\nPAYMENT THROUGH SOFTWARE (DWOLLA)\n\nBANK\n\n<1 SECOND\n\nPAYMENT NETWORK (DWOLLA)\n\nREAL-TIME STREAMING SETTLEMENT (FISYNC)\n\nRECEIVE PAYMENT\n\nACCESS FUNDS",
+      "section": "Product",
+      "summary": "This slide outlines the workflow of Dwolla's payment platform. It highlights real-time streaming settlement and fast transaction processing between consumers, merchants, and banks.",
+      "key_points": [
+        "Initiated by a consumer or merchant",
+        "Payment processed through Dwolla software",
+        "Processing time is <1 second",
+        "Utilizes real-time streaming settlement via FiSync",
+        "Ends with receiving payment and accessing funds"
+      ]
+    },
+    {
+      "slide": 10,
+      "mode": "vision",
+      "transcript": "Product demo...",
+      "section": "Product",
+      "summary": "This slide is dedicated to showcasing a product demonstration to illustrate the core offering and functionality.",
+      "key_points": [
+        "Product demo"
+      ]
+    },
+    {
+      "slide": 11,
+      "mode": "vision",
+      "transcript": "End-to-End Solution\n\nMONEY IN\nSENDER\nLOADING MECHANISMS\nFiSync\nInstant LOC\nACH\n\nEXCHANGE MONEY WITHIN OR THROUGH THE DWOLLA NETWORK\nDwolla.com\nOver API\nUser funds are managed and distributed through a network of financial institutions\nFunds securely stored and protected by financial institutions\n\nMONEY OUT\nRECEIVER\nUNLOAD MECHANISMS\nFiSync\nACH\n\nDWOLLA\nFUNDS ARE TRANSFERRED IN REAL TIME\nKeep more of your money",
+      "section": "Solution",
+      "summary": "This slide outlines the company's end-to-end payment and funds transfer solution. It details the workflow involving money in loading mechanisms, Dwolla network integration via API for exchanging money, and money out unload mechanisms.",
+      "key_points": [
+        "Money in loading mechanisms include FiSync, Instant LOC, and ACH.",
+        "Exchanges money within or through the Dwolla network over API.",
+        "User funds are managed, distributed, securely stored, and protected by financial institutions.",
+        "Money out unload mechanisms include FiSync and ACH.",
+        "Funds are transferred in real time through Dwolla to help users keep more of their money."
+      ]
+    },
+    {
+      "slide": 12,
+      "mode": "vision",
+      "transcript": "Under the hood\n\nUnique Technology\n- Consumer (Dwolla branded) Engine.\n- FiSync (Real Time Gross Settlement - white label) Engine.\n- End to End fraud control, Secret Sauce\n- Secret Sauce\n\nPatents/Pending Patents\n-\n- Cool, technical sounding stuff goes here\n-\n-",
+      "section": "Product",
+      "summary": "This slide outlines the company's proprietary technology, detailing consumer and real-time gross settlement white-label engines alongside fraud control mechanisms and placeholder patent information.",
+      "key_points": [
+        "Consumer (Dwolla branded) Engine",
+        "FiSync (Real Time Gross Settlement - white label) Engine",
+        "End to End fraud control, Secret Sauce",
+        "Secret Sauce",
+        "Patents/Pending Patents placeholders including 'Cool, technical sounding stuff goes here'"
+      ]
+    },
+    {
+      "slide": 13,
+      "mode": "vision",
+      "transcript": "THE DWOLLA NETWORK\n\nLOW COST “ASSET-LIGHT”\n• Cuts expensive credit card fees out of the equation by bypassing existing card networks.\n• $.25/transaction fee model is cheaper than credit cards or mailing/ processing check payments.\n• Free micro-transactions (under $10) unlock new profit-making innovations, services, and markets\nFAST/ACCESSIBLE\n• Faster than mailing a check, pre-loaded funds move in real time\n• FiSync Technology is first real-time gross settlement (RTGS) system in US\n• Use with any web-enabled device",
+      "section": "Solution",
+      "summary": "This slide outlines the Dwolla Network value proposition, highlighting its low-cost asset-light payment model that bypasses traditional card networks and its fast, accessible real-time transfer capabilities.",
+      "key_points": [
+        "Cuts expensive credit card fees by bypassing existing card networks",
+        "Uses a $.25/transaction fee model and offers free micro-transactions under $10",
+        "Pre-loaded funds move in real time, outperforming physical checks",
+        "Features FiSync Technology as the first real-time gross settlement (RTGS) system in the US",
+        "Accessible for use with any web-enabled device"
+      ]
+    },
+    {
+      "slide": 14,
+      "mode": "vision",
+      "transcript": "THE DWOLLA NETWORK\n\nSAFER & PRIVACY FOCUSED\n- Guards sensitive financial information, never discloses this data inside transactions or devices.\n- Privacy innovations, like \"Add/Remove Features\" revoke access to third-party applications\n\nOPEN-LOOP & END-TO-END\n- Dwolla API allows distributes network and third-party innovation\n- With FiSync, Dwolla streamlines payments from user bank account-to-user bank account\n- Agnostic to payment type (i.e. p2p, b2b, c2b, b2c, g2b, b2g, etc.) or hardware\n\nBANK-FRIENDLY, CONSUMER-CENTRIC\n- FiSync provides banks and credit unions with dynamic value-added product and services opportunities",
+      "section": "Product",
+      "summary": "This slide outlines the core features and architecture of the Dwolla Network, highlighting its safety, privacy controls, open-loop system, end-to-end capabilities, and bank-friendly integration.",
+      "key_points": [
+        "Guards sensitive financial information by never disclosing it inside transactions or devices",
+        "Offers privacy innovations like 'Add/Remove Features' to revoke access to third-party applications",
+        "Features a Dwolla API that allows a distributed network and third-party innovation",
+        "Streamlines bank-to-bank payments using FiSync and remains agnostic to payment type or hardware",
+        "Provides banks and credit unions with dynamic value-added product and services opportunities via FiSync"
+      ]
+    },
+    {
+      "slide": 15,
+      "mode": "vision",
+      "transcript": "OPPORTUNITY FOR DWOLLA IN US MARKET\n\n• ~$40T exchanged through ACH\n• ~$600T in wire payments\n• ~400 Million direct deposit accounts\n• ~$2T annually exchanged on plastic cards\n• 98% of economic activity is completed via non-cash payments\n\nOPPORTUNITY FOR DWOLLA GLOBALLY\n\n• Incomprehensible number of payment volume, amounts\n• 2.5B+ unbanked\n• 2.4B+ Internet users\n• 1.1B smartphone subscribers",
+      "section": "Market",
+      "summary": "This slide outlines the total addressable market opportunity for Dwolla in both the US and global markets. It details transaction volumes across ACH, wire payments, direct deposit accounts, plastic cards, and non-cash payments domestically, alongside global figures for unbanked populations, internet users, and smartphone subscribers.",
+      "key_points": [
+        "~$40T exchanged through ACH",
+        "~$600T in wire payments",
+        "~400 Million direct deposit accounts",
+        "~$2T annually exchanged on plastic cards",
+        "2.5B+ unbanked globally"
+      ]
+    },
+    {
+      "slide": 16,
+      "mode": "vision",
+      "transcript": "2013 Hiring/Expansion Plan\n\nKey Hires:\n• Product\n• Marketing\n• Business Development\n• Developers\n\n2013 Total team counts:\n• Leadership: 8\n• Tech: 29\n• Community Support: 10\n• Business Development: 8\n• Product/Design: 6\n• Risk/Compliance: 4\n• Marketing: 3\n• Misc: 2\n\nExpansion\n• West Coast office in SF\n\n31 | JAN | FEB | 35 | MAR | APR | 46 | MAY | JUN | 55 | JUL | AUG | 62 | SEP | OCT | 70 | NOV | DEC",
+      "section": "Team",
+      "summary": "This slide outlines the 2013 hiring and expansion plan, detailing key hires, total team counts across various departments, and the opening of a West Coast office in San Francisco. It also provides a month-by-month headcount growth trajectory from January through December.",
+      "key_points": [
+        "Key hires planned for Product, Marketing, Business Development, and Developers.",
+        "2013 total team counts include Leadership: 8, Tech: 29, Community Support: 10, Business Development: 8, Product/Design: 6, Risk/Compliance: 4, Marketing: 3, and Misc: 2.",
+        "Expansion includes opening a West Coast office in SF.",
+        "Headcount growth projection: JAN: 31, MAR: 35, MAY: 46, JUL: 55, SEP: 62, NOV: 70."
+      ]
+    },
+    {
+      "slide": 17,
+      "mode": "vision",
+      "transcript": "References\n\nwww.kpcb.com/file/kpcb-2012-internet-trends-update\nhttp://www.federalreserve.gov/paymentsystems/fedfunds_ann.htm\nhttps://www.nacha.org/sites/default/files/files/ACH_Rules/2013%20Rules%20Ops/\nYear-End%202012.pdf\nhttp://www.un.org/apps/news/story.asp?NewsID=43424&Cr=digital\n+divide&Cr1#.UX_AdCtARy4\nhttp://www.paymentssource.com/statistics/",
+      "section": "Other",
+      "summary": "This slide provides a list of external references and source URLs used to support industry data, trends, and regulatory information cited throughout the pitch deck.",
+      "key_points": [
+        "Lists a reference to www.kpcb.com/file/kpcb-2012-internet-trends-update",
+        "Lists a reference to http://www.federalreserve.gov/paymentsystems/fedfunds_ann.htm",
+        "Lists a reference to NACHA ACH Rules Ops Year-End 2012 PDF",
+        "Lists a reference to a United Nations digital divide news story",
+        "Lists a reference to http://www.paymentssource.com/statistics/"
+      ]
+    },
+    {
+      "slide": 18,
+      "mode": "vision",
+      "transcript": "DWOLLA.COM\nThe best way to move money",
+      "section": "Title",
+      "summary": "This is the title slide for Dwolla, introducing the company website and its core value proposition of providing the best way to move money.",
+      "key_points": [
+        "Company website: DWOLLA.COM",
+        "Core proposition: The best way to move money"
+      ]
+    }
+  ]
+}

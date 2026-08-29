@@ -1,0 +1,214 @@
+{
+  "name": "Monzo",
+  "slides": [
+    {
+      "slide": 1,
+      "mode": "vision",
+      "transcript": "monzo\nInvestment\nOverview",
+      "section": "Other",
+      "summary": "This is a title or divider slide for the Monzo pitch deck, identifying the subsequent section as the investment overview.",
+      "key_points": [
+        "Company: monzo",
+        "Section: Investment Overview"
+      ]
+    },
+    {
+      "slide": 2,
+      "mode": "vision",
+      "transcript": "Monzo want to provide a\nfinancial control centre to\n1 billion people worldwide\n\nMonzo\nMess",
+      "section": "Other",
+      "summary": "This slide serves as an introductory or mission-statement slide, outlining the company's long-term vision to act as a financial control centre for a massive user base.",
+      "key_points": [
+        "Company name: Monzo",
+        "Goal: Provide a financial control centre",
+        "Target audience: 1 billion people worldwide",
+        "Contains term: Mess"
+      ]
+    },
+    {
+      "slide": 3,
+      "mode": "vision",
+      "transcript": "£1,864.25\nLEAD BALANCE\n£4.20\nSPENT TODAY\nTODAY\n[Search Icon]\nJune spending report\nJames Nicholson\nThanks for dinner!\n+11.00\nPret-A-Manger\n4.20\nTUESDAY, 31 JUNE\nTommi's Burger Joint\n19.49\nHalo\n13.45\nTop Up\n+800.00\n[Dashboard Icon] [Spending Icon] [Payments Icon] [Cards Icon] [Account Icon]\n5820 3400\nBETA\nToday, Monzo is a\nbank that’s as smart\nas your phone\n\nImagine opening a full bank account in 30 seconds\nfrom your phone. Or sending money to friends and\nsplitting bills with a single swipe. Imagine push\nnotifications the second you pay for anything, with\nyour balance always up-to-date. Imagine travelling\nabroad and being welcomed by your bank on arrival,\nwith zero foreign exchange fees, rather than always\nhaving your card blocked for fraud. And if you do lose\nyour card, freeze and unfreeze it with a single tap.\nIt’s banking that feels like magic.\n\nMonzo is this bank, complete with a UK banking\nlicence, all core technology built in-house\nand a delightful UX.\n\n3",
+      "section": "Product",
+      "summary": "This slide introduces Monzo's mobile-first banking product, highlighting its core features such as instant push notifications, card management controls, and seamless bill splitting. It emphasizes a user-friendly, tech-forward interface powered by a full UK banking licence and proprietary in-house technology.",
+      "key_points": [
+        "Features include instant balance updates and spending notifications",
+        "Card controls include immediate freeze and unfreeze functionality",
+        "Supports seamless peer-to-peer payments and bill splitting",
+        "Operates under a full UK banking licence with in-house core technology",
+        "Targeting a 30-second mobile account opening process"
+      ]
+    },
+    {
+      "slide": 4,
+      "mode": "vision",
+      "transcript": "More than 120,000\npeople have a funded\nMonzo account\n\nThis has been primarily driven through organic social\nchannels and word-of-mouth referral, at zero cost\nper acquisition.\n\nPR and press coverage has also been very positive.\nIn March 2016, Monzo broke world records by\nraising £1 million in 96 seconds via a crowdfunding\nplatform, generating worldwide news coverage.\n\n140k\n105k\n70k\n25k\n0\n2016\n2017\n120k\n\nCHART: An exponential growth curve showing the number of funded accounts increasing from 0 to 120,000 between 2016 and 2017.\n\n4",
+      "section": "Traction",
+      "summary": "This slide demonstrates strong user acquisition momentum, highlighting 120,000 funded accounts achieved primarily through organic channels and viral word-of-mouth. It underscores high brand visibility and community engagement, evidenced by a record-breaking £1 million crowdfunding raise in 96 seconds.",
+      "key_points": [
+        "120,000 people have a funded Monzo account",
+        "Acquisition driven by organic social and word-of-mouth at zero cost",
+        "Raised £1 million in 96 seconds via crowdfunding in March 2016",
+        "Exponential growth in funded accounts from 0 to 120,000 between 2016 and 2017",
+        "Positive PR and worldwide news coverage"
+      ]
+    },
+    {
+      "slide": 5,
+      "mode": "vision",
+      "transcript": "Customer metrics are very encouraging\n\n120,000\nCards distributed with over £100,000,000 spent collectively by users\n\n4.3\nStars on the App Store\n\n60%\nOf cards being used actively (at least once per week)\n\n£370\nAverage spend per active card per month\n\n324\nTransactions a year by active users (compared to UK average of 115)¹\n\n1 The UK Cards Association 5",
+      "section": "Traction",
+      "summary": "This slide highlights strong customer engagement and usage metrics for the company's card product. It demonstrates high transaction frequency and monthly spend levels that significantly outperform industry averages.",
+      "key_points": [
+        "120,000 cards distributed with over £100,000,000 spent",
+        "4.3 star App Store rating",
+        "60% active usage rate (at least once per week)",
+        "£370 average monthly spend per active card",
+        "324 transactions per year by active users versus the 115 UK average"
+      ]
+    },
+    {
+      "slide": 6,
+      "mode": "vision",
+      "transcript": "In the future, Monzo wants\nto be the marketplace bank\nfor everyone in the world\n\nExtra money sitting in your account? We want to help you\nmove it into savings accounts, P2P lenders or investment\nfunds, all in a single tap. Running short on cash? We'll let\nyou know before you go overdrawn, and give you a range of\nstraightforward borrowing options.\n\nSince we've already taken you through bank-grade KYC\nand AML checks, we'll be able to let you open accounts with\nother financial services providers in seconds, avoiding\nlong-winded signup processes. Thanks to open APIs, you'll\nbe able to manage those providers from within the Monzo\napp, giving you complete financial control from a single\nplace.\n\nRather than building a balance sheet, we want to create a\npowerful financial control centre for your money.\n\nThe future of personal finance is marketplace banking.\n\nFunding Circle\nRateSetter\nTransferWise\nHSBC\nzopa\nSplittable\nvenmo\nExpensify\ncurrency cloud\n\nQuidco\nTOPCASHBACK\nns&i\n[CLUB CARD symbol]\nMoney Dashboard\nMoney\nSuper\nMarket\nTESCO Bank\nnectar\ncomparethe\nmarket.com\n\nExamples of possible integrations 6",
+      "section": "Product",
+      "summary": "This slide outlines Monzo’s long-term product vision to act as a marketplace bank and central financial control hub. It emphasizes the integration of third-party financial services, leveraging existing KYC/AML data to enable seamless, one-tap account opening and management.",
+      "key_points": [
+        "Monzo intends to be a marketplace bank that connects users with savings, P2P lending, and investment products.",
+        "The platform aims to facilitate one-tap signups for third-party services using pre-verified bank-grade KYC and AML data.",
+        "The value proposition focuses on financial management rather than balance sheet expansion.",
+        "Management aims to leverage open APIs to centralize control of diverse financial providers within the Monzo app.",
+        "Lists 18 examples of potential integrations including Funding Circle, TransferWise, HSBC, and Tesco Bank."
+      ]
+    },
+    {
+      "slide": 7,
+      "mode": "vision",
+      "transcript": "The team has the right blend of product, tech, and banking skills.\n\nTom Blomfield\nChief Executive Officer\nTom was previously co-founder of GoCardless, the payment processor. He was named one of the Top 5 Entrepreneurs in Europe by the European Commission in 2013.\n\nPaul Rippon\nDeputy CEO & Co-Founder\nPaul has 23 years of retail banking experience, looking after millions of customers at Lloyds, AIB and Natwest. He lectures in Banking Practice at the ifs.\n\nGary Dolman\nCFO & Co-Founder\nGary was previously the CFO of ABN AMRO Transaction Banking overseeing a turnover of $5bn. He is a qualified chartered accountant.\n\nJonas Huckestein\nCTO & Co-Founder\nJonas graduated from university at the age of 18, and has founded several Silicon Valley-based startups. He's a Y Combinator alumnus.\n\nPatrick Masserano\nChief Operating Officer\nPatrick has 20 years of experience in retail banking operations, previously holding the role of Retail Operations Director at Lloyds Banking Group.\n\nOle Mahrt\nHead of Product\nOle was previously Product Manager at Skype, where he launched the video calling product globally. He has also held positions at Lulu and CitySocialising.\n\nIan Wilson\nChief Risk Officer\nIan is a career risk management professional with 35 years of experience. Most recently Ian was CRO of Charter Savings Bank.\n\nBaroness Denise Kingsmill\nChairman of the Board\nDenise was previously the deputy chair of the Competition Commission enquiry into Banking and Senior Advisor to RBS.\n\nTim Brooke\nNon-Executive Director\nTim has held senior business leadership roles at JPMorgan Chase & Co and PwC and now continues his corporate contribution as a NED for a diverse range of large companies.\n\nEileen Burbidge\nInvestor Director\nEileen is a partner at Passion Capital and Fintech Envoy for HM Treasury. She has held product roles at Yahoo!, Skype, and Apple.\n\n7",
+      "section": "Team",
+      "summary": "This slide details the founding team and executive leadership, highlighting a balance of deep retail banking domain expertise and high-growth Silicon Valley product experience. It establishes management credibility by referencing senior roles at institutions like Lloyds, ABN AMRO, and Skype.",
+      "key_points": [
+        "Founding team features experience from GoCardless, ABN AMRO, and Lloyds Banking Group.",
+        "Technical and product leadership includes Y Combinator alumni and former Skype product managers.",
+        "Risk and operations management supported by professionals with 20 to 35 years of industry experience.",
+        "Board includes a Baroness and representatives from Passion Capital and JPMorgan Chase & Co.",
+        "Leadership team includes qualified chartered accountants and former banking directors."
+      ]
+    },
+    {
+      "slide": 8,
+      "mode": "vision",
+      "transcript": "Viral growth\nmechanics can\nget us to the\nfirst million\ncustomers\n\nWaiting list\nInvites from Monzo users\nGolden tickets to skip waiting list\nSend and request money\n\nXXXX XXXX XXX 1007\nPAN SEQ NO. : 00\nICC\nSALE\nGBP29.45\nTOTAL\nGBP29.45\n\nPLEASE DEBIT M' ACCOUNT\nPIN VERIFIED\nTHIS RECEIPT FOR YOUR\n\nmonzo\n5354 2000 0000 0000\n09/19\n569-650-798\n\nShare Cost\n£29.45\nTommi's Burger\nJoint\nNatasha Price | 9.82\nJames Nicholson | 9.82\nLuba Chudnovets | 9.81\nAdd someone\nSplit the bill using Monzo",
+      "section": "Product",
+      "summary": "This slide outlines the viral growth mechanics and core social payment features of the product, specifically highlighting bill splitting and user-led acquisition strategies. It showcases the user experience of both physical card transactions and peer-to-peer financial interaction.",
+      "key_points": [
+        "Viral mechanics include a waiting list, user invites, and 'golden tickets' for priority access",
+        "Product features enable sending, requesting, and splitting money",
+        "Receipt shows a transaction of GBP29.45",
+        "Card details include sequence number 00, expiry 09/19, and partial card number 5354 2000 0000 0000",
+        "Bill split example at Tommi's Burger Joint totals £29.45 divided between three individuals"
+      ]
+    },
+    {
+      "slide": 9,
+      "mode": "vision",
+      "transcript": "ndy\n[unreadable]\nMOJO\nMOJO\n[unreadable]\nmoolah\nLA\nMyBank\nMUNID\n\nMonzo Community\nWe're building a bank with the help of\na remarkably engaged community.\nThousands of people inspired by our vision\nof a 21st century bank are following our story,\nand helping us with feedback and ideas. This\ncommunity is key to our success to date,\nensuring our users feel a genuine sense\nof ownership over the product they\nare evangelising.\n\n26.9k\nTwitter Followers\n\n28.7k\nDiscussion forum posts\n\n96 seconds\n£1m raised through crowdfunding\n\n12k\nCrowdsourced name change suggestions\n\n9",
+      "section": "Traction",
+      "summary": "This slide highlights the strength and engagement of the Monzo community as a core strategic asset. It demonstrates user loyalty and active participation through social metrics, crowdsourced feedback, and successful crowdfunding milestones.",
+      "key_points": [
+        "26.9k Twitter Followers",
+        "28.7k Discussion forum posts",
+        "96 seconds to raise £1m through crowdfunding",
+        "12k Crowdsourced name change suggestions"
+      ]
+    },
+    {
+      "slide": 10,
+      "mode": "vision",
+      "transcript": "Machine learning and product improvements\nhelp us operate at scale\n\nFraud\n\nFrom a peak of £40,000 per week,\nfraud losses have been reduced by\nmore than 95%, helped by machine\nlearning models based on Google’s\nTensorFlow library. We’ve recently\nstarted feeding in geolocation data,\nwhich should further reduce card fraud.\n\nCredit Scoring\n\nEvery Monzo customer interaction is stored\nin our data warehouse, hosted with Google\nBigQuery. Combined with social network\nprofiles and data from the Credit Reference\nAgencies, we will build sophisticated credit\nscoring models to broaden access to credit\nand reduce bad debt.\nCHART: An icon of a speedometer is shown, indicating a measurement or performance metric.\n\nCustomer Support\n\nI’ve forgotten my pin\nHow can I reset it?\n\nHi Jullani! No worries, A new\npin will be with you shortly\n\nWe currently field about 5,000 queries per\nweek, 99% of which come via in-app text\nchat. In early trials, our AI has been able\nto identify 80% of questions correctly.\nIn future, a hybrid AI model will be able\nto suggest responses to most questions\nwithout human intervention.\n\n10",
+      "section": "Product",
+      "summary": "This slide outlines the company's utilization of machine learning and data analytics to drive operational efficiency and scalability. It highlights strategic improvements in fraud detection, credit scoring methodologies, and the automation of customer support workflows.",
+      "key_points": [
+        "Fraud losses reduced by more than 95% from a peak of £40,000 per week using TensorFlow-based models.",
+        "Credit scoring models incorporate data warehouse logs, social network profiles, and Credit Reference Agencies to reduce bad debt.",
+        "Customer support handles 5,000 queries per week with 99% volume via in-app text chat.",
+        "AI trials identify 80% of customer queries correctly, with plans for a hybrid model to automate responses."
+      ]
+    },
+    {
+      "slide": 11,
+      "mode": "vision",
+      "transcript": "We’ve built 95% of our\nbank software in-house\n\nAs well as a market-leading mobile application, we’ve built our\nreal time core banking systems from scratch.\n\nThe backend systems are primarily composed of Go microservices\ncommunicating over Kafka, using Cassandra as the primary data\nstore.\n\nUnlike other challenger banks, we own the full technology stack,\ngiving us the flexibility to react to changes in customer behaviour\nand demands. Rolling out new functionality is a matter of hours\nand days, rather than weeks and months.\n\nThis technology is highly extensible, allowing us to operate in\nmultiple currencies, connect to multiple global payment networks,\nand introduce new financial products easily. Running across three\nAWS availability zones, cloud hosting gives us the ability to scale\nquickly with demand.\n\n11",
+      "section": "Product",
+      "summary": "This slide details the company's proprietary technology stack, emphasizing that 95% of their core banking software was built in-house using Go microservices, Kafka, and Cassandra. The firm claims this full-stack ownership provides a significant competitive advantage in agility, scalability, and the rapid deployment of new features.",
+      "key_points": [
+        "95% of bank software built in-house",
+        "Tech stack utilizes Go microservices, Kafka, and Cassandra",
+        "Infrastructure hosted across three AWS availability zones",
+        "Full ownership enables rapid product deployment in hours and days",
+        "System is architected for multi-currency and multi-network extensibility"
+      ]
+    },
+    {
+      "slide": 12,
+      "mode": "vision",
+      "transcript": "LICENCE WITH\nRESTRICTIONS\n£50K MAX\nDEPOSIT\n\nWE ARE\nHERE\n\nPRE APPLICATION | APPLICATION | MOBILISATION | LAUNCH\n\nFEB MAR APR MAY JUN JUL AUG SEP NOV DEC JAN FEB MAR APR MAY JUN JUL AUG SEP NOV DEC JAN FEB MAR APR MAY JUN JUL\n2015 2016 2017\n\nWe received a UK banking licence in August 2016!\n\nA UK banking licence is authorised by the PRA and\nregulated by the PRA and FCA¹, allowing deposit-\ntaking and balance sheet lending. Once granted,\nit allows firms to passport across Europe, accessing\n500 million consumers.\n\nChanges in the authorisation regime in March\n2013² introduced a new two-stage process, under\nwhich a firm is first granted a banking licence with\nrestrictions.\n\nThis is followed by a \"mobilisation\" phase during\nwhich final capital is raised and IT systems are\ncompleted, before launching to the public.\n\nMonzo was granted a licence with restrictions\nin August 2016 and is planning to launch current\naccounts in the first half of 2017.\n\n1 Prudential Regulation Authority, Financial Conduct Authority\n2 http://www.bankofengland.co.uk/publications/Documents/joint/barriers.pdf\n\n12",
+      "section": "Traction",
+      "summary": "This slide highlights the company's regulatory achievement of obtaining a restricted UK banking licence from the PRA and FCA in August 2016. It outlines the strategic roadmap through the authorisation and mobilisation phases, confirming the timeline for the upcoming launch of current accounts.",
+      "key_points": [
+        "Received a UK banking licence with restrictions in August 2016",
+        "Restricted licence includes £50K max deposit limit",
+        "Following the mobilisation phase, current account launch is planned for the first half of 2017",
+        "Banking licence allows for deposit-taking, balance sheet lending, and European passporting",
+        "Authorisation follows a two-stage process established in March 2013"
+      ]
+    },
+    {
+      "slide": 13,
+      "mode": "vision",
+      "transcript": "How will Monzo make money?\n\nIn the short and medium-term, Monzo will make money by lending out deposits, without hidden fees or charges\n\nLong-term, profit sharing and affiliate fees on third-party products will be the main source of revenue\n\n13",
+      "section": "Business Model",
+      "summary": "This slide outlines Monzo's revenue strategy, detailing a transition from interest income on deposits in the short and medium-term to a model focused on profit sharing and affiliate fees in the long-term.",
+      "key_points": [
+        "Short/medium-term revenue via lending out deposits",
+        "Commitment to no hidden fees or charges",
+        "Long-term revenue via profit sharing",
+        "Long-term revenue via affiliate fees on third-party products"
+      ]
+    },
+    {
+      "slide": 14,
+      "mode": "vision",
+      "transcript": "",
+      "section": "",
+      "summary": "",
+      "key_points": []
+    },
+    {
+      "slide": 15,
+      "mode": "vision",
+      "transcript": "Want more VC/investment startup pitch decks?\nWe’ve centralised ALL successful investor pitch decks at:\nwww.chagency.co.uk/getstartupfunding\n\nThis has been made by\nchagency\n\nA design agency that helps SaaS CEOs reduce user churn.\nWe write daily on this topic here: www.chagency.co.uk/blog\n\ntwitter.com/chddaniel\nlinkedin.com/in/chddaniel\nchdaniel.com/youtube\nMore: Chdaniel.com",
+      "section": "Other",
+      "summary": "This slide serves as an outbound marketing and lead generation page for a design agency. It provides links to external resources, including a pitch deck repository and a corporate blog, while promoting the agency's services for SaaS user churn reduction.",
+      "key_points": [
+        "Promotes a centralised repository of successful investor pitch decks",
+        "Advertises chagency as a design agency specializing in SaaS user churn reduction",
+        "Provides links to the company blog, Twitter, LinkedIn, and YouTube channels",
+        "Offers additional resources at www.chagency.co.uk/getstartupfunding and chdaniel.com"
+      ]
+    },
+    {
+      "slide": 16,
+      "mode": "vision",
+      "transcript": "Want more VC/investment startup pitch decks?\nWe’ve centralised ALL successful investor pitch decks at:\nwww.chagency.co.uk/getstartupfunding\n\nThis has been made by\nchagency\n\nA design agency that helps SaaS CEOs reduce user churn.\nWe write daily on this topic here: www.chagency.co.uk/blog\n\ntwitter.com/chddaniel\nlinkedin.com/in/chddaniel\nchdaniel.com/youtube\nMore: Chdaniel.com",
+      "section": "Other",
+      "summary": "This is a marketing or call-to-action slide designed to promote the services and content channels of the agency that created the pitch deck template. It serves as a lead generation tool for the agency's SaaS design services and pitch deck resources.",
+      "key_points": [
+        "Promotes a repository of successful investor pitch decks",
+        "Identifies chagency as a design agency specializing in SaaS user churn reduction",
+        "Provides links to the company blog and social media channels",
+        "Includes personal branding links for chddaniel"
+      ]
+    }
+  ]
+}

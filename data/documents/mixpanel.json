@@ -4,12 +4,12 @@
     {
       "slide": 1,
       "mode": "vision",
-      "transcript": "mixpanel\n\nTopPitchDeck",
+      "transcript": "mixpanel\nTopPitchDeck",
       "section": "Title",
-      "summary": "This is the opening title slide for Mixpanel, introducing the company name at the start of the pitch deck.",
+      "summary": "This is the title slide of the pitch deck, featuring the company name mixpanel and a TopPitchDeck watermark.",
       "key_points": [
-        "mixpanel",
-        "TopPitchDeck"
+        "Company name: mixpanel",
+        "Source attribution: TopPitchDeck"
       ]
     },
     {
@@ -17,135 +17,133 @@
       "mode": "vision",
       "transcript": "PROBLEM 1\n\nMost of the world will make\ndecisions by either guessing or\nusing their gut. They will be either\nlucky or wrong.\n\nTopPitchDeck",
       "section": "Problem",
-      "summary": "The slide identifies a widespread lack of data-driven decision-making across the global market. It claims that reliance on intuition or guesswork leads to outcomes that are either based on luck or are fundamentally incorrect.",
+      "summary": "This slide frames the core problem as decision-making based on guessing or gut feeling, leading to outcomes that are either lucky or wrong for most of the world.",
       "key_points": [
         "Most of the world makes decisions by guessing or using their gut",
-        "Decision-makers are either lucky or wrong when not using data"
+        "Outcomes of current decision-making methods are either lucky or wrong"
       ]
     },
     {
       "slide": 3,
       "mode": "vision",
-      "transcript": "PROBLEM 2\n\nCompanies on mobile & web are measuring bullshit metrics like page views and installs. It’s really hard to be really sophisticated.\n\nTopPitchDeck",
+      "transcript": "PROBLEM 2\nCompanies on mobile & web are\nmeasuring bullshit metrics like\npage views and installs. It's really\nhard to be really sophisticated.\nTopPitchDeck",
       "section": "Problem",
-      "summary": "Mobile and web companies are currently relying on vanity metrics such as page views and installs rather than actionable data. There is a significant technical barrier making it difficult for these companies to achieve sophisticated measurement and analytics.",
+      "summary": "This slide identifies the problem that companies on mobile and web are measuring vanity or superficial metrics like page views and installs, making sophisticated measurement difficult.",
       "key_points": [
-        "Companies on mobile & web are measuring metrics like page views and installs.",
-        "Current measurement standards are described as 'bullshit metrics'.",
-        "It is stated as being 'really hard to be really sophisticated' in measurement."
+        "Companies on mobile and web measure metrics like page views and installs",
+        "Metrics are described as bullshit metrics",
+        "It is really hard to be really sophisticated"
       ]
     },
     {
       "slide": 4,
       "mode": "vision",
-      "transcript": "SOLUTION\n\nMixpanel has built analytics software for product and marketing. As we continue to penetrate organizations, we will build software for sales and finance next.\n\nTopPitchDeck",
+      "transcript": "SOLUTION\n\nMixpanel has built analytics software\nfor product and marketing. As we\ncontinue to penetrate organizations,\nwe will build software for sales and\nfinance next.\n\nTopPitchDeck",
       "section": "Solution",
-      "summary": "Mixpanel provides analytics software for product and marketing teams with a roadmap to expand into sales and finance departments. The company seeks to increase organizational penetration by broadening its cross-functional software offerings.",
+      "summary": "This slide outlines the company's product solution, highlighting its existing analytics software for product and marketing alongside a strategic roadmap to expand into software for sales and finance.",
       "key_points": [
-        "Built analytics software for product and marketing",
-        "Plan to build software for sales",
-        "Plan to build software for finance",
-        "Strategy focused on continued organizational penetration"
+        "Mixpanel has built analytics software for product and marketing",
+        "The company plans to continue penetrating organizations",
+        "Future software development will target sales and finance next"
       ]
     },
     {
       "slide": 5,
       "mode": "vision",
-      "transcript": "MISSION\n\nHelp the world learn from its data.\n\nTopPitchDeck",
+      "transcript": "MISSION\nHelp the world learn from its data.\nTopPitchDeck",
       "section": "Other",
-      "summary": "The slide presents the company's overarching mission statement, which is to help the world learn from its data.",
+      "summary": "This slide presents the company's overarching mission statement, declaring the goal to help the world learn from its data.",
       "key_points": [
-        "Mission is to help the world learn from its data"
+        "Mission: Help the world learn from its data."
       ]
     },
     {
       "slide": 6,
       "mode": "vision",
-      "transcript": "COMPETITIVE ADVANTAGE\nIn 2010, we built the most\nsophisticated analytics database\nengine to answer questions that\nexisting technology could not\nanswer. It's the reason we are\nwinning.\nTopPitchDeck",
+      "transcript": "COMPETITIVE ADVANTAGE\n\nIn 2010, we built the most\nsophisticated analytics database\nengine to answer questions that\nexisting technology could not\nanswer. It's the reason we are\nwinning.\n\nTopPitchDeck",
       "section": "Competition",
-      "summary": "The company highlights its proprietary analytics database engine, developed in 2010, as its primary competitive advantage. This technology solves complex query problems that legacy solutions cannot address, driving their market success.",
+      "summary": "This slide highlights the company's competitive advantage, claiming they built the most sophisticated analytics database engine in 2010 to solve previously unanswerable questions and drive their market wins.",
       "key_points": [
         "Built the most sophisticated analytics database engine in 2010",
-        "Designed to answer questions existing technology could not answer",
-        "Core proprietary engine is cited as the primary competitive advantage"
+        "Engine designed to answer questions existing technology could not",
+        "Serves as the reason the company is winning"
       ]
     },
     {
       "slide": 7,
       "mode": "vision",
-      "transcript": "MONTHLY RECURRING REVENUE OVER TIME\n\n$0\n9/1/12\n10/1/12\n11/1/12\n12/1/12\n1/1/13\n2/1/13\n3/1/13\n4/1/13\n5/1/13\n6/1/13\n7/1/13\n8/1/13\n9/1/13\n10/1/13\n11/1/13\n12/1/13\n1/1/14\n2/1/14\n3/1/14\n4/1/14\n5/1/14\n6/1/14\n7/1/14\n8/1/14\n9/1/14\nCHART: Line graph showing monthly recurring revenue steadily increasing from September 2012 to September 2014.\n\nSept, 2011 to 2012 growth rate: 405%\nSept, 2012 to 2013 growth rate: [unreadable]%\nSept, 2013 to 2014 growth rate: [unreadable]%\n\nTopPitchDeck",
+      "transcript": "MONTHLY RECURRING REVENUE OVER TIME\n$0\n9/1/12\n10/1/12\n11/1/12\n12/1/12\n1/1/13\n2/1/13\n3/1/13\n4/1/13\n5/1/13\n6/1/13\n7/1/13\n8/1/13\n9/1/13\n10/1/13\n11/1/13\n12/1/13\n1/1/14\n2/1/14\n3/1/14\n4/1/14\n5/1/14\n6/1/14\n7/1/14\n8/1/14\n9/1/14\nCHART: Line graph showing monthly recurring revenue increasing steadily over time from September 2012 to September 2014, accompanied by large vertical and horizontal black rectangular overlays above the chart.\nSept, 2011 to 2012 growth rate: 405%\nSept, 2012 to 2013 growth rate: [unreadable] %\nSept, 2013 to 2014 growth rate: [unreadable] %\nTop Pitch Deck",
       "section": "Traction",
-      "summary": "This slide displays the startup's traction through a line graph of monthly recurring revenue (MRR) over a two-year period. It demonstrates a steady increase in revenue from September 2012 to September 2014 and highlights a 405% growth rate in its early stages.",
+      "summary": "This slide presents the company's monthly recurring revenue over time from September 2012 to September 2014 using a line graph. It highlights historical growth rates, including a 405% growth rate from September 2011 to 2012.",
       "key_points": [
-        "Line graph showing monthly recurring revenue steadily increasing from September 2012 to September 2014.",
+        "Tracks monthly recurring revenue over time from 9/1/12 to 9/1/14",
         "Sept, 2011 to 2012 growth rate: 405%",
-        "Sept, 2012 to 2013 growth rate: [unreadable]%",
-        "Sept, 2013 to 2014 growth rate: [unreadable]%",
-        "The chart begins with a $0 baseline on 9/1/12."
+        "Sept, 2012 to 2013 growth rate: [unreadable] %",
+        "Sept, 2013 to 2014 growth rate: [unreadable] %"
       ]
     },
     {
       "slide": 8,
       "mode": "vision",
-      "transcript": "Sales KPIs\n\n2015 target: [unreadable]% YoY growth - [unreadable]M (conservative), 63 sales reps\n\nAvg revenue per customer: $[unreadable]/mo; we have a wide distribution\n\nLeads per month: [unreadable]; 26% of new customers are touched by sales\n\nNew customers per month: [unreadable]; 4x spend in 5 months, [unreadable]x in 12 months\n\nAvg monthly revenue churn rate: [unreadable]%, [unreadable]% in Sept.\n\nStarted 2014 with 5 quota carrying sales reps, will end with 33\n\nSales payback rate is around 6 months; we will get this down in 2015\n\nTopPitchDeck",
+      "transcript": "Sales KPIs\n\n2015 target: [unreadable] % YoY growth - [unreadable] M (conservative), 63 sales reps\n\nAvg revenue per customer: $[unreadable] /mo; we have a wide distribution\n\nLeads per month: [unreadable]; 26% of new customers are touched by sales\n\nNew customers per month: [unreadable]; 4x spend in 5 months, [unreadable] x in 12 months\n\nAvg monthly revenue churn rate: [unreadable] %, [unreadable] % in Sept.\n\nStarted 2014 with 5 quota carrying sales reps, will end with 33\n\nSales payback rate is around 6 months; we will get this down in 2015\n\nTop Pitch Deck",
       "section": "Traction",
-      "summary": "This slide outlines core sales performance indicators including growth targets, team expansion, and unit economics such as churn and payback period. It highlights significant customer expansion revenue and the efficiency of the sales-led acquisition model.",
+      "summary": "This slide outlines key sales performance indicators and targets, detailing growth metrics, customer acquisition, revenue per customer, churn rates, and sales team scaling.",
       "key_points": [
-        "The sales team grew from 5 quota carrying reps at the start of 2014 to 33 by year-end",
-        "Sales payback rate is around 6 months, with a goal to reduce this in 2015",
-        "New customers demonstrate 4x spend in 5 months and [unreadable]x in 12 months",
-        "2015 targets include [unreadable]% YoY growth and an expansion to 63 sales reps",
-        "Key metrics include [unreadable] leads per month with 26% of new customers touched by sales"
+        "2015 target: [unreadable] % YoY growth - [unreadable] M (conservative), 63 sales reps",
+        "Avg revenue per customer: $[unreadable] /mo; wide distribution",
+        "Leads per month: [unreadable]; 26% of new customers are touched by sales",
+        "New customers per month: [unreadable]; 4x spend in 5 months, [unreadable] x in 12 months",
+        "Avg monthly revenue churn rate: [unreadable] %, [unreadable] % in Sept"
       ]
     },
     {
       "slide": 9,
       "mode": "vision",
-      "transcript": "Marketing\n\n[unreadable] leads - most are organically acquired\n\n[unreadable]% of customers that sign up will integrate\n\n[unreadable]% will become paid customers\n\nOur best marketing programs are freemium usage, world-class customer support, PR, and education\n\nAugust snapshot:\nGeneral: $36K\nPR: $5K\nAdvertising: $42K\nTotal: $83K\n\nTopPitchDeck",
+      "transcript": "Marketing\n\n[unreadable] leads - most are organically acquired\n\n[unreadable] % of customers that sign up will integrate\n\n[unreadable] % will become paid customers\n\nOur best marketing programs are freemium usage, world-class customer support, PR, and education\n\nAugust snapshot:\nGeneral: $36K\nPR: $5K\nAdvertising: $42K\nTotal: $83K\n\nTopPitchDeck",
       "section": "Traction",
-      "summary": "This slide outlines the startup's marketing channels, conversion funnel metrics, and a monthly expense snapshot for August. It highlights organic lead acquisition, customer integration, and paid conversion rates alongside marketing spend.",
+      "summary": "This slide outlines the startup's marketing strategy and customer acquisition funnel, highlighting organic lead generation, product integration, and conversion to paid users. It also provides an August marketing expense snapshot detailing general, PR, and advertising spend.",
       "key_points": [
-        "Most leads are organically acquired",
-        "Best marketing programs include freemium usage, world-class customer support, PR, and education",
-        "August marketing snapshot: General $36K, PR $5K, Advertising $42K, Total $83K"
+        "Most leads are organically acquired.",
+        "Best marketing programs include freemium usage, customer support, PR, and education.",
+        "August snapshot total marketing spend is $83K, consisting of $36K General, $5K PR, and $42K Advertising."
       ]
     },
     {
       "slide": 10,
       "mode": "vision",
-      "transcript": "2015/2016 expansion plan\n\n3x sales headcount and rapidly race towards distribution\n\nImprove churn rates by expanding the CSM team by [unreadable]x - reduce churn\nunder [unreadable]% per month\n\nReduce sales ramp time by 30-50% via sales enablement\n\nBuild out leadership team: CFO, HR, CMO\n\nExpand customer facing teams like support, sales eng, etc. to\naccommodate new customers\n\nDouble headcount every 6-9 months\n\nDouble down on marketing to widen our lead flow to lower cost per\nacq. long-term\n\nExpand into NY in 2015, international in 2016\n\nTopPitchDeck",
+      "transcript": "2015/2016 expansion plan\n\n3x sales headcount and rapidly race towards distribution\n\nImprove churn rates by expanding the CSM team by [unreadable]x - reduce churn under [unreadable]% per month\n\nReduce sales ramp time by 30-50% via sales enablement\n\nBuild out leadership team: CFO, HR, CMO\n\nExpand customer facing teams like support, sales eng, etc. to accommodate new customers\n\nDouble headcount every 6-9 months\n\nDouble down on marketing to widen our lead flow to lower cost per acq. long-term\n\nExpand into NY in 2015, international in 2016\n\nTopPitchDeck",
       "section": "Other",
-      "summary": "This slide outlines the 2015 and 2016 expansion plan, detailing scaling strategies across sales headcount, customer success, marketing, and leadership. It highlights goals for reducing churn and sales ramp time, doubling headcount every 6-9 months, and geographic expansion into NY and international markets.",
+      "summary": "This slide outlines the company's 2015/2016 operational roadmap, focusing on aggressive headcount scaling, geographic expansion, and internal process optimizations to improve sales efficiency and customer retention.",
       "key_points": [
-        "3x sales headcount and rapidly race towards distribution",
-        "Reduce churn under [unreadable]% per month by expanding CSM team by [unreadable]x",
-        "Reduce sales ramp time by 30-50% via sales enablement",
-        "Build out leadership team including CFO, HR, and CMO, and double headcount every 6-9 months",
-        "Expand into NY in 2015 and internationally in 2016"
+        "Plan to 3x sales headcount and expand into NY in 2015 and international markets in 2016",
+        "Goal to reduce churn under [unreadable]% per month by expanding CSM team by [unreadable]x",
+        "Reduce sales ramp time by 30-50% through sales enablement",
+        "Strategic hiring of leadership roles including CFO, HR, and CMO",
+        "Targeting to double total headcount every 6-9 months"
       ]
     },
     {
       "slide": 11,
       "mode": "vision",
-      "transcript": "Competition\n\n | Free | Paid\nStartups | Flurry | KISSmetrics Localytics Upsight Amplitude Heap Analytics\nIncumbents | Google Analytics | Omniture\n\nTopPitchDeck",
+      "transcript": "Competition\n\nFree\nPaid\n\nStartups\nFlurry\nKISSmetrics\nLocalytics\nUpsight\nAmplitude\nHeap Analytics\n\nIncumbents\nGoogle Analytics\nOmniture\n\nTopPitchDeck",
       "section": "Competition",
-      "summary": "The slide maps the competitive landscape across two dimensions: pricing model (Free vs. Paid) and company maturity (Startups vs. Incumbents). It identifies key market players across analytics and product intelligence tools.",
+      "summary": "This slide maps the competitive landscape for the startup by categorizing industry players into Free and Paid segments across both startup and incumbent tiers.",
       "key_points": [
-        "Competitive landscape segmented by Startups vs. Incumbents and Free vs. Paid solutions",
-        "Free Startups competitor: Flurry",
-        "Paid Startups competitors: KISSmetrics, Localytics, Upsight, Amplitude, Heap Analytics",
-        "Free Incumbent competitor: Google Analytics",
-        "Paid Incumbent competitor: Omniture"
+        "Competitive segmentation by Free and Paid pricing models",
+        "Competitive segmentation by Startups and Incumbents",
+        "Competitors listed: Flurry, KISSmetrics, Localytics, Upsight, Amplitude, Heap Analytics",
+        "Incumbents listed: Google Analytics, Omniture",
+        "TopPitchDeck identified as the presenting entity"
       ]
     },
     {
       "slide": 12,
       "mode": "vision",
-      "transcript": "Financing history\n\n2009 | 2009 | 2011 | 2012\n$15K | $500K | $1.25M | $10.25M\nSeed | Seed | Seed | Series A\nY Combinator | Max Levchin, Michael Birch | Sequoia Capital, Keith Rabois, Max Levchin, Michael Birch | Andreessen Horowitz, Marc Benioff, David Sacks\n\nTopPitchDeck",
+      "transcript": "Financing history\n2009 | 2009 | 2011 | 2012\n$15K | $500K | $1.25M | $10.25M\nSeed | Seed | Seed | Series A\nY Combinator | Max Levchin, Michael Birch | Sequoia Capital, Keith Rabois, Max Levchin, Michael Birch | Andreessen Horowitz, Marc Benioff, David Sacks\nTopPitchDeck",
       "section": "Financials",
-      "summary": "The slide details the company's financing history across four funding rounds between 2009 and 2012, progressing from initial Seed investments to a Series A round. It highlights backing from prominent investors including Y Combinator, Sequoia Capital, and Andreessen Horowitz.",
+      "summary": "This slide outlines the company's historical capital structure and funding progression from 2009 to 2012. It highlights a track record of attracting top-tier venture capital firms and high-profile angel investors across Seed and Series A rounds.",
       "key_points": [
-        "2009: $15K Seed round from Y Combinator",
+        "2009: $15K Seed round via Y Combinator",
         "2009: $500K Seed round from Max Levchin and Michael Birch",
         "2011: $1.25M Seed round from Sequoia Capital, Keith Rabois, Max Levchin, and Michael Birch",
         "2012: $10.25M Series A round from Andreessen Horowitz, Marc Benioff, and David Sacks"

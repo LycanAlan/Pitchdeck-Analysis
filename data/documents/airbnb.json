@@ -1,0 +1,227 @@
+{
+  "name": "airbnb",
+  "slides": [
+    {
+      "slide": 1,
+      "mode": "vision",
+      "transcript": "airbnb\nAirbnb Pitch Deck\nBook rooms with locals rather\nthan hotels",
+      "section": "Title",
+      "summary": "This slide serves as the title and introduction for the Airbnb pitch deck, presenting the company name and its core value proposition of booking rooms with locals instead of hotels.",
+      "key_points": [
+        "Presents the Airbnb pitch deck",
+        "Defines the core concept as booking rooms with locals rather than hotels"
+      ]
+    },
+    {
+      "slide": 2,
+      "mode": "vision",
+      "transcript": "Problem\n\nPrice is an important concern for\ncustomer booking travel online.\n\nHotels leave you disconnected\nfrom the city and its culture.\n\nNo easy way exists to book a room\nwith a local or become a host.\n\nLorem Ipsum dolor sit amet,\nconsectetur adipiscing elit.\n\nairbnb",
+      "section": "Problem",
+      "summary": "This slide outlines the core consumer pain points addressed by the business, including the importance of price in online travel booking, the disconnection of traditional hotels from local culture, and the lack of a platform to easily book rooms with locals or become a host.",
+      "key_points": [
+        "Price is an important concern for customer booking travel online.",
+        "Hotels leave you disconnected from the city and its culture.",
+        "No easy way exists to book a room with a local or become a host.",
+        "Lorem Ipsum dolor sit amet, consectetur adipiscing elit."
+      ]
+    },
+    {
+      "slide": 3,
+      "mode": "vision",
+      "transcript": "Solution\n\nA web platform where users can rent out their space to host travelers.\n\nSave money when traveling. Make money when hosting.\n\nShare culture by making a local connection to the city.\n\nairbnb",
+      "section": "Solution",
+      "summary": "This slide presents the core value proposition of a web platform that enables peer-to-peer space rentals for travelers and hosts. It highlights the economic benefits of saving money while traveling and making money while hosting, alongside the cultural aspect of local connections.",
+      "key_points": [
+        "Web platform for renting out space to host travelers",
+        "Allows users to save money when traveling",
+        "Allows users to make money when hosting",
+        "Shares culture by making a local connection to the city"
+      ]
+    },
+    {
+      "slide": 4,
+      "mode": "vision",
+      "transcript": "Market Validation\n\ncouchsourfing.com\n\n670,000\nTotal Users\n\nIn SF and NYC from 7/9 to 7/16\n\ncraigslist.com\n\n17,000\nHousing Listings\n\nTemporary housing listings in SF\nand NYC from 7/9 to 7/16\n\nairbnb",
+      "section": "Market",
+      "summary": "This slide provides market validation by highlighting the user base of a competitor and the volume of temporary housing listings on a classifieds site in specific cities over a defined period.",
+      "key_points": [
+        "couchsourfing.com has 670,000 total users",
+        "Data gathered in SF and NYC from 7/9 to 7/16",
+        "craigslist.com has 17,000 housing listings",
+        "Temporary housing listings in SF and NYC from 7/9 to 7/16"
+      ]
+    },
+    {
+      "slide": 5,
+      "mode": "vision",
+      "transcript": "Market Size\n\n$2+ Billion\nfrom trips booked (worldwide)\n\n$560+ Million\nBudget & Online\n\n$84 Million\n15% Share of the Market\n\nairbnb",
+      "section": "Market",
+      "summary": "This slide presents the total addressable market sizing for worldwide trips booked, breaking it down into budget and online segments and targeting a specific 15% market share.",
+      "key_points": [
+        "$2+ Billion from trips booked (worldwide)",
+        "$560+ Million Budget & Online",
+        "$84 Million 15% Share of the Market",
+        "airbnb"
+      ]
+    },
+    {
+      "slide": 6,
+      "mode": "vision",
+      "transcript": "Product\nMacBook Pro\nairbnb",
+      "section": "Product",
+      "summary": "This product slide presents references to MacBook Pro and airbnb, indicating the product's ecosystem or design benchmark.",
+      "key_points": [
+        "Mentions MacBook Pro",
+        "Mentions airbnb"
+      ]
+    },
+    {
+      "slide": 7,
+      "mode": "vision",
+      "transcript": "Search by city\nQ Anywhere\nAnytime\n1 guest\nFOR YOU\nHOMES\nEXPERIENCES\nPLACES\nExperiences\n$36 Salvage food and Enjoy\namazing home-style dishes!\n★★★★★ 17 reviews\n$117 Rome's secret gardens unveiled\nduring floral class\n★★★★★ 16 reviews\n$48 Live and eat in Lisbon like local\npeople do\n★★★★★ 2 reviews\n$45 National Museum from eye's of\nan archeologist\n$126 Make your ow\nbodysurfing handpl\nHomes\nMacBook Pro\nairbnb",
+      "section": "Product",
+      "summary": "This slide showcases the product interface and user experience, highlighting both Homes and Experiences categories with specific offerings, pricing, and reviews.",
+      "key_points": [
+        "Search functionality includes city, 'Anywhere', 'Anytime', and '1 guest'.",
+        "Experiences listed include Salvage food at $36 (17 reviews), Rome's secret gardens at $117 (16 reviews), Lisbon like a local at $48 (2 reviews), National Museum by an archeologist at $45, and bodysurfing handplane at $126.",
+        "Homes category is displayed alongside a MacBook Pro and the Airbnb branding."
+      ]
+    },
+    {
+      "slide": 8,
+      "mode": "vision",
+      "transcript": "Review Listings",
+      "section": "Product",
+      "summary": "This slide introduces the 'Review Listings' feature or workflow of the product, serving as part of the user journey or platform capability demonstration.",
+      "key_points": [
+        "Review Listings"
+      ]
+    },
+    {
+      "slide": 9,
+      "mode": "vision",
+      "transcript": "Book It!\nMacBook Pro\nOverview\nReviews\nThe Host\nLocation\nMalibu By The Sea Beachfront Apt\nMalibu, CA, United States 96 reviews\nConnie\nEntire home/apt\n2 Guests\n1 Bedroom\n1 Bed\n$375 per night\nCheck In\nmm/dd/yyyy\nCheck Out\nmm/dd/yyyy\nGuests\n1 guest\nBook\n100% refundable - You won't be charged yet\nairbnb",
+      "section": "Product",
+      "summary": "This slide demonstrates the product interface through a booking page for a Malibu By The Sea Beachfront Apt in Malibu, CA. It highlights core booking features such as pricing, reviews, host information, and availability selection.",
+      "key_points": [
+        "Displays property details for Malibu By The Sea Beachfront Apt in Malibu, CA, United States with 96 reviews.",
+        "Shows listing details including entire home/apt for 2 guests, 1 bedroom, and 1 bed.",
+        "Lists a nightly rate of $375 per night.",
+        "Features booking inputs for check-in, check-out, and guest count with a 'Book' button and 100% refundable policy.",
+        "Displays the Airbnb brand name on the interface."
+      ]
+    },
+    {
+      "slide": 10,
+      "mode": "vision",
+      "transcript": "Business Model\n\nWe take a 10% commission on each transaction\n\n$84 Million\nDollars\n\nTrips with AirBnB\n\n15% of Available Market\n\n$25\nDollars\n\nAverage Fee\n\n$80/night for 3 nights\n\nairbnb",
+      "section": "Business Model",
+      "summary": "This slide outlines the company's business model, detailing a 10% transaction commission structure. It presents market sizing and revenue potential based on $25 average fees from $80 per night stays over 3 nights, targeting 15% of the available market.",
+      "key_points": [
+        "10% commission on each transaction",
+        "$84 Million Dollars trips with AirBnB",
+        "15% of Available Market",
+        "$25 Dollars average fee",
+        "$80/night for 3 nights"
+      ]
+    },
+    {
+      "slide": 11,
+      "mode": "vision",
+      "transcript": "Market Adoption\n\nEvents\nTarget events\nmonthly\nOctoberfest (6M)\nEurocup (3M)\n\nPartnerships\nCheap/alternative\ntravel\nKayak\nGoLoCo\nairbnb\n\nCraigslist\nDual posting\nfeature",
+      "section": "Market",
+      "summary": "This slide outlines the startup's market adoption strategy, detailing target events with specific attendance figures, partnership opportunities with alternative travel and accommodation providers, and a Craigslist dual posting feature.",
+      "key_points": [
+        "Target events include Octoberfest (6M) and Eurocup (3M) on a monthly basis",
+        "Partnerships focus on cheap/alternative travel including Kayak, GoLoCo, and airbnb",
+        "Utilizes Craigslist via a dual posting feature"
+      ]
+    },
+    {
+      "slide": 12,
+      "mode": "vision",
+      "transcript": "Competition",
+      "section": "Competition",
+      "summary": "This slide outlines the competitive landscape. It highlights competing entities in the market.",
+      "key_points": [
+        "Covers the competition landscape"
+      ]
+    },
+    {
+      "slide": 13,
+      "mode": "vision",
+      "transcript": "Affordable\nOffline Transaction\nCompetitor\nCompetitor\nCompetitor\nOnline Transaction\nExpensive\nairbnb\nYou\nairbnb",
+      "section": "Competition",
+      "summary": "This slide presents a competitive landscape positioning matrix comparing online versus offline transactions and affordable versus expensive pricing, featuring competitors alongside Airbnb and the company.",
+      "key_points": [
+        "Features a matrix with axes for transaction type (Online vs. Offline) and cost (Affordable vs. Expensive)",
+        "Includes competitor placements on the matrix",
+        "Positions Airbnb on the matrix multiple times",
+        "Positions 'You' on the matrix"
+      ]
+    },
+    {
+      "slide": 14,
+      "mode": "vision",
+      "transcript": "Competitive Advantage\n\nFirst to Market\nfor transaction-based\ntemporary housing site\n\nHost Incentive\nthey can make money over\ncouchsurfing.com\n\nProfiles\nbrowse host profiles, and book\nin 3 clicks\n\nEase of Use\nSearch by price,\nlocation.\n\nairbnb",
+      "section": "Competition",
+      "summary": "This slide outlines the startup's competitive advantages over couchsurfing.com, highlighting its first-to-market status for a transaction-based temporary housing site, host financial incentives, streamlined user profiles with 3-click booking, and ease of use.",
+      "key_points": [
+        "First to market for transaction-based temporary housing site",
+        "Host incentive to make money over couchsurfing.com",
+        "Browse host profiles and book in 3 clicks",
+        "Ease of use with search by price and location",
+        "Mentions airbnb"
+      ]
+    },
+    {
+      "slide": 15,
+      "mode": "vision",
+      "transcript": "Team\nJoe Gebbia\nUser Interface & PR\nHolds a patent for his product, Critbuns(R). Has dual BFA's in graphic design and industrial design from Rhode Island School of Design (RISD).\nBrian Chesky\nBusiness Development & Brand\nFounder of Brian Chesky Inc, industrial design consultant. Has a BFA in industrial design from RISD.\nNathan Blecharczyk\nDeveloper\nCreated Facebook Apps \"Your neighbors\" (75,000 users). Computer Science from Harvard Nate. Worked @ Microsoft, OPNET Technologies\nairbnb",
+      "section": "Team",
+      "summary": "This slide introduces the founding team, highlighting their educational backgrounds from the Rhode Island School of Design (RISD) and Harvard, along with relevant entrepreneurial and technical experience.",
+      "key_points": [
+        "Joe Gebbia handles User Interface & PR, holds a patent for Critbuns(R), and has dual BFAs in graphic design and industrial design from RISD.",
+        "Brian Chesky manages Business Development & Brand, founded Brian Chesky Inc, and holds a BFA in industrial design from RISD.",
+        "Nathan Blecharczyk is the Developer who created Facebook Apps 'Your neighbors' with 75,000 users, studied Computer Science at Harvard, and worked at Microsoft and OPNET Technologies."
+      ]
+    },
+    {
+      "slide": 16,
+      "mode": "vision",
+      "transcript": "Press\n\n\"Think of it a Craigslist meets\nhotels.com, but a lot less crappy.\n\nJosh Spear\n\n\"A cool alternative to a boring\nevening in a hotel room\n\nMashable\n\nairbnb",
+      "section": "Traction",
+      "summary": "This slide provides social proof and media validation through press quotes from Josh Spear and Mashable, describing the platform's value proposition as a cooler alternative to hotels.",
+      "key_points": [
+        "Quote from Josh Spear comparing the service to Craigslist meets hotels.com",
+        "Quote from Mashable calling it a cool alternative to a boring evening in a hotel room",
+        "Features the company logo for airbnb"
+      ]
+    },
+    {
+      "slide": 17,
+      "mode": "vision",
+      "transcript": "User Testimonials\n\n“ A complete success! It is easy to use and made me money.\n\nEmily, Austin TX\n\n“ It's about the ideas, the interactions, the people. You don't get that in a hotel room.\n\nDan, Ontario, Canada.\n\nairbnb",
+      "section": "Traction",
+      "summary": "This slide displays user testimonials from customers in Austin, TX and Ontario, Canada, highlighting ease of use, financial benefits, and the experiential nature of the service compared to traditional hotels.",
+      "key_points": [
+        "Testimonial from Emily in Austin TX stating it is a complete success, easy to use, and made money",
+        "Testimonial from Dan in Ontario, Canada highlighting ideas, interactions, and people over a hotel room",
+        "Features the Airbnb brand identifier"
+      ]
+    },
+    {
+      "slide": 18,
+      "mode": "vision",
+      "transcript": "Financial\n\n$500K Angel Round\nInitial investment opportunity\n\nWe are looking for 12 months’\nfinancing to reach 80,000\ntransactions on AirBed&Breakfast.\nThat translates into $2M Revenue\nover 12 months\n\nUse C - 30\nUse B - 30\nUse A - 30\nairbnb",
+      "section": "Funding Ask",
+      "summary": "The slide outlines a $500K Angel Round investment opportunity to secure 12 months of financing. It details projected targets of 80,000 transactions and $2M in revenue over that period, alongside an allocation breakdown labeled Use A, Use B, and Use C.",
+      "key_points": [
+        "$500K Angel Round initial investment opportunity",
+        "12 months' financing to reach 80,000 transactions on AirBed&Breakfast",
+        "$2M Revenue projected over 12 months",
+        "Use C - 30, Use B - 30, Use A - 30"
+      ]
+    }
+  ]
+}

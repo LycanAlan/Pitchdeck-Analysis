@@ -1,0 +1,154 @@
+{
+  "name": "Transferwise",
+  "slides": [
+    {
+      "slide": 1,
+      "mode": "vision",
+      "transcript": "TransferWise\nPeer-to-peer currency exchange\nKristo Käärmann, Taavet Hinrikus\n31.05.2011 London",
+      "section": "Title",
+      "summary": "This is the title slide for TransferWise, introducing the company as a peer-to-peer currency exchange. It presents the founders, Kristo Käärmann and Taavet Hinrikus, along with the date 31.05.2011 and location London.",
+      "key_points": [
+        "Company name: TransferWise",
+        "Tagline: Peer-to-peer currency exchange",
+        "Founders: Kristo Käärmann, Taavet Hinrikus",
+        "Date and location: 31.05.2011 London"
+      ]
+    },
+    {
+      "slide": 2,
+      "mode": "vision",
+      "transcript": "Currency Exchange\n\nBefore\n- Banks take 3% - 6% hidden margin on exchange rate\n- Additional fee of £10-£25 for foreign payment\n\nAfter\n- You exchange with peers at mid-market rate\n- TransferWise is the trusted 3rd party\n- We take a f at fee (£1)\n\n31.05.2011\nConfidential\n\nYou put in £500\nMargin (4%) £20\nFee £17\nYou get back £463\nPay £37 to the bank\n\nbefore\nafter\n\nShe gets £499\nAlice\nBob\nHe gets £499\n£1 flat fee\n\nTransferWise",
+      "section": "Solution",
+      "summary": "This slide presents the TransferWise solution for currency exchange by contrasting high traditional bank costs with a peer-to-peer mid-market rate model. It highlights the value proposition of avoiding hidden margins and transfer fees in favor of a £1 flat fee.",
+      "key_points": [
+        "Banks take 3% - 6% hidden margin on exchange rate and £10-£25 foreign payment fees",
+        "Users exchange with peers at the mid-market rate using TransferWise as a trusted 3rd party",
+        "TransferWise takes a £1 flat fee",
+        "Example comparison shows putting in £500 results in paying £37 to the bank versus Alice and Bob each getting £499 with a £1 flat fee"
+      ]
+    },
+    {
+      "slide": 3,
+      "mode": "vision",
+      "transcript": "How does it work?\n\n1. Book a payment\nEnter recipient details on\nour website\n\n2. Deposit money\nTransfer source currency\nto our holding account\n\n3. Convert currency\nMoney is automatically\nmatched and converted\nat mid-market rates\n\n4. Send to recipient\nThe currency is delivered\nto the recipient bank\naccount\n\nwww.transferwise.com\n\n31.05.2011\n\nConfidential\n\nTransferWise",
+      "section": "Product",
+      "summary": "This slide outlines the core user workflow and product mechanics for executing international money transfers. It details a four-step process involving booking, depositing, converting at mid-market rates, and delivering funds to the recipient.",
+      "key_points": [
+        "Step 1: Book a payment by entering recipient details on the website",
+        "Step 2: Deposit money by transferring source currency to a holding account",
+        "Step 3: Convert currency through automatic matching at mid-market rates",
+        "Step 4: Send the converted currency to the recipient bank account",
+        "Includes website www.transferwise.com and date 31.05.2011"
+      ]
+    },
+    {
+      "slide": 4,
+      "mode": "vision",
+      "transcript": "Traction\n\n• Charging customers from day one\n• Trust: people have sent us £1M+\n• 70% volume from repeat customers\n• £0 spent on marketing so far\n• Organic growth ~20% monthly (new paying users)\n\nents, volume in '000 EUR\n400\n300\n200\n100\n0\nJanuary February March April May\n# payments\nvolume '000 EUR\nCHART: Bar chart showing monthly increase in payments and volume from January to May, with volume consistently higher than number of payments.\n\nents, volume in '000 EUR\n4000\n3000\n2000\n1000\n0\nMay 2011 Jan 2012 Jun 2013\n# payments\nvolume '000 EUR\nCHART: Bar chart showing significant growth across May 2011, Jan 2012, and Jun 2013, with volume outstripping number of payments.\n\n31.05.2011\nConfidential\nTransferWise",
+      "section": "Traction",
+      "summary": "This slide presents the startup's traction, highlighting early monetization, strong customer trust with over £1M sent, high repeat usage, and organic growth without marketing spend. It includes bar charts showing month-over-month growth from January to May, as well as broader historical growth across May 2011, Jan 2012, and Jun 2013.",
+      "key_points": [
+        "Charging customers from day one",
+        "Trust: people have sent us £1M+",
+        "70% volume from repeat customers",
+        "£0 spent on marketing so far",
+        "Organic growth ~20% monthly (new paying users)"
+      ]
+    },
+    {
+      "slide": 5,
+      "mode": "vision",
+      "transcript": "Roadmap\n\nSegments | Currencies | Marketing\n• Personal | • GBP | • Word of mouth\n• Business payments | • EUR | • Social media\n• Invoicing | • CHF | • Targeted PR\n• API | • PLN, SEK, DKK | • Marketing campaigns\n• Card payments | • USD | • Partner marketing\n• Remittance | • AUD, CAD | • Distribution deals\n\nWe are just scratching the surface, the todo list is long...\n\n31.05.2011 | Confidential | TransferWise",
+      "section": "Other",
+      "summary": "This slide outlines the company's roadmap, detailing planned expansion across segments, currencies, and marketing channels. It indicates future development priorities with the statement that they are just scratching the surface.",
+      "key_points": [
+        "Segments include Personal, Business payments, Invoicing, API, Card payments, and Remittance",
+        "Currencies include GBP, EUR, CHF, PLN, SEK, DKK, USD, AUD, and CAD",
+        "Marketing channels include Word of mouth, Social media, Targeted PR, Marketing campaigns, Partner marketing, and Distribution deals",
+        "Notes that they are just scratching the surface and the todo list is long",
+        "Dated 31.05.2011 and marked Confidential by TransferWise"
+      ]
+    },
+    {
+      "slide": 6,
+      "mode": "vision",
+      "transcript": "Competition\n\n• Retail FX brokers – UKForex, XE.com, World First, Travelex, etc\n• Banks – HSBC, Lloyds TSB, RBS, etc\n• Marketplace – CurrencyFair\n• New services – CurrencyCloud (B2B), peerTransfer (education)\n• e-Money services – PayPal, Moneybookers\n\nPayPal | HSBC | Travelex\n\n31.05.2011 | Confidential | TransferWise",
+      "section": "Competition",
+      "summary": "This slide maps out TransferWise's competitive landscape by categorizing existing players into retail FX brokers, traditional banks, marketplaces, new services, and e-Money services. It benchmarks the company against established market participants such as PayPal, HSBC, and Travelex as of 31.05.2011.",
+      "key_points": [
+        "Identifies retail FX brokers including UKForex, XE.com, World First, and Travelex",
+        "Lists major competitor banks such as HSBC, Lloyds TSB, and RBS",
+        "Categorizes CurrencyFair as a marketplace competitor",
+        "Includes new B2B and niche services like CurrencyCloud and peerTransfer",
+        "Lists e-Money services PayPal and Moneybookers as competitors"
+      ]
+    },
+    {
+      "slide": 7,
+      "mode": "vision",
+      "transcript": "Team\n\n- Kristo, co-founder, CEO\n  - Financial services consulting with Deloitte and PwC\n- Taavet, co-founder\n  - Skype early employee, angel investor, INSEAD MBA\n- Backoff ce, customer support\n- Developers\n\n31.05.2011\nConfidential\nTransferWise",
+      "section": "Team",
+      "summary": "This slide introduces the founding team of TransferWise, highlighting the relevant industry experience of co-founders Kristo and Taavet, alongside supporting back office, customer support, and developer roles.",
+      "key_points": [
+        "Kristo is co-founder and CEO with financial services consulting experience at Deloitte and PwC",
+        "Taavet is co-founder, a Skype early employee, angel investor, and holds an INSEAD MBA",
+        "Team includes back office, customer support, and developers",
+        "Dated 31.05.2011",
+        "Marked as Confidential"
+      ]
+    },
+    {
+      "slide": 8,
+      "mode": "vision",
+      "transcript": "Financing\n\n- Raising 650K GBP to last until end of 2012\n- Goals\n  - Prove our model (back off ce, support, payments, etc), on the way to f nancial break-even\n  - Increase average revenue per payment to to £3-£5\n  - Develop a scaleable customer acquisition strategy\n  - Expand supported currencies (CHF, SEK/PLN), preparation for USD\n\n31.05.2011\nConfidential\nTransferWise",
+      "section": "Funding Ask",
+      "summary": "This slide outlines a funding round to raise 650K GBP with the goal of reaching financial break-even by the end of 2012. It details strategic milestones including business model validation, increasing average revenue per payment, developing a scalable acquisition strategy, and expanding currency support.",
+      "key_points": [
+        "Raising 650K GBP to last until end of 2012",
+        "Prove model (back office, support, payments, etc) on the way to financial break-even",
+        "Increase average revenue per payment to £3-£5",
+        "Develop a scaleable customer acquisition strategy",
+        "Expand supported currencies (CHF, SEK/PLN) and prepare for USD"
+      ]
+    },
+    {
+      "slide": 9,
+      "mode": "vision",
+      "transcript": "Questions?\n31.05.2011\nConfidential\nTransferWise",
+      "section": "Other",
+      "summary": "This slide serves as the concluding slide for the pitch deck, featuring a prompt for questions alongside a specific date and a confidentiality notice for TransferWise.",
+      "key_points": [
+        "Opens the floor for questions",
+        "Dated 31.05.2011",
+        "Marked as Confidential",
+        "Mentions TransferWise"
+      ]
+    },
+    {
+      "slide": 10,
+      "mode": "vision",
+      "transcript": "Want more VC/investment startup pitch decks?\nWe’ve centralised ALL successful investor pitch decks at:\nwww.chagency.co.uk/getstartupfunding\n\nThis has been made by\nchagency\nA design agency that helps SaaS CEOs reduce user churn.\nWe write daily on this topic here: www.chagency.co.uk/blog\n\ntwitter.com/chddaniel\nlinkedin.com/in/chddaniel\nchdaniel.com/youtube\nMore: Chdaniel.com",
+      "section": "Other",
+      "summary": "This slide serves as an appendix, promotional page, and call-to-action for external resources, including a repository of successful investor pitch decks and design agency services for SaaS CEOs.",
+      "key_points": [
+        "Provides a link to centralised successful investor pitch decks at www.chagency.co.uk/getstartupfunding",
+        "Advertises chagency, a design agency helping SaaS CEOs reduce user churn",
+        "Provides a blog link at www.chagency.co.uk/blog",
+        "Lists founder/creator social and web links including twitter.com/chddaniel, linkedin.com/in/chddaniel, chdaniel.com/youtube, and Chdaniel.com"
+      ]
+    },
+    {
+      "slide": 11,
+      "mode": "vision",
+      "transcript": "Want more VC/investment startup pitch decks?\nWe've centralised ALL successful investor pitch decks at:\nwww.chagency.co.uk/getstartupfunding\n\nThis has been made by\nchagency\n\nA design agency that helps SaaS CEOs reduce user churn.\nWe write daily on this topic here: www.chagency.co.uk/blog\n\ntwitter.com/chddaniel\nlinkedin.com/in/chddaniel\nchdaniel.com/youtube\nMore: Chdaniel.com",
+      "section": "Other",
+      "summary": "This slide serves as an appendix, promotional resource, and call-to-action page, directing viewers to external links for a centralized repository of successful investor pitch decks, design agency services for SaaS user churn reduction, and the creator's personal blog and social media channels.",
+      "key_points": [
+        "Provides a link to centralized successful investor pitch decks at www.chagency.co.uk/getstartupfunding",
+        "Identifies the creator as chagency, a design agency helping SaaS CEOs reduce user churn",
+        "Promotes daily writing on the topic at www.chagency.co.uk/blog",
+        "Lists social media and personal website links including twitter.com/chddaniel, linkedin.com/in/chddaniel, chdaniel.com/youtube, and Chdaniel.com"
+      ]
+    }
+  ]
+}
