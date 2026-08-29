@@ -25,22 +25,23 @@ All numbers are reproducible with the scripts in [`scripts/`](scripts/). The ret
 
 ### 2. Retrieval ablation
 
-72 human-curated questions with slide-level ground truth, over 5 ingested decks / 212 chunks. Unanswerable questions are excluded from ranking metrics and counted separately.
+72 human-curated questions with slide-level ground truth, over 8 ingested decks / 197 slides / 286 chunks. Unanswerable questions are excluded from ranking metrics and counted separately.
 
 | retriever | recall@3 | recall@5 | MRR | nDCG@5 | p50 latency |
 | :--- | ---: | ---: | ---: | ---: | ---: |
-| dense (MiniLM + FAISS) | 0.777 | 0.862 | 0.743 | 0.764 | 6.8 ms |
-| bm25 | 0.862 | 0.923 | 0.810 | 0.830 | 0.3 ms |
-| hybrid (RRF fusion) | 0.908 | 0.962 | 0.901 | 0.903 | 7.7 ms |
-| dense + cross-encoder | 0.923 | 0.954 | 0.913 | 0.915 | 292 ms |
-| **hybrid + cross-encoder** | **0.954** | **0.969** | **0.917** | **0.924** | 321 ms |
+| dense (MiniLM + FAISS) | 0.777 | 0.846 | 0.731 | 0.750 | 22 ms |
+| bm25 | 0.869 | 0.923 | 0.814 | 0.829 | 0.9 ms |
+| hybrid (RRF fusion) | 0.892 | 0.931 | 0.882 | 0.879 | 24 ms |
+| dense + cross-encoder | 0.908 | 0.923 | 0.894 | 0.893 | 815 ms |
+| **hybrid + cross-encoder** | **0.954** | **0.969** | **0.917** | **0.924** | 901 ms |
 
-**Recall@3 rises from 0.777 to 0.954 (+17.7 points, +22.8% relative) and MRR from 0.743 to 0.917 (+23.4%).**
+**Recall@3 rises from 0.777 to 0.954 (+17.7 points, +22.8% relative) and MRR from 0.731 to 0.917 (+25.4%).**
 
-Two findings worth stating plainly:
+Three findings worth stating plainly:
 
-- **BM25 alone beats dense embeddings on this corpus** (recall@3 0.862 vs 0.777). Pitch decks are dense with proper nouns and figures — `₹11.5 Cr`, `VizSort-M`, `$8.9B`, `Q4 2024` — precisely where lexical matching wins and a 384-dim sentence embedding blurs. Fusing the two beats either alone.
-- **Re-ranking costs 42× the latency for +5 points of recall@3** (7.7 ms → 321 ms). Whether that trade is worth it is a product decision, and the table is what makes it a decision rather than a guess.
+- **BM25 alone beats dense embeddings on this corpus** (recall@3 0.869 vs 0.777). Pitch decks are dense with proper nouns and figures — `₹11.5 Cr`, `VizSort-M`, `$8.9B`, `Q4 2024` — precisely where lexical matching wins and a 384-dim sentence embedding blurs. Fusing the two beats either alone.
+- **The top result is stable as the corpus grows.** Measured first over 5 decks / 212 chunks and then over 8 decks / 286 chunks — a 35% larger haystack against the same 72 questions — `hybrid+rerank` held at recall@3 0.954 and MRR 0.917 while dense-only drifted down. Retrieval quality that survives a corpus change is worth more than a higher number on a fixed one.
+- **Re-ranking costs ~38× the latency for +6 points of recall@3** (24 ms → 901 ms), and that gap widens as the corpus grows because the cross-encoder scores a larger candidate pool. Whether the trade is worth it is a product decision; the table is what makes it a decision rather than a guess.
 
 `python scripts/measure_retrieval.py` — offline.
 
@@ -48,7 +49,7 @@ Two findings worth stating plainly:
 
 | chunks | cold build | warm load | speedup |
 | ---: | ---: | ---: | :--- |
-| 212 | 3.89 s | 0.036 s | **109×** |
+| 286 | 13.67 s | 0.032 s | **426×** |
 
 The original implementation rebuilt the FAISS index on every process start and never persisted it. The index is now fingerprinted over the embedding-model id plus every chunk, so it rebuilds when the corpus or the model actually changes and loads from disk otherwise.
 
@@ -140,8 +141,9 @@ docker compose up                  # both
 - **Ground truth is human-curated.** The 72 questions in `data/eval/eval_set.json` were written by reading the ingested transcripts, with gold slide numbers verified against the corpus. `scripts/build_eval_set.py` generates candidates with an LLM and drops any whose gold slides do not exist, but the shipped set is hand-checked.
 - **The judge is a different, stronger model family than the generator** (`gemini-3.1-pro` vs `gemini-3-flash`) so the system does not grade its own output. When the pro tier is quota-exhausted the client falls back into flash and the run's LLM-usage table records it.
 - **Deduping before scoring.** A slide is indexed as both a transcript chunk and a summary chunk, so a retriever legitimately returns it twice; identifiers are deduped preserving rank order before any metric reads a position, or precision and nDCG would both be inflated.
-- **Corpus caveat.** Sections 2–4 are measured over the 5 decks ingested so far (212 chunks), not all 19. Section 1 covers all 19 because it is a pure property of the PDFs. Ingesting the remaining 14 decks needs ~287 vision calls, which exceeds the free tier's 20-requests-per-model-per-day.
+- **Corpus caveat.** Sections 2–4 are measured over the 8 decks ingested so far (197 slides, 286 chunks), not all 19. Section 1 covers all 19 because it is a pure property of the PDFs, needing no ingestion. Ingesting the remaining 11 decks needs ~240 further vision calls, which exceeds the free tier's 20-requests-per-model-per-day; `scripts/ingest_corpus.py` is resumable and skips decks already present, so it can be run across several days.
+- **A deck that extracts nothing is never saved.** Per-page degradation means one unreadable page does not cost the other fifty, but a deck where *every* page failed is a different event — it raises rather than persisting an empty document, because both `ingest_all` and `--skip-existing` decide what to re-ingest by checking whether the output file exists, and an empty save would make that deck permanently unretryable.
 
 ## Corpus
 
-18 public decks from the [`skyforclouds/pitch-deckz`](https://huggingface.co/datasets/skyforclouds/pitch-deckz) dataset (Airbnb, Uber, Dropbox, Facebook, LinkedIn, Coinbase, Square, Shopify, WeWork, Monzo, Revolut, Brex, Front, Mixpanel, Transferwise, Oscar Health, Dwolla, Nium) plus one private deck.
+8 of 19 decks are ingested so far (`data/documents/`, committed so the ablation reproduces offline). 18 public decks from the [`skyforclouds/pitch-deckz`](https://huggingface.co/datasets/skyforclouds/pitch-deckz) dataset (Airbnb, Uber, Dropbox, Facebook, LinkedIn, Coinbase, Square, Shopify, WeWork, Monzo, Revolut, Brex, Front, Mixpanel, Transferwise, Oscar Health, Dwolla, Nium) plus one private deck.

@@ -1,0 +1,173 @@
+{
+  "name": "uber",
+  "slides": [
+    {
+      "slide": 1,
+      "mode": "vision",
+      "transcript": "Uber\n\nNext-Generation Car Service",
+      "section": "Title",
+      "summary": "This title slide introduces Uber and positions the brand as a next-generation car service provider.",
+      "key_points": [
+        "Company name: Uber",
+        "Value proposition: Next-Generation Car Service"
+      ]
+    },
+    {
+      "slide": 2,
+      "mode": "vision",
+      "transcript": "Problem\n\nMost cabs in 2008 use aging & inefficient technology.\n\nTaxi-monopolies reduce the quality of service.\n\nNo GPS coordination between client/driver.\n\nUber",
+      "section": "Problem",
+      "summary": "The 2008 taxi industry suffers from technological obsolescence and monopolistic structures that degrade service quality. A critical friction point is the lack of GPS-enabled coordination between service providers and customers.",
+      "key_points": [
+        "Most cabs in 2008 use aging & inefficient technology",
+        "Taxi-monopolies reduce the quality of service",
+        "No GPS coordination between client/driver"
+      ]
+    },
+    {
+      "slide": 3,
+      "mode": "vision",
+      "transcript": "Solution\n\nUberCab Concept: a fast & efficient on-demand car service.\n\nAutomate dispatch to reduce wait-time.\n\nLatest consumer web & device technology.\n\nOptimized fleets and incentivized drivers.",
+      "section": "Solution",
+      "summary": "This slide outlines the core solution, presenting the UberCab concept as a fast and efficient on-demand car service. It details strategic initiatives including automated dispatch to reduce wait times, utilization of consumer web and device technology, and optimized fleets with incentivized drivers.",
+      "key_points": [
+        "UberCab Concept: a fast & efficient on-demand car service",
+        "Automate dispatch to reduce wait-time",
+        "Latest consumer web & device technology",
+        "Optimized fleets and incentivized drivers"
+      ]
+    },
+    {
+      "slide": 4,
+      "mode": "vision",
+      "transcript": "How it Works\n\n9:16\nUber\nGet a ride\nOrde\nGo again\nWork\n1455 Market Street\n1600 Michigan Street\nSan Francisco\n\n9:16\nGood morning, Joost\nWhere to?\nWork\n1455 Market Street\n1600 Michigan Street\nSan Francisco\nRides Eats\n\nClient must be a member to use the service.\n\nNot hailed from the street but from your phone.\n\nGuaranteed Pick-up (unlike a yellow-cab)",
+      "section": "Product",
+      "summary": "This slide demonstrates the user interface and core functionality of the mobile application, highlighting an app-based booking system and membership model. It emphasizes a value proposition of guaranteed pick-ups to differentiate the service from traditional taxi cabs.",
+      "key_points": [
+        "Clients must be members to use the service.",
+        "Service is requested via phone rather than being hailed from the street.",
+        "Guarantees pick-up to provide a more reliable alternative to yellow cabs.",
+        "App features saved locations such as 1455 Market Street and 1600 Michigan Street.",
+        "User interface includes options for both 'Rides' and 'Eats'."
+      ]
+    },
+    {
+      "slide": 5,
+      "mode": "vision",
+      "transcript": "Key Differentiators\n\n1-click hailing\n“Pickup here in 5 mins”\n\nMembers Only\nRespectable clientele\n\nOptimized fleet\nLogistical LBS software\n\nFast Response Time\nEasier than Calling\n\nHigh Tech Solution\nGeo-aware Auto-dispatch\n\nGreat Drivers\nRating System",
+      "section": "Product",
+      "summary": "The slide details the company's unique value proposition and technical advantages, focusing on a high-tech hailing service with automated dispatch and optimized fleet logistics. It emphasizes a superior user experience through 1-click functionality and an exclusive membership model.",
+      "key_points": [
+        "1-click hailing with a 'Pickup here in 5 mins' target",
+        "Exclusive 'Members Only' model to ensure a respectable clientele",
+        "Optimized fleet management using logistical LBS software",
+        "High-tech geo-aware auto-dispatch system for fast response times",
+        "Driver rating system to ensure high-quality service"
+      ]
+    },
+    {
+      "slide": 6,
+      "mode": "vision",
+      "transcript": "Product\n\n7:56 AM\n2 MIN 260 Drumes St >\nHome >\nEconomy\n$3.33\n8:12am\n$7\n8:05\n•••• 4321\nREQUEST UBERX>\n\n7:56 AM\nWhere to?\nWork\nHome\nZinc Gym\n\n7:56 AM\n8:05am\nIndie Electronic Radio\nInvincible (feat. Ida Hawk)\nBig Wild\nwhile you ride\nnts, delivered at\nKoja Ki\nJapane\n\n• 1-Click request from Geo-aware devices.\n• Book Trips, show Fleet status, trip history.\n• Easy & Fast",
+      "section": "Product",
+      "summary": "This slide showcases the product's user interface and core functionality, featuring 1-click requests from geo-aware devices, trip booking, fleet status, and trip history.",
+      "key_points": [
+        "1-Click request from Geo-aware devices.",
+        "Book Trips, show Fleet status, trip history.",
+        "Easy & Fast"
+      ]
+    },
+    {
+      "slide": 7,
+      "mode": "vision",
+      "transcript": "Use Cases\n\nTrips to/from restaurants, bars & shows\n\nAirport pickup/dropoff (pre-scheduled)\n\nFast local transport where parking isn't easy\n\nWorking while commuting (wifi in cars)",
+      "section": "Product",
+      "summary": "This slide outlines the primary use cases for the startup's transportation service, highlighting target scenarios such as social outings, pre-scheduled airport trips, dense urban travel, and productive commuting enabled by in-car wifi.",
+      "key_points": [
+        "Trips to/from restaurants, bars & shows",
+        "Airport pickup/dropoff (pre-scheduled)",
+        "Fast local transport where parking isn't easy",
+        "Working while commuting (wifi in cars)"
+      ]
+    },
+    {
+      "slide": 8,
+      "mode": "vision",
+      "transcript": "User Benefits\n\nCabs don't guarantee pickup,\ncan take 45 mins\n\nCabs aren't as safe or clean\nas limos\n\nCars services\n\nUber\n\nUber",
+      "section": "Solution",
+      "summary": "This slide outlines the value proposition for riders by highlighting the inefficiencies of traditional taxi services that Uber addresses. It focuses on improving reliability, wait times, and vehicle quality for the user.",
+      "key_points": [
+        "Cabs don't guarantee pickup",
+        "Cab wait times can take 45 mins",
+        "Cabs aren't as safe or clean as limos",
+        "Value proposition contrasts Uber with car services and cabs"
+      ]
+    },
+    {
+      "slide": 9,
+      "mode": "vision",
+      "transcript": "Technology\n\nMobile phones +\nintelligent scheduling\n\nPayment/utilization.\nReputation tracking\n\nPatent-pending\nsystem design\n\nUber",
+      "section": "Product",
+      "summary": "This slide details the startup's core technology stack, highlighting mobile phones, intelligent scheduling, payment/utilization, and reputation tracking. It also notes a patent-pending system design and references Uber.",
+      "key_points": [
+        "Mobile phones + intelligent scheduling",
+        "Payment/utilization",
+        "Reputation tracking",
+        "Patent-pending system design",
+        "Uber"
+      ]
+    },
+    {
+      "slide": 10,
+      "mode": "vision",
+      "transcript": "Market Size\n\n45\n40\n35\n30\n25\n20\n15\n10\n5\n0\n2011 2012 2013 2014 2015 2016\nCHART: Area chart showing two upward-trending series from 2011 to 2016, with the top blue area rising from approximately 4 to 42 and the bottom light-blue area rising from approximately 1 to 13.\n\nThere are X target customers in the market. At our Y pricing, this is how large this company could become.\n\nMake sure to show the math on how you came to your conclusions.\n\nFor more details:\nhttps://youtu.be/M_RMTC2YmXY\n\nSource: Forrester / Gartner / your Uncle",
+      "section": "Market",
+      "summary": "This slide details the market size from 2011 to 2016 using an area chart and explains the target customer count and pricing methodology. It references Forrester, Gartner, and an Uncle as data sources, and includes a link for more details.",
+      "key_points": [
+        "Includes an area chart showing two upward-trending series from 2011 to 2016",
+        "Top blue area rises from approximately 4 to 42",
+        "Bottom light-blue area rises from approximately 1 to 13",
+        "States there are X target customers in the market at Y pricing",
+        "Cites Forrester, Gartner, and your Uncle as sources"
+      ]
+    },
+    {
+      "slide": 11,
+      "mode": "vision",
+      "transcript": "Looking Foward\nPotential Outcomes\n\nBest-Case Scenario\nBecomes market leader, $1B+ in yearly revenue\n\nRealistic Success Scenario\nGets 5% of the top 5 US Cities. Generates 20-30M+ per year profit\n\nWorst-Case Scenario\nRemains a 10 car, 100 client service in SF. Time-saver for San-Francisco based executives.",
+      "section": "Financials",
+      "summary": "This slide outlines the potential future outcomes and financial projections for the startup, ranging from a best-case market leader scenario to a realistic success scenario and a worst-case niche service outcome.",
+      "key_points": [
+        "Best-case scenario: Becomes market leader with $1B+ in yearly revenue",
+        "Realistic success scenario: Captures 5% of the top 5 US Cities, generating $20-30M+ per year profit",
+        "Worst-case scenario: Remains a 10 car, 100 client service in SF acting as a time-saver for San-Francisco based executives"
+      ]
+    },
+    {
+      "slide": 12,
+      "mode": "vision",
+      "transcript": "Go-To Market plan\n\nReferal\nInvite only from an existing member\n\nVirality\nBecome the ubiquitous “premium” cab service\n\nUber",
+      "section": "Business Model",
+      "summary": "This slide outlines the go-to-market strategy, focusing on referral-based invite-only access from existing members to drive virality and establish a ubiquitous premium cab service position, referencing Uber.",
+      "key_points": [
+        "Go-To Market plan",
+        "Referral via invite only from an existing member",
+        "Virality to become the ubiquitous premium cab service",
+        "References Uber"
+      ]
+    },
+    {
+      "slide": 13,
+      "mode": "vision",
+      "transcript": "Traction\nProgress to Date\nNovember\niPhone dev license applied\nfor Nov\nMarch\n5 advisors & 15 clients\nnow\nOctober\nCalifornia LLC +\ntrademark filed\nJanuary\nBank Account + Paypal\naccount",
+      "section": "Traction",
+      "summary": "This slide outlines the startup's progress to date, detailing key operational milestones achieved from the initial iPhone developer license application through the formation of a California LLC and trademark filing, setup of banking and PayPal accounts, up to the current status of having 5 advisors and 15 clients.",
+      "key_points": [
+        "iPhone dev license applied for in November",
+        "California LLC + trademark filed in October",
+        "Bank Account + Paypal account in January",
+        "5 advisors & 15 clients now"
+      ]
+    }
+  ]
+}

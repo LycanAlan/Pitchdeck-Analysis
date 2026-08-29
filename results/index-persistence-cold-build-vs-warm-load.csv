@@ -1,2 +1,2 @@
 chunks,cold_build_s,warm_load_s,speedup
-212,3.96,0.042,95x
+286,13.67,0.032,426x
