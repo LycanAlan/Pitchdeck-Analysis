@@ -23,7 +23,7 @@ from starlette.concurrency import run_in_threadpool
 
 from pitchlens.agent.corrective import CorrectiveRAGAgent
 from pitchlens.config import settings
-from pitchlens.domain import Answer, Chunk, DeckDocument
+from pitchlens.domain import Answer, Chunk, DeckDocument, ScoredChunk
 from pitchlens.generation.answerer import Answerer
 from pitchlens.generation.base import RAGPipeline
 from pitchlens.index.embedder import get_embedder
@@ -71,9 +71,14 @@ class RagService:
 
     def __init__(self) -> None:
         settings.paths.ensure()
-        self.llm = GeminiClient()
+        # Without a key the service still starts and serves retrieval: search,
+        # /decks and /health need no model at all. Only generation and ingestion
+        # do, and those report a clear 503 rather than taking the process down at
+        # boot -- which previously turned a missing dashboard variable into a
+        # failed deploy.
+        self.llm = GeminiClient() if settings.has_api_key else None
         self.embedder = get_embedder()
-        self.ingestion = IngestionPipeline(self.llm)
+        self.ingestion = IngestionPipeline(self.llm) if self.llm else None
         self._lock = threading.Lock()
         self._retrievers: dict[str, Retriever] = {}
         self._pipelines: dict[tuple[str, bool], RAGPipeline] = {}
@@ -133,6 +138,10 @@ class RagService:
     def answer(self, question: str, mode: str, agentic: bool) -> Answer:
         return self.pipeline(mode, agentic).answer(question)
 
+    def search(self, query: str, mode: str, k: int) -> list[ScoredChunk]:
+        """Retrieval with no generation, and therefore no API key."""
+        return self.retriever(mode).retrieve(query, k)
+
     def ingest(self, pdf: Path) -> DeckDocument:
         document = self.ingestion.ingest(pdf)
         document.save(settings.paths.documents / f"{document.name}.json")
@@ -144,6 +153,30 @@ class QueryRequest(BaseModel):
     question: str = Field(min_length=1)
     mode: str = DEFAULT_MODE
     agentic: bool = True
+
+
+class SearchRequest(BaseModel):
+    query: str = Field(min_length=1)
+    mode: str = DEFAULT_MODE
+    k: int = settings.retrieval.final_k
+
+
+class SearchHit(BaseModel):
+    deck: str
+    slide: int
+    kind: str
+    score: float
+    text: str
+
+    @classmethod
+    def from_scored(cls, scored: ScoredChunk) -> SearchHit:
+        return cls(
+            deck=scored.chunk.deck,
+            slide=scored.chunk.slide,
+            kind=scored.chunk.kind.value,
+            score=round(scored.score, 4),
+            text=scored.chunk.text[:400],
+        )
 
 
 class CitationModel(BaseModel):
@@ -197,6 +230,9 @@ class HealthResponse(BaseModel):
     chunks: int
     modes: list[str]
     default_mode: str
+    # Retrieval always works; generation needs a key. Reporting it here means a
+    # 503 from /query is diagnosable without reading the logs.
+    generation_available: bool
 
 
 class IngestResponse(BaseModel):
@@ -245,6 +281,7 @@ def health(service: Service) -> HealthResponse:
         chunks=len(service.chunks),
         modes=list(RETRIEVAL_MODES),
         default_mode=DEFAULT_MODE,
+        generation_available=service.llm is not None,
     )
 
 
@@ -253,12 +290,30 @@ def decks(service: Service) -> list[DeckInfo]:
     return [DeckInfo.from_document(d) for d in service.documents]
 
 
+@app.post("/search", response_model=list[SearchHit])
+def search(request: SearchRequest, service: Service) -> list[SearchHit]:
+    """Retrieval only — no generation, so this works with no API key configured.
+
+    It is also the honest demo of the ablation: switch `mode` and watch which
+    slides come back.
+    """
+    if not service.ready:
+        raise HTTPException(409, "No decks ingested yet. POST a PDF to /ingest first.")
+    return [SearchHit.from_scored(s) for s in service.search(request.query, request.mode, request.k)]
+
+
 @app.post("/query", response_model=QueryResponse)
 def query(request: QueryRequest, service: Service) -> QueryResponse:
     """Answer a question. Sync `def` so FastAPI runs the blocking LLM call in its
     worker threadpool instead of stalling the event loop."""
     if not service.ready:
         raise HTTPException(409, "No decks ingested yet. POST a PDF to /ingest first.")
+    if service.llm is None:
+        raise HTTPException(
+            503,
+            "GEMINI_API_KEY is not configured, so answers cannot be generated. "
+            "Retrieval still works — use POST /search.",
+        )
 
     started = time.perf_counter()
     answer = service.answer(request.question, request.mode, request.agentic)
@@ -268,6 +323,9 @@ def query(request: QueryRequest, service: Service) -> QueryResponse:
 @app.post("/ingest", response_model=IngestResponse)
 async def ingest(service: Service, file: Annotated[UploadFile, File()]) -> IngestResponse:
     """Upload a PDF, run the ingestion pipeline, and rebuild the index."""
+    if service.ingestion is None:
+        raise HTTPException(503, "GEMINI_API_KEY is not configured; ingestion needs a vision model.")
+
     destination = settings.paths.decks / Path(file.filename or "deck.pdf").name
     destination.write_bytes(await file.read())
 

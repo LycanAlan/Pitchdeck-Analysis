@@ -94,7 +94,18 @@ class Settings:
 
     @property
     def api_key(self) -> str:
-        return os.environ["GEMINI_API_KEY"]
+        """Empty when unset rather than raising.
+
+        Retrieval, indexing and every ranking measurement are entirely local, so
+        the absence of a key must not stop the process from starting — it only
+        rules out generation. Callers that genuinely need a key check
+        `has_api_key` and fail with something more useful than a KeyError.
+        """
+        return os.environ.get("GEMINI_API_KEY", "")
+
+    @property
+    def has_api_key(self) -> bool:
+        return bool(self.api_key)
 
 
 settings = Settings()
