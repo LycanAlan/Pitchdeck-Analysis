@@ -18,6 +18,7 @@ from typing import Annotated, AsyncIterator
 
 from fastapi import Depends, FastAPI, File, HTTPException, Request, UploadFile
 from fastapi.middleware.cors import CORSMiddleware
+from fastapi.responses import RedirectResponse
 from pydantic import BaseModel, Field
 from starlette.concurrency import run_in_threadpool
 
@@ -285,6 +286,18 @@ def _check_mode(mode: str) -> None:
 
 
 Service = Annotated[RagService, Depends(get_service)]
+
+
+@app.get("/", include_in_schema=False)
+def root() -> RedirectResponse:
+    """Send the bare hostname to the interactive docs.
+
+    Without this, opening the deployed URL returns FastAPI's 404 for an
+    undefined route, which reads as a broken deployment rather than an API with
+    no landing page. /docs is the demo surface: it lists every endpoint and can
+    run /search against the live corpus in the browser.
+    """
+    return RedirectResponse("/docs")
 
 
 @app.get("/health", response_model=HealthResponse)
